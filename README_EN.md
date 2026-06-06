@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/badge/license-AGPL--v3.0--or--later-8A2BE2" alt="license">
 </a>
 
-<a href="https://github.com/GLDYM/Kumo-O-Tagayasu/releases">
-    <img src="https://img.shields.io/badge/version-5.5.0-9999FF" alt="version">
+<a href="https://github.com/GLDYM/Kumo-O-Tagayasu-Everbloom/releases">
+    <img src="https://img.shields.io/badge/version-6.0.0--alpha-9999FF" alt="version">
 </a>
 
 <a href="https://www.mcmod.cn/modpack/1017.html">
