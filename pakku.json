@@ -197,7 +197,7 @@
             "side": "CLIENT"
         },
         "fragmentum": {
-            "side": "CLIENT"
+            "side": "BOTH"
         },
         "advanced-loot-info": {
             "update_strategy": "NONE"
@@ -399,6 +399,9 @@
             "side": "CLIENT"
         },
         "emotecraft": {
+            "side": "BOTH"
+        },
+        "emi": {
             "side": "BOTH"
         }
     }

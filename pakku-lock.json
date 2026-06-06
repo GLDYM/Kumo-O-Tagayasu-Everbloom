@@ -5540,7 +5540,7 @@
         {
             "pakku_id": "RvbTM5noTAqyKKpm",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "emi",
                 "modrinth": "emi"
@@ -5601,7 +5601,7 @@
         {
             "pakku_id": "zAKlevQkc11h8jEQ",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "emotecraft-forge",
                 "modrinth": "emotecraft"
@@ -6865,22 +6865,43 @@
             ]
         },
         {
-            "pakku_id": "dwjOzigoPNNX4QNZ",
+            "pakku_id": "ebePzz0lOVHC7Pmw",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "fragmentum",
+                "curseforge": "fragmentum-neoforge",
                 "modrinth": "fragmentum"
             },
             "name": {
-                "curseforge": "Fragmentum [Forge Edition]",
+                "curseforge": "Fragmentum [NeoForge Edition]",
                 "modrinth": "Fragmentum"
             },
             "id": {
-                "curseforge": "1123970",
+                "curseforge": "1123977",
                 "modrinth": "49C5QgTK"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fragmentum-neoforge-1.21.1-2.2.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8141/338/fragmentum-neoforge-1.21.1-2.2.4.jar",
+                    "id": "8141338",
+                    "parent_id": "1123977",
+                    "hashes": {
+                        "sha1": "bba9111b9029c272afde9f102d0dac7cf5a3c77b",
+                        "md5": "51d682f632989515e40610659ee172b0"
+                    },
+                    "required_dependencies": [],
+                    "size": 1936521,
+                    "date_published": "2026-05-25T01:52:46.760Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "fragmentum-neoforge-1.21.1-2.2.4.jar",
@@ -11707,7 +11728,8 @@
         {
             "pakku_id": "FaNeQ6Z0GqCvfWiq",
             "pakku_links": [
-                "dwjOzigoPNNX4QNZ"
+                "dwjOzigoPNNX4QNZ",
+                "ebePzz0lOVHC7Pmw"
             ],
             "type": "MOD",
             "side": "CLIENT",
