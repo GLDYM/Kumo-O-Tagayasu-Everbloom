@@ -35,15 +35,15 @@ fi
 print_server_diagnostics() {
   echo "===== Server Diagnostics ====="
 
-  if [[ -f "$SERVER_DIR/server.log" ]]; then
-    echo "===== server.log ====="
-    cat "$SERVER_DIR/server.log" || true
-  fi
-
-#   if [[ -f "$SERVER_DIR/logs/latest.log" ]]; then
-#     echo "===== logs/latest.log ====="
-#     cat "$SERVER_DIR/logs/latest.log" || true
+#   if [[ -f "$SERVER_DIR/server.log" ]]; then
+#     echo "===== server.log ====="
+#     cat "$SERVER_DIR/server.log" || true
 #   fi
+
+  if [[ -f "$SERVER_DIR/logs/debug.log" ]]; then
+    echo "===== logs/debug.log ====="
+    cat "$SERVER_DIR/logs/debug.log" || true
+  fi
 
   if [[ -f "$SERVER_DIR/logs/kubejs/startup.log" ]]; then
     echo "===== logs/kubejs/startup.log ====="
@@ -59,15 +59,15 @@ print_server_diagnostics() {
 print_client_diagnostics() {
   echo "===== Client Diagnostics ====="
 
-  if [[ -f "$CLIENT_DIR/client.log" ]]; then
-    echo "===== client.log ====="
-    cat "$CLIENT_DIR/client.log" || true
-  fi
-
-#   if [[ -f "$CLIENT_DIR/.minecraft/logs/latest.log" ]]; then
-#     echo "===== .minecraft/logs/latest.log ====="
-#     cat "$CLIENT_DIR/.minecraft/logs/latest.log" || true
+#   if [[ -f "$CLIENT_DIR/client.log" ]]; then
+#     echo "===== client.log ====="
+#     cat "$CLIENT_DIR/client.log" || true
 #   fi
+
+  if [[ -f "$CLIENT_DIR/.minecraft/logs/debug.log" ]]; then
+    echo "===== .minecraft/logs/debug.log ====="
+    cat "$CLIENT_DIR/.minecraft/logs/debug.log" || true
+  fi
 
   if ls "$CLIENT_DIR"/.minecraft/crash-reports/*.txt >/dev/null 2>&1; then
     echo "===== .minecraft/crash-reports ====="
