@@ -293,7 +293,7 @@
             "side": "BOTH"
         },
         "imblocker": {
-            "side": "BOTH"
+            "side": "CLIENT"
         },
         "integrated-api": {
             "side": "BOTH"
