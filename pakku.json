@@ -33,6 +33,7 @@
             "side": "BOTH"
         },
         "watermedia": {
+            "side": "CLIENT",
             "update_strategy": "NONE"
         },
         "explosive-enhancement-forge": {
