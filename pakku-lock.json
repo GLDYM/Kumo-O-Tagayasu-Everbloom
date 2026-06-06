@@ -210,6 +210,7 @@
         {
             "pakku_id": "Hpdg7NEJeFsgFVl8",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "almanac-lib"
             },
@@ -247,7 +248,7 @@
         {
             "pakku_id": "ncrBqbyK57g5eMUv",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "alternate-current",
                 "modrinth": "alternate-current"
@@ -1157,7 +1158,7 @@
         {
             "pakku_id": "l9V7iXbSeIwhamI3",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "biolith",
                 "modrinth": "biolith"
@@ -1279,6 +1280,7 @@
         {
             "pakku_id": "vtEKkqwxz17Exeob",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "blahaj-lite"
             },
@@ -1315,7 +1317,7 @@
         {
             "pakku_id": "DcUbKAM7IXyK0YHx",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "bookshelf",
                 "modrinth": "bookshelf"
@@ -1484,6 +1486,7 @@
         {
             "pakku_id": "PskzGNZngVR3lSlN",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "caged-mobs-kots"
             },
@@ -1759,6 +1762,7 @@
                 "W5ub0QpYjoBhnwIn"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "cat-burger"
             },
@@ -1797,6 +1801,7 @@
         {
             "pakku_id": "7VFaPdolQi2SUb0I",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "catalogue"
             },
@@ -2280,6 +2285,7 @@
                 "fF7fXZFPby4NrTN7"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "chunk-sending-forge-fabric"
             },
@@ -2521,7 +2527,7 @@
                 "u4yWUwXzw3uHy7qf"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "configurable-extra-mob-drops",
                 "modrinth": "configurable-extra-mob-drops"
@@ -2594,7 +2600,7 @@
         {
             "pakku_id": "vP0uSadGsVGSIUmH",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "configured",
                 "modrinth": "configured"
@@ -2634,6 +2640,7 @@
         {
             "pakku_id": "moi8zptYMaRiV4i6",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "construction-wand-kots"
             },
@@ -2810,6 +2817,7 @@
         {
             "pakku_id": "UCTXEx1Yd6Gq7uib",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "cosmetic-armor-reworked"
             },
@@ -3104,7 +3112,7 @@
         {
             "pakku_id": "Vy12xXWcFO1oKyQL",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "create",
                 "modrinth": "create"
@@ -3556,6 +3564,7 @@
                 "Vy12xXWcFO1oKyQL"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "create-utilities-unofficial-port"
             },
@@ -4282,7 +4291,7 @@
                 "Vy12xXWcFO1oKyQL"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "create-liquid-fuel",
                 "modrinth": "create-liquid-fuel"
@@ -4744,6 +4753,7 @@
                 "Vy12xXWcFO1oKyQL"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "create-fluidlogistic"
             },
@@ -4972,6 +4982,7 @@
         {
             "pakku_id": "fF7fXZFPby4NrTN7",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "cupboard"
             },
@@ -5762,7 +5773,7 @@
         {
             "pakku_id": "OhgifonsWlWzvqLk",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "epic-structures-dungeons",
                 "modrinth": "epic-structures-dungeons"
@@ -6154,6 +6165,7 @@
                 "CIPyh8404K79xcNY"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "ftb-filter-system"
             },
@@ -6195,6 +6207,7 @@
                 "CIPyh8404K79xcNY"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "ftb-library-forge"
             },
@@ -6238,6 +6251,7 @@
                 "CIPyh8404K79xcNY"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "ftb-quests-forge"
             },
@@ -6282,6 +6296,7 @@
                 "CIPyh8404K79xcNY"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "ftb-teams-forge"
             },
@@ -6325,6 +6340,7 @@
                 "MGiLV2VIyUAua3hl"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "ftb-ultimine-forge"
             },
@@ -6368,6 +6384,7 @@
                 "CIPyh8404K79xcNY"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "ftb-xmod-compat"
             },
@@ -7155,7 +7172,7 @@
                 "5T77UoUJ6WHh5Pam"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "gamerule-manager",
                 "modrinth": "gamerule-manager"
@@ -7351,6 +7368,7 @@
         {
             "pakku_id": "xvCfa8SI34Ouv8ZR",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "imblocker"
             },
@@ -7625,6 +7643,7 @@
         {
             "pakku_id": "oPaxVD7fNOKpIB10",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "integrated-api"
             },
@@ -7667,6 +7686,7 @@
                 "rmEHhdqR2LrN0imS"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "idas"
             },
@@ -7713,6 +7733,7 @@
                 "rmEHhdqR2LrN0imS"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "integrated-stronghold"
             },
@@ -7757,6 +7778,7 @@
                 "g3q2jHWvmisYy7ch"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "integrated-villages"
             },
@@ -7907,6 +7929,7 @@
                 "m7oEJJliXS72Nbdg"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "irisshaders"
             },
@@ -8017,6 +8040,7 @@
                 "W5ub0QpYjoBhnwIn"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "irons-spells-n-spellbooks"
             },
@@ -8061,6 +8085,7 @@
                 "oddEMhlir74hJRgN"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "jamd"
             },
@@ -8294,6 +8319,7 @@
                 "oddEMhlir74hJRgN"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "javd"
             },
@@ -9445,7 +9471,7 @@
                 "43xu7ak5HazUdsjv"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "leaves-be-gone",
                 "modrinth": "leaves-be-gone"
@@ -9513,7 +9539,7 @@
                 "Hpdg7NEJeFsgFVl8"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "let-me-despawn",
                 "modrinth": "lmd"
@@ -9626,7 +9652,7 @@
         {
             "pakku_id": "y3w0ytDQDxDTuqtB",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "lithostitched",
                 "modrinth": "lithostitched"
@@ -9687,7 +9713,7 @@
         {
             "pakku_id": "0THcWqaUeNm25UtI",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "lmft",
                 "modrinth": "lmft"
@@ -9841,6 +9867,7 @@
         {
             "pakku_id": "z8PmqQEeZ8b1fylY",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "long-nbt-killer"
             },
@@ -9940,6 +9967,7 @@
         {
             "pakku_id": "ughpfeZwTN1cxMDZ",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "minecraft-style-paintings"
             },
@@ -10111,6 +10139,7 @@
                 "uXhX9Z8FPq6N3zNc"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "maid-storage-manager"
             },
@@ -10147,79 +10176,9 @@
             ]
         },
         {
-            "pakku_id": "NAoFeCbyHfE6ccBs",
-            "pakku_links": [
-                "Vy12xXWcFO1oKyQL",
-                "uXhX9Z8FPq6N3zNc"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "maidusehandcrank",
-                "modrinth": "maidusehandcrank"
-            },
-            "name": {
-                "curseforge": "MaidUseHandCrank",
-                "modrinth": "MaidUseHandCrank"
-            },
-            "id": {
-                "curseforge": "1347168",
-                "modrinth": "kVNtrRcL"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "MaidUseHandCrank_1.6.0-neoforge_21.1.206-1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8077/645/MaidUseHandCrank_1.6.0-neoforge_21.1.206-1.21.1.jar",
-                    "id": "8077645",
-                    "parent_id": "1347168",
-                    "hashes": {
-                        "sha1": "97e9ecd502817193e93072e7c88d31eb676cab39",
-                        "md5": "809622777c6c96bc4fba3e1a42255fc9"
-                    },
-                    "required_dependencies": [
-                        "328085",
-                        "355044"
-                    ],
-                    "size": 156144,
-                    "date_published": "2026-05-12T12:01:58.963Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "MaidUseHandCrank_1.6.0-neoforge_21.1.206-1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/kVNtrRcL/versions/GXsYXFOe/MaidUseHandCrank_1.6.0-neoforge_21.1.206-1.21.1.jar",
-                    "id": "GXsYXFOe",
-                    "parent_id": "kVNtrRcL",
-                    "hashes": {
-                        "sha512": "c99aca59e08aa3f3952ca090c1da285764f354286d5a2c1433ef6910a4fb5cc98dca5acaaa9a8b416c98fc0612c77ebfd9779fa6d916dad7c384783864f35b50",
-                        "sha1": "97e9ecd502817193e93072e7c88d31eb676cab39"
-                    },
-                    "required_dependencies": [
-                        "R0bDWFAW",
-                        "LNytGWDc"
-                    ],
-                    "size": 156144,
-                    "date_published": "2026-05-12T12:00:04.738003Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "5DT4U1T0i6pQ4Y8F",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "majobroom-kots"
             },
@@ -10362,6 +10321,7 @@
         {
             "pakku_id": "bkCmsF70klchbLDn",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "moderately-enough-effect-descriptions-meed"
             },
@@ -10775,7 +10735,7 @@
         {
             "pakku_id": "MQMRWcR5J7qP6Cwz",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "nan-health-fixer",
                 "modrinth": "nan-health-fixer"
@@ -10818,7 +10778,7 @@
                 "u4yWUwXzw3uHy7qf"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "name-tag-tweaks",
                 "modrinth": "name-tag-tweaks"
@@ -10891,6 +10851,7 @@
         {
             "pakku_id": "NqL4JaR8KqBfymfL",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "narcissus-farewell"
             },
@@ -11424,7 +11385,7 @@
         {
             "pakku_id": "PLQ6A5dNKqltaC2D",
             "type": "MOD",
-            "side": "BOTH",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "no-render-name-tags",
                 "modrinth": "no-render-name-tags"
@@ -11546,6 +11507,7 @@
         {
             "pakku_id": "nZc4C2hZaa0N5F6g",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "not-enough-bandwidth-legacy"
             },
@@ -11691,6 +11653,7 @@
         {
             "pakku_id": "D8DwCKzAQBM4aJtT",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "oworld2create-refoxed"
             },
@@ -11996,7 +11959,7 @@
         {
             "pakku_id": "JkrTUyKuI5mJY6nz",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "open-parties-and-claims",
                 "modrinth": "open-parties-and-claims"
@@ -12336,6 +12299,7 @@
         {
             "pakku_id": "5kdVF5ZNhvadutu2",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "polaristrading"
             },
@@ -13018,6 +12982,7 @@
         {
             "pakku_id": "PCkohHDqpYOrOTTG",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "smsn"
             },
@@ -13219,7 +13184,7 @@
         {
             "pakku_id": "5T77UoUJ6WHh5Pam",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "server-i18n-api",
                 "modrinth": "server-i18n-api"
@@ -14069,6 +14034,7 @@
         {
             "pakku_id": "Zig8abk0xUSgQTuZ",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "spice-of-life-carrot-edition"
             },
@@ -14175,7 +14141,7 @@
                 "u4yWUwXzw3uHy7qf"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "starter-kit",
                 "modrinth": "starter-kit"
@@ -14319,6 +14285,7 @@
                 "v9Vqi9b5yJoEfUzN"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "structure-credits"
             },
@@ -14360,6 +14327,7 @@
                 "fF7fXZFPby4NrTN7"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "structure-essentials-forge-fabric"
             },
@@ -14398,6 +14366,7 @@
         {
             "pakku_id": "IVdYjOknPOTNX6ZJ",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "super-source-block"
             },
@@ -14842,6 +14811,7 @@
         {
             "pakku_id": "kyb2mPQ8UGb2EanH",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "time-in-a-bottle"
             },
@@ -15406,6 +15376,7 @@
         {
             "pakku_id": "oddEMhlir74hJRgN",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "trenzalore"
             },
@@ -15913,6 +15884,7 @@
                 "VOvevEyBnihiWBDS"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "wrench-finder"
             },
@@ -16209,6 +16181,7 @@
         {
             "pakku_id": "HR8UWPJKC2YcmJR1",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "youkais-homecoming-unofficial-port"
             },
@@ -16795,6 +16768,7 @@
         {
             "pakku_id": "FS0uArXJhCbbwibc",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "ultimine-rewind"
             },
