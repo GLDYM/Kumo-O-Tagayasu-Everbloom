@@ -397,6 +397,9 @@
         },
         "no-render-name-tags": {
             "side": "CLIENT"
+        },
+        "emotecraft": {
+            "side": "BOTH"
         }
     }
 }
