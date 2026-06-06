@@ -1,6 +1,215 @@
 {
-    "name": "Example Modpack",
-    "version": "1.0.0",
-    "description": "Example modpack description",
-    "author": "Author Name"
+    "name": "Kumo O Tagayasu Everbloom",
+    "version": "6.0.0-alpha",
+    "projects": {
+        "lodestone": {
+            "side": "BOTH"
+        },
+        "geckolib": {
+            "side": "BOTH"
+        },
+        "bakeries": {
+            "side": "BOTH"
+        },
+        "delighto-flight": {
+            "side": "BOTH"
+        },
+        "kaleidoscope-chinese-food": {
+            "side": "BOTH"
+        },
+        "kaleidoscope-dimensions-wine": {
+            "side": "BOTH"
+        },
+        "miners-delight-plus": {
+            "side": "BOTH"
+        },
+        "mysterious-mountain-lib": {
+            "side": "BOTH"
+        },
+        "trail-tales-delight": {
+            "side": "BOTH"
+        },
+        "tsuki": {
+            "side": "BOTH"
+        },
+        "watermedia": {
+            "update_strategy": "NONE"
+        },
+        "explosive-enhancement-forge": {
+            "update_strategy": "NONE"
+        },
+        "one-enough-item": {
+            "update_strategy": "NONE"
+        },
+        "better-advancements": {
+            "update_strategy": "NONE"
+        },
+        "staaaaaaaaaaaack": {
+            "aliases": [
+                "stxck"
+            ]
+        },
+        "lets-do-vinery": {
+            "aliases": [
+                "vinery"
+            ]
+        },
+        "lets-do-meadow": {
+            "aliases": [
+                "meadow"
+            ]
+        },
+        "lets-do-beachparty": {
+            "aliases": [
+                "beachparty"
+            ]
+        },
+        "time-in-a-bottle-universal": {
+            "redistributable": true,
+            "aliases": [
+                "tiab"
+            ]
+        },
+        "spice-of-life-carrot-edition": {
+            "aliases": [
+                "sol"
+            ]
+        },
+        "architectury-api": {
+            "aliases": [
+                "arch"
+            ]
+        },
+        "open-parties-and-claims": {
+            "aliases": [
+                "opac"
+            ]
+        },
+        "its-the-little-things": {
+            "aliases": [
+                "itlt"
+            ]
+        },
+        "when-dungeons-arise-seven-seas": {
+            "update_strategy": "NONE"
+        },
+        "3dskinlayers": {
+            "redistributable": true
+        },
+        "bee-fix": {
+            "redistributable": true
+        },
+        "classic-and-simple-status-bars": {
+            "redistributable": true
+        },
+        "create-fast-schematiccannon": {
+            "update_strategy": "NONE",
+            "redistributable": true
+        },
+        "entityculling": {
+            "redistributable": true
+        },
+        "etcetera": {
+            "redistributable": true
+        },
+        "gputape": {
+            "redistributable": true
+        },
+        "immortalers-delight": {
+            "redistributable": true
+        },
+        "krypton-fnp": {
+            "redistributable": true
+        },
+        "not-enough-animations": {
+            "redistributable": true
+        },
+        "zetter-gallery": {
+            "redistributable": true
+        },
+        "skin-layers-3d": {
+            "redistributable": true
+        },
+        "creativecore": {
+            "side": "BOTH"
+        },
+        "world-preview": {
+            "side": "BOTH"
+        },
+        "pro-placer": {
+            "side": "BOTH"
+        },
+        "ftb-backups-2": {
+            "side": "CLIENT"
+        },
+        "fastspawner": {
+            "side": "CLIENT"
+        },
+        "quit-or-not": {
+            "side": "CLIENT"
+        },
+        "better-title-screen": {
+            "side": "CLIENT"
+        },
+        "just-enough-characters": {
+            "side": "CLIENT"
+        },
+        "inventory-hud-forge": {
+            "side": "CLIENT"
+        },
+        "opack2reload": {
+            "side": "CLIENT"
+        },
+        "oworld2create": {
+            "side": "CLIENT"
+        },
+        "keymap-ported": {
+            "redistributable": true
+        },
+        "lightspeedre-launch-optimizations": {
+            "side": "CLIENT"
+        },
+        "mcwifipnp": {
+            "side": "CLIENT"
+        },
+        "xaeros-world-map": {
+            "side": "BOTH"
+        },
+        "xaeros-minimap": {
+            "side": "BOTH"
+        },
+        "simple-voice-chat": {
+            "side": "BOTH"
+        },
+        "rainbowwrenchforjei-reforge": {
+            "side": "CLIENT"
+        },
+        "longer-login-times": {
+            "side": "SERVER"
+        },
+        "waterframes": {
+            "update_strategy": "NONE"
+        },
+        "obscure-tooltips": {
+            "side": "CLIENT"
+        },
+        "fragmentum": {
+            "side": "CLIENT"
+        },
+        "advanced-loot-info": {
+            "update_strategy": "NONE"
+        },
+        "bilibili-media-kots": {
+            "side": "CLIENT"
+        },
+        "observable": {
+            "update_strategy": "NONE"
+        },
+        "narcissus-farewell": {
+            "update_strategy": "NONE"
+        },
+        "mandalas-gui-dark-mode": {
+            "update_strategy": "NONE"
+        }
+    }
 }
