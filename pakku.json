@@ -403,6 +403,9 @@
         },
         "emi": {
             "side": "BOTH"
+        },
+        "create-more-drill-heads": {
+            "side": "BOTH"
         }
     }
 }
