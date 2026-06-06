@@ -4397,6 +4397,7 @@
         {
             "pakku_id": "GXJA5yYcsZVJV0ov",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "create-more-drill-heads"
             },
@@ -7123,83 +7124,6 @@
                     ],
                     "size": 776635,
                     "date_published": "2026-06-01T09:33:33.656572Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "27Ia5llH3xk7WhzK",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "gputape",
-                "modrinth": "gputape"
-            },
-            "name": {
-                "curseforge": "GPUTape",
-                "modrinth": "GPUBooster"
-            },
-            "id": {
-                "curseforge": "1201803",
-                "modrinth": "5CTSrY8X"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "GPUTape-1.18x-1.21x-1.0.5.1-forge.jar",
-                    "mc_versions": [
-                        "1.21.2-Snapshot",
-                        "1.21",
-                        "1.21.1-Snapshot",
-                        "1.21.4",
-                        "1.21.5-Snapshot",
-                        "1.21-Snapshot",
-                        "1.21.3",
-                        "1.21.1",
-                        "1.21.4-Snapshot",
-                        "1.21.2"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6200/071/GPUTape-1.18x-1.21x-1.0.5.1-forge.jar",
-                    "id": "6200071",
-                    "parent_id": "1201803",
-                    "hashes": {
-                        "sha1": "db4a84db628dd668e08898e42e881615d34f0629",
-                        "md5": "0181fbed11c40debed8ebf5cdc815bab"
-                    },
-                    "required_dependencies": [],
-                    "size": 20295,
-                    "date_published": "2025-02-16T17:03:45.873Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "GPUTape-1.20.6-1.21x-1.0.3.jar",
-                    "mc_versions": [
-                        "1.20.6",
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3",
-                        "1.21.4",
-                        "1.21.5"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/nlerwS8N/GPUTape-1.20.6-1.21x-1.0.3.jar",
-                    "id": "nlerwS8N",
-                    "parent_id": "5CTSrY8X",
-                    "hashes": {
-                        "sha512": "63056c4ebc324244720d0ac35900ca121bcaee210b8684a48b4dd53c72c471f9075a6ca2da68270c72f2c2f8dedd970df02da250d44d18b95208c7f1deff3031",
-                        "sha1": "96d8f1df0f08e169396b603c42cf997e9081de59"
-                    },
-                    "required_dependencies": [],
-                    "size": 16669,
-                    "date_published": "2024-10-13T18:18:49.229266Z"
                 }
             ]
         },
