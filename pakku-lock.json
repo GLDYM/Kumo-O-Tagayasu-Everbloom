@@ -1156,6 +1156,46 @@
             ]
         },
         {
+            "pakku_id": "wN3AibCb42Wh2E21",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "bilibili-media-kots"
+            },
+            "name": {
+                "curseforge": "BiliBili Media - KOTS"
+            },
+            "id": {
+                "curseforge": "1478916"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "bilibili_media-2.3-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.8",
+                        "1.21.4",
+                        "1.21.1",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7845/703/bilibili_media-2.3-neoforge.jar",
+                    "id": "7845703",
+                    "parent_id": "1478916",
+                    "hashes": {
+                        "sha1": "423f13751d843748a6140cc71c3c111b4e881908",
+                        "md5": "b47b07372fca01f9d59cfcc541b96ac6"
+                    },
+                    "required_dependencies": [],
+                    "size": 85730,
+                    "date_published": "2026-03-30T13:33:54.163Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "l9V7iXbSeIwhamI3",
             "type": "MOD",
             "side": "BOTH",
@@ -13502,69 +13542,6 @@
             ]
         },
         {
-            "pakku_id": "mAW9CvY5Cz2V9PqD",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "smartpot",
-                "modrinth": "smartpot"
-            },
-            "name": {
-                "curseforge": "SmartPot",
-                "modrinth": "SmartPot"
-            },
-            "id": {
-                "curseforge": "1098636",
-                "modrinth": "svPOxXhH"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "smart_pot-1.21.1-1.0.3.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/5718/955/smart_pot-1.21.1-1.0.3.jar",
-                    "id": "5718955",
-                    "parent_id": "1098636",
-                    "hashes": {
-                        "sha1": "8a50a17f0ce26b491403339ed3115fb7da149e6b",
-                        "md5": "364eec2379605b2e660275032abeb496"
-                    },
-                    "required_dependencies": [
-                        "404523"
-                    ],
-                    "size": 213522,
-                    "date_published": "2024-09-13T10:53:24.080Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "smart_pot-1.21.1-1.0.3.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/svPOxXhH/versions/xr7FDQjt/smart_pot-1.21.1-1.0.3.jar",
-                    "id": "xr7FDQjt",
-                    "parent_id": "svPOxXhH",
-                    "hashes": {
-                        "sha512": "48c3ac5c93beb010fce548c58af3f734b04699fea1b2fe97caf8f1abbe37497e5a316de559695dbdc48d0b8cca28d9b57383a73b2a0fb41a53b44142380040c7",
-                        "sha1": "8a50a17f0ce26b491403339ed3115fb7da149e6b"
-                    },
-                    "required_dependencies": [],
-                    "size": 213522,
-                    "date_published": "2024-09-13T10:51:53.957882Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "m7oEJJliXS72Nbdg",
             "type": "MOD",
             "side": "CLIENT",
@@ -15587,7 +15564,8 @@
             "pakku_links": [
                 "dfZG7rtBrYkitny2",
                 "AS3rOCj8XUXBKuM1",
-                "OyZP5AemwRgC681r"
+                "OyZP5AemwRgC681r",
+                "r4rRW7YCR8jZhuIf"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -15660,7 +15638,8 @@
         {
             "pakku_id": "xzzVDphclc76bjsY",
             "pakku_links": [
-                "AS3rOCj8XUXBKuM1"
+                "AS3rOCj8XUXBKuM1",
+                "r4rRW7YCR8jZhuIf"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -15733,87 +15712,50 @@
             ]
         },
         {
-            "pakku_id": "AS3rOCj8XUXBKuM1",
-            "pakku_links": [
-                "xzzVDphclc76bjsY"
-            ],
+            "pakku_id": "r4rRW7YCR8jZhuIf",
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
-                "curseforge": "watermedia",
-                "modrinth": "watermedia"
+                "curseforge": "watermedia"
             },
             "name": {
-                "curseforge": "WATERMeDIA: Multimedia API",
-                "modrinth": "WATERMeDIA: Multimedia API"
+                "curseforge": "WATERMeDIA: Multimedia API"
             },
             "id": {
-                "curseforge": "869524",
-                "modrinth": "G922NeHS"
+                "curseforge": "869524"
             },
             "update_strategy": "NONE",
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "watermedia-3.0.0.17.jar",
+                    "file_name": "watermedia-2.1.36.jar",
                     "mc_versions": [
-                        "1.21.1",
-                        "1.21.11"
+                        "1.21.5",
+                        "1.21.1"
                     ],
                     "loaders": [
                         "fabric",
                         "forge",
                         "neoforge"
                     ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/8178/599/watermedia-3.0.0.17.jar",
-                    "id": "8178599",
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7072/353/watermedia-2.1.36.jar",
+                    "id": "7072353",
                     "parent_id": "869524",
                     "hashes": {
-                        "sha1": "c3a038da93d6a210d71bea927eb266274e10cae5",
-                        "md5": "5b36371c9aed23add77980a7d2f317fe"
+                        "sha1": "aaad859737065f7be2824973aa38a5fdb7456f9d",
+                        "md5": "4b517fafc374653b97bc1a2751944b67"
                     },
-                    "required_dependencies": [
-                        "1029438"
-                    ],
-                    "size": 3104289,
-                    "date_published": "2026-06-01T03:24:54.627Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "watermedia-3.0.0.17.jar",
-                    "mc_versions": [
-                        "1.18.2",
-                        "1.19.2",
-                        "1.20.1",
-                        "1.21.1",
-                        "1.21.11"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/G922NeHS/versions/PliJVHhd/watermedia-3.0.0.17.jar",
-                    "id": "PliJVHhd",
-                    "parent_id": "G922NeHS",
-                    "hashes": {
-                        "sha512": "629082eb38d3dcca166ceaea54be286920cf2d1a09d84122365293c3927b07eb1220199d0cc498bd470970fcefb6246fbaa0d3224fdda0f3bbf459080180eb70",
-                        "sha1": "7c40a8f56023d1d4d613ab0d2a5cbbd17fa10adb"
-                    },
-                    "required_dependencies": [
-                        "4997XcoK"
-                    ],
-                    "size": 3104289,
-                    "date_published": "2026-06-01T03:24:44.415577Z"
+                    "required_dependencies": [],
+                    "size": 37858040,
+                    "date_published": "2025-10-06T03:14:53.327Z"
                 }
             ]
         },
         {
             "pakku_id": "OyZP5AemwRgC681r",
             "pakku_links": [
-                "AS3rOCj8XUXBKuM1"
+                "AS3rOCj8XUXBKuM1",
+                "r4rRW7YCR8jZhuIf"
             ],
             "type": "MOD",
             "side": "BOTH",
