@@ -71,6 +71,7 @@
             ]
         },
         "spice-of-life-carrot-edition": {
+            "side": "BOTH",
             "aliases": [
                 "sol"
             ]
@@ -81,6 +82,7 @@
             ]
         },
         "open-parties-and-claims": {
+            "side": "BOTH",
             "aliases": [
                 "opac"
             ]
@@ -206,10 +208,194 @@
             "update_strategy": "NONE"
         },
         "narcissus-farewell": {
+            "side": "BOTH",
             "update_strategy": "NONE"
         },
         "mandalas-gui-dark-mode": {
             "update_strategy": "NONE"
+        },
+        "alternate-current": {
+            "side": "BOTH"
+        },
+        "almanac-lib": {
+            "side": "BOTH"
+        },
+        "biolith": {
+            "side": "BOTH"
+        },
+        "blahaj-lite": {
+            "side": "BOTH"
+        },
+        "bookshelf": {
+            "side": "BOTH"
+        },
+        "caged-mobs-kots": {
+            "side": "BOTH"
+        },
+        "cat-burger": {
+            "side": "BOTH"
+        },
+        "catalogue": {
+            "side": "BOTH"
+        },
+        "chunk-sending-forge-fabric": {
+            "side": "BOTH"
+        },
+        "configurable-extra-mob-drops": {
+            "side": "BOTH"
+        },
+        "configured": {
+            "side": "BOTH"
+        },
+        "construction-wand-kots": {
+            "side": "BOTH"
+        },
+        "cosmetic-armor-reworked": {
+            "side": "BOTH"
+        },
+        "create": {
+            "side": "BOTH"
+        },
+        "create-utilities-unofficial-port": {
+            "side": "BOTH"
+        },
+        "create-liquid-fuel": {
+            "side": "BOTH"
+        },
+        "create-fluidlogistic": {
+            "side": "BOTH"
+        },
+        "cupboard": {
+            "side": "BOTH"
+        },
+        "epic-structures-dungeons": {
+            "side": "BOTH"
+        },
+        "ftb-filter-system": {
+            "side": "BOTH"
+        },
+        "ftb-library-forge": {
+            "side": "BOTH"
+        },
+        "ftb-quests-forge": {
+            "side": "BOTH"
+        },
+        "ftb-teams-forge": {
+            "side": "BOTH"
+        },
+        "ftb-ultimine-forge": {
+            "side": "BOTH"
+        },
+        "ftb-xmod-compat": {
+            "side": "BOTH"
+        },
+        "gamerule-manager": {
+            "side": "BOTH"
+        },
+        "imblocker": {
+            "side": "BOTH"
+        },
+        "integrated-api": {
+            "side": "BOTH"
+        },
+        "idas": {
+            "side": "BOTH"
+        },
+        "integrated-stronghold": {
+            "side": "BOTH"
+        },
+        "integrated-villages": {
+            "side": "BOTH"
+        },
+        "irisshaders": {
+            "side": "BOTH"
+        },
+        "irons-spells-n-spellbooks": {
+            "side": "BOTH"
+        },
+        "jamd": {
+            "side": "BOTH"
+        },
+        "javd": {
+            "side": "BOTH"
+        },
+        "leaves-be-gone": {
+            "side": "BOTH"
+        },
+        "lmd": {
+            "side": "BOTH"
+        },
+        "lithostitched": {
+            "side": "BOTH"
+        },
+        "lmft": {
+            "side": "BOTH"
+        },
+        "long-nbt-killer": {
+            "side": "BOTH"
+        },
+        "minecraft-style-paintings": {
+            "side": "BOTH"
+        },
+        "maid-storage-manager": {
+            "side": "BOTH"
+        },
+        "majobroom-kots": {
+            "side": "BOTH"
+        },
+        "moderately-enough-effect-descriptions-meed": {
+            "side": "BOTH"
+        },
+        "nan-health-fixer": {
+            "side": "BOTH"
+        },
+        "name-tag-tweaks": {
+            "side": "BOTH"
+        },
+        "not-enough-bandwidth-legacy": {
+            "side": "BOTH"
+        },
+        "oworld2create-refoxed": {
+            "side": "BOTH"
+        },
+        "polaristrading": {
+            "side": "BOTH"
+        },
+        "smsn": {
+            "side": "BOTH"
+        },
+        "server-i18n-api": {
+            "side": "BOTH"
+        },
+        "starter-kit": {
+            "side": "BOTH"
+        },
+        "structure-credits": {
+            "side": "BOTH"
+        },
+        "structure-essentials-forge-fabric": {
+            "side": "BOTH"
+        },
+        "super-source-block": {
+            "side": "BOTH"
+        },
+        "time-in-a-bottle": {
+            "side": "BOTH"
+        },
+        "trenzalore": {
+            "side": "BOTH"
+        },
+        "wrench-finder": {
+            "side": "BOTH"
+        },
+        "youkais-homecoming-unofficial-port": {
+            "side": "BOTH"
+        },
+        "ultimine-rewind": {
+            "side": "BOTH"
+        },
+        "no-render-name-tags": {
+            "side": "CLIENT"
         }
     }
 }
