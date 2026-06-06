@@ -10,6 +10,7 @@ this file is no longer needed.
 import json
 import pathlib
 import sys
+from urllib.parse import quote, urlsplit, urlunsplit
 
 
 def _read_side_overrides(pakku_path: pathlib.Path) -> dict[str, str]:
@@ -52,6 +53,20 @@ def _get_project_slug(project: dict) -> str | None:
             return value
 
     return None
+
+
+def _normalize_url(url: str) -> str:
+    """Percent-encode unsafe characters in URL components for curl/wget."""
+    parts = urlsplit(url)
+    return urlunsplit(
+        (
+            parts.scheme,
+            parts.netloc,
+            quote(parts.path, safe="/%:@!$&'()*+,;=-._~"),
+            quote(parts.query, safe="=&%:@!$'()*+,;/-._~?"),
+            quote(parts.fragment, safe="%:@!$&'()*+,;=/-._~?"),
+        )
+    )
 
 
 def main() -> int:
@@ -101,6 +116,8 @@ def main() -> int:
         chosen = candidates[0]
 
         url = chosen.get("url")
+        if url:
+            url = _normalize_url(str(url))
         file_name = chosen.get("file_name")
         if not file_name:
             file_name = str(url).rstrip("/").split("/")[-1]
