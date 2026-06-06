@@ -1158,6 +1158,7 @@
         {
             "pakku_id": "wN3AibCb42Wh2E21",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "bilibili-media-kots"
             },
@@ -4394,20 +4395,16 @@
             ]
         },
         {
-            "pakku_id": "URLnlhPhJAA5h0iC",
+            "pakku_id": "GXJA5yYcsZVJV0ov",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "create-more-drill-heads",
-                "modrinth": "create-more-drill-heads"
+                "curseforge": "create-more-drill-heads"
             },
             "name": {
-                "curseforge": "Create: More Drill Heads",
-                "modrinth": "Create: More Drill Heads"
+                "curseforge": "Create: More Drill Heads"
             },
             "id": {
-                "curseforge": "841298",
-                "modrinth": "9MEmQKkF"
+                "curseforge": "841298"
             },
             "files": [
                 {
@@ -4430,27 +4427,6 @@
                     "required_dependencies": [],
                     "size": 119915,
                     "date_published": "2026-03-19T18:12:47.943Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "createmoredrillheads-1.2.0-1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/9MEmQKkF/versions/CSXCxG3F/createmoredrillheads-1.2.0-1.21.1.jar",
-                    "id": "CSXCxG3F",
-                    "parent_id": "9MEmQKkF",
-                    "hashes": {
-                        "sha512": "862e78a4ac9a93b3e4174b106dfd52f6be840abb78dc689947a65c530276b9d58cc6745d958bbff61543009855f5f64d57a1e7b0180f2ec7d2d4963a3d185fce",
-                        "sha1": "ef00b15f2c6a4326e2e83d6ea0be9322cc7c9c77"
-                    },
-                    "required_dependencies": [],
-                    "size": 125102,
-                    "date_published": "2026-03-19T18:14:45.769183Z"
                 }
             ]
         },
@@ -15714,6 +15690,7 @@
         {
             "pakku_id": "r4rRW7YCR8jZhuIf",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "watermedia"
             },
