@@ -56,3 +56,11 @@
 - the-bumblezone
 - tofu-create-kots --> tofu-create
 
+## PROBLEMS
+
+- Sodium should downgrade
+- Iris Compat --> Colorwheel
+- Two Tooltip ...
+- 去掉玩偶换成森罗
+- 去掉 cosmos
+

@@ -406,6 +406,9 @@
         },
         "create-more-drill-heads": {
             "side": "BOTH"
+        },
+        "sodium": {
+            "update_strategy": "NONE"
         }
     }
 }
