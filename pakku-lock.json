@@ -11318,6 +11318,7 @@
         {
             "pakku_id": "pX4MtCiAQGhlwiji",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "mechanical-millstone"
             },
@@ -13768,70 +13769,48 @@
             ]
         },
         {
-            "pakku_id": "mWye0pM8ljzKJPQ9",
+            "pakku_id": "DmAZeR9smWeci4lV",
             "pakku_links": [
                 "FC0RFinZh5aNtQo4"
             ],
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
-                "curseforge": "reeses-sodium-options",
-                "modrinth": "reeses-sodium-options"
+                "curseforge": "reeses-sodium-options"
             },
             "name": {
-                "curseforge": "Reese's Sodium Options",
-                "modrinth": "Reese's Sodium Options"
+                "curseforge": "Reese's Sodium Options"
             },
             "id": {
-                "curseforge": "511319",
-                "modrinth": "Bh37bMuy"
+                "curseforge": "511319"
             },
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "reeses-sodium-options-neoforge-2.0.5+mc1.21.1.jar",
+                    "file_name": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
                     "mc_versions": [
-                        "1.21.1"
+                        "1.21",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.3",
+                        "1.21.1",
+                        "1.21.2"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8141/953/reeses-sodium-options-neoforge-2.0.5+mc1.21.1.jar",
-                    "id": "8141953",
+                    "url": "https://edge.forgecdn.net/files/6091/21/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+                    "id": "6091021",
                     "parent_id": "511319",
                     "hashes": {
-                        "sha1": "9869222c022c73362ab22ea559f52c19dabf0467",
-                        "md5": "6149104024f86576915180d16936dc07"
+                        "sha1": "b03d05495be28d8cef7a34872941bb8d703d60e6",
+                        "md5": "f3a0d7f31993d6f34e90f816f82cbcaf"
                     },
                     "required_dependencies": [
                         "394468"
                     ],
-                    "size": 102039,
-                    "date_published": "2026-05-25T04:59:28.420Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "reeses-sodium-options-neoforge-2.0.5+mc1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/Pv76GJbN/reeses-sodium-options-neoforge-2.0.5+mc1.21.1.jar",
-                    "id": "Pv76GJbN",
-                    "parent_id": "Bh37bMuy",
-                    "hashes": {
-                        "sha512": "033e1e52643dd06575bd67c5c9203c6db141981b33d0b6201e6b0bc8bd6cc0994856277509bf6750a2f3296c849b4ea5994832a78171b920901ebdccf5ddcd3a",
-                        "sha1": "9869222c022c73362ab22ea559f52c19dabf0467"
-                    },
-                    "required_dependencies": [
-                        "AANobbMI"
-                    ],
-                    "size": 102039,
-                    "date_published": "2026-05-25T04:59:32.299755Z"
+                    "size": 78451,
+                    "date_published": "2025-01-15T20:35:53.370Z"
                 }
             ]
         },
@@ -14856,6 +14835,7 @@
         {
             "pakku_id": "FC0RFinZh5aNtQo4",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "sodium"
             },
@@ -14977,6 +14957,7 @@
                 "FC0RFinZh5aNtQo4"
             ],
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "sodium-extra"
             },
