@@ -12359,72 +12359,6 @@
             ]
         },
         {
-            "pakku_id": "MNEZTuD4611zzmRC",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "new-visual-keybing",
-                "modrinth": "new-visual-keybing"
-            },
-            "name": {
-                "curseforge": "New Visual Keybing",
-                "modrinth": "New Visual Keybing"
-            },
-            "id": {
-                "curseforge": "1539080",
-                "modrinth": "jUO7wMKn"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "New Visual Keybing-neoforge-1.21.1-0.6.3.jar",
-                    "mc_versions": [
-                        "1.21.1",
-                        "1.21.3",
-                        "1.21.2"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8191/605/New Visual Keybing-neoforge-1.21.1-0.6.3.jar",
-                    "id": "8191605",
-                    "parent_id": "1539080",
-                    "hashes": {
-                        "sha1": "b18e484f2663f8af2acef6d2a83320fe96d21689",
-                        "md5": "33fb854061cc14347c907748cefe4986"
-                    },
-                    "required_dependencies": [],
-                    "size": 440115,
-                    "date_published": "2026-06-03T15:03:19.790Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "New Visual Keybing-neoforge-1.21.1-0.6.3.jar",
-                    "mc_versions": [
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/jUO7wMKn/versions/kMwA7Ptu/New Visual Keybing-neoforge-1.21.1-0.6.3.jar",
-                    "id": "kMwA7Ptu",
-                    "parent_id": "jUO7wMKn",
-                    "hashes": {
-                        "sha512": "b8437dab10fc31cf63c51852999683132dc44d764aa579ef8cc444819469d6b1fe53cfa5940f195bda60a77b90eb624dd49dbbbcd3fe999b3d6aa00804c6cead",
-                        "sha1": "b18e484f2663f8af2acef6d2a83320fe96d21689"
-                    },
-                    "required_dependencies": [],
-                    "size": 440115,
-                    "date_published": "2026-06-03T14:58:28.190410Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "fdmNDYRNRpxlCGDr",
             "pakku_links": [
                 "CIPyh8404K79xcNY"
@@ -13783,6 +13717,7 @@
             "id": {
                 "curseforge": "511319"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "curseforge",
@@ -14967,6 +14902,7 @@
             "id": {
                 "curseforge": "447673"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "curseforge",
