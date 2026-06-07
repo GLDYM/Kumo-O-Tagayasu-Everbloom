@@ -60,7 +60,10 @@
 
 - Sodium should downgrade
 - Iris Compat --> Colorwheel
-- Two Tooltip ...
+- Two Tooltip ... 关掉 modernui 的现代化提示框
 - 去掉玩偶换成森罗
 - 去掉 cosmos
+- youkaishonecoming怎么有个没有输出的配方
+- 有几个tag不对
+- 煮锅没有实现 itemfluidHandler
 

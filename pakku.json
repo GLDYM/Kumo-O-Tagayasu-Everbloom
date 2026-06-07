@@ -408,6 +408,20 @@
             "side": "BOTH"
         },
         "sodium": {
+            "side": "CLIENT",
+            "update_strategy": "NONE"
+        },
+        "sodium-extra": {
+            "side": "CLIENT",
+            "update_strategy": "NONE"
+        },
+        "mechanical-millstone": {
+            "side": "BOTH"
+        },
+        "create-bitterballen": {
+            "side": "BOTH"
+        },
+        "reeses-sodium-options": {
             "update_strategy": "NONE"
         }
     }
