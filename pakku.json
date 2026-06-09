@@ -149,7 +149,8 @@
             "side": "CLIENT"
         },
         "quit-or-not": {
-            "side": "CLIENT"
+            "side": "CLIENT",
+            "update_strategy": "NONE"
         },
         "better-title-screen": {
             "side": "CLIENT"
