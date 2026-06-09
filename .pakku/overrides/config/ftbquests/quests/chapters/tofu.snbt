@@ -1,0 +1,616 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tofu"
+	group: "65DBD493CCEDCEF5"
+	id: "04C201630E99A57E"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0D5E7A85B8DE2331"
+			rewards: [{
+				count: 8
+				id: "4048288F43E3E658"
+				item: {
+					count: 1
+					id: "tofucraft:seeds_soybeans"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				count: 4L
+				id: "1CA65F46B597264D"
+				item: { count: 1, id: "tofucraft:seeds_soybeans" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D5E7A85B8DE2331"]
+			hide_until_deps_complete: true
+			id: "0FD51F6F22CE57FB"
+			tasks: [
+				{
+					id: "081DEF0459C4D378"
+					item: { count: 1, id: "tofucraft:blocksaltpan" }
+					type: "item"
+				}
+				{
+					id: "11784B8743B23919"
+					item: { count: 1, id: "tofucraft:bittern_bottle" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D5E7A85B8DE2331"]
+			hide_until_deps_complete: true
+			id: "4E7249E53AABD432"
+			rewards: [{
+				id: "568AEFE4143069E1"
+				item: {
+					count: 1
+					id: "tofucraft:bucket_soymilk"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "180F4A84A8B47A26"
+				item: { count: 1, id: "tofucraft:bucket_soymilk" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"4E7249E53AABD432"
+				"0FD51F6F22CE57FB"
+			]
+			id: "289E57DF483EC37F"
+			rewards: [{
+				count: 4
+				id: "1A15F322463AF901"
+				item: {
+					count: 1
+					id: "tofucraft:tofumomen"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "618826E6D2BA6FED"
+				item: { count: 1, id: "tofucraft:tofukinu" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["289E57DF483EC37F"]
+			id: "3A76829D4533A822"
+			rewards: [{
+				count: 16
+				id: "03FAE0B0BD7E2092"
+				item: {
+					count: 1
+					id: "tofucraft:tofugrilled"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "500662C8D4648433"
+				item: { count: 1, id: "tofucraft:tofugrilled" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["289E57DF483EC37F"]
+			id: "51D4F811BA4F635A"
+			rewards: [{
+				count: 16
+				id: "1027E93A3FF179A8"
+				item: {
+					count: 1
+					id: "tofucraft:tofumomen"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "1C39BEFF54B51519"
+				item: { count: 1, id: "tofucraft:tofuishi" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["289E57DF483EC37F"]
+			id: "3556E83C59F136A6"
+			rewards: [{
+				count: 16
+				id: "60A64F3297C1B6EE"
+				item: {
+					count: 1
+					id: "tofucraft:tofudried"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3E94B861E75018CE"
+				item: { count: 1, id: "tofucraft:tofudried" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["289E57DF483EC37F"]
+			id: "2C8F1A99BFB3944B"
+			rewards: [{
+				count: 16
+				id: "634EAA59E3F66911"
+				item: {
+					count: 1
+					id: "tofucraft:tofumiso"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0CBF7E0C86338103"
+					item: { count: 1, id: "tofucraft:barrel_misotofu" }
+					type: "item"
+				}
+				{
+					id: "4E02F14D900F237C"
+					item: { count: 1, id: "tofucraft:tofumiso" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0FD51F6F22CE57FB"]
+			id: "1AD9E489ACC454C5"
+			rewards: [{
+				id: "501DE12423F268CA"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7272D3474097FB22"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0FD51F6F22CE57FB"]
+			id: "2A6445C4802ADB00"
+			rewards: [{
+				id: "6933579FB436AB83"
+				item: {
+					count: 1
+					id: "minecraft:water_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1BA9D220D881CA4E"
+				item: { count: 1, id: "tofucraft:salt_furnace" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3A76829D4533A822"]
+			icon: {
+				id: "tofucraft:tofustick"
+			}
+			id: "7D0E2B6398BFBA65"
+			rewards: [{
+				count: 4
+				id: "54B03B2317852F32"
+				item: {
+					count: 1
+					id: "tofucraft:apricotseed"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 10L
+					id: "0DF30768F1393CB5"
+					item: { count: 1, id: "tofucraft:blocktofugrilled" }
+					type: "item"
+				}
+				{
+					id: "448F5EE5E83E5AD9"
+					item: { count: 1, id: "tofucraft:tofustick" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["51D4F811BA4F635A"]
+			id: "74F4308544701EC0"
+			rewards: [{
+				count: 64
+				id: "729C0BD237135A3B"
+				item: {
+					count: 1
+					id: "tofucraft:tofukinu"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "2DF0BA823D9FD02A"
+				item: { count: 1, id: "tofucraft:tofumetal" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D0E2B6398BFBA65"]
+			id: "479E62299601502D"
+			rewards: [{
+				count: 64
+				id: "62E26BF790F49D38"
+				item: {
+					count: 1
+					id: "tofucraft:tofukinu"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				dimension: "tofucraft:tofu_world"
+				id: "4BD6914969A28FEA"
+				type: "dimension"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4E7249E53AABD432"]
+			id: "4C8C39B1C7E5BBAF"
+			rewards: [{
+				count: 4
+				id: "10A6EA934259661C"
+				item: {
+					count: 1
+					id: "tofucraft:soymilk"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "30E9191EB8099EA2"
+				item: { count: 1, id: "tofucraft:soymilk" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0D5E7A85B8DE2331"]
+			hide_until_deps_complete: true
+			id: "2D8D1B807CC0252D"
+			rewards: [
+				{
+					count: 4
+					id: "2C064B2A1879DDEA"
+					item: {
+						count: 1
+						id: "tofucraft:seeds_soybeans_nether"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "6321BB3753797115"
+					item: {
+						count: 1
+						id: "tofucraft:seeds_soybeans_soul"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "1810EFA968DE5C5A"
+					item: { count: 1, id: "tofucraft:seeds_soybeans_soul" }
+					type: "item"
+				}
+				{
+					id: "2F9194A508BF04CE"
+					item: { count: 1, id: "tofucraft:seeds_soybeans_nether" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0D5E7A85B8DE2331"]
+			hide_until_deps_complete: true
+			id: "2F59D8BC41533F8F"
+			rewards: [{
+				count: 4
+				id: "04EED9773E719AAE"
+				item: {
+					count: 1
+					id: "tofucraft:bottle_soyoil"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4ACA70AE206740E1"
+				item: { count: 1, id: "tofucraft:bottle_soyoil" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2F59D8BC41533F8F"]
+			id: "76ADA031E824C49F"
+			rewards: [{
+				id: "547D2E399CA9F556"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [{
+				count: 64L
+				id: "6BFE38A842DC8772"
+				item: { count: 1, id: "tofucraft:bottle_soyoil" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0D5E7A85B8DE2331"]
+			hide_until_deps_complete: true
+			id: "4143434516688D4A"
+			rewards: [{
+				count: 8
+				id: "27D85C473A17D7E7"
+				item: {
+					count: 1
+					id: "tofucraft:edamame"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4DDBB28F13C85FE0"
+				item: { count: 1, id: "tofucraft:edamame" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4C8C39B1C7E5BBAF"]
+			id: "7944EE975269B782"
+			rewards: [{
+				id: "03266AB6C8416BEB"
+				item: {
+					count: 1
+					id: "tofucraft:soymilk_fruits"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0CFE36C90567ADC7"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4143434516688D4A"]
+			id: "1DCC1D755AE792BD"
+			rewards: [{
+				id: "0913531C209F707F"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [{
+				count: 128L
+				id: "645E6CA52C7404E8"
+				item: { count: 1, id: "tofucraft:edamame" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2D8D1B807CC0252D"]
+			id: "4191AEBD1B29DCF9"
+			rewards: [{
+				count: 8
+				id: "03B077C8003962DE"
+				item: {
+					count: 1
+					id: "tofucraft:tofuegg"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "44B6951B4FF99E9B"
+					item: { count: 1, id: "tofucraft:shroom_bottle" }
+					type: "item"
+				}
+				{
+					id: "1A9F6D9BFAB2E53B"
+					item: { count: 1, id: "tofucraft:crimson_fluid_bottle" }
+					type: "item"
+				}
+				{
+					id: "3A09F31E92A14A0B"
+					item: { count: 1, id: "tofucraft:warped_fluid_bottle" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0D5E7A85B8DE2331"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "704FAF67806C5BDC"
+			rewards: [{
+				count: 4
+				id: "3C3040B613526BB9"
+				item: {
+					count: 1
+					id: "tofucraft:apricotseed"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1A3C1C82A4DB8D23"
+				item: { count: 1, id: "tofucraft:apricot" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["479E62299601502D"]
+			id: "32F4FF7EBEAA890E"
+			rewards: [{
+				count: 4
+				id: "7719B7ABE2DCED07"
+				item: {
+					count: 1
+					id: "tofucraft:zundaruby"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "28991D43C2D7D6E7"
+				item: { count: 1, id: "tofucraft:zundaruby" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["479E62299601502D"]
+			id: "1E9C914BA69B260E"
+			rewards: [{
+				id: "575329EEA46E514E"
+				item: {
+					count: 1
+					id: "tofucraft:tofu_upgrade_smithing_template"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1BE90ECC5F147F14"
+				item: { count: 1, id: "tofucraft:tofudiamond" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["479E62299601502D"]
+			id: "554DD24BDBB01B3F"
+			rewards: [{
+				id: "6634A3F897C08535"
+				item: {
+					count: 1
+					id: "tofucraft:tofu_upgrade_smithing_template"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3C8C47AB615F25EE"
+				item: { components: { "ftbquests:missing_item": "tofucraft:soy_sculk_bone" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1E9C914BA69B260E"]
+			id: "5FAD824F3CC63EA0"
+			rewards: [{
+				id: "0BEA1DBC6A345885"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [{
+				count: 32L
+				id: "413D05A9385F41B6"
+				item: { count: 1, id: "tofucraft:blocktofudiamond" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["479E62299601502D"]
+			id: "1148DDCEDDF6BF02"
+			rewards: [{
+				count: 4
+				id: "1571CE56BF0AB693"
+				item: {
+					count: 1
+					id: "tofucraft:leek"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C23FDF427B10125"
+				item: { count: 1, id: "tofucraft:leek" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["479E62299601502D"]
+			id: "0C8EB79DC048D877"
+			rewards: [{
+				count: 4
+				id: "7BA2DF251D805B2C"
+				item: {
+					components: {
+						"ftbquests:missing_item": "vintagedelight:ghost_pepper"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "544BEBCEAC386150"
+				item: { components: { "ftbquests:missing_item": "vintagedelight:ghost_pepper" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+	]
+}

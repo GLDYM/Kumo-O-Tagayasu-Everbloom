@@ -1,0 +1,25 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "advance"
+	group: "65DBD493CCEDCEF5"
+	id: "094B51E793813ADB"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		dependency_requirement: "one_completed"
+		id: "405DCF35DAB526A7"
+		rewards: [{
+			id: "6CC3041DFE474FA7"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		size: 3.0d
+		tasks: [{
+			id: "49787755A644FF6D"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

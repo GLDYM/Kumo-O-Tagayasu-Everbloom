@@ -1,0 +1,282 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "stuff"
+	group: ""
+	id: "3D315FA49F0EFCB2"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3EC718092B2DD9AD"
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "4D6AB1478E39EE56"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			id: "4AC580914BEDEC5E"
+			rewards: [{
+				id: "59AE3EF0E03E73D5"
+				item: {
+					count: 1
+					id: "catburger:cat_burger"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "1EC0879AF39C9480"
+				item: { count: 1, id: "catburger:cat_burger" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			id: "14DA7701558F10AC"
+			size: 1.5d
+			tasks: [{
+				id: "4CE807FFCEE823FC"
+				item: { count: 1, id: "tiab:time_in_a_bottle" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			id: "6E48FFAB34C254A1"
+			size: 1.5d
+			tasks: [{
+				advancement: "supplementaries:adventure/globe"
+				criterion: ""
+				id: "5BDDC6403BB44AB9"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			id: "198EC6BDFF26EEDA"
+			size: 1.5d
+			tasks: [{
+				id: "0087568C66095B48"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "quark:ancient_tome"
+			}
+			id: "05D4A62B5A723FD5"
+			size: 1.5d
+			tasks: [{
+				id: "0B08B397AD94E23A"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			id: "16E8F0B3BC974914"
+			size: 1.5d
+			tasks: [{
+				id: "683A1A362210AD62"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			id: "10E438A8A70C6D54"
+			size: 1.5d
+			tasks: [{
+				id: "6D699009B1A19E50"
+				item: { count: 1, id: "solcarrot:food_book" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			id: "4FBC5309BBFBBE18"
+			size: 1.5d
+			tasks: [{
+				id: "649A6FAC10F0A482"
+				item: { count: 1, id: "exposure:camera" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			id: "61B6F363A7BD3938"
+			size: 1.5d
+			tasks: [{
+				id: "0B00DA517EC20D2F"
+				item: { count: 1, id: "netmusic:music_player" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			id: "38177FEC4009CCFE"
+			size: 1.5d
+			tasks: [{
+				id: "172C6A1C853F9283"
+				item: { count: 1, id: "waterframes:frame" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			id: "0CC112B640B87CD2"
+			rewards: [{
+				id: "00A4D74D779F4264"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "1B0E157A532CAB7C"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			id: "1F357EC4339BB73B"
+			size: 1.5d
+			tasks: [{
+				id: "29B3EBC590B9CDA7"
+				item: { count: 1, id: "polaristrading:shop_tool" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			id: "519FF2D319A99D35"
+			size: 1.5d
+			tasks: [{
+				id: "56093F076F8CE89A"
+				item: { count: 1, id: "minopp:mino_table" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "constructionwand:infinity_wand"
+			}
+			id: "4D5E8D8466A0F867"
+			rewards: [{
+				id: "7B9D53B553A3D95A"
+				item: {
+					count: 1
+					id: "constructionwand:infinity_wand"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "63631EB99BD35EC5"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			id: "1B831B1FF66A1355"
+			size: 1.5d
+			tasks: [
+				{
+					id: "0D93DC1DF6E40244"
+					item: { count: 1, id: "naturescompass:naturescompass" }
+					type: "item"
+				}
+				{
+					id: "289E3DBF0591CE83"
+					item: { count: 1, id: "explorerscompass:explorerscompass" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			id: "58F7C7D157716EA5"
+			size: 1.5d
+			tasks: [
+				{
+					id: "5364AEF95E6B7184"
+					item: { count: 1, id: "sourceblock:empty_source_block" }
+					type: "item"
+				}
+				{
+					id: "053C292412E4E34E"
+					item: { count: 1, id: "sourceblock:water_source_block" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3EC718092B2DD9AD"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "l2complements:eternium_pickaxe"
+			}
+			id: "6BFEAD3CB21E1DF8"
+			size: 1.5d
+			tasks: [{
+				id: "50973059EC52A523"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+	]
+}

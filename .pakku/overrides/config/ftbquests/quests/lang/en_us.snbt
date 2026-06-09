@@ -1,0 +1,1372 @@
+{
+	chapter.04C201630E99A57E.title: "&aSoymilk Star Visitor"
+	chapter.064BBA5351240699.title: "&eTown Pastry Chef"
+	chapter.094B51E793813ADB.title: "&aAdvanced Chapter Overview"
+	chapter.0D10279D33D8E73E.title: "&eOtherworldly Maids"
+	chapter.0D4186DB4D2C0B87.title: "&aRusty Spell Mage"
+	chapter.0E15DEDCD6B01133.title: "&eFacing the Soil"
+	chapter.1B290DA22A8E2132.title: "&5Gray-Haired Majo"
+	chapter.1FB48F9E7ACA1440.title: "&5Dimension Ripper"
+	chapter.2B7CFCF0C8CDD253.title: "&aMaster of Heaven Storage"
+	chapter.3513B62C05496513.title: "&eStarter Chapter Overview"
+	chapter.36388A6AEA2B477F.title: "&5Veteran Engineer"
+	chapter.49998E6AB0C3764C.title: "&aVenerator of antiquity"
+	chapter.4D403121650ECA4F.title: "&aYokais from Gensokyo"
+	chapter.4E613FC27F99E31B.title: "&bZen of Kumo O Tagayasu"
+	chapter.62D0845AFC5AA861.title: "&bArchitect's Design Book"
+	chapter.6D7D8225B036C476.title: "&5Queen of Bumblezone"
+	chapter.6DB018F4F6E98490.title: "&5Forbidden Knowledge Seeker"
+	chapter.7E134D75B3BBB797.title: "&5Forgemaster of Divine Arms"
+	quest.000011C9AE0A0DDD.quest_desc: [
+		"&8Red beans are another basic ingredient, found in birch or coniferous forests. They must be planted on poor soils like sandy clay."
+		""
+		"&aIn this pack you'll see another kind of red bean. Right‑click dirt with red beans to convert it into red‑bean soil, which periodically grows red bean sprouts. Left‑click to harvest."
+	]
+	quest.000011C9AE0A0DDD.title: "Red Beans"
+	quest.0010F6F6ABD4E084.quest_desc: [
+		"Sneak + right-click with empty hand to bind to the dimension network the current player is in. Dimension network administrators can sneak + right-click with empty hand to unbind."
+		""
+		"Once bound, any player can access the network, regardless of membership."
+	]
+	quest.00CB074F6151ED67.quest_desc: [
+		"All l2backpacks containers can be configured with the Config Tool:"
+		""
+		"&aCategorize:&r “All categorize” pulls all newly obtained items into the container; “Stack categorize” only fills existing stacks, leaving empty slots free."
+		""
+		"Categorization supports recursion: if a trinket‑slot backpack contains a Crystal Box for cobblestone, and both are set to Stack Categorize, any new cobblestone goes straight into the box. Use this to build a wearable warehouse."
+		""
+		"&aDestroy:&r Fine‑tune behavior while categorizing. Overflow Destroy deletes new items when the container is full—best for boxes; Filter Destroy deletes items already present in the backpack—best for decor/special‑item pouches. “Destroy all” is rarely used."
+	]
+	quest.00CB074F6151ED67.title: "Categorize \\& destroy"
+	quest.00D3C0C803F2B634.quest_desc: ["New versions add different cookware for preparing various foods. Soup pots require stirring with a ladle."]
+	quest.00D3C0C803F2B634.title: "Cookware of Different Sizes"
+	quest.019A2FFFBB30A794.quest_desc: ["Fast and faster."]
+	quest.01A1BC060A0E5943.quest_desc: ["Graduation spellbook, with 12 slots and cooldown reduction."]
+	quest.033391C05A008D51.quest_desc: [
+		"Hold a bread knife in off-hand, right-click with an egg to get raw egg; right-click with raw egg to separate yolk and white."
+		""
+		"Whip them together in a mixer, then combine to make cake batter."
+	]
+	quest.033391C05A008D51.title: "Prepare Batter"
+	quest.037508473C03F324.quest_desc: ["Ender Drawers share one storage space per item. Compared to opaque Void Chests, they're better for item transport."]
+	quest.048513B30AB7529F.quest_desc: [
+		"&o&3Rumor has it, if you master a special magic, you can turn objects into human form…&r"
+		""
+		"Press &a[R]&r to summon or dismiss the broom. &a[Space]&r ascends, &a[Left Ctrl]&r descends."
+		""
+		"Press &a[Y]&r could toggle settings, like spectator and speed."
+		""
+		"&bCompared to other flying tools, the broom is clunky for short trips but excellent for long-distance travel."
+	]
+	quest.048513B30AB7529F.title: "Majo's Broom"
+	quest.04C76712E7F764B3.quest_desc: ["Only gear with &e“Can be Imbued (0/1)”&f in its tooltip can be infused. (Scrolls on weapons become right‑click skills; infusing clothes adds a spell slot.)"]
+	quest.05F42BBC3C7B250D.quest_desc: ["Weave straws to make coarse cloth, which can be processed further."]
+	quest.05F42BBC3C7B250D.title: "Coarse Cloth"
+	quest.0718962BC048D12E.quest_desc: ["You've taken another step on the road to becoming a gourmet."]
+	quest.073E0167CBBB303B.quest_desc: ["The basic material for crafting armor."]
+	quest.081674421615028F.quest_desc: [
+		"Aya's camera can capture maids into photos, storing them when you lack soul spells."
+		""
+		"Its main use is as a sculpting reference. Hold a photo in offhand, right-click clay blocks (1x1x1, 1x1x2, 2x2x4, 3x3x6) with a carving knife to turn them into statues. Breaking them reverts them to clay."
+		""
+		"If you place a 1x1x1 statue above fire, after some time it becomes a figurine, preserving its shape."
+	]
+	quest.081674421615028F.title: "I Want to Be a Figurine Master!"
+	quest.08BDB731A3E44277.quest_desc: [
+		"Hit a Piglin Brute with a Black Fire Charge, then kill it."
+		""
+		"&aOne possible approach: after hitting with Black Fire Charge, finish with magic."
+	]
+	quest.092B2860A97504A4.quest_desc: ["Can produce XP particles, but requires further processing to convert into liquid XP."]
+	quest.0AA23737B8B3A3D6.quest_desc: [
+		"With the help of soul fragments of the Echo of Tyros,First Flamebearer, a corner of spacetime is torn open. But the rift is not yet large enough and still needs time to stabilize."
+		""
+		"[INFO]&b New mod added in 5.4.2, aimed at solving severe lag caused by large-scale storage in late game. Short-term players can skip it. The Building Staff can directly extract blocks from the network for placement."
+	]
+	quest.0AA23737B8B3A3D6.quest_subtitle: "Chapter Author: Polaris_Light"
+	quest.0AA23737B8B3A3D6.title: "&6Tear Open a Corner of Spacetime"
+	quest.0AF4E293AC99133D.quest_desc: [
+		"@createprism"
+		""
+		"@interiors"
+		""
+		"Adds train glass and premium seating."
+	]
+	quest.0AF4E293AC99133D.title: "Trains: Prismatic Shine \\& Create Interiors"
+	quest.0B1E06D6FE08AF46.quest_desc: ["&bGrants Haste II and Strength III."]
+	quest.0B1E06D6FE08AF46.title: "&5Majo's Stockings"
+	quest.0B404897891998BB.quest_desc: ["Udumbara only grow in swamps, but seem to need artificial cultivation to have enough medicinal effect."]
+	quest.0B404897891998BB.title: "Udumbara Leaves"
+	quest.0B601BCA41EB2F50.quest_desc: [
+		"&bThank you for downloading and playing  Kumo O Tagayasu! &bCreate every work with a calm heart, love, and magic!"
+		""
+		"Tasks are organized by chapters and mod progression. Within the same tier, tasks can be done in any order. &6Players are encouraged to flexibly use other mods to complete difficult progression tasks."
+		"&r"
+		"If you can't find a task, use &a[Ctrl] + scroll&r to zoom in/out on the chapter screen."
+		""
+		"&2Please make sure to carefully read all tasks in this chapter."
+	]
+	quest.0B6A89B7DFED875C.quest_desc: [
+		"Ostrich egg…?"
+		""
+		"Sniffer eggs can be placed on moss blocks to hatch into Sniffers."
+		""
+		"Adult Sniffers periodically sniff out ancient seeds from mossy mud and related blocks. Different biomes yield different ancient seeds."
+		""
+		"Feed a Sniffer durians to make it sniff immediately. Feed it Torchflower Seeds to breed more Sniffers."
+	]
+	quest.0B6A89B7DFED875C.title: "Sniffer"
+	quest.0B76C937BD7577CE.quest_desc: [
+		"Spectators: Why is this guy flying at y=319 with a flock of phantoms?"
+		""
+		"&aOne possible approach: hover with a broom at y=520."
+	]
+	quest.0C393621176E304B.quest_desc: ["Maids can sleep in maid beds to increase affection."]
+	quest.0C489EAE0537E17F.quest_desc: ["Fermentation barrels can be used to brew soy sauce and alcohol."]
+	quest.0C489EAE0537E17F.title: "Fermentation Barrel"
+	quest.0C8EB79DC048D877.quest_desc: ["Trade with tofu villagers to obtain it. No idea why it shows up in the Tofu World."]
+	quest.0C8EB79DC048D877.title: "Shin"
+	quest.0CDF0DFE144CF208.quest_desc: ["&fObtain Archevoker's Logbook from Evoker Fort, then trade with wandering merchants that sometimes spawn in the tower yard for translated logs. Use those with a priest to get the Villager Bible."]
+	quest.0D5E7A85B8DE2331.quest_desc: [
+		"A mysterious crop that sometimes appears when breaking grass—seems drinkable once pulped."
+		""
+		"&bThis chapter involves lots of fluid conversions, so it's best to complete Create basics first."
+		""
+		"&bThis chapter doesn't cover the tofu‑energy part of tofu tech—please explore that yourself."
+	]
+	quest.0D5E7A85B8DE2331.quest_subtitle: "Chapter author: PL"
+	quest.0D5E7A85B8DE2331.title: "&6Tofu Craft"
+	quest.0E554BF316EB9E7B.quest_desc: [
+		"&bThis chapter is tough for beginners; recommended to finish “Facing the Soil” and “Gourmet Beginner” first."
+		""
+		"&bThe mod has changed a lot recently, so quests are for reference only."
+	]
+	quest.0E554BF316EB9E7B.quest_subtitle: "Chapter author: PL"
+	quest.0E554BF316EB9E7B.title: "&6Yokai's homecoming"
+	quest.0F942D9DF85807D3.quest_desc: ["Material trait: durability never decreases. Extremely high base stats."]
+	quest.0FD51F6F22CE57FB.quest_desc: ["Fill a salt pan with water and sun it until half-dry, then bottle the remaining brine inside to obtain bittern. Bittern is used to curdle tofu."]
+	quest.0FD51F6F22CE57FB.title: "Obtaining bittern"
+	quest.108C208E4E138613.quest_desc: [
+		"Similar to Ender Drawers in Functional Storage: This Ender Drawers for the same player and item share one storage space, but Ender Pouches can also pull items straight from your inventory."
+		""
+		"If you've placed an Ender Drawer for a given item in the world, it will help move matching items from your inventory back to your base."
+		""
+		"Downside: it only stores 64 stacks and isn't suited for true bulk storage."
+		""
+		"Craft the Ender Drawer in a crafting grid to clear its bound item."
+	]
+	quest.1094D423ABADF283.quest_desc: [
+		"For certain creatures, killing them with a knife grants extra drops."
+		""
+		"For example, pigs drop ham, the Ender Dragon drops dragon meat, and villagers… drop mystery meat?"
+	]
+	quest.1094D423ABADF283.title: "Extra Drops"
+	quest.10ACB81B61203592.quest_desc: [
+		"Insert the scroll you want to inscribe."
+		""
+		"You wouldn't want to waste a legendary scroll, would you…?"
+	]
+	quest.10ACB81B61203592.title: "Spell Inscription"
+	quest.10D8A204BB3D7CEB.quest_desc: ["Might scream when pulled. Occasionally seen in Dark Forests—such a strange plant."]
+	quest.10D8A204BB3D7CEB.title: "Mandrake"
+	quest.1148DDCEDDF6BF02.quest_desc: [
+		"fufu, fufufu!"
+		""
+		"Douse lava with a bucket of bittern water. Bone-meal naturally generated Tofu Ore to ripen, and harvest scallions."
+	]
+	quest.1148DDCEDDF6BF02.title: "Scallion"
+	quest.11F285DA4FAB8F4D.quest_desc: [
+		"You can open the calendar from the top-left of your inventory, then right-click the date to claim your daily reward."
+		""
+		"&e[WARN]&b When claiming sign-in rewards, there's a 50% chance a Mimic spawns at your feet."
+	]
+	quest.11F285DA4FAB8F4D.title: "About the Sign-In System"
+	quest.12CE02EB9F216ECC.quest_desc: ["You've probably found many spell scrolls. Most can be cast directly with right‑click &4(consuming the scroll!)&f. A better way is to inscribe them into a spellbook, so you can cast freely!"]
+	quest.12CE02EB9F216ECC.title: "Scrolls"
+	quest.12DEEAA54E86A717.quest_desc: [
+		"It's just a “normal” backpack—the start of nesting dolls…"
+		""
+		"&aOpen:&r Right‑click to open the backpack in any GUI, or right‑click from the hotbar; you can also equip it in the trinket slot and open it."
+		""
+		"&aClose:&r ESC goes back one layer; SHIFT + ESC closes all stacked GUIs."
+		""
+		"&aStore:&r Open the backpack GUI and insert items; click the backpack with an item inside the GUI; or hold the backpack and sneak‑left‑click a container to scoop its contents."
+		""
+		"&aExtract:&r Similar to storing, but sneak‑right‑click to deposit into a container."
+	]
+	quest.12DEEAA54E86A717.title: "“Normal Backpack”"
+	quest.131A12B1AF021401.quest_desc: [
+		"Bags for special items, akin to the vanilla shulker‑like sacks."
+		""
+		"Controls and logic are the same as the backpack."
+	]
+	quest.131A12B1AF021401.title: "Bag"
+	quest.13265541D3694F26.quest_desc: ["Has 12 slots."]
+	quest.138576A973067473.quest_desc: [
+		"A grown‑up's drink. Wild coffee generates in jungle biomes; harvest coffee cherries and slice them on a cutting board to get beans."
+		""
+		"&aYou can also bring a Sniffer into jungle biomes to find ancient coffee beans."
+	]
+	quest.138576A973067473.title: "Coffee Beans"
+	quest.14D663C458A5205E.quest_desc: [
+		"In the wild or village chests you can discover four new crops: cabbage, tomato, onion, and rice."
+		""
+		"The first three behave like vanilla crops, but rice must be planted in water."
+	]
+	quest.14D663C458A5205E.title: "New Crops"
+	quest.151ABDBDA3571D17.quest_desc: [
+		"Dropped by high evokers or regular evokers, with a 1.25% chance. Looting helps, and you must land the killing blow."
+		""
+		"Also has a very low chance to appear in loot chests inside ravager rooms of catacombs."
+	]
+	quest.15813F66EBAE14F8.quest_desc: ["Noble mana regeneration."]
+	quest.15A107660676CCE9.quest_desc: ["Fire spells"]
+	quest.1618FAA4D7E93E25.quest_desc: [
+		"Shrine lanterns can store P points, or consume them to give nearby maids status effects."
+		""
+		"When broken, shrine lanterns keep their stored P points, so they can be used as storage devices."
+	]
+	quest.16369530ADEC5DC3.quest_desc: [
+		"@immersive_furniture"
+		""
+		"Start with a Artisan's Workstation, furniture all hand-made!"
+		""
+		"Similar to Axiom, Immersive Furniture lets you DIY beautiful furniture, decorations, and objects in-game, or choose from a huge online market. Supports particle effects, sounds, sitting and lying functions."
+		""
+		"For example, here's a Power. Hey Vergil your portal opening days are over, give me the Yamato."
+	]
+	quest.16369530ADEC5DC3.title: "Interior: Immersive Furniture"
+	quest.169D11082217C28C.quest_desc: [
+		"This modpack uses the open-source Maple mono font. It's a 2:1 width font for Chinese and English, and also supports ligatures. If you prefer another font, you can change it in the Modern UI settings."
+		""
+		"Ligatures：!= !== \\ <= ## -> ~> ~@ |> "
+		""
+		"Double Arrors：|=>==<==>=|======|===|===>"
+		""
+		"Arror：<---|--|--------|-<->--<-|"
+		""
+		"Special Sign：[INFO][WARN][ERROR][TODO]"
+	]
+	quest.169D11082217C28C.title: "About Fonts"
+	quest.16A6DD06B9164B1A.quest_desc: ["Chests are good for lots of messy items and non‑stackables, but they cause more lag. These Chests could be mounted on moving contrptations like vanilla chests, but barrels are better."]
+	quest.16B6CB0A599E084B.quest_desc: [
+		"Shulker: ?"
+		""
+		"&aOne possible approach: shulker bullets only fly straight. Trap it in a small space and spam right-click."
+	]
+	quest.172C65ED16789286.quest_desc: ["Drink every kind of tea—you probably have your own refined understanding by now."]
+	quest.172C65ED16789286.title: "It's past three—tea first!"
+	quest.1784A9CE921F5C7F.quest_desc: ["After defeating the Echo of Tyros,First Flamebearer , there is a chance to drop a key. Opening the treasury may yield Blazing Gold Ingots."]
+	quest.1798A3C0E84ED191.quest_desc: ["Grind coffee into fine powder for a moka pot. Fill the bottom with spring water and heat; steam pressure pushes water up to extract the coffee."]
+	quest.1798A3C0E84ED191.title: "Brew Coffee"
+	quest.19839709DF0F9040.quest_desc: [
+		"Put bread dough into the oven, set the right temperature, wait a while, and you'll get delicious bread."
+		""
+		"Bread tooltips show the minimum baking temperature required; each bread also has its own &6perfect temperature&r. Bread baked at perfect temperature grants extra effects and can be eaten regardless of hunger."
+	]
+	quest.19839709DF0F9040.title: "Bake Bread"
+	quest.19F809B8DC0693B7.quest_desc: [
+		"Sneak + right-click with empty hand to bind to the dimension network the current player is in. Dimension network administrators can sneak + right-click with empty hand to unbind."
+		""
+		"This block can expose the entire storage space of the dimension network. By connecting with storage buses from other mods (such as Create’s Packager), you can manage all items in the dimension network. It also supports direct interaction with various pipes and hoppers."
+	]
+	quest.1A65287EE0DC50D9.quest_desc: [
+		"@waterframes"
+		""
+		"Provides TVs — you can use them to show pictures or Youtube videos."
+	]
+	quest.1A65287EE0DC50D9.title: "Exterior \\& Interior: Waterframes "
+	quest.1A658BAA0F27996F.quest_desc: ["The graduation spellbook of the Frost school—it doesn’t seem particularly powerful."]
+	quest.1AA06E9A9A56001D.quest_subtitle: "Chapter author: PL"
+	quest.1AA06E9A9A56001D.title: "&6Sakura \\& TrailTales Delight \\& Immortalers Delight"
+	quest.1AD9E489ACC454C5.quest_desc: ["&bSalt and bittern also have Create recipes. If fluid-based recipes won't craft other things (e.g., potions, Building Tea), try adding a filter with bottles of the corresponding fluid."]
+	quest.1ADD3891A8D26729.quest_desc: [
+		"Using it allows experience to be stored in the network and maintains experience at a single extraction amount. Sneak-use to adjust the extraction amount. While holding an Experience Rod in the network, middle-clicking the experience fluid allows you to withdraw experience."
+		""
+		"&e[WARN] Experience fluid beyond dimensions is not compatible with Create and requires mixing conversion."
+	]
+	quest.1B3B25F7487DF758.quest_desc: ["Written by Hieda no Akyuu, recording all aspects of maids."]
+	quest.1B3B25F7487DF758.quest_subtitle: "Chapter author: PL"
+	quest.1B3B25F7487DF758.title: "&6Memorizable Gensokyo"
+	quest.1BF2C936A7D5FB3E.quest_desc: ["Nature spells"]
+	quest.1D2392D85A989BB9.quest_desc: [
+		"Turned into a yokai!"
+		""
+		"&bIf semi‑yokai form lasts more than 5 minutes, it immediately ends and grants full yokai form for 20 minutes. Each monster‑meat dish eaten adds 4 minutes. Buffs: +30% speed, +50% attack damage, +20 max health. While active, monster‑meat dishes give triple hunger and saturation. You can also trade with Rumia."
+		""
+		"&bHunger drains much faster, even from actions that normally don't consume hunger (standing still, walking). If hunger runs out, the effect ends. To maintain it, eat nourishing foods or craft a Milk Hat."
+	]
+	quest.1DCC1D755AE792BD.quest_desc: [
+		"Why are you picking so many edamame? Trying to become Junda-Meng?"
+		""
+		"&aOne possible approach: calculate the maximum time for soy to reach stage 6 or 7, then use a Mechanical Arm to force-harvest on that cycle."
+	]
+	quest.1DCC1D755AE792BD.title: "&6Challenge: Nanoda~"
+	quest.1E9C914BA69B260E.quest_desc: [
+		"Actually harder than netherite. Diamond Tofu tools are great mid-to-late game stopgaps."
+		""
+		"Mine in the Tofu World or defeat the Tofu Warlord."
+	]
+	quest.1E9C914BA69B260E.title: "Diamond?"
+	quest.1EB357E80C1DE3AD.quest_desc: [
+		"One of the basic alloys used extensively."
+		""
+		"&aV5: Build two cobblestone generators. One → crush → gravel; another → crush → wash → flint + raw iron nuggets. Raw iron nuggets → smelt → iron nuggets. Gravel + flint → press with lava → andesite. Andesite + iron nuggets → mix → Andesite Alloy."
+		""
+		"&aV6: Cobblestone → crush → gravel; Tuff → crush → flint + iron nuggets; Lava shaping module → andesite; Andesite + iron nuggets → heated mixer module. Iron nuggets can be supplied via compression drawer when iron ingots are stored."
+	]
+	quest.1EB357E80C1DE3AD.title: "&6Basic: Andesite Alloy"
+	quest.1EBE8B106E163A71.quest_desc: ["Put tea leaves into a kettle, add water, and set it on the stove to brew."]
+	quest.1EBE8B106E163A71.title: "Brew Tea"
+	quest.207A5281077D33FA.quest_desc: [
+		"Iron's Spellbook offers many powerful and fun equipment and trinkets."
+		""
+		"&7&nActually there's an icon here"
+	]
+	quest.212FA8E1B48400BD.quest_desc: ["Use Capacity Upgrades at the Smithing Table to expand backpacks and Crystal Box storage."]
+	quest.212FA8E1B48400BD.title: "Capacity Upgrade"
+	quest.22013D907091EAC6.quest_desc: ["You actually finished all the tasks in this chapter. Clearly, you really love maids."]
+	quest.22013D907091EAC6.title: "&eHidden: You actually finished it"
+	quest.226E5A37496355B1.quest_desc: ["To achieve greater speed, you need to master the power of the Sculk…"]
+	quest.2298F2EE59AC5CFB.quest_desc: ["Mithril ingots can be obtained by mining underground, or by enchanting Necrotic Metal Ingots."]
+	quest.22C6B24400B7B631.quest_desc: ["Crafted from worn spellbooks."]
+	quest.22C6B24400B7B631.quest_subtitle: " "
+	quest.22E8E6C3740EA876.quest_desc: ["Drawers excel at holding huge amounts of a single item. They're also great for filtering, sorting, and transporting items."]
+	quest.22E8E6C3740EA876.title: "Functional storage"
+	quest.22FF5BF2ADABF847.quest_desc: ["Burning conversion: Totem of Undying or meat."]
+	quest.231B143C6EF85DEC.quest_desc: [
+		"Over time, this rift gradually stabilizes. By modifying the rift, you can form a gateway to the other side, transmitting matter and energy across."
+		""
+		"After building a portal frame with expensive materials, the passage stabilizes and can transmit matter and energy to the opposite side."
+		""
+		"This spacetime rift can be used to store massive amounts of matter and energy, and can be accessed anytime by pressing &2[O]&r."
+	]
+	quest.231B143C6EF85DEC.title: "Create a Gateway"
+	quest.243B01C643B96CE3.quest_desc: [
+		"Agriculture in Africa is underdeveloped, all we need is Jinkela (Golden Fertilizer)!"
+		""
+		"&bLarge amounts of rich soil are the foundation of massive tree farms and fields."
+		""
+		"&aOne possible idea: mass‑plant peanuts to obtain magic peanuts; when matured, they transform the dirt below into fertile soil."
+	]
+	quest.243B01C643B96CE3.title: "&6Challenge: Central Plains Soil"
+	quest.24F89412A0CB51C9.quest_desc: ["In semi‑yokai or full yokai form, you can trade with Cirno to obtain this—an inexpensive way to fly."]
+	quest.24F89412A0CB51C9.title: "Transform, become baka!"
+	quest.25367802991C24B4.title: "&6Baguette King"
+	quest.26B02D6AD87EBFE3.quest_desc: [
+		"&bCrystalline Flower&r can only be planted on Glistering Honey Crystal or Amethyst blocks. Feed it items (usually flowers) or experience, or throw items to generate XP orbs, to make it grow and level up (leave enough space)."
+		""
+		"Insert a book and spend sufficient levels, and the &bCrystalline Flower&r can roll any enchant obtainable from the enchanting table, including treasure enchants. Use this to obtain Printer templates."
+	]
+	quest.2756DACDBEDA2D65.quest_desc: ["&bGrants Swiftness III and Speed II."]
+	quest.2756DACDBEDA2D65.title: "&5Majo's Boots"
+	quest.27694D4475BD7343.quest_desc: [
+		"The territory mod used here is OPAC. You can claim chunks to protect them or keep them force-loaded."
+		""
+		"Press &a[M]&r to open the world map, right-click a chunk, then click “Claim this chunk” in the popup to make it yours."
+		""
+		"You can also drag with right-click to select multiple chunks at once."
+		""
+		"Alternatively, you can type &2 /openpac-claims claim&r or press &2 ' &r to claim the current chunk."
+		""
+		""
+		"{@pagebreak}"
+		"Once you have claimed a chunk, type &2 /openpac-parties create&r to make your team."
+		""
+		"To invite players to your team, type &2 /openpac-parties member invite [playername]&r."
+		""
+		"Or, players can join a team directly with &2 /openpac-parties join [teamID]&r."
+		""
+		"To set permissions for team members, type &2 /openpac-parties member rank [rank] [playername]&r."
+		""
+		"To kick a player from your team, type &2 /openpac-parties member kick [nickname]&r."
+		""
+		""
+		"{@pagebreak}"
+		"To give another player permission to operate in your claimed chunks, if they're in a different team, type &2 /openpac-parties ally add [playername]&r. (Note: if the player isn't in any team, this command won't work.)"
+		""
+		"To revoke a player's permission in your claimed chunks, just type &2 /openpac-parties ally remove [playername]&r."
+		""
+		"Players with ADMIN rights in the team can also use this command."
+		""
+		""
+		"{@pagebreak}"
+		"To leave a team, type &2 /openpac-parties leave&r."
+		""
+		"If you're the team creator, type &2 /openpac-parties destroy confirm&r to delete the team."
+		""
+		"To rename your team, type &2 /openpac player-config set parties.name [new name]&r."
+		""
+		"To rename your claimed chunk, type &2 /openpac player-config set claims.name [new name]&r."
+		""
+		"{@pagebreak}"
+		"[How does the team system work?]"
+		""
+		"In most cases, it's recommended that each player creates their own team, and only invite others when necessary."
+		""
+		"Here's how the team system works:"
+		""
+		"&2\"Team 1\"&r has only &2Player A&r. &6Player C&r uses the command to ally &2Team 1&r with &6Team 3&r. This means &2all players&r in &2Team 1&r can operate in chunks claimed by &6Player C&r. But &6Team 3&r does not automatically gain rights in &2Player A's&r chunks. Meanwhile, since &dPlayer B&r is in &dTeam 2&r and &6Player C&r didn't ally with &dTeam 2&r, &dTeam 2&r players cannot operate in &6Player C's&r chunks."
+		""
+		"However, if &2Player A&r and &2Player B&r are both in Team 1, then when &6Player C&r allies with any member of &2Team 1&r, &2all players&r in Team 1 gain rights in &6Player C's&r claimed chunks."
+		""
+		"&aTL;DR: &l&bIt's best if every player creates their own team&r. That way, when allying with other teams, you won't accidentally give permissions to strangers."
+	]
+	quest.27694D4475BD7343.title: "About the Territory System"
+	quest.2788E561AA51FCFA.quest_desc: [
+		"Waaah, you bad master!"
+		""
+		"When a maid dies, she drops film. You can use the altar ritual to revive her."
+		""
+		"If you obtained a shrine from loot chests, you can also place the film inside to revive the maid."
+	]
+	quest.2788E561AA51FCFA.title: "Film"
+	quest.289788DC6E24A8BF.quest_desc: ["Another grown‑up's drink, found in the Blooming Forest biome."]
+	quest.289788DC6E24A8BF.title: "Tea Leaves"
+	quest.289E57DF483EC37F.quest_desc: [
+		"Pour out soy milk, add bittern, and it will set into Silken Tofu Blocks. Break them to get silken tofu."
+		""
+		"Silken tofu can be crafted into tofu blocks; break those to get regular tofu."
+	]
+	quest.289E57DF483EC37F.title: "Tofu"
+	quest.29B240B3318659CD.quest_desc: [
+		"@the_bumblezone"
+		""
+		"&6The Bumblezone&r is one of the pack's few 'adventure' mods, providing abundant honey resources and solid endgame gear."
+		""
+		"Like Twilight Forest, Bumblezone progression relies heavily on advancements, so it's recommended to follow them in order."
+		""
+		"Throw an Ender Pearl into a beehive, or push yourself into one with a piston, to enter the Bumblezone."
+	]
+	quest.29B240B3318659CD.title: "&6The Bumblezone"
+	quest.29CD6AEDB27C6F3B.quest_desc: [
+		"Has a chance to appear in Ancient City loot chests."
+		""
+		"Friday (gold day in Japan) sign-in also has a chance to give it."
+	]
+	quest.29D813BD856740D6.quest_desc: ["The graduation spellbook of the Crimson school, more practical than the Necromantic Codex."]
+	quest.2A29BF889DAB625F.quest_desc: [
+		"You might ask: is this even possible? But yes, it really works."
+		""
+		"&aV6: Factory Gauge auto‑restock lapis + glow ink sacs. Brass chute or mechanical arm → evenly distribute. Hand‑craft one Beyond XP Bottle → output filtered with pipette + fluid interface (or smart fluid pipe). Super burn uses soybean oil. Enchanted book templates upgrade with ancient tome."
+	]
+	quest.2A29BF889DAB625F.title: "&6Advanced: Super XP"
+	quest.2A385A7B05BF4CC7.quest_desc: [
+		"Each piece of gear can be upgraded up to three times (ten times on servers). See JEI&e (press U on blank upgrade orbs)&r for all upgrade orb types."
+		""
+		"In the new version, they’ve become dirt cheap—no more worrying about mining until I’m sick!"
+	]
+	quest.2A6445C4802ADB00.quest_desc: ["The Salt Furnace consumes fuel to produce salt and bittern—faster than sun-drying."]
+	quest.2A6445C4802ADB00.title: "Salt Furnace"
+	quest.2AA009E37D6F719A.quest_desc: [
+		"Blood spells"
+		""
+		"Taking a bath in the alchemy cauldron."
+	]
+	quest.2B2EF5CF2C51C4FC.quest_desc: [
+		"&o&5Ordinary knowledge no longer satisfies you. You begin to seek forbidden knowledge…&r"
+		""
+		"Set up the right environment inside a Mob Cage, insert DNA, and the cage will automatically produce creatures. When they mature, right-click with a sword to obtain their drops."
+		""
+		"Normal Mob Cages are mainly used as DNA transfer stations to get spawn eggs, and then use natural spawners to produce entities."
+	]
+	quest.2B2EF5CF2C51C4FC.quest_subtitle: "Chapter Author: PL"
+	quest.2B2EF5CF2C51C4FC.title: "&6Bio Cage"
+	quest.2B791924FEC9F89C.quest_desc: [
+		"@createdeco"
+		""
+		"Create itself already adds many stone types; Create Deco expands the style to more blocks."
+	]
+	quest.2B791924FEC9F89C.title: "Blocks: Create Deco"
+	quest.2BB501958B2833D8.quest_desc: [
+		"Mechanical Hand: What, are you thinking about me?"
+		""
+		"&aOne possible approach: have the Mechanical Hand wield the Eternal Sword to kill a Warden; Wardens can be obtained via natural shriekers, spawners, or mob cages."
+		""
+		"&aAnother possible approach: use magic to kill directly."
+	]
+	quest.2C03FCA2B16B8B1C.quest_desc: [
+		"Key components for building mechanical arms and speed controllers."
+		""
+		"&aV5: Void chest → outputs gold ingots, iron nuggets, large + small gears → loop assembly."
+		""
+		"&aV6: Gold ingots → press module; Gold sheets + iron nuggets + gears → precision assembly module, fed by mechanical arm."
+	]
+	quest.2C03FCA2B16B8B1C.title: "&6Basic: Precision Mechanism"
+	quest.2C8F1A99BFB3944B.quest_desc: ["Put miso and tofu together in a wooden barrel, weigh it down with stones, and after some time you'll get Miso Tofu. A distinct flavor."]
+	quest.2C8F1A99BFB3944B.title: "Miso Tofu"
+	quest.2D8639FB72C3D3EF.quest_desc: [
+		"&bThis chapter supplements others, guiding mass production of basic resources for long‑term servers. Most items in this modpack can be replicated similarly."
+		""
+		"&bFor short saves, the previous chapter is the graduation point."
+		""
+		"&6This chapter assumes infinite lava and sufficient stress."
+		""
+		"&6V5 means Integrated machines, single machine completes multiple steps, andfixed outputs."
+		""
+		"&6V6 means Modular machines, each machine does one step, variable outputs and input as needed."
+	]
+	quest.2D8639FB72C3D3EF.quest_subtitle: "Chapter author: PL"
+	quest.2D8639FB72C3D3EF.title: "&6Veteran Engineer"
+	quest.2D8AD2C295B7BC56.quest_desc: ["Become a master of spells!"]
+	quest.2D8AD2C295B7BC56.quest_subtitle: "Chapter author: RubicA"
+	quest.2D8AD2C295B7BC56.title: "&6Is this the world of spells?"
+	quest.2D8D1B807CC0252D.quest_desc: ["Occasionally two kinds of soy grow on soul sand in the Nether, used for different tofu variants."]
+	quest.2D8D1B807CC0252D.title: "Whispers of the Nether"
+	quest.2DC9B6148BDF301E.quest_desc: [
+		"&bHopping Mob Cage&r automatically collects and outputs products into the container below, no manual collection needed."
+		""
+		"&bHopping Mob Cage&r can easily be embedded into Create production lines, serving as a stable source of certain mob resources."
+	]
+	quest.2DFAB27D6F5F1E6F.quest_desc: ["Probably the best kitchen knife you can get."]
+	quest.2DFAB27D6F5F1E6F.title: "Eggshell Knife"
+	quest.2E085F6E8F36F6C5.quest_desc: [
+		"A more advanced metal ingot."
+		""
+		"&aV5: Void chest → outputs copper + zinc → mix → brass. Blaze Furnace powered by lava."
+		""
+		"&aV6: Copper + zinc → heated mixer. Be careful not to run recipes having iron ingots at the same time."
+	]
+	quest.2E085F6E8F36F6C5.title: "&6Basic: Brass"
+	quest.2F59D8BC41533F8F.quest_desc: [
+		"As a high-oil crop, soy can be pressed for oil."
+		""
+		"&bSoybean oil is a premium fuel—pump it as fluid into a Blaze Burner to supercharge it."
+	]
+	quest.2F59D8BC41533F8F.title: "Soybean oil"
+	quest.2FC8B9077774C8BD.quest_desc: ["The Confession Stone can remove spells from weapons, or strip upgrades from gear combined with upgrade orbs."]
+	quest.2FC8B9077774C8BD.title: "The Other Side Retracted a Spell"
+	quest.2FD7C5E21DB6BB22.quest_desc: [
+		"&o&5You're not satisfied with ordinary items, you pursue unique materials to forge legendary weapons…&r"
+		""
+		"Lightland offers many special materials, each with unique acquisition methods."
+		""
+		"&bAll of these materials can be obtained in pure vanilla; but using other mods can greatly simplify or even mass-produce them."
+		""
+		"&aCommon mob farming method: use cages to get spawn eggs, summon mobs, extract DNA, place DNA back in cages to get spawn eggs again. Or move spawners."
+	]
+	quest.2FD7C5E21DB6BB22.quest_subtitle: "Chapter authors: Wu_Zang, PL"
+	quest.2FD7C5E21DB6BB22.title: "&6Lightland"
+	quest.3055C4CD3D0320C5.quest_desc: [
+		"To obtain DNA, you need a DNA Sampler. Different materials allow extraction from different creatures."
+		""
+		"Samplers can be reused."
+	]
+	quest.30716ECA379E398E.quest_desc: [
+		"Place a drying rack under sunlight to use nuclear energy to remove moisture from items."
+		""
+		"A steamer, on the other hand, cooks food while retaining moisture. It must sit on a pot of water, can be stacked upward, and should be topped with a steamer lid."
+	]
+	quest.30716ECA379E398E.title: "Changing Moisture"
+	quest.30734C65BE074249.quest_desc: [
+		"The basket can suck in items within range of its opening, hold water, and even works upside‑down!"
+		""
+		"Often used as a hopper replacement."
+	]
+	quest.3083F6DC1ABD0CB1.quest_desc: ["A Storage Controller links drawers within range. Input to the controller gets auto‑distributed, enabling transport and sorting setups."]
+	quest.30D32B907A3C1F53.quest_desc: [
+		"Place organic fertilizer in the world, and after some time it naturally decays into fertile soil."
+		""
+		"Decay speeds up in sunlight or near water. Mushrooms and other catalysts can also accelerate decomposition."
+		""
+		"Crops on rich soil grow as if bone‑mealed, super fast! In darkness, mushrooms planted there will grow into colonies."
+		""
+		"[INFO] Harvesting peanuts will get magic peanuts, which when grown transform the dirt below into fertile soil."
+	]
+	quest.30D32B907A3C1F53.title: "Rich Soil"
+	quest.31C58317C4B824B1.quest_desc: [
+		"&bPotion Candles&r, when lit, grant effects to nearby entities. Effects are determined by up to five potions inserted during crafting. Multi-effect setups can be refreshed by removing and reinserting potions."
+		""
+		"More bottles of the same potion extend duration; splash potions add +2 range; lingering potions double effect duration on entities."
+		""
+		"&bPotion Candles&r can provide a stable Resistance IV source, making &bResonant Feather&r acquisition easy."
+	]
+	quest.31E4A4EA0AEB5A5D.quest_desc: [
+		"There seem to be fragments on the other side, apparently dropped when the rift was broken, and they continue to increase over time."
+		""
+		"These fragments contain spacetime energy and seem to be usable."
+	]
+	quest.31E4A4EA0AEB5A5D.title: "Crystals of Spacetime"
+	quest.326A5AFAC46AD0DD.quest_desc: ["Found everywhere in adventures, isn't it?"]
+	quest.32F4FF7EBEAA890E.quest_desc: ["Edamame Gems are hard currency on the Tofu Planet. Trade them with Tofu Chefs and Merchants for rare tofu types."]
+	quest.32F4FF7EBEAA890E.title: "Curious gem"
+	quest.338AA5DA729061A9.quest_desc: ["The Kappa's Compass defines a maid's work area. After setting coordinates, right-click the maid; in HOME mode she will move between them."]
+	quest.338AA5DA729061A9.title: "Kappa's Compass"
+	quest.345578A1C453EA9B.quest_desc: ["Material trait: full Sculk set silences player sounds. A material focused on speed."]
+	quest.3556E83C59F136A6.quest_desc: ["Place tofu blocks at Y≥50 with light level <10 (freezing conditions). After a while, they turn into Frozen Tofu Blocks. A northeastern classic."]
+	quest.36DC8B1604C69DEC.quest_desc: ["Burning conversion: various ‘Soul' items (see JEI)."]
+	quest.37311212A4BB2069.quest_desc: ["Crafted with glass bottles and phantom membranes."]
+	quest.3759486D4113C11A.quest_desc: ["Gap allows maids to store items directly into chests, saving you from manually retrieving them."]
+	quest.378D3CC29AE2D546.quest_desc: [
+		"This starter chapter is designed for players new to mods, guiding early progression and common basics."
+		""
+		"These mods can be completed without relying on others, and they help reduce difficulty in later mods."
+		""
+		"If you struggle with Create's production lines, check &5Veteran Engineer&r."
+	]
+	quest.378D3CC29AE2D546.title: "&eStarter Chapter Overview"
+	quest.3839C2F3EEA2FC3D.quest_desc: [
+		"&aIdea: Collect sculk veins + sculk blocks with amethyst drill. Reinforced bone shards → kill Warden with mechanical arm, or use Eternal Sonic Blaster to get Resonant Feathers."
+		""
+		"&aThis material isn't used much, so even Iron's spellbooks are fine."
+	]
+	quest.3839C2F3EEA2FC3D.title: "&6Advanced: Sculk Ingot"
+	quest.3897291F3DB557E4.quest_desc: ["The alchemy pot is complex to use. Please see MC Wiki for detailed instructions."]
+	quest.39AA9ECE37675256.quest_desc: ["Found in Ancient City loot chests."]
+	quest.39C2070939F19CD6.quest_desc: ["Unique spellbook!"]
+	quest.3A00B7132AF9AA43.quest_desc: ["Has 8 slots and some buffs."]
+	quest.3A4F161688C43FAC.quest_desc: [
+		"To make bread, you first need yeast. Place three portions of &3whole wheat flour&r and a bottle of water into a fermenting jar. After some time it becomes yeast, which can be collected with a glass bottle."
+		""
+		"You can also obtain yeast by trading with a baker."
+	]
+	quest.3A4F161688C43FAC.title: "Baker's Beginning"
+	quest.3A76829D4533A822.quest_desc: ["Char the surface of silken tofu to make Grilled Tofu—richer layers of texture."]
+	quest.3A76829D4533A822.title: "Karaage Tofu"
+	quest.3ADB1EA83AC6C6F5.quest_desc: [
+		"@ultramarine"
+		""
+		"Ultramarine provides many interior and exterior blocks for Chinese-style architecture."
+	]
+	quest.3ADB1EA83AC6C6F5.title: "Comprehensive: Ultramarine"
+	quest.3AF744C7CBA0E12C.quest_desc: ["You can upgrade gear by combining it with upgrade orbs, or infuse spells."]
+	quest.3B0EBC9A75AE9AC6.quest_desc: [
+		"Hold food in your off‑hand, then right‑click a heat source with the frying pan to heat it."
+		""
+		"You can also place the pan on a heat source and put food directly on it."
+		""
+		"It can even be used as a weapon!"
+	]
+	quest.3B335F2F37D87985.quest_desc: ["&aObviously, these materials can all be mass‑produced with mob cages."]
+	quest.3B335F2F37D87985.title: "&6Basic: Biomaterials I"
+	quest.3CB8557724F54D36.quest_desc: ["The main way to get straws is cutting grass with a knife. You can also crush oats or peel bamboo blocks."]
+	quest.3CB8557724F54D36.title: "Straws"
+	quest.3CF891C9B8918248.quest_desc: [
+		"This pack includes SVC voice chat. Press &a[F10]&r to adjust voice call options."
+		""
+		"The music command is &2/music&r. (But cannot use out of China Mainland.) To adjust volume, change the jukebox sound settings."
+	]
+	quest.3CF891C9B8918248.title: "About Voice Chat \\& Music"
+	quest.3CFE04B652D56747.quest_desc: ["Soul fragments of the Echo of Tyros, capable of unleashing the true power of ancient weapons."]
+	quest.3D2C042623ED2D26.quest_desc: [
+		"&bIf you have spare Eternal Ingots, try your luck drawing Eternal enchanted books."
+		""
+		"&bIf you don't trust your luck, better craft them directly."
+	]
+	quest.3D2C042623ED2D26.title: "&eEnchanted Book: Eternal"
+	quest.3D6DEDFC188FD35A.quest_desc: [
+		"The shrine maiden is delighted and gives you her ribbon."
+		""
+		"&bActivates creative flight. Danmaku damage pierces magic defense."
+		""
+		"&aIf you lose the ribbon, you can claim another here."
+	]
+	quest.3D9FD800CA15B82A.quest_desc: ["Item Magnet expands the pickup range of maids."]
+	quest.3E003F4BD63182F4.quest_desc: ["Probably the most well‑rounded wand overall."]
+	quest.3EF0DFF0442CBF6A.quest_desc: [
+		"Player: Do you dare defy me with 80 HP and full Blast Protection VI?"
+		"End Crystal: ?!"
+		""
+		"&aOne possible approach: TNT duplication, use water streams to align TNT with the player."
+	]
+	quest.3F5D1EBC9926E424.quest_desc: ["Straws can be crafted into many useful things, one of which is organic compost—the precursor to rich soil."]
+	quest.3F5D1EBC9926E424.title: "Organic Compost"
+	quest.3F9AEF0173E0E139.quest_desc: [
+		"With these four blocks, you can reach the Void dimension or the Mining dimension. Build machines or mine there without damaging the Overworld."
+		""
+		"&e[WARN]&bIt's recommended to build all machines in the Void or Mining dimension to avoid lag from heavy rendering in the Overworld."
+	]
+	quest.3F9AEF0173E0E139.title: "Void \\& Mining"
+	quest.3FE1E7E6127BA18A.quest_desc: [
+		"To become a pastry chef, a mixer is essential."
+		""
+		"&bMost ingredients from this mod have been replaced; you can obtain them through other mods' methods."
+	]
+	quest.3FE1E7E6127BA18A.quest_subtitle: "Chapter Author: PL"
+	quest.3FE1E7E6127BA18A.title: "&6Mixer"
+	quest.405DB820DFD68073.quest_desc: ["Any door!"]
+	quest.405DCF35DAB526A7.quest_desc: [
+		"The advanced chapter is prepared for players unfamiliar with certain mods, guiding their general progression."
+		""
+		"Because they involve hostile mobs or have &6very convoluted&r progression, these mods are somewhat difficult. Skillful use of mods from the basic chapter can reduce the frustration."
+		""
+		"If you find these chapters difficult to complete, try:"
+		"1. Eat more varieties of food to increase max health."
+		"2. Collect more Artifacts to boost special attributes."
+		"3. Try using Create machinery to skip progression."
+		"4. Let Touhou maids help you fight mobs."
+		"5. First complete the &aRusty Spell Mage&r chapter."
+	]
+	quest.405DCF35DAB526A7.title: "&6Advanced Chapter Overview"
+	quest.40D04551E0C26956.quest_desc: ["A better brush!"]
+	quest.40D04551E0C26956.title: "Sniffer Fur Brush"
+	quest.4111E0E454FBAFD4.quest_desc: ["Every mage dreams of close‑quarters combat."]
+	quest.4143434516688D4A.quest_desc: ["Harvest soy at 71% (5/7) or 86% (6/7) growth to get edamame. Edamame crafts a range of foods."]
+	quest.4143434516688D4A.title: "Edamame"
+	quest.418FD9208EACED50.quest_desc: ["After drinking every type of coffee, you surely have your own favorite."]
+	quest.418FD9208EACED50.title: "Bitterness and Sweetness"
+	quest.4191AEBD1B29DCF9.quest_desc: [
+		"To set these two soy milks, you need two strange fluids: Crimson Fluid and Warped Fluid."
+		""
+		"Note: Crimson Fluid sets Soul Soy Milk; Warped Fluid sets the other—vice versa."
+	]
+	quest.4191AEBD1B29DCF9.title: "Strange bitterns"
+	quest.419F499637503932.quest_desc: ["50% chance to drop after killing the King of the Dead."]
+	quest.42071A0396EC87B1.quest_desc: ["Jack‑of‑all‑trades set."]
+	quest.42071A0396EC87B1.title: "Battle Mage Set"
+	quest.421D9CF64D6A54B5.quest_desc: ["Basic acceleration chip, materials are easy to obtain."]
+	quest.42E9A82559E40421.quest_desc: ["Just a decoration."]
+	quest.42EA5EB994963155.quest_desc: ["Once bound, any player can access the network, regardless of membership."]
+	quest.4367C371690FE9A3.quest_desc: ["With the Ring of Invisibility, you can see outlines of mobs with invisibility buffs."]
+	quest.4367C371690FE9A3.title: "Eh, See‑Through Isn't It"
+	quest.43779E819BF3A6AD.quest_desc: ["This chapter is for builders, briefly introducing the architectural styles of different mods."]
+	quest.43779E819BF3A6AD.quest_subtitle: "Chapter Author: PL"
+	quest.43779E819BF3A6AD.title: "&6Architect's Design Book"
+	quest.4397B27C24F91911.quest_desc: [
+		"Iron's Spellbook: Whatever, I'll act."
+		""
+		"&aOne possible approach: splash a turtle potion on chickens to distract the Warden, or use a sonic blaster. If Holy Protection gives enough HP, that works too. After obtaining the sonic blaster, use potion candles for resistance buffs."
+	]
+	quest.4467498CEB84DCAC.quest_desc: [
+		"Lightning spells"
+		""
+		"Charged creepers can be spawned via Maid Mod altar, or by using lightning spells."
+		""
+		"Use rapid clicking to obtain quickly."
+	]
+	quest.447BAA06097CC83E.quest_desc: ["Stone Fox statues guard sacred grounds, preventing fairy maids from respawning within range."]
+	quest.447BAA06097CC83E.title: "Stone Fox Statue"
+	quest.455157F7DC03EBFA.quest_desc: ["Looks like you’re really bored, here’s a TV for you to watch."]
+	quest.455157F7DC03EBFA.title: "&6Hidden: Tech Modpack?"
+	quest.4637C59930D18D82.quest_desc: ["You drunkard—how can you drink so much!"]
+	quest.4637C59930D18D82.title: "Dead Drunk"
+	quest.4738679DBA67CF2A.quest_desc: [
+		"50% drop chance after defeating the Echo of Tyros."
+		""
+		"What, you say you can’t beat him? Just give him some vodka!"
+	]
+	quest.476CE657941C95AC.quest_desc: ["Material trait: extremely hard, reduces at most 1 durability per hit. A material focused on range."]
+	quest.479E62299601502D.quest_desc: ["A world of tofu and soy milk—everywhere. Are there any other creatures?"]
+	quest.489F3886EDDB830A.quest_desc: [
+		"Whoa—after eating this mysterious meat you feel so strange!"
+		""
+		"&bWhile under this effect, monster‑meat dishes give double hunger and saturation. Eating more monster‑meat dishes extends the effect by 1 minute each. If held in the Nether, a Koishi phone event may occur."
+	]
+	quest.489F3886EDDB830A.title: "Beware of Reimu"
+	quest.48B5C9817AAB805E.quest_desc: [
+		"@youkaishoming"
+		""
+		"@sakura"
+		""
+		"Adds Japanese-style building blocks and furniture."
+	]
+	quest.48B5C9817AAB805E.title: "Blocks \\& Interiors: Youkai's Homecoming \\& Sakura"
+	quest.4A182A18C1276104.quest_desc: ["Craft your scrolls at the Scroll Scribing Table. Place ink, paper, and the proper medium from left to right."]
+	quest.4A182A18C1276104.title: "Artificial Scrolls"
+	quest.4A1E7A8BA0DE309D.quest_desc: ["A bit better than the beginner's spellbook!"]
+	quest.4A8236B3F4896489.quest_desc: [
+		"@dramaticdoors"
+		""
+		"Adds tall doors and short doors. Create-style doors are included too."
+	]
+	quest.4A8236B3F4896489.title: "Exterior: Dramatic Doors"
+	quest.4B474602C7639F0A.quest_desc: ["The Gohei is a shrine maiden's symbol. It can activate the altar for rituals or fire danmaku."]
+	quest.4B474602C7639F0A.title: "Gohei"
+	quest.4BD903252A91F4B2.quest_desc: ["Automatically extracts food from the bound network to feed the player. After use, open the menu to set working mode and filters."]
+	quest.4C2C3E806258FA45.quest_desc: ["Put milk and salt into a fermenting jar; after some time it becomes cheese, right-click to collect."]
+	quest.4C2C3E806258FA45.title: "Cheese Block"
+	quest.4C79361EA6ACB01B.quest_desc: ["Simulated arrows, only used to produce music discs."]
+	quest.4C8C39B1C7E5BBAF.quest_desc: ["Bottling soy milk makes it much easier to drink."]
+	quest.4C8C39B1C7E5BBAF.title: "Bottling"
+	quest.4C9447A7A4986592.quest_desc: [
+		"Using a wand makes casting easier! Right‑click to release the selected spell."
+		"&4(Wands also provide some positive buffs)"
+	]
+	quest.4C9447A7A4986592.title: "Staff"
+	quest.4C9AC79E0ED97925.quest_desc: ["Overall, Poseidon blocks are time-consuming. It's recommended to build multiple cages and add upgrades."]
+	quest.4D6417BAD3850CC3.quest_desc: ["&bGrants Water Breathing IV and Regeneration IV."]
+	quest.4D6417BAD3850CC3.title: "&5Majo's Hat"
+	quest.4D918C3B0188F47D.quest_desc: [
+		"Place items on it, then use the specified tool to process them."
+		""
+		"Hold the item in your off‑hand and the tool in your main hand, then right‑click quickly to chop food fast."
+	]
+	quest.4D99382DDE53E4C7.quest_desc: [
+		"Compared to traditional paths, the Tuff route yields four common ores at once, making it better for ore acquisition."
+		""
+		"&aV5: Tree farm → drawers → select logs. Logs → cut twice → planks → burn → ash. Cobblestone generator → cobblestone. Ash + cobblestone → mix → tuff → crush → four ore nuggets → compression drawers."
+		""
+		""
+		"&aV6: Cobblestone generator + basalt generator → heated mixer module; Tuff → crusher module."
+	]
+	quest.4D99382DDE53E4C7.title: "&6Basic: Tuff Production Line"
+	quest.4DD5AFB40ECD9EFA.quest_desc: [
+		"Ugh, my head hurts!"
+		""
+		"&bWhen worn, grants continuous semi‑yokai form. Killing zombies, skeletons, piglins, or wither skeletons always drops their heads."
+		""
+		"&aIf you lose the headband, you can claim another here."
+	]
+	quest.4DD5AFB40ECD9EFA.title: "Lost Memory"
+	quest.4E7249E53AABD432.quest_desc: ["Put soy in a barrel with water and grind to obtain soy milk."]
+	quest.4E7249E53AABD432.title: "Soy milk? Soy drink?"
+	quest.4E9AFE7056CDA7B4.quest_desc: ["Can be found in loot chests or traded from wandering merchants."]
+	quest.4EB746F3EBE38224.quest_desc: ["When you discover an Ancient City…"]
+	quest.4F95CEB38DA8E48E.quest_desc: [
+		"&8Soybeans are the most basic material in Gensokyo, used to craft many items. Wild soybeans can be found in swamps; pick the pods and split them to get soybeans.&r"
+		""
+		"&aWith research into the mysterious soybeans of the Soymilk Star, people realized they are essentially the same as Gensokyo soybeans. They are easier to plant and yield more, gradually replacing the wild variety."
+	]
+	quest.4F95CEB38DA8E48E.title: "Soybeans"
+	quest.5092E0A0A84C2C00.quest_desc: [
+		"A must‑have step in V6 modular automation. V5 can ignore this task."
+		""
+		"&aV6: Build a water‑fed mixer. Saplings + water → mix → paper → press → cardboard → press → cardboard block → mechanical crafting → packager."
+	]
+	quest.5092E0A0A84C2C00.title: "&6Basic: Packager"
+	quest.50BF4BFD465E2D22.quest_desc: ["50% chance to obtain after defeating the King of the Dead."]
+	quest.5164A50FADE97246.quest_desc: [
+		"Sniffers periodically dig up ancient seeds from mossy mud and other blocks. Different biomes yield different seeds."
+		""
+		"Evolutcorn: Plains, plant on farmland. Normal one."
+		""
+		"Pearlip: Jungle, plant on dirt. Could be harvested repeatedly."
+		""
+		"Himekaido: Forest, plant on dirt farmland. Normally a shrub, but when on moist dirt farmland, bone meal makes it a tree."
+		""
+		"Leisamboo: River, plant on dirt one block below water surface."
+		""
+		"Kwat Wheat: Crimson Forest, plant on farmland, soul soil, or soul sand. Be careful, don't touch it!"
+		""
+		"{@pagebreak}"
+		""
+		"Warped Laurel: Warped Forest, plant on farmland. Normal one."
+		""
+		"Travarice: Meadow or Mountain biomes, plant on dirt farmland. This plant grows very tall, so make sure there's enough vertical space."
+		""
+		"Gelpitaya: Ice Spikes, plant above cactus. Be careful not to let it be destroyed by the cactus."
+		""
+		"A'bush: Nether Wastes, plant on Nether Rock. Mature A'bush plants will turn into A'bush Wood if placed in a lava source."
+		""
+		"Alfalfa, Torchflower, Pitcher Plant: All biomes, plant on farmland."
+	]
+	quest.5164A50FADE97246.title: "Ancient Seeds"
+	quest.51D4F811BA4F635A.quest_desc: ["Clamp tofu between cobblestone, stone (or bedrock), etc. After a while, it becomes Stone Tofu Blocks, used for weapons, armor, and tools."]
+	quest.51D4F811BA4F635A.title: "Rock-hard tofu"
+	quest.51F7E58EACE3BE61.quest_desc: [
+		"After consuming &bEssence of the Bees&r, use a Structure Compass to locate the &6Sempiternal Sanctums&r."
+		""
+		"The &6Sempiternal Sanctums&r has six colors, each with distinct challenges and rewards. Challenge timers run at one-third real time."
+		""
+		"&4Red&r: 400s to defeat 100 mobs. Recommendation: Iron's Spellbook."
+		""
+		"&eYellow&r: Fly through 100 black rings within 270s. Recommendation: attempt after obtaining flight."
+		""
+		"&bBlue&r: Defeat 50 mobs underwater within 500s. Recommendation: Water Breathing potion or helmet, Boiled Pickerelweed, and diving goggles."
+		""
+		"&aGreen&r: Bat mudballs back 30 times within 300s; throwing your own is allowed. You can only hit while standing on the platform, and mudballs will knock off equipment. Bring plenty to deal damage. Green essence helps cultivate rare crops."
+		""
+		"&5Purple&r: Dodge spikes for 270s; flight is forbidden. Recommendation: use F5 (Kenadian: I used F5), bring enough food and digestion aids for fast healing."
+		""
+		"White: Kill 6 Cosmic Crystals within 500s with damage limits. Recommendation: Iron's Spell Chain Lightning."
+	]
+	quest.51F7E58EACE3BE61.title: "Enter the Sempiternal Sanctums"
+	quest.52E26074C74E2395.quest_desc: [
+		"@railways"
+		""
+		"Adds railway components, various tracks, and train exteriors."
+	]
+	quest.52E26074C74E2395.title: "Trains: Steam ‘n Rails"
+	quest.52FF2A3A88600687.quest_desc: ["Place grapes inside and stomp them to obtain grape juice. Collect it with a glass bottle or large bottle."]
+	quest.52FF2A3A88600687.title: "Witch Who Stomps Grapes"
+	quest.53048C6A3F15B214.quest_desc: ["A shabby extendable mechanical hand. Its original purpose was stirring soup in the pot."]
+	quest.5481330BCE335975.quest_desc: [
+		"How did you defeat her? Did you use some underhanded trick!"
+		""
+		"&bThis thing is so useless…"
+		""
+		"&aIf you lose it, you can claim another here."
+	]
+	quest.5481330BCE335975.title: "Red Murderer"
+	quest.5502902A322A43A6.quest_desc: ["Pour cake batter into a mold, bake at 170°C in the oven, then place the mold on a table and right-click to unmold."]
+	quest.5502902A322A43A6.title: "Bake in Mold"
+	quest.550432EFAD824831.quest_desc: [
+		"For the same player, Dimensional Backpacks of the same color share a single space. If yours is lost, just craft another."
+		""
+		"A Dimensional Backpack binds to the first player who opens it. You can share the backpack so others can use your space."
+		""
+		"You can also put backpacks inside a Dimensional Backpack."
+	]
+	quest.550432EFAD824831.title: "Dimensional Backpack"
+	quest.552017E66367F202.title: "Legendary Ink!"
+	quest.554DD24BDBB01B3F.quest_desc: ["Hold Echo Shards in your off‑hand and a Tofu Horn in your main hand, then blow at a Tofu Spider to turn it into a Stinky Tofu Spider. Defeat it to obtain Sculk Tofu Bones, which can be used to forge higher‑performance gear."]
+	quest.556BC9C5DABA8F85.quest_desc: ["This modpack adds a recipe for empty soul spells, making it easy to store summoned maids."]
+	quest.556BC9C5DABA8F85.title: "Empty Soul Spell"
+	quest.55920FDF96465686.quest_desc: ["Trade with wandering merchants. In theory you can carry 8 Rings of Repetition, replacing 24 cooldown orbs."]
+	quest.55C9E55BF95DA6E8.quest_desc: [
+		"Sneak + right-click with empty hand to bind to the dimension network the current player is in. Dimension network administrators can sneak + right-click with empty hand to unbind."
+		""
+		"The network interface has 27 marker slots and 27 storage slots. It can use pipes from other mods for input/output and can store any resource type supported by the dimension network. Breaking it drops a compressed matter sphere containing its contents and the block itself."
+		""
+		"Each tick, the network interface attempts to return items in storage slots that don’t match markers back to the network, and pulls marked items from the dimension network into corresponding slots. Every 9 ticks, if popup mode is enabled, the interface ejects marked items into surrounding valid blocks."
+		""
+		"The network pump can actively extract resources from containers on its six sides into the dimension network, once every 10 ticks. Each extraction has no rate limit and can theoretically empty the entire target container. It can extract any resource type supported by the network. It has filter slots for whitelist/blacklist settings."
+	]
+	quest.5645CEF5EA702B9B.quest_desc: ["Thunder god, aid me!"]
+	quest.5655DA88F6ED0975.quest_desc: [
+		"A heat source that won't be extinguished by water or rain, works like a campfire for cooking."
+		""
+		"Some kitchenware must be placed on a stove to function."
+	]
+	quest.570626EC269040A9.quest_desc: ["Soul spells can release or recall maids."]
+	quest.570626EC269040A9.title: "Soul Spell"
+	quest.577F7825C29BFD78.quest_desc: ["In version 1.20 of Iron's Spellbooks, combining two identical scrolls on an anvil to upgrade was removed. Max‑level spells can now only be made at the scribing table using legendary ink. &b(Even lucky players can get them!)"]
+	quest.578E88E25201A887.quest_desc: ["The Enchantal Cooler extracts the essence of ingredients. It requires lapis as an energy source."]
+	quest.578E88E25201A887.title: "Enchantal Cooler"
+	quest.57ADD902C93C0D93.quest_desc: ["Increases rare drop quantity, though usually less effective than efficiency upgrades II."]
+	quest.589B036897FCA3C7.quest_desc: [
+		"Trap a Ghast, then kill it with Soul Fire Charge."
+		""
+		"&aOne possible approach: just kill directly."
+	]
+	quest.58B5652244287CAC.quest_desc: [
+		"A cooking pot specialized for Japanese cuisine."
+		""
+		"The pot needs a heat source below (campfire, Farmer's Delight stove, etc.) to function. Use fluid bottles (or buckets) to input fluids."
+		""
+		"You can also automate with Create to input items and fluids."
+	]
+	quest.58B5652244287CAC.title: "Japanese Cooking Pot"
+	quest.59460BB0454B5ED2.quest_desc: ["Maids can also manage storages, which is very effective for large messy storage."]
+	quest.59460BB0454B5ED2.title: "Maid Storage Manager"
+	quest.596640E572366085.quest_desc: [
+		"Koishi seems to like you this way and wants to play together. As thanks, she gives you her beloved Mr. Hat, which helps you avoid other yokai."
+		""
+		"&bProvides continuous Unconscious effect, and using red or blue danmaku consumes nothing."
+		""
+		"&aIf you lose Mr. Hat, you can claim another here."
+	]
+	quest.596640E572366085.title: "Play with Koishi!"
+	quest.59C65D9F40BA247A.quest_desc: [
+		"Take off!"
+		""
+		"&aOne possible approach: in rain, use a Riptide III (IV is better) trident, dive from snow level to accelerate flight."
+	]
+	quest.5A06F1B71F72D30E.quest_desc: [
+		"The wearer must have an 'Ender Spell Power' attribute value of at least 1.25 (base value is 1, meaning a 25% increase) for this accessory to function properly. Once the condition is met, the item description changes to: Gain 3 seconds of evasion after teleporting."
+		""
+		"When equipped in the necklace slot, using Blink/Teleport, Blood Step, or other teleportation spells grants 3 seconds of evasion."
+		""
+		"If the usage condition is not met, equipping this item will instantly remove it from the necklace slot and teleport it to a nearby location. However, if you equip it while meeting the condition, it will continue to function normally even if your Ender Spell Power later decreases, and it will not teleport away."
+	]
+	quest.5A0C02536739C87C.quest_desc: ["Burning conversion: emeralds or emerald blocks."]
+	quest.5B919F3D0293697A.quest_desc: [
+		"Crystal Drawers store massive amounts of one item without NBT."
+		""
+		"Tier 1 holds 64 stacks. Capacity Upgrades add 64 stacks per upgrade."
+		""
+		"Crystal Drawers support the same interaction logic as backpacks."
+	]
+	quest.5C6D1E54C18D9718.quest_desc: ["10 slots"]
+	quest.5C9EE3F5BBE4BF4C.quest_desc: ["You have mastered the secrets of magic—let us celebrate the birth of a new king!"]
+	quest.5CDA3CEC0DBF1E80.quest_desc: [
+		"Barrels are great as storage mounted to moving contraptions."
+		""
+		"For truly large volumes, use Functional storage."
+	]
+	quest.5CECF64A1B7BECE5.quest_desc: ["These accessories are all combat-related, giving maids different effects."]
+	quest.5CECF64A1B7BECE5.title: "Fight! Fight!"
+	quest.5D1473E56B6358EE.quest_desc: ["&aIdea: Prismarine dust from crushing cages. Or soul‑bound sand → wash → quartz."]
+	quest.5D1473E56B6358EE.title: "&6Basic: Nether Quartz"
+	quest.5E6DB02441CA7C01.quest_desc: [
+		"Besides melee by the player, there seem to be many possible execution methods under the void?"
+		""
+		"&aOne possible approach: tripwire detects Enderman falling, TNT drops to kill it. Or use shulkers to build a void platform, then kill with water bottles."
+		""
+		"&aAnother possible approach: programmable gearbox + kinetic bearing, rotate a mob farm platform 180° into the void. &b@icewater冰水&r"
+	]
+	quest.5E8AEDBC3ADBB41A.quest_desc: ["As the name suggests, expands maid inventory space and provides special functions."]
+	quest.5FAD824F3CC63EA0.quest_desc: [
+		"Has the gaudy charm of a nouveau riche."
+		""
+		"&aOne possible approach: caged Diamond Warlord or mining machine."
+	]
+	quest.5FAD824F3CC63EA0.title: "&6Challenge: Nouveau Riche"
+	quest.5FBD09031EB9D4F0.quest_desc: [
+		"Loves the master the most!"
+		""
+		"&bTo reach 100 HP, you need max affection + lightning strike. Maid affection increases through sleeping or playing."
+	]
+	quest.606863B6410C1516.quest_desc: [
+		"These items are all used to find or recall maids."
+		""
+		"You crafted them all—clearly you had plenty of free time."
+	]
+	quest.606863B6410C1516.title: "Finding Maids"
+	quest.6099E2DE1A3DE1C0.quest_desc: ["As a pastry chef, how could you not have your own bread knife?"]
+	quest.6099E2DE1A3DE1C0.title: "Bread Knife"
+	quest.60D9140A16CBC68B.quest_desc: ["With the Illusion Moon Lamp, cultivating Udumbara becomes much easier."]
+	quest.60D9140A16CBC68B.title: "Eternal Moon"
+	quest.60DB0DB5F9E9EF00.quest_desc: [
+		"As the name implies, the Ender Backpack accesses your Ender Chest; it also behaves like a backpack and can pull items normally."
+		""
+		"You can nest a Space Backpack inside the Ender Backpack. An ideal warehouse is Ender Backpack → Space Backpack → Backpack → Box, storing up to 1 billion items and auto‑categorizing 31,104 item types."
+	]
+	quest.60DB0DB5F9E9EF00.title: "Ender Backpack"
+	quest.6173E8F5CA64472F.quest_desc: [
+		"@nightlights"
+		""
+		"Adds various decorative toy lights."
+	]
+	quest.6173E8F5CA64472F.title: "Lighting: Night Lights"
+	quest.619FE19299AC0E38.quest_desc: ["&aAlso mass‑producible via mob cages, though these DNAs are harder to obtain."]
+	quest.619FE19299AC0E38.title: "&6Basic: Biomaterials II"
+	quest.629C486E4653B112.quest_desc: [
+		"&aLeather + ender pearls → mob cages. Explosive Shard → TNT duplication. Anvil → mechanical crafting."
+		""
+		"&aXP particles from diamond high‑pressure route or Silverfish XP machine → Factory Gauge → feed into Disenchanter → liquid XP → Printer → duplicate enchanted books. "
+		""
+		"&bEnchanted book templates can be obtained via villager trades or Honey Crystal Flowers in the Wasp Dimension."
+	]
+	quest.629C486E4653B112.title: "&6Advanced: Eternal Ingot"
+	quest.62FDDE2E746B4B61.quest_desc: [
+		"The Brewing Barrel is mainly used for soy sauce, vinegar, sake, and other common Japanese ingredients."
+		""
+		"You can input fluids with bottles/buckets or automate with Create."
+	]
+	quest.62FDDE2E746B4B61.title: "Brewing Barrel"
+	quest.630E16887F94C17E.quest_desc: [
+		"Add yeast, flour, and other ingredients into the mixer. After mixing and fermenting, you'll get dough."
+		""
+		"Different breads require different dough recipes."
+	]
+	quest.630E16887F94C17E.title: "Make Dough"
+	quest.63F22966BE982954.quest_desc: [
+		"P points can be used to fire danmaku, perform rituals, repair gear with Mending, or stored in shrine lanterns to buff maids. They can be found in structure chests."
+		""
+		"Note: players have a cap on P points. Store extras in shrine lanterns."
+	]
+	quest.63F22966BE982954.title: "PPT"
+	quest.640365359E108156.quest_desc: ["A fairly balanced transitional wand."]
+	quest.640C90E018A28AA3.quest_desc: [
+		"Cake base can already be eaten, but to make a cake it needs further processing."
+		""
+		"Slice the cake base with a bread knife, place on a table, then layer in order: cake slice – cream – cake slice – cream – sweet berries, to make a cream cake."
+	]
+	quest.640C90E018A28AA3.title: "Cake Assembly"
+	quest.64326EA00C211D2E.quest_desc: [
+		"Elder Guardians kept cursing sailors with debuffs, so they got struck by lightning."
+		""
+		"&aOne possible approach: use a Maid Altar to summon lightning."
+	]
+	quest.647F13AC6ECD737F.quest_desc: [
+		"&6Cell Maze&r isn't required for progression, but contains many items you'll need later."
+		""
+		"Use a Structure Compass to find the &6Cell Maze&r. Before entering, craft a &bFlower Headwear&r to resist Bee Aggression."
+		""
+		"Loot containers in the &6Cell Maze&r are &bHoney Cocoon&r. Silk Touch preserves contents; but &aif a honey cocoon is a loot chest&r, breaking it &aimmediately loses&r its items. Don't use honey cocoom as storage."
+		""
+		"Prioritize collecting &bStinger Spears&r, &bHoney Crystal Shards&r, and &bBumble Bee Armor&r from armor stands."
+		""
+		"&6Cell Maze&r is also a great source of flowers, especially rare ones with unknown biomes."
+	]
+	quest.647F13AC6ECD737F.title: "Enter the Cell Maze"
+	quest.65CC45EBB57D9EDD.quest_desc: ["These spellbooks are very easy to craft. If you're eager to cast, make them for temporary use. &4(There's no order to crafting these four books!)"]
+	quest.66206D4EC6B05931.quest_desc: ["&bGrants Resistance IV and Fire Resistance."]
+	quest.66206D4EC6B05931.title: "&5Majo's Cloth"
+	quest.66ED77F022B4CB4F.quest_desc: ["In the wild you often find yokai houses, inhabited by a Rumia. Inside you can find mysterious meat of unknown origin. Eating it seems to cause strange changes…"]
+	quest.66ED77F022B4CB4F.title: "Strange Meat…"
+	quest.67F1C18AF5B77F6D.quest_desc: ["Similar to the Brewing Barrel, the Distilling Barrel increases alcohol concentration. Requires a heat source below."]
+	quest.67F1C18AF5B77F6D.title: "Distilling Barrel"
+	quest.68118C23BCF18634.quest_desc: [
+		"You can also make a cake roll. First slice the cake base in half with a bread knife, place parchment paper on the table, then put cake slices on it. Right-click with ingredients, then right-click empty-handed to finish the roll."
+		""
+		"Cake rolls can be eaten regardless of hunger. Each roll can hold up to four ingredients, inheriting all their effects (plus the roll's softness). Duplicate effects don't stack. Ingredient rules: 1. No block form, 2. No container, 3. No forced tags, 4. Not another cake roll."
+	]
+	quest.68118C23BCF18634.title: "Cake Roll"
+	quest.68621D90D8D1BFE4.quest_desc: ["Different mediums produce different schools of spells."]
+	quest.690106770AD62EE6.quest_desc: ["Tasteless to eat, yet a pity to discard."]
+	quest.6902261308A0D69F.quest_desc: [
+		"The crafting table for the maid mod is the altar. See “Memorizable Gensokyo” for placement details."
+		""
+		"Place offerings on the altar pillars. If the recipe is correct and you have enough P points, the craft will succeed."
+	]
+	quest.6902261308A0D69F.title: "Altar"
+	quest.6932BE3FBDD3A55D.quest_desc: [
+		"Though it looks like a dagger, it's actually a western‑style knife for chopping, fighting, and cutting grass."
+		""
+		"Of course, you could really use a dagger for cooking too."
+	]
+	quest.6932BE3FBDD3A55D.quest_subtitle: "Chapter author: Cerasus"
+	quest.6932BE3FBDD3A55D.title: "&6First Knife"
+	quest.69444301F9A3BB33.quest_desc: [
+		"Feels like stripping the Wither's clothes off?"
+		""
+		"&aOne possible approach: build a special structure so shulkers kill the Wither. See MC Wiki comments under Guardian Forcefield."
+		""
+		"&aAnother possible approach: maid holding a gohei uses danmaku attacks to kill the Wither."
+	]
+	quest.6996BB69BB9AB880.quest_desc: [
+		"Simply to make wiring easier when machines become too many."
+		""
+		"&aIdea: Build an obsidian machine. Fluid pipes → spray lava source → contact with water‑bearing leaves → obsidian → drill or press to break. Ender pearls + netherite scraps from mob cages → mix with gold ingots → Void Steel Ingots."
+		""
+		"&bYou may need a partner to help collect Ancient Knight DNA."
+	]
+	quest.6996BB69BB9AB880.title: "&6Basic: Void Machine Casing"
+	quest.6A0F74CB111ED230.quest_desc: [
+		"After becoming a yokai, you can buy strange things from Rumia…"
+		""
+		"&bIn mid‑game when guns or the four special hats are hard to make, danmaku is a good damage option. But its damage counts as magic, not projectile."
+	]
+	quest.6A71B4B846B90820.quest_desc: [
+		"In the &6Cell Maze&r, find a compass pointing to the &6Throne Pillar&r. The &cBee Queen&r resides there — save the coordinates."
+		""
+		"Right-click the &cBee Queen&r with certain items to trade for various unique goods."
+		""
+		"Trading once unlocks the &cBee Queen&r questline; see Bumblezone advancements for tasks. Rewards include &bRoyal Jelly&r, and upon full completion, &bEssence of the Bees&r."
+		""
+		"&bRoyal Jelly&r is essential for Potion Candles, and &bEssence of the Bees&r is required for later steps. Only after consuming it can you find the compass to the &6Sempiternal Sanctums&r and enter."
+	]
+	quest.6A71B4B846B90820.title: "Find the Queen"
+	quest.6A7DED4ED6F4C277.quest_desc: [
+		"For a long time, it was considered the nemesis of automation."
+		""
+		"Compared to large grindstones, the Stone Mill is easier to control for fine grinding, making it suitable for food processing."
+	]
+	quest.6A7DED4ED6F4C277.title: "Mortar"
+	quest.6AA1275B3BFA7B47.quest_desc: ["Collects dropped items, experience, and fluids within range. After use, open the menu to set filters and working mode."]
+	quest.6B3D64604CFECCD1.quest_desc: [
+		"Sneak + right-click with empty hand to bind to the dimension network the current player is in. Dimension network administrators can sneak + right-click with empty hand to unbind."
+		""
+		"Place the blueprint interface next to the schematicannon to supply blocks from the network to the schematicannon."
+	]
+	quest.6C964C63C33879A2.quest_desc: ["Trade with wandering merchants."]
+	quest.6CE900F3B017230E.quest_desc: [
+		"As production lines expand, hand‑crafting transmission parts is no longer viable. Build a basic transmission line."
+		""
+		"&aV5: Tree farm + Andesite Alloy machine. Andesite Alloy → brass tunnel → split: one path → casing; other → cut → shafts → split again. Logs → stripped logs → brass tunnel → split: one path → casing; other → cut → planks → split three ways. Shafts + planks → small gears; shafts + two planks → large gears."
+		""
+		"&aV6: Mechanical crafting → small + large gears; casings via casing machine."
+	]
+	quest.6CE900F3B017230E.title: "&6Basic: Transmission Parts"
+	quest.6DD9A5CE192A43EE.quest_desc: [
+		"Ice spells"
+		""
+		"Can be obtained by killing Strays."
+	]
+	quest.7018717D4E9D8DE0.quest_desc: ["Dropped by undead mobs or found in dungeon chests."]
+	quest.704FAF67806C5BDC.quest_desc: ["Apricot trees grow in the wild. Eating apricots sometimes yields almonds. Almonds can be planted to grow new trees or used as ingredients."]
+	quest.704FAF67806C5BDC.title: "Almond"
+	quest.710DB788C231666B.quest_desc: ["Ender spells"]
+	quest.711A766D3FE57321.quest_desc: ["Place dough on the dough shaping table to roll it into different bread bases. Some bases can be filled to become other types."]
+	quest.711A766D3FE57321.title: "Roll Dough Base"
+	quest.716328F5A86B767F.quest_desc: ["Material trait: heals the user when durability is consumed."]
+	quest.7196E45E12BD5966.quest_desc: ["Every good wizard should have their own spellbook! It's your casting medium. &4(Place the spellbook in the trinket slot labeled “Spellbook” for it to work)"]
+	quest.72293A73650EA5E9.quest_desc: [
+		"Though precious, Udumbara can be cultivated on a large scale."
+		""
+		"&aOne possible approach: after making an Illusion Moon Lamp, use maids or daylight sensors to harvest on a timer."
+	]
+	quest.72293A73650EA5E9.title: "&6Challenge: Cultivate Udumbara"
+	quest.7246A8DB4D05C91D.quest_desc: [
+		"Hit a Phantom with a Flame Orb to obtain."
+		""
+		"&aOne possible approach: just kill directly."
+	]
+	quest.729C4B23E0BE147E.quest_desc: ["Ink can also be obtained by recycling scrolls in the alchemy pot. Recycling has a 50% chance to yield ink of the same quality."]
+	quest.72F05FFF3BB7E0AE.quest_desc: [
+		"Eldritch are a special type of magic, acquired by studying Eldritch manuscripts."
+		""
+		"Fragments of Eldritch manuscript can be obtained from Ancient City loot chests or by trading with Wandering Traders."
+	]
+	quest.73B12332EAD062FB.quest_desc: ["Upgraded version: Summoning spells that end because the summoned creature’s natural duration expires will not trigger cooldown."]
+	quest.73F13137A6956D41.quest_desc: ["Simulates lightning inside the cage."]
+	quest.74E80AC643143436.quest_desc: ["The Switch Belt goes inside a Space Backpack for quick gear swaps. With an item in main hand, hold Left SHIFT to preview and press N to switch."]
+	quest.74F4308544701EC0.quest_desc: ["Keep pressing Stone Tofu Blocks to turn them into Steel Tofu Blocks. Steel tofu isn't edible, but it's a solid early‑game transitional gear material."]
+	quest.74F4308544701EC0.title: "Hardened Tofu"
+	quest.7503242768D82BBE.quest_desc: [
+		"A relatively simple way to obtain, so much that it feels out of place compared to other materials ("
+		""
+		"&aOne possible approach: use a mob cage to get a Drowned spawn egg, then convert it into a spawner."
+	]
+	quest.762ED5BA28D1C41F.quest_desc: [
+		"@touhou"
+		""
+		"Adds… figurines and statues. See the relevant chapter for how to craft figurines."
+	]
+	quest.762ED5BA28D1C41F.title: "Interior: Touhou Little Maid Figurines \\& Statues"
+	quest.76599B9323E62A20.quest_desc: ["Material trait: gains buffs when in water or rain."]
+	quest.76ADA031E824C49F.quest_desc: [
+		"One of the key industrial products."
+		""
+		"&aOne possible approach: cage spiders to get string → wool → filter mesh, while soy comes from automated farms."
+	]
+	quest.76ADA031E824C49F.title: "&6Challenge: Biofuel"
+	quest.7734888167E430A8.quest_desc: ["The first 18 Shulker Shells and 9 Phantom Membranes must be obtained manually; afterwards DNA Sampler allows automatic production."]
+	quest.78157942C5F485D9.quest_desc: [
+		"&aV6: Wood → burn → charcoal → burn → carbon powder → heated shaping → graphite → high‑heat shaping → diamond. Byproducts include mixed diamond dust → crush."
+		""
+		"&aFuel: Blaze Cake machine or soybean oil. Soybeans from Tofu Spider mob cage. Filters: two different colored sheep → wool → mechanical crafting. Same color wool cannot be used."
+	]
+	quest.78157942C5F485D9.title: "&6Basic: Diamond"
+	quest.78536EB821833F8D.quest_desc: ["Compacting Drawers auto‑combine items. Super useful for ores and raw resources."]
+	quest.786A7E4038D8861A.quest_desc: [
+		"@beautify"
+		""
+		"A town-themed mod, adds many plant-related decorations."
+	]
+	quest.786A7E4038D8861A.title: "Plants: Beautify!"
+	quest.78A51FD4EF36DBB8.quest_desc: [
+		"Since everyone has different habits, even though key conflicts were minimized, please adjust your keybinds yourself."
+		""
+		"Press &a[F9]&r to quickly check and change the function bound to a key."
+		""
+		"The projection's &a[M]&r key has been replaced with &a[,]&r."
+		""
+		"The /home command from Narcissus Farewell behaves a bit oddly."
+		""
+		"For default homes (&2/sethome home true&r), using &2/home&r will try to teleport to the default point in the current dimension. If none exists but there's only one default point across all dimensions, it will teleport cross-dimension to that one. Using &2/home <name>&r will teleport directly cross-dimension."
+		""
+		"For private homes (&2/sethome home&r), using &2/home <name>&r only works within the same dimension. If none exists, no teleport occurs. To teleport to another dimension's home, specify the dimension: &2/home <name> true minecraft:overworld&r."
+	]
+	quest.78A51FD4EF36DBB8.title: "About Keybinds \\& Teleports"
+	quest.78AC1B1140320C11.quest_desc: [
+		"As the name suggests, toss the raw material into fire or lava for a small chance to convert."
+		"Maybe you'll need automated production of the raw materials?"
+	]
+	quest.78AC1B1140320C11.title: "Burning Conversion"
+	quest.78C443082103D68E.quest_desc: [
+		"Members can only access the network, but cannot bind network terminals or invite others."
+		""
+		"Administrators can invite others, while owners can bind network terminals and destroy the network."
+		""
+		"Permissions can be managed through the network controller."
+	]
+	quest.78C443082103D68E.title: "Permission Control"
+	quest.7944EE975269B782.quest_desc: [
+		"Add various ingredients to soy milk to make flavored soy drinks. Drinking them grants positive effects."
+		""
+		"You can also try mass‑producing all of these as fluids."
+	]
+	quest.794804F903B8F356.quest_desc: [
+		"Even a little frog can stand against wind and rain!"
+		""
+		"&bProvides continuous blessing of the Native God; using cyan or yellow‑green danmaku consumes nothing."
+		""
+		"&aIf you lose the hat, you can claim another here."
+	]
+	quest.7A057C0ABF8AE9D8.quest_desc: [
+		"Unlike the imitation Udumbara Flower used in the Night Sparrow Restaurant, this is a true Udumbara infused with moonlight."
+		""
+		"Udumbara bloom only under a full moon. On non‑full moon nights they stop at the stage before maturity; at dawn they wither back to the lowest growth stage."
+	]
+	quest.7A057C0ABF8AE9D8.title: "True Udumbara"
+	quest.7A5F81A362092844.quest_desc: ["Holy spells"]
+	quest.7A82823089777A66.quest_desc: [
+		"@another_furniture"
+		""
+		"Another Furniture adds vanilla-styled wooden furniture."
+		""
+		"Includes cabinet doors, cupboards, shelves, chairs, tables, shutters, flower boxes, benches, lamps, stools, sofas, bar stools, curtains, and service bells."
+		""
+		"Use a hammer to right-click and adjust cabinet doors (style) and benches (with or without backrest)."
+	]
+	quest.7A82823089777A66.title: "Interior: Another Furniture"
+	quest.7A84025EFE6C14C8.quest_desc: ["Blazes have a chance to drop them."]
+	quest.7B16C981B1C79F24.quest_desc: [
+		"The Spell Amplification Core lets maids sync their master's magic attributes."
+		""
+		"Since late-game damage is mostly magic, this accessory becomes very powerful."
+	]
+	quest.7B16C981B1C79F24.title: "Avada Kedavra!"
+	quest.7BCD591A3375360A.quest_desc: [
+		"When a heat source is under the cooking pot, it bubbles and can be used to cook food."
+		""
+		"Heat sources vary, but usually a stove from the Leshi series is used."
+	]
+	quest.7D0E2B6398BFBA65.quest_desc: [
+		"Craft Grilled Tofu into blocks and build a frame like a Nether portal. Use the Tofu Wand to activate it and open the gateway to the Tofu Planet."
+		""
+		"The Tofu Wand can be found in shipwrecks or ocean ruins."
+	]
+	quest.7D0E2B6398BFBA65.title: "Tofu Portal"
+	quest.7D94DEBC573F4223.quest_desc: ["&aIdea: Sugarcane → press → paper; Sand + paper → mix → sandpaper. Quartz + redstone → mix → crystal → grind with sandpaper → combine with metal plates."]
+	quest.7D94DEBC573F4223.title: "&6Basic: Electron Tubes \\& Vacuum Tubes"
+	quest.7DBD8323958E0FA7.quest_desc: ["Ink determines the quality of spells you craft. Higher quality means stronger effects—aim for legendary ink!"]
+	quest.7DBD8323958E0FA7.title: "Ink"
+	quest.7DDAF6906785BDE2.quest_desc: [
+		"Using the altar can summon lightning. If a maid is struck, her max HP increases by 20."
+		""
+		"[INFO] Lightning summoned by the altar can kill an Elder Guardian, dropping the Guardian's Eye."
+	]
+	quest.7DDAF6906785BDE2.title: "Lightning!"
+	quest.7E3A5C9A5C6D1798.quest_desc: ["Evoker spells"]
+	quest.7F74368BCB1C72F8.quest_desc: ["&bThis entire chapter covers storage‑related mods."]
+	quest.7F74368BCB1C72F8.quest_subtitle: "Chapter author: PL"
+	quest.7F74368BCB1C72F8.title: "&6Storage mods"
+	quest.7FA418686872FF19.quest_desc: ["Perhaps your very first spellbook?"]
+	task.00B32220A7B337DF.title: "Beware of Reimu"
+	task.00C3C8D3B8E215A2.title: "Begin the Journey"
+	task.024BF9AFF786BD0F.title: "&6Challenge: 100 HP"
+	task.045BA5EF1590B6D3.title: "&4Did you really read it all?"
+	task.04668CF80B2DFF59.title: "&6Overview of the Starter Chapter"
+	task.068627819A7BB6B3.title: "Craft a knife… a dagger works too"
+	task.09E0A3AABBFDAA13.title: "Ultramarine"
+	task.09E4A5E1795FBC73.title: "Early Choices"
+	task.0A01F20FB4D3AF6F.title: "&4Did you really read it all?"
+	task.0A3467C34BCD9CFC.title: "Imbue Spells"
+	task.0B80F5B1512BB6EF.title: "Steam 'n Rails"
+	task.0C6A4D768B3A5FED.title: "Get Drunk"
+	task.0CFE36C90567ADC7.title: "Many flavors"
+	task.0EDDD7D9F3AC0C3B.title: "Another Furniture"
+	task.11517C0096574AD2.title: "Check"
+	task.11805C0336574AD2.title: "&bWelcome to Kumo O Tagayasu！"
+	task.11887C0096574AD2.title: "Check"
+	task.11887C0096774AD2.title: "Check"
+	task.11887C0096AD4AD2.title: "Check"
+	task.11887C8596574AD2.title: "Check"
+	task.12F2A928330A7AC9.title: "Build the Altar"
+	task.165886A0E02196B3.title: "Beautify!"
+	task.1663EAD77C179143.title: "Scrolls"
+	task.2281EDC413DE6526.title: "Unique Spellbook"
+	task.2480C26300415543.title: "Backpack"
+	task.25377FDFDB16EAA8.title: "&4Did you really read it all?"
+	task.26502DA7EC933B65.title: "Burning Conversion"
+	task.2899AAA5D4ECE8F1.title: "Youkai's Homecoming"
+	task.2B6DAE41B42B82FF.title: "Tea time"
+	task.2BD58C7B7D5A4FAA.title: "Defeat Rumia"
+	task.2DDB4E1CC1B98766.title: "Offer to the Shrine Maiden"
+	task.2EC70DDE85F52D55.title: "DD"
+	task.2EC7949A4DB5262C.title: "Mass Production Chapter"
+	task.3405A2499382AB79.title: "Play with Koishi"
+	task.37A2211B8112305B.title: "Original Soup, Original Food"
+	task.390ACE89218C6553.title: "Obtain Danmaku"
+	task.3991234787E77545.title: "Drink Coffee"
+	task.3B9E02977C70193A.title: "Iron's Spellbook Overview"
+	task.3E352BF3AEAB3081.title: "? You really finished it"
+	task.40D015B483FFFCC8.title: "Eat All Foods"
+	task.41D6D62AC69E22B5.title: "&6Begin the Gensokyo journey"
+	task.48B953318072F4A9.title: "Storage mods"
+	task.49787755A644FF6D.title: "&6Advanced Chapter Overview"
+	task.4BD6914969A28FEA.title: "Visit the Tofu Planet"
+	task.52F20F4E96822FDD.title: "Prismatic Shine"
+	task.544B96EC3546CE12.title: "Immersive Furniture"
+	task.5605186F3CE4159C.title: "Ancient Wisdom"
+	task.5D0608392F923E6B.title: "Open the Memory"
+	task.60328E664904FBA2.title: "About Spell Levels"
+	task.615EB5167218520C.title: "Waterframes"
+	task.6191EE923132A900.title: "Night Lights"
+	task.639D5F48B8D35982.title: "Faith Collection"
+	task.64629E46BD4FB87B.title: "Defeat Reimu"
+	task.670D8AD9096B18B2.title: "Mediums"
+	task.67C522EA11921C5A.title: "Spellbook"
+	task.6CF22C3C4FF2854B.title: "Touhou Little Maid"
+	task.6E4363EF82988D8A.title: "&4Did you really read it all?"
+	task.713B851932557282.title: "Equipment \\& Trinkets"
+	task.71E79561E457E689.title: "Film"
+	task.7272D3474097FB22.title: "About bittern"
+	task.79239C86603DDA3B.title: "Yokai Form"
+	task.7B4DE0F6ADC05881.title: "Create Deco"
+	task.7E31582EFABB0658.title: "&4Did you really read it all?"
+}

@@ -1,0 +1,179 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "kots"
+	group: ""
+	id: "4E613FC27F99E31B"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0B601BCA41EB2F50"
+			rewards: [
+				{
+					id: "17EB9702B4363F8F"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "5F5F1C1EC5A5D18C"
+					item: {
+						count: 1
+						id: "javd:portal_block"
+					}
+					type: "item"
+				}
+				{
+					id: "53C8D4D9D537551C"
+					item: {
+						count: 1
+						id: "jamd:portal_block"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "11805C0336574AD2"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"3EC718092B2DD9AD"
+				"0B601BCA41EB2F50"
+			]
+			id: "3F9AEF0173E0E139"
+			rewards: [{
+				id: "490021DC31EBE801"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 3.0d
+			tasks: [
+				{
+					id: "3AA700F5E7BAF386"
+					item: { count: 1, id: "javd:portal_block" }
+					type: "item"
+				}
+				{
+					id: "39EE518257947B3C"
+					item: { count: 1, id: "jamd:nether_portal" }
+					type: "item"
+				}
+				{
+					id: "6E3DA9D5029AAA30"
+					item: { count: 1, id: "jamd:portal_block" }
+					type: "item"
+				}
+				{
+					id: "33BAB6CF83624E69"
+					item: { count: 1, id: "jamd:end_portal" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0B601BCA41EB2F50"]
+			id: "27694D4475BD7343"
+			rewards: [{
+				id: "0587A94499760C2D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 3.0d
+			tasks: [{
+				id: "0A01F20FB4D3AF6F"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0B601BCA41EB2F50"]
+			id: "78A51FD4EF36DBB8"
+			rewards: [{
+				id: "70E08BD8217553E8"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 3.0d
+			tasks: [{
+				id: "045BA5EF1590B6D3"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0B601BCA41EB2F50"]
+			id: "3CF891C9B8918248"
+			rewards: [
+				{
+					id: "264EF97E1B535000"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 8
+					id: "4FBC94D4CBF942D8"
+					item: {
+						count: 1
+						id: "netmusic:music_cd"
+					}
+					type: "item"
+				}
+			]
+			size: 3.0d
+			tasks: [{
+				id: "6E4363EF82988D8A"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0B601BCA41EB2F50"]
+			id: "169D11082217C28C"
+			rewards: [
+				{
+					id: "6C53E11F3FF6BA70"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "216CBD2DCD9B2ECA"
+					item: {
+						count: 1
+						id: "minecraft:birch_sign"
+					}
+					type: "item"
+				}
+			]
+			size: 3.0d
+			tasks: [{
+				id: "25377FDFDB16EAA8"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0B601BCA41EB2F50"]
+			id: "11F285DA4FAB8F4D"
+			size: 3.0d
+			tasks: [{
+				id: "7E31582EFABB0658"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+	]
+}

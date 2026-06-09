@@ -1,0 +1,461 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "builder"
+	group: ""
+	id: "62D0845AFC5AA861"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "43779E819BF3A6AD"
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "356AD252DFFD1280"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["43779E819BF3A6AD"]
+			id: "7A82823089777A66"
+			rewards: [
+				{
+					id: "6003AF159DDCA86F"
+					item: {
+						count: 1
+						id: "another_furniture:cherry_chair"
+					}
+					type: "item"
+				}
+				{
+					id: "20A46A1FF3BE6C64"
+					item: {
+						count: 1
+						id: "another_furniture:cherry_shelf"
+					}
+					type: "item"
+				}
+				{
+					id: "4F5BCAEAC539EE52"
+					item: {
+						count: 1
+						id: "another_furniture:cherry_table"
+					}
+					type: "item"
+				}
+				{
+					id: "34FCEC07D392C01A"
+					item: {
+						count: 1
+						id: "another_furniture:cherry_shutter"
+					}
+					type: "item"
+				}
+				{
+					id: "7B0D13528DC117BB"
+					item: {
+						count: 1
+						id: "another_furniture:pink_stool"
+					}
+					type: "item"
+				}
+				{
+					id: "6983BF0EDC1523FE"
+					item: {
+						count: 1
+						id: "another_furniture:pink_curtain"
+					}
+					type: "item"
+				}
+				{
+					id: "31CA7276040E0C99"
+					item: {
+						count: 1
+						id: "another_furniture:cherry_flower_box"
+					}
+					type: "item"
+				}
+				{
+					id: "1397F1F9C0B8542A"
+					item: {
+						count: 1
+						id: "another_furniture:cherry_bench"
+					}
+					type: "item"
+				}
+				{
+					id: "715D933BA5BBC8D0"
+					item: {
+						count: 1
+						id: "another_furniture:cherry_drawer"
+					}
+					type: "item"
+				}
+				{
+					id: "46F3768E7C9AF45F"
+					item: {
+						count: 1
+						id: "another_furniture:pink_lamp"
+					}
+					type: "item"
+				}
+				{
+					id: "199B4555F72BB9AC"
+					item: {
+						count: 1
+						id: "another_furniture:pink_sofa"
+					}
+					type: "item"
+				}
+				{
+					id: "6DC14E51CBFA85D8"
+					item: {
+						count: 1
+						id: "another_furniture:pink_tall_stool"
+					}
+					type: "item"
+				}
+				{
+					id: "4F4AB943D236B226"
+					item: {
+						count: 1
+						id: "another_furniture:furniture_hammer"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "0EDDD7D9F3AC0C3B"
+				type: "checkmark"
+			}]
+			x: 3.75d
+			y: -1.5d
+		}
+		{
+			dependencies: ["43779E819BF3A6AD"]
+			id: "786A7E4038D8861A"
+			rewards: [
+				{
+					id: "77F7D1DAE73B4830"
+					item: {
+						count: 1
+						id: "beautify:rope"
+					}
+					type: "item"
+				}
+				{
+					id: "33A21281AED88518"
+					item: {
+						count: 1
+						id: "beautify:hanging_pot"
+					}
+					type: "item"
+				}
+				{
+					id: "59FEF3A1618A106F"
+					item: {
+						count: 1
+						id: "beautify:bookstack"
+					}
+					type: "item"
+				}
+				{
+					id: "50FCA6A99140C405"
+					item: {
+						count: 1
+						id: "beautify:botanist_workbench"
+					}
+					type: "item"
+				}
+				{
+					id: "2A7ADDF9B9B4334F"
+					item: {
+						count: 1
+						id: "beautify:oak_blinds"
+					}
+					type: "item"
+				}
+				{
+					id: "0461DA7CBA322F00"
+					item: {
+						count: 1
+						id: "beautify:oak_picture_frame"
+					}
+					type: "item"
+				}
+				{
+					id: "19BB533347CB66C6"
+					item: {
+						count: 1
+						id: "beautify:oak_trellis"
+					}
+					type: "item"
+				}
+				{
+					id: "0B70D75178BF80D7"
+					item: {
+						count: 1
+						id: "beautify:lamp_candelabra"
+					}
+					type: "item"
+				}
+				{
+					id: "5D131FD33069DDF0"
+					item: {
+						count: 1
+						id: "beautify:lamp_jar"
+					}
+					type: "item"
+				}
+				{
+					id: "7BF9AC4D236DAE0E"
+					item: {
+						count: 1
+						id: "beautify:lamp_light_bulb"
+					}
+					type: "item"
+				}
+				{
+					id: "23F01A24552AAC46"
+					item: {
+						count: 1
+						id: "beautify:lamp_bamboo"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "165886A0E02196B3"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["43779E819BF3A6AD"]
+			id: "2B791924FEC9F89C"
+			rewards: [{
+				count: 16
+				id: "18C1B91E26978390"
+				item: {
+					count: 1
+					id: "createdeco:short_red_bricks"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "7B4DE0F6ADC05881"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["43779E819BF3A6AD"]
+			id: "0AF4E293AC99133D"
+			rewards: [{
+				id: "3975185A08143A89"
+				item: {
+					count: 1
+					id: "createprism:andesite_glass_casing"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "52F20F4E96822FDD"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["43779E819BF3A6AD"]
+			id: "48B5C9817AAB805E"
+			rewards: [{
+				id: "4C78DC2B907AF8BF"
+				item: {
+					count: 1
+					id: "youkaishomecoming:camellia"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "2899AAA5D4ECE8F1"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 3.75d
+		}
+		{
+			dependencies: ["43779E819BF3A6AD"]
+			icon: {
+				id: "touhou_little_maid:garage_kit"
+			}
+			id: "762ED5BA28D1C41F"
+			rewards: [{
+				id: "6CA7C1421D53E08E"
+				item: {
+					count: 1
+					id: "touhou_little_maid:garage_kit"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "6CF22C3C4FF2854B"
+				type: "checkmark"
+			}]
+			x: 3.75d
+			y: 1.5d
+		}
+		{
+			dependencies: ["43779E819BF3A6AD"]
+			id: "4A8236B3F4896489"
+			rewards: [
+				{
+					id: "0FD0A7D22FCE49B8"
+					item: {
+						count: 1
+						id: "dramaticdoors:short_cherry_door"
+					}
+					type: "item"
+				}
+				{
+					id: "68E79D9D5BB12EB2"
+					item: {
+						count: 1
+						id: "dramaticdoors:tall_cherry_door"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "2EC70DDE85F52D55"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["43779E819BF3A6AD"]
+			id: "6173E8F5CA64472F"
+			rewards: [{
+				count: 4
+				id: "0FD1337339351153"
+				item: {
+					count: 1
+					id: "nightlights:mushroom_yellow"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "6191EE923132A900"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["43779E819BF3A6AD"]
+			id: "3ADB1EA83AC6C6F5"
+			rewards: [{
+				count: 64
+				id: "7A948AA1E14570B2"
+				item: {
+					count: 1
+					id: "ultramarine:cyan_bricks"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "09E0A3AABBFDAA13"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 3.75d
+		}
+		{
+			dependencies: ["43779E819BF3A6AD"]
+			id: "1A65287EE0DC50D9"
+			rewards: [{
+				id: "4A88342FDEF385DC"
+				item: {
+					count: 1
+					id: "waterframes:big_tv"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "615EB5167218520C"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["43779E819BF3A6AD"]
+			id: "52E26074C74E2395"
+			rewards: [{
+				count: 4
+				id: "0AE96D9606161833"
+				item: {
+					count: 1
+					id: "railways:brass_wrapped_locometal"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "0B80F5B1512BB6EF"
+				type: "checkmark"
+			}]
+			x: -3.75d
+			y: -1.5d
+		}
+		{
+			dependencies: ["43779E819BF3A6AD"]
+			icon: {
+				id: "immersive_furniture:furniture"
+			}
+			id: "16369530ADEC5DC3"
+			rewards: [
+				{
+					id: "6238C19CE169CC76"
+					item: {
+						count: 1
+						id: "immersive_furniture:artisans_workstation"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "7922EBA1EBF18750"
+					item: {
+						count: 1
+						id: "immersive_furniture:crafting_material"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "544B96EC3546CE12"
+				type: "checkmark"
+			}]
+			x: -3.75d
+			y: 1.5d
+		}
+	]
+}
