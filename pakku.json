@@ -424,6 +424,9 @@
         },
         "reeses-sodium-options": {
             "update_strategy": "NONE"
+        },
+        "keymap-maintained": {
+            "side": "CLIENT"
         }
     }
 }

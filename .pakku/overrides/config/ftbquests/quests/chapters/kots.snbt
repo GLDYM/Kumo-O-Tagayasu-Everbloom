@@ -15,22 +15,6 @@
 					type: "xp_levels"
 					xp_levels: 5
 				}
-				{
-					id: "5F5F1C1EC5A5D18C"
-					item: {
-						count: 1
-						id: "javd:portal_block"
-					}
-					type: "item"
-				}
-				{
-					id: "53C8D4D9D537551C"
-					item: {
-						count: 1
-						id: "jamd:portal_block"
-					}
-					type: "item"
-				}
 			]
 			shape: "octagon"
 			size: 3.0d

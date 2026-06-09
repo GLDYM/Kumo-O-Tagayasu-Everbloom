@@ -3,7 +3,7 @@
 ## LOST
 
 - advancements-tracker --> AdvancementInfo
-- attributizer --> Kube? 但是好像也不需要了？
+- attributizer --> KubeJS? 但是好像也不需要了？
 - bee-fix --> Remove
 - better-creeper-mod --> creeper-firework
 - biome-makeover --> Remove
@@ -11,7 +11,7 @@
 - caged-mobs --> KOTS
 - createutilities --> Unofficial
 - create-halitosis-create-halitosis --> dragon+
-- create-high-pressure --> Kube
+- create-high-pressure --> KubeJS!
 - create-kinetic-illuminator --> Tsuki
 - create-steam-n-rails --> Unofficial
 - crock-pot --> Tsuki
@@ -71,4 +71,5 @@
 - 工业平台? 好像也不需要，反正开局发飞行了，主要这东西没撤回太草了
 - OPAC 换 ftbc
 - trade-tweaks
+- 换个音乐机？
 

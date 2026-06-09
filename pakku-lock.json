@@ -6688,6 +6688,77 @@
             ]
         },
         {
+            "pakku_id": "j9VxJUGGSPWUBPJ6",
+            "pakku_links": [
+                "bKSc9tqL5y1dBVbN",
+                "DcUbKAM7IXyK0YHx"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "enchantment-descriptions",
+                "modrinth": "enchantment-descriptions"
+            },
+            "name": {
+                "curseforge": "Enchantment Descriptions",
+                "modrinth": "Enchantment Descriptions"
+            },
+            "id": {
+                "curseforge": "250419",
+                "modrinth": "UVtY3ZAC"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "enchdesc-neoforge-1.21.1-21.1.9.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7039/849/enchdesc-neoforge-1.21.1-21.1.9.jar",
+                    "id": "7039849",
+                    "parent_id": "250419",
+                    "hashes": {
+                        "sha1": "e4fa515c5deab3165f250f2a1297ac836d496064",
+                        "md5": "9b465ea3113d1463612a7d152b6b69b9"
+                    },
+                    "required_dependencies": [
+                        "1023259",
+                        "228525"
+                    ],
+                    "size": 81847,
+                    "date_published": "2025-09-27T19:25:10.973Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "enchdesc-neoforge-1.21.1-21.1.9.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/zfAkJn0r/enchdesc-neoforge-1.21.1-21.1.9.jar",
+                    "id": "zfAkJn0r",
+                    "parent_id": "UVtY3ZAC",
+                    "hashes": {
+                        "sha512": "22258e118552e690ae77ad1a13e5dfe69bf94bdd765d2e614e2e4cc7410c406866b7937b54e8475660bba858b0eadb7efd430146563301143643622622d2c928",
+                        "sha1": "e4fa515c5deab3165f250f2a1297ac836d496064"
+                    },
+                    "required_dependencies": [
+                        "aaRl8GiW",
+                        "uy4Cnpcm"
+                    ],
+                    "size": 81847,
+                    "date_published": "2025-09-27T19:25:22.509670Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8AQ6RjKRAjCRKMym",
             "pakku_links": [
                 "exCP2y0syJVA9jKo"
@@ -15925,70 +15996,6 @@
                     "required_dependencies": [],
                     "size": 105355,
                     "date_published": "2025-12-24T19:03:34.337Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "qja9u2YYNyg9bIPf",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "staaaaaaaaaaaack",
-                "modrinth": "staaaaaaaaaaaack"
-            },
-            "name": {
-                "curseforge": "Staaaaaaaaaaaack (Stxck)",
-                "modrinth": "Staaaaaaaaaaaack (Stxck)"
-            },
-            "id": {
-                "curseforge": "866957",
-                "modrinth": "myL7fuqp"
-            },
-            "aliases": [
-                "stxck"
-            ],
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "staaaaaaaaaaaack-neoforge-1.21.1-1.8.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7053/597/staaaaaaaaaaaack-neoforge-1.21.1-1.8.jar",
-                    "id": "7053597",
-                    "parent_id": "866957",
-                    "hashes": {
-                        "sha1": "827b0857f6075dfe5d40ce42aadd65e7cb36a7a9",
-                        "md5": "58be76b9e2adb40e2ddbf917d89141e9"
-                    },
-                    "required_dependencies": [],
-                    "size": 35594,
-                    "date_published": "2025-10-01T13:42:37.823Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "staaaaaaaaaaaack-neoforge-1.21.1-1.8.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/myL7fuqp/versions/xzztNZML/staaaaaaaaaaaack-neoforge-1.21.1-1.8.jar",
-                    "id": "xzztNZML",
-                    "parent_id": "myL7fuqp",
-                    "hashes": {
-                        "sha512": "96fca068c1d9de54e84cfb25c3c99131db899a33b2a3af5ee7b1abedc69a970d02e223fd51e984829ab7ccd9936c109e86703507d1d6c7d5daa77010c10f6077",
-                        "sha1": "827b0857f6075dfe5d40ce42aadd65e7cb36a7a9"
-                    },
-                    "required_dependencies": [],
-                    "size": 35594,
-                    "date_published": "2025-10-01T13:42:40.874005Z"
                 }
             ]
         },
