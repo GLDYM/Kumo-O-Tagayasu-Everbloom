@@ -1,0 +1,266 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farmers_delight"
+	group: "3B8AF43E1258A852"
+	id: "0E15DEDCD6B01133"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			icon: {
+				id: "ends_delight:dragon_tooth_knife"
+			}
+			id: "6932BE3FBDD3A55D"
+			rewards: [{
+				id: "58649C5BBBB70EB6"
+				item: {
+					count: 1
+					id: "minecraft:cake"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "068627819A7BB6B3"
+				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6932BE3FBDD3A55D"]
+			hide_until_deps_complete: true
+			id: "5655DA88F6ED0975"
+			tasks: [{
+				id: "618AE9F8ED3198AC"
+				item: { count: 1, id: "farmersdelight:stove" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6932BE3FBDD3A55D"]
+			hide_until_deps_complete: true
+			id: "7BCD591A3375360A"
+			tasks: [{
+				id: "522F8BBC9C83D267"
+				item: { count: 1, id: "farmersdelight:cooking_pot" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6932BE3FBDD3A55D"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "farmersdelight:skillet"
+			}
+			id: "3B0EBC9A75AE9AC6"
+			tasks: [{
+				id: "4ED213E2C5173028"
+				item: { count: 1, id: "farmersdelight:skillet" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6932BE3FBDD3A55D"]
+			hide_until_deps_complete: true
+			id: "4D918C3B0188F47D"
+			rewards: [
+				{
+					count: 4
+					id: "76C098A942BE0203"
+					item: {
+						count: 1
+						id: "farmersdelight:birch_cabinet"
+					}
+					type: "item"
+				}
+				{
+					id: "794C69FA1D6384B4"
+					item: {
+						count: 1
+						id: "farmersdelight:diamond_knife"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "63AFD06587949019"
+				item: { count: 1, id: "farmersdelight:cutting_board" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["05F42BBC3C7B250D"]
+			id: "30734C65BE074249"
+			tasks: [{
+				id: "411091132ACF75D9"
+				item: { count: 1, id: "farmersdelight:bamboo_basket" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3CB8557724F54D36"]
+			hide_until_deps_visible: false
+			id: "3F5D1EBC9926E424"
+			rewards: [{
+				count: 16
+				id: "2A64E5E5C17FBE96"
+				item: {
+					count: 1
+					id: "farmersdelight:organic_compost"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "2D7AF62BD4358850"
+				item: { count: 1, id: "farmersdelight:organic_compost" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3F5D1EBC9926E424"]
+			id: "30D32B907A3C1F53"
+			tasks: [{
+				count: 16L
+				id: "251ADA9DAA5ECDBA"
+				item: { count: 1, id: "farmersdelight:rich_soil" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6932BE3FBDD3A55D"]
+			hide_until_deps_complete: true
+			id: "3CB8557724F54D36"
+			rewards: [{
+				count: 16
+				id: "2C18892EC3E20149"
+				item: {
+					count: 1
+					id: "farmersdelight:straw"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "7C816B8B408A7A9C"
+				item: { count: 1, id: "farmersdelight:straw" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6932BE3FBDD3A55D"]
+			hide_until_deps_complete: true
+			id: "14D663C458A5205E"
+			tasks: [
+				{
+					id: "741D5085A52CCBB5"
+					item: { count: 1, id: "farmersdelight:cabbage" }
+					type: "item"
+				}
+				{
+					id: "75DF34291480C254"
+					item: { count: 1, id: "farmersdelight:tomato" }
+					type: "item"
+				}
+				{
+					id: "5D8B5DA4387C5044"
+					item: { count: 1, id: "farmersdelight:rice" }
+					type: "item"
+				}
+				{
+					id: "5983C45383B1CBF1"
+					item: { count: 1, id: "farmersdelight:onion" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3CB8557724F54D36"]
+			id: "05F42BBC3C7B250D"
+			rewards: [{
+				count: 5
+				id: "0E016FE84F48FE84"
+				item: {
+					count: 1
+					id: "farmersdelight:canvas"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 3L
+				id: "1E58E90DC06D860A"
+				item: { count: 1, id: "farmersdelight:canvas" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6932BE3FBDD3A55D"]
+			hide_until_deps_complete: true
+			id: "1094D423ABADF283"
+			tasks: [{
+				id: "31FE7E5C56137DEA"
+				item: { count: 1, id: "farmersdelight:ham" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["30D32B907A3C1F53"]
+			id: "243B01C643B96CE3"
+			rewards: [
+				{
+					count: 128
+					id: "01C5541063A0D861"
+					item: {
+						count: 1
+						id: "farmersdelight:rich_soil"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7403FDF8B905E2CA"
+					item: {
+						count: 1
+						id: "minecraft:sniffer_egg"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 256L
+				id: "156411A7B3127823"
+				item: { count: 1, id: "farmersdelight:rich_soil" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+	]
+}

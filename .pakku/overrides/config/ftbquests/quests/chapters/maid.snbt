@@ -1,0 +1,561 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "maid"
+	group: "3B8AF43E1258A852"
+	icon: {
+		id: "touhou_little_maid:hakurei_gohei"
+	}
+	id: "0D10279D33D8E73E"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "patchouli:guide_book"
+			}
+			id: "1B3B25F7487DF758"
+			rewards: [{
+				count: 8
+				id: "4F2A6FD5FDDC80FA"
+				item: {
+					count: 1
+					id: "touhou_little_maid:power_point"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [
+				{
+					id: "67EDECD02F80B9A3"
+					item: { count: 1, id: "patchouli:guide_book" }
+					type: "item"
+				}
+				{
+					id: "5D0608392F923E6B"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1B3B25F7487DF758"]
+			hide_until_deps_complete: true
+			id: "570626EC269040A9"
+			rewards: [{
+				count: 8
+				id: "073BB86C5D2DBA28"
+				item: {
+					count: 1
+					id: "touhou_little_maid:power_point"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "17EC47BFAF156228"
+				item: { count: 1, id: "touhou_little_maid:smart_slab_has_maid" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["570626EC269040A9"]
+			id: "2788E561AA51FCFA"
+			rewards: [{
+				count: 8
+				id: "149CFD73893F76C8"
+				item: {
+					count: 1
+					id: "touhou_little_maid:power_point"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "71E79561E457E689"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1B3B25F7487DF758"]
+			hide_until_deps_complete: true
+			id: "4B474602C7639F0A"
+			rewards: [
+				{
+					count: 4
+					id: "5755672611E55BFA"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					count: 20
+					id: "27EB749D67509437"
+					item: {
+						count: 1
+						id: "minecraft:red_wool"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "534FABF9CAA96E66"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1B3B25F7487DF758"]
+			hide_until_deps_complete: true
+			id: "63F22966BE982954"
+			rewards: [{
+				count: 8
+				id: "34A83F759F29DBB6"
+				item: {
+					count: 1
+					id: "touhou_little_maid:power_point"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1A08DCB55FF259E0"
+				item: { count: 1, id: "touhou_little_maid:power_point" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4B474602C7639F0A"]
+			hide_dependency_lines: true
+			icon: {
+				id: "touhou_little_maid:entity_placeholder"
+			}
+			id: "6902261308A0D69F"
+			rewards: [{
+				id: "171EA905911CE90A"
+				item: {
+					count: 1
+					id: "touhou_little_maid:entity_placeholder"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			tasks: [{
+				id: "12F2A928330A7AC9"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6902261308A0D69F"]
+			icon: {
+				id: "touhou_little_maid:camera"
+			}
+			id: "081674421615028F"
+			rewards: [{
+				id: "70A0430BD291C5AC"
+				item: {
+					count: 1
+					id: "touhou_little_maid:garage_kit"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "706B4FA65BB69D1A"
+					item: { count: 1, id: "touhou_little_maid:chisel" }
+					type: "item"
+				}
+				{
+					id: "38103AC37F5C11CF"
+					item: { count: 1, id: "touhou_little_maid:camera" }
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1B3B25F7487DF758"]
+			hide_until_deps_complete: true
+			id: "1618FAA4D7E93E25"
+			rewards: [{
+				count: 8
+				id: "681E9DF69C87C080"
+				item: {
+					count: 1
+					id: "touhou_little_maid:power_point"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "79BB08B121B19F5E"
+				item: { count: 1, id: "touhou_little_maid:maid_beacon" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4B474602C7639F0A"]
+			icon: {
+				id: "touhou_little_maid:entity_placeholder"
+			}
+			id: "7DDAF6906785BDE2"
+			rewards: [{
+				id: "65B187A94A46982D"
+				item: {
+					count: 1
+					id: "touhou_little_maid:entity_placeholder"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "26F5A2F69C299B8F"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6902261308A0D69F"]
+			id: "556BC9C5DABA8F85"
+			rewards: [{
+				count: 8
+				id: "7D6FC32C6EF1F85E"
+				item: {
+					count: 1
+					id: "touhou_little_maid:power_point"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 8L
+				id: "76BBD41D1C8B7297"
+				item: { count: 1, id: "touhou_little_maid:smart_slab_empty" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1B3B25F7487DF758"]
+			hide_until_deps_complete: true
+			id: "5FBD09031EB9D4F0"
+			rewards: [{
+				id: "1B6A60601FA6C474"
+				item: {
+					count: 1
+					id: "touhou_little_maid:favorability_tool_full"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "touhou_little_maid:challenge/maid_100_healthy"
+				criterion: ""
+				id: "024BF9AFF786BD0F"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6902261308A0D69F"]
+			id: "606863B6410C1516"
+			rewards: [{
+				count: 8
+				id: "74604BAFE099E1BE"
+				item: {
+					count: 1
+					id: "touhou_little_maid:power_point"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "15A27AA148247BE1"
+					item: { count: 1, id: "touhou_little_maid:trumpet" }
+					type: "item"
+				}
+				{
+					id: "3068B33E354B364D"
+					item: { count: 1, id: "touhou_little_maid:servant_bell" }
+					type: "item"
+				}
+				{
+					id: "2D278AF18306F548"
+					item: { count: 1, id: "touhou_little_maid:red_fox_scroll" }
+					type: "item"
+				}
+				{
+					id: "03548448813E022D"
+					item: { count: 1, id: "touhou_little_maid:white_fox_scroll" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"1618FAA4D7E93E25"
+				"556BC9C5DABA8F85"
+				"2788E561AA51FCFA"
+				"570626EC269040A9"
+				"606863B6410C1516"
+				"5FBD09031EB9D4F0"
+				"63F22966BE982954"
+				"1B3B25F7487DF758"
+				"4B474602C7639F0A"
+				"7DDAF6906785BDE2"
+				"6902261308A0D69F"
+				"081674421615028F"
+				"3D9FD800CA15B82A"
+				"338AA5DA729061A9"
+				"59460BB0454B5ED2"
+				"7B16C981B1C79F24"
+				"5E8AEDBC3ADBB41A"
+				"5CECF64A1B7BECE5"
+				"0C393621176E304B"
+				"3759486D4113C11A"
+				"447BAA06097CC83E"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			id: "22013D907091EAC6"
+			rewards: [{
+				id: "63906BB39D467536"
+				item: {
+					count: 1
+					id: "touhou_little_maid:substitute_jizo"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3E352BF3AEAB3081"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6902261308A0D69F"]
+			id: "447BAA06097CC83E"
+			rewards: [{
+				count: 8
+				id: "7132DC02D8B73B7B"
+				item: {
+					count: 1
+					id: "touhou_little_maid:power_point"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4139862276983793"
+				item: { count: 1, id: "touhou_little_maid:scarecrow" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6902261308A0D69F"]
+			id: "338AA5DA729061A9"
+			rewards: [{
+				count: 8
+				id: "41EB5AD7C2598B56"
+				item: {
+					count: 1
+					id: "touhou_little_maid:power_point"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3999ED24E22CC1A7"
+				item: { count: 1, id: "touhou_little_maid:kappa_compass" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6902261308A0D69F"]
+			id: "0C393621176E304B"
+			rewards: [{
+				id: "67DC824F5280920B"
+				item: {
+					count: 1
+					id: "touhou_little_maid:maid_bed"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0A0D710C485393E2"
+				item: { count: 1, id: "touhou_little_maid:maid_bed" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6902261308A0D69F"]
+			id: "3D9FD800CA15B82A"
+			rewards: [{
+				count: 8
+				id: "285890CF1C484B71"
+				item: {
+					count: 1
+					id: "touhou_little_maid:power_point"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "18D33E4575441AFC"
+				item: { count: 1, id: "touhou_little_maid:item_magnet_bauble" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6902261308A0D69F"]
+			id: "3759486D4113C11A"
+			tasks: [{
+				id: "64A873B4FF778EAD"
+				item: { count: 1, id: "touhou_little_maid:wireless_io" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6902261308A0D69F"]
+			id: "7B16C981B1C79F24"
+			rewards: [{
+				count: 8
+				id: "335B0405D9787A93"
+				item: {
+					count: 1
+					id: "touhou_little_maid:power_point"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7D890614A748FBE2"
+				item: { count: 1, id: "touhou_little_maid_spell:spell_enhancement_core" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6902261308A0D69F"]
+			id: "59460BB0454B5ED2"
+			rewards: [{
+				count: 8
+				id: "76DBA72F5FD2DE6A"
+				item: {
+					count: 1
+					id: "touhou_little_maid:power_point"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "48EAB80F702E9AE6"
+				item: { count: 1, id: "maid_storage_manager:logistics_guide" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6902261308A0D69F"]
+			id: "5CECF64A1B7BECE5"
+			rewards: [{
+				count: 4
+				id: "565522C4081CF770"
+				item: {
+					count: 1
+					id: "touhou_little_maid:ultramarine_orb_elixir"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0188594FEF5EE850"
+					item: { count: 1, id: "touhou_little_maid:ultramarine_orb_elixir" }
+					type: "item"
+				}
+				{
+					id: "0DDD3282DB452EB1"
+					item: { count: 1, id: "touhou_little_maid:explosion_protect_bauble" }
+					type: "item"
+				}
+				{
+					id: "64F27DCC8E0ED99F"
+					item: { count: 1, id: "touhou_little_maid:fire_protect_bauble" }
+					type: "item"
+				}
+				{
+					id: "7491AC8472DFEA0F"
+					item: { count: 1, id: "touhou_little_maid:projectile_protect_bauble" }
+					type: "item"
+				}
+				{
+					id: "2A290861719664D4"
+					item: { count: 1, id: "touhou_little_maid:magic_protect_bauble" }
+					type: "item"
+				}
+				{
+					id: "4A6D78DAF68D29DF"
+					item: { count: 1, id: "touhou_little_maid:fall_protect_bauble" }
+					type: "item"
+				}
+				{
+					id: "77E67260D4645057"
+					item: { count: 1, id: "touhou_little_maid:drown_protect_bauble" }
+					type: "item"
+				}
+				{
+					id: "3AED569FD3D7F225"
+					item: { count: 1, id: "touhou_little_maid:nimble_fabric" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6902261308A0D69F"]
+			id: "5E8AEDBC3ADBB41A"
+			rewards: [{
+				count: 8
+				id: "1E450F6B27DAEC3C"
+				item: {
+					count: 1
+					id: "touhou_little_maid:power_point"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "37E43BBEB33980EB"
+				item: { count: 1, id: "touhou_little_maid:maid_backpack_small" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+	]
+}

@@ -1,0 +1,578 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storage"
+	group: "65DBD493CCEDCEF5"
+	icon: {
+		components: {
+			"ftbquests:missing_item": "l2backpack:drawer"
+		}
+		id: "ftbquests:missing_item"
+	}
+	id: "2B7CFCF0C8CDD253"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7F74368BCB1C72F8"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "48B953318072F4A9"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7F74368BCB1C72F8"]
+			hide_until_deps_complete: true
+			id: "5CDA3CEC0DBF1E80"
+			tasks: [{
+				id: "3EE4651DAA464144"
+				item: { components: { "ftbquests:missing_item": "expandedstorage:copper_barrel" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5CDA3CEC0DBF1E80"]
+			id: "65700F9CCE385EF4"
+			tasks: [{
+				id: "6CB01E9C308E5D13"
+				item: { components: { "ftbquests:missing_item": "expandedstorage:iron_barrel" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["65700F9CCE385EF4"]
+			id: "380A453F7FA5E0FF"
+			tasks: [{
+				id: "19E1F08F2ADF281E"
+				item: { components: { "ftbquests:missing_item": "expandedstorage:gold_barrel" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["09421FFA77B5C27D"]
+			id: "5A9A90B7C15751CC"
+			tasks: [{
+				id: "79DEAFA37738EC3E"
+				item: { components: { "ftbquests:missing_item": "expandedstorage:obsidian_barrel" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5A9A90B7C15751CC"]
+			id: "1F6434B8805D8C3F"
+			tasks: [{
+				id: "1462B2BD78446DBC"
+				item: { components: { "ftbquests:missing_item": "expandedstorage:netherite_barrel" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7F74368BCB1C72F8"]
+			hide_until_deps_complete: true
+			hide_until_deps_visible: false
+			id: "16A6DD06B9164B1A"
+			tasks: [{
+				id: "48062440FE03B7FD"
+				item: { components: { "ftbquests:missing_item": "expandedstorage:iron_chest" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["16A6DD06B9164B1A"]
+			id: "181974EA8A704A62"
+			tasks: [{
+				id: "0341D1D7E038ABF3"
+				item: { components: { "ftbquests:missing_item": "expandedstorage:gold_chest" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["181974EA8A704A62"]
+			id: "4A5DFB2DF2254805"
+			tasks: [{
+				id: "57754B8E49FE7E29"
+				item: { components: { "ftbquests:missing_item": "expandedstorage:diamond_chest" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4A5DFB2DF2254805"]
+			id: "342591BF7800455D"
+			tasks: [{
+				id: "57B08B71EDB0CDEC"
+				item: { components: { "ftbquests:missing_item": "expandedstorage:obsidian_chest" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["342591BF7800455D"]
+			id: "399A64438FC95CD7"
+			tasks: [{
+				id: "26936EB7EEA4F986"
+				item: { components: { "ftbquests:missing_item": "expandedstorage:netherite_chest" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["380A453F7FA5E0FF"]
+			id: "09421FFA77B5C27D"
+			tasks: [{
+				id: "5C6903AD4730931D"
+				item: { components: { "ftbquests:missing_item": "expandedstorage:diamond_barrel" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7F74368BCB1C72F8"]
+			hide_until_deps_complete: true
+			id: "22E8E6C3740EA876"
+			tasks: [{
+				id: "3FB504987034CF79"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["22E8E6C3740EA876"]
+			hide_dependency_lines: true
+			id: "3BE71D3A35A1A5DC"
+			tasks: [{
+				id: "1B6CBB72F1C96895"
+				item: { count: 1, id: "functionalstorage:copper_upgrade" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3BE71D3A35A1A5DC"]
+			id: "57E4116D43D36792"
+			tasks: [{
+				id: "167312CA800BFD9E"
+				item: { count: 1, id: "functionalstorage:gold_upgrade" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["57E4116D43D36792"]
+			id: "42F0590504192C91"
+			tasks: [{
+				id: "21275BFBAE01A363"
+				item: { count: 1, id: "functionalstorage:diamond_upgrade" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["42F0590504192C91"]
+			id: "6CCF1F0CE81C9E4C"
+			tasks: [{
+				id: "3396498268C2EF10"
+				item: { count: 1, id: "functionalstorage:netherite_upgrade" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["22E8E6C3740EA876"]
+			id: "78536EB821833F8D"
+			tasks: [{
+				id: "3DA977F1787ACFEE"
+				item: { count: 1, id: "functionalstorage:compacting_drawer" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["22E8E6C3740EA876"]
+			id: "3083F6DC1ABD0CB1"
+			tasks: [{
+				id: "7A29A37D94113034"
+				item: { count: 1, id: "functionalstorage:storage_controller" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["22E8E6C3740EA876"]
+			hide_dependency_lines: true
+			id: "1575DAD9BB55617D"
+			tasks: [{
+				id: "169FCBE057FE1521"
+				item: { count: 1, id: "functionalstorage:linking_tool" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["22E8E6C3740EA876"]
+			hide_dependency_lines: true
+			id: "2675F29B7BECA716"
+			tasks: [{
+				id: "6B75A82BCA05A9D9"
+				item: { count: 1, id: "functionalstorage:configuration_tool" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["22E8E6C3740EA876"]
+			hide_dependency_lines: true
+			id: "414DDAE7D27692E3"
+			tasks: [{
+				id: "7BD82F965DA3EDB9"
+				item: { components: { "functionalstorage:slot": 0 }, count: 1, id: "functionalstorage:redstone_upgrade" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["22E8E6C3740EA876"]
+			hide_dependency_lines: true
+			id: "791C30155352E86F"
+			tasks: [{
+				id: "23846981F7E6E397"
+				item: { count: 1, id: "functionalstorage:void_upgrade" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["22E8E6C3740EA876"]
+			hide_dependency_lines: true
+			id: "4D91004E36BE6ABE"
+			tasks: [{
+				id: "2E0CB76AFB769E65"
+				item: { count: 1, id: "functionalstorage:iron_downgrade" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["22E8E6C3740EA876"]
+			hide_dependency_lines: true
+			id: "53CA2562F46B5ACB"
+			tasks: [{
+				id: "20DBD4E32A96B522"
+				item: { components: { "functionalstorage:direction": "north" }, count: 1, id: "functionalstorage:collector_upgrade" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["22E8E6C3740EA876"]
+			hide_dependency_lines: true
+			id: "4D548D8A0F189E17"
+			tasks: [{
+				id: "12CBCDC0797482A1"
+				item: { components: { "functionalstorage:direction": "north" }, count: 1, id: "functionalstorage:puller_upgrade" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["22E8E6C3740EA876"]
+			hide_dependency_lines: true
+			id: "7829B27D5C3CC1E1"
+			tasks: [{
+				id: "05B9565363531018"
+				item: { components: { "functionalstorage:direction": "north" }, count: 1, id: "functionalstorage:pusher_upgrade" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["22E8E6C3740EA876"]
+			id: "037508473C03F324"
+			tasks: [{
+				id: "76A1AE0228230ABE"
+				item: { count: 1, id: "functionalstorage:ender_drawer" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7F74368BCB1C72F8"]
+			hide_until_deps_complete: true
+			id: "12DEEAA54E86A717"
+			rewards: [{
+				count: 4
+				id: "24D57ECE787C7D24"
+				item: {
+					components: {
+						"ftbquests:missing_item": "l2backpack:ender_pocket"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2480C26300415543"
+				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["12DEEAA54E86A717"]
+			id: "00CB074F6151ED67"
+			rewards: [{
+				count: 4
+				id: "2670E52D9BDCDA12"
+				item: {
+					components: {
+						"ftbquests:missing_item": "l2backpack:ender_pocket"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2313CB48B337D6AF"
+					item: { components: { "ftbquests:missing_item": "l2backpack:pickup_tweaker_tool" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "74377D99F0F253E0"
+					item: { components: { "ftbquests:missing_item": "l2backpack:destroy_tweaker_tool" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["12DEEAA54E86A717"]
+			id: "550432EFAD824831"
+			rewards: [{
+				count: 4
+				id: "79FC578355E66C57"
+				item: {
+					components: {
+						"ftbquests:missing_item": "l2backpack:ender_pocket"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "092B92D4600BD55D"
+				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["550432EFAD824831"]
+			id: "60DB0DB5F9E9EF00"
+			rewards: [{
+				count: 4
+				id: "41DDA2B9650D2AA1"
+				item: {
+					components: {
+						"ftbquests:missing_item": "l2backpack:ender_pocket"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "01231F476C712071"
+				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["12DEEAA54E86A717"]
+			id: "5B919F3D0293697A"
+			rewards: [{
+				count: 4
+				id: "58BD23A40257D3FF"
+				item: {
+					components: {
+						"ftbquests:missing_item": "l2backpack:ender_pocket"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "68852005F17C7F60"
+				item: { components: { "ftbquests:missing_item": "l2backpack:drawer" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5B919F3D0293697A"]
+			id: "108C208E4E138613"
+			rewards: [{
+				count: 4
+				id: "2173FB267ADFD161"
+				item: {
+					components: {
+						"ftbquests:missing_item": "l2backpack:ender_pocket"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6C641E0DA1ED8137"
+				item: { components: { "ftbquests:missing_item": "l2backpack:ender_drawer" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["12DEEAA54E86A717"]
+			id: "212FA8E1B48400BD"
+			rewards: [{
+				count: 4
+				id: "4794CBE15B9BAE24"
+				item: {
+					components: {
+						"ftbquests:missing_item": "l2backpack:ender_pocket"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "4E109113D6E46289"
+				item: { components: { "ftbquests:missing_item": "l2backpack:ender_pocket" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["12DEEAA54E86A717"]
+			id: "131A12B1AF021401"
+			rewards: [{
+				count: 4
+				id: "3B1073F1E1B8B792"
+				item: {
+					components: {
+						"ftbquests:missing_item": "l2backpack:ender_pocket"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3293B7E5BFC7A518"
+					item: { components: { "ftbquests:missing_item": "l2backpack:armor_bag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "54DE5E9ED441ED0D"
+					item: { components: { "ftbquests:missing_item": "l2backpack:book_bag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "1E75F44DD8CA2DE0"
+					item: { components: { "ftbquests:missing_item": "l2backpack:arrow_bag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["550432EFAD824831"]
+			id: "74E80AC643143436"
+			rewards: [{
+				count: 4
+				id: "74FC727EC52F7AE2"
+				item: {
+					components: {
+						"ftbquests:missing_item": "l2backpack:ender_pocket"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "1F59BAFB25C328A7"
+					item: { components: { "ftbquests:missing_item": "l2backpack:tool_swap" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "46DE5F1BDA6D873A"
+					item: { components: { "ftbquests:missing_item": "l2backpack:armor_swap" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "51ED7FCDA4822872"
+					item: { components: { "ftbquests:missing_item": "l2backpack:hand_swap" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -1.5d
+		}
+	]
+}
