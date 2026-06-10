@@ -1827,52 +1827,6 @@
             ]
         },
         {
-            "pakku_id": "6B1AnhcJ5QDPnCHl",
-            "pakku_links": [
-                "exCP2y0syJVA9jKo"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "casualness-delight",
-                "modrinth": "casualness-delight"
-            },
-            "name": {
-                "curseforge": "Casualness Delight",
-                "modrinth": "Casualness Delight"
-            },
-            "id": {
-                "curseforge": "909519",
-                "modrinth": "zYuGPZIx"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "casualnessdelight-0.6.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7467/708/casualnessdelight-0.6.jar",
-                    "id": "7467708",
-                    "parent_id": "909519",
-                    "hashes": {
-                        "sha1": "fd62f6085fbc55e4274a77eaaa9d896233b0aaac",
-                        "md5": "68cb616dc41387a2b881fb346072a223"
-                    },
-                    "required_dependencies": [
-                        "398521"
-                    ],
-                    "size": 300008,
-                    "date_published": "2026-01-16T09:05:24.550Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "73q9a8wKynWjmaDE",
             "pakku_links": [
                 "W5ub0QpYjoBhnwIn"
@@ -10253,7 +10207,7 @@
         {
             "pakku_id": "8Cg308zYMvH2ijxy",
             "type": "MOD",
-            "side": "BOTH",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "keymap-maintained",
                 "modrinth": "keymap-maintained"

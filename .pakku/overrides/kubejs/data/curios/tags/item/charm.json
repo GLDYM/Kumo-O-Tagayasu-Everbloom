@@ -1,4 +1,5 @@
 {
+  "replace": false,
   "values": [
     "artifacts:cloud_in_a_bottle",
     "artifacts:obsidian_skull",
