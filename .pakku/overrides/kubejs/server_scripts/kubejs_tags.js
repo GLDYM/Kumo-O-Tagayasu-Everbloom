@@ -204,10 +204,10 @@ ServerEvents.tags('item', event => {
 })
 
 // 巧克力
-// ServerEvents.tags('item', event => {
-//   event.add('c:bars/chocolate', ['#c:chocolate'])
-//   event.add('c:chocolate', ['#c:bars/chocolate'])
-// })
+ServerEvents.tags('item', event => {
+  event.add('c:bars/chocolate', ['#c:chocolate'])
+  event.add('c:chocolate', ['#c:bars/chocolate'])
+})
 
 // 切片
 ServerEvents.tags('item', event => {
@@ -307,10 +307,10 @@ ServerEvents.tags('item', event => {
   event.add('c:raw_fish', ['#c:raw_fishes'])
   event.add('c:cooked_fish', ['#c:cooked_fishes'])
   event.add('c:fermentation', ['#c:crops/grape'])
-//   event.add('c:crops/cantaloupe', ['#c:crops/hamimelon'])
-//   event.add('c:crops/hamimelon', ['#c:crops/cantaloupe'])
-//   event.add('c:fruits/cantaloupe', ['#c:fruits/hamimelon'])
-//   event.add('c:fruits/hamimelon', ['#c:fruits/cantaloupe'])
+  event.add('c:crops/cantaloupe', ['#c:crops/hamimelon'])
+  event.add('c:crops/hamimelon', ['#c:crops/cantaloupe'])
+  event.add('c:fruits/cantaloupe', ['#c:fruits/hamimelon'])
+  event.add('c:fruits/hamimelon', ['#c:fruits/cantaloupe'])
   event.add('c:wheat', ['#c:crops/wheat', '#c:grain/wheat'])
   event.add('c:crops/wheat', ['#c:wheat'])
   event.add('c:grain/wheat', ['#c:wheat'])
