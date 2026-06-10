@@ -204,11 +204,11 @@ ServerEvents.tags('item', event => {
 })
 
 // 巧克力
-ServerEvents.tags('item', event => {
-  event.add('c:bars/chocolate', ['#c:chocolate', '#c:chocolate'])
-  event.add('c:chocolate', ['#c:bars/chocolate'])
-  event.add('c:chocolate', ['#c:chocolate'])
-})
+// ServerEvents.tags('item', event => {
+//   event.add('c:bars/chocolate', ['#c:chocolate', '#c:chocolate'])
+//   event.add('c:chocolate', ['#c:bars/chocolate'])
+//   event.add('c:chocolate', ['#c:chocolate'])
+// })
 
 // 切片
 ServerEvents.tags('item', event => {
