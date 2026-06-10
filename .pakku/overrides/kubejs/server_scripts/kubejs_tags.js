@@ -205,9 +205,8 @@ ServerEvents.tags('item', event => {
 
 // 巧克力
 // ServerEvents.tags('item', event => {
-//   event.add('c:bars/chocolate', ['#c:chocolate', '#c:chocolate'])
+//   event.add('c:bars/chocolate', ['#c:chocolate'])
 //   event.add('c:chocolate', ['#c:bars/chocolate'])
-//   event.add('c:chocolate', ['#c:chocolate'])
 // })
 
 // 切片
@@ -295,9 +294,9 @@ ServerEvents.tags('item', event => {
 //   event.add('c:tools/swords', ['#minecraft:swords'])
 //   event.add('c:tools/hoes', ['#minecraft:hoes'])
 //   event.add('c:tools', ['#minecraft:tools'])
-//   event.add('c:seeds/coffeebean', ['bakeries:raw_coffee_bean', 'youkaishomecoming:green_coffee_bean'])
-//   event.add('c:coffee_beans', ['bakeries:coffee_bean', 'youkaishomecoming:coffee_beans'])
-//   event.add('c:coffee_powder', ['bakeries:ground_coffee', 'youkaishomecoming:coffee_powder'])
+  event.add('c:seeds/coffeebean', ['bakeries:raw_coffee_bean', 'youkaishomecoming:green_coffee_bean'])
+  event.add('c:coffee_beans', ['bakeries:coffee_bean', 'youkaishomecoming:coffee_beans'])
+  event.add('c:coffee_powder', ['bakeries:ground_coffee', 'youkaishomecoming:coffee_powder'])
 //   event.add('minecraft:completes_find_tree_tutorial', ['#minecraft:logs'])
 //   event.add('c:fruits', ['#c:berries'])
 //   event.add('minecraft:fox_food', ['#c:berries'])
@@ -317,21 +316,20 @@ ServerEvents.tags('item', event => {
 //   event.add('c:wheat', ['#c:crops/wheat', '#c:grain/wheat'])
 //   event.add('c:crops/wheat', ['#c:wheat'])
 //   event.add('c:grain/wheat', ['#c:wheat'])
-//   event.add('c:food/raw_pasta', ['farmersdelight:raw_pasta', 'vintagedelight:cucumber_noodles'])
-//   event.add('supplementaries:shulker_blacklist', ['#create:toolboxes', '#curios:spellbook', '#functionalstorage:drawer', '#l2backpack:backpacks', '#l2backpack:bags', '#l2backpack:dimensional_storages', '#l2backpack:drawers', '#l2backpack:swaps', 'caverns_and_chasms:tether_potion', 'cuisinedelight:cuisine_skillet', 'cuisinedelight:fried_meat_and_melon', 'cuisinedelight:fried_mushroom', 'cuisinedelight:fried_pasta', 'cuisinedelight:fried_rice', 'cuisinedelight:ham_fried_rice', 'cuisinedelight:meat_fried_rice', 'cuisinedelight:meat_pasta', 'cuisinedelight:meat_platter', 'cuisinedelight:meat_with_seafood', 'cuisinedelight:meat_with_vegetables', 'cuisinedelight:mixed_fried_rice', 'cuisinedelight:mixed_pasta', 'cuisinedelight:scrambled_egg_and_tomato', 'cuisinedelight:seafood_fried_rice', 'cuisinedelight:seafood_pasta', 'cuisinedelight:seafood_platter', 'cuisinedelight:seafood_with_vegetables', 'cuisinedelight:suspicious_mix', 'cuisinedelight:vegetable_fried_rice', 'cuisinedelight:vegetable_pasta', 'cuisinedelight:vegetable_platter', 'minecraft:bundle', 'minecraft:ender_chest', 'some_assembly_required:sandwich'])
+  event.add('c:food/raw_pasta', ['farmersdelight:raw_pasta', 'vintagedelight:cucumber_noodles'])
+  event.add('supplementaries:shulker_blacklist', ['#create:toolboxes', '#curios:spellbook', '#functionalstorage:drawer', '#l2backpack:backpacks', '#l2backpack:bags', '#l2backpack:dimensional_storages', '#l2backpack:drawers', '#l2backpack:swaps', 'caverns_and_chasms:tether_potion', 'cuisinedelight:cuisine_skillet', 'cuisinedelight:fried_meat_and_melon', 'cuisinedelight:fried_mushroom', 'cuisinedelight:fried_pasta', 'cuisinedelight:fried_rice', 'cuisinedelight:ham_fried_rice', 'cuisinedelight:meat_fried_rice', 'cuisinedelight:meat_pasta', 'cuisinedelight:meat_platter', 'cuisinedelight:meat_with_seafood', 'cuisinedelight:meat_with_vegetables', 'cuisinedelight:mixed_fried_rice', 'cuisinedelight:mixed_pasta', 'cuisinedelight:scrambled_egg_and_tomato', 'cuisinedelight:seafood_fried_rice', 'cuisinedelight:seafood_pasta', 'cuisinedelight:seafood_platter', 'cuisinedelight:seafood_with_vegetables', 'cuisinedelight:suspicious_mix', 'cuisinedelight:vegetable_fried_rice', 'cuisinedelight:vegetable_pasta', 'cuisinedelight:vegetable_platter', 'minecraft:bundle', 'minecraft:ender_chest', 'some_assembly_required:sandwich'])
 //   event.add('touhou_little_maid:maid_tamed_item', ['#c:cake'])
-//   event.add('c:cheeses', ['#c:cheese'])
 //   event.add('c:ice_cubes', ['youkaishomecoming:ice_cube'])
 // })
 
 // Knives
-// ServerEvents.tags('item', event => {
-//   event.add('c:tools/knives', ['#l2weaponry:dagger'])
-//   event.add('c:tools', ['#l2weaponry:dagger'])
-//   event.add('farmersdelight:tools/knives', ['#l2weaponry:dagger'])
-//   event.add('farmersdelight:straw_harvesters', ['#l2weaponry:dagger'])
-//   event.add('immortalers_delight:tools/immortal_knives', ['#c:tools/knives'])
-// })
+ServerEvents.tags('item', event => {
+  event.add('c:tools/knives', ['#l2weaponry:dagger'])
+  event.add('c:tools', ['#l2weaponry:dagger'])
+  event.add('farmersdelight:tools/knives', ['#l2weaponry:dagger'])
+  event.add('farmersdelight:straw_harvesters', ['#l2weaponry:dagger'])
+  event.add('immortalers_delight:tools/immortal_knives', ['#c:tools/knives'])
+})
 
 //oei
 ServerEvents.tags('item', event => {
