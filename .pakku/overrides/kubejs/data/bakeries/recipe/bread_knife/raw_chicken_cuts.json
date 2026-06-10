@@ -1,12 +1,12 @@
 {
   "type": "bakeries:bread_knife",
-  "ingredients": [
+  "ingredient": {
+    "item": "minecraft:chicken"
+  },
+  "results": [
     {
-      "item": "minecraft:chicken"
+      "id": "farmersdelight:chicken_cuts",
+      "count": 2
     }
-  ],
-  "output": {
-    "id": "farmersdelight:chicken_cuts",
-    "count": 2
-  }
+  ]
 }
