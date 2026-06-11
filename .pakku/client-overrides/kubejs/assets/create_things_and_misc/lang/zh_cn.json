@@ -72,7 +72,7 @@
   "gui.create_things_and_misc.brass_speaker_gui.button_add": "增加",
   "gui.create_things_and_misc.brass_speaker_gui.button_clear": "清除",
   "gui.create_things_and_misc.brass_speaker_gui.label_actual_message": "实际消息:",
-  "gui.create_things_and_misc.brass_speaker_gui.label_bnbttextspeakertext": "\u003cBNBT:text:SpeakerText\u003e",
+  "gui.create_things_and_misc.brass_speaker_gui.label_bnbttextspeakertext": "<BNBT:text:SpeakerText>",
   "gui.create_things_and_misc.brass_speaker_gui.label_brass_speaker": "黄铜喇叭",
   "gui.create_things_and_misc.inscriber_gui.button_inscribe": "写入",
   "gui.create_things_and_misc.inscriber_gui.label_card_press": "写磁机",

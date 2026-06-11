@@ -1,15 +1,17 @@
 {
-	"type": "cagedmobs:environment_data",
-	"neoforge:conditions": [
-		{
-			"type": "neoforge:mod_loaded",
-			"modid": "create"
-		}
-	],
-	"input": {
-		"item": "create:experience_block"
-	},
-	"render": "create:experience_block",
-	"growModifier": 1,
-	"categories": ["magic"]
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "cagedmobs:environment_data",
+  "categories": [
+    "magic"
+  ],
+  "growModifier": 1,
+  "input": {
+    "item": "create:experience_block"
+  },
+  "render": "create:experience_block"
 }

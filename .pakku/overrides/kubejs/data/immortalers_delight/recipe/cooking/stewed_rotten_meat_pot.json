@@ -1,5 +1,20 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immortalers_delight"
+    }
+  ],
   "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:decorated_pot"
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
   "ingredients": [
     {
       "item": "immortalers_delight:himekaido_jelly"
@@ -28,22 +43,7 @@
       ]
     }
   ],
-  "container": {
-    "id": "minecraft:decorated_pot"
-  },
   "result": {
     "id": "immortalers_delight:stewed_rotten_meat_pot"
-  },
-  "experience": 0.35,
-  "cookingtime": 200,
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "farmersdelight"
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "immortalers_delight"
-    }
-  ]
+  }
 }

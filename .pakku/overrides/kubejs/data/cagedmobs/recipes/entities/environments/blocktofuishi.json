@@ -1,15 +1,17 @@
 {
-	"type": "cagedmobs:environment_data",
-	"neoforge:conditions": [
-		{
-			"type": "neoforge:mod_loaded",
-			"modid": "tofucraft"
-		}
-	],
-	"input": {
-		"item": "tofucraft:blocktofuishi"
-	},
-	"render": "tofucraft:blocktofuishi",
-	"growModifier": 1,
-	"categories": ["tofu"]
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tofucraft"
+    }
+  ],
+  "type": "cagedmobs:environment_data",
+  "categories": [
+    "tofu"
+  ],
+  "growModifier": 1,
+  "input": {
+    "item": "tofucraft:blocktofuishi"
+  },
+  "render": "tofucraft:blocktofuishi"
 }

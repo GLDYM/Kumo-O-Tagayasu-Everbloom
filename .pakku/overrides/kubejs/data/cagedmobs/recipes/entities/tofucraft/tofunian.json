@@ -1,14 +1,16 @@
 {
-	"type": "cagedmobs:entity_data",
-	"neoforge:conditions": [
-		{
-			"type": "neoforge:mod_loaded",
-			"modid": "tofucraft"
-		}
-	],
-	"entity": "tofucraft:tofunian",
-	"samplerTier": 1,
-	"environments": ["tofu"],
-	"growTicks": 1800,
-	"results": []
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tofucraft"
+    }
+  ],
+  "type": "cagedmobs:entity_data",
+  "entity": "tofucraft:tofunian",
+  "environments": [
+    "tofu"
+  ],
+  "growTicks": 1800,
+  "results": [],
+  "samplerTier": 1
 }

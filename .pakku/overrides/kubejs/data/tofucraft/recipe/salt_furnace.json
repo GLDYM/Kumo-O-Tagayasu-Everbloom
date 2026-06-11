@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "c:ingots/iron"
+    },
+    "S": {
+      "tag": "c:cobblestone"
+    }
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "SSS"
+  ],
+  "result": {
+    "id": "tofucraft:salt_furnace"
+  },
+  "show_notification": true
+}

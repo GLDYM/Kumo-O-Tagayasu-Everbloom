@@ -1,5 +1,17 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immortalers_delight"
+    }
+  ],
   "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 0.35,
   "ingredients": [
     {
       "tag": "c:grain"
@@ -30,17 +42,5 @@
   ],
   "result": {
     "id": "immortalers_delight:large_column"
-  },
-  "experience": 0.35,
-  "cookingtime": 200,
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "farmersdelight"
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "immortalers_delight"
-    }
-  ]
+  }
 }

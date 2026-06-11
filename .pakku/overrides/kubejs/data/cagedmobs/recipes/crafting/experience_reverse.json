@@ -3,11 +3,11 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-	{
-	  "item": "create:experience_nugget"
-	}
+    {
+      "item": "create:experience_nugget"
+    }
   ],
   "result": {
-    "item": "cagedmobs:crystallized_experience"
+    "id": "cagedmobs:crystallized_experience"
   }
 }
