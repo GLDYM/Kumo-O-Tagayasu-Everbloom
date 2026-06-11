@@ -1,0 +1,31 @@
+{
+  "type": "vintagedelight:fermenting",
+  "processingTime": 1200,
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "ingredients": [
+    {
+      "tag": "c:crops/oat"
+    },
+    {
+      "tag": "c:berries"
+    },
+    {
+      "tag": "c:berries"
+    },
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    },
+    {
+      "item": "minecraft:melon_slice"
+    },
+    {
+      "tag": "c:crops/apple"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "vintagedelight:overnight_oats"
+  }
+}
