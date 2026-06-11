@@ -1,4 +1,10 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "kaleidoscope_cookery"
+    }
+  ],
   "type": "kaleidoscope_cookery:stockpot",
   "cooking_bubble_color": 16772291,
   "cooking_texture": "kaleidoscope_cookery:stockpot/default_cooking",
@@ -15,11 +21,5 @@
   "result": {
     "count": 2,
     "id": "kaleidoscope_cookery:dumpling"
-  },
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "kaleidoscope_cookery"
-    }
-  ]
+  }
 }

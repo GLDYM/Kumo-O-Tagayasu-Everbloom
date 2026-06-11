@@ -1,5 +1,20 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immortalers_delight"
+    }
+  ],
   "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:glass_bottle"
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
   "ingredients": [
     {
       "item": "immortalers_delight:evolutcorn_grains"
@@ -22,22 +37,7 @@
       ]
     }
   ],
-  "container": {
-    "id": "minecraft:glass_bottle"
-  },
   "result": {
     "id": "immortalers_delight:evolutcorn_juice"
-  },
-  "experience": 0.35,
-  "cookingtime": 200,
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "farmersdelight"
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "immortalers_delight"
-    }
-  ]
+  }
 }

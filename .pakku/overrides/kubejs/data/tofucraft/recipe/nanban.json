@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_chicken"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:crops/wheat"
+    },
+    {
+      "tag": "c:bowls"
+    },
+    {
+      "item": "tofucraft:bottle_soysause"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:crops/chilipepper"
+    }
+  ],
+  "result": {
+    "id": "tofucraft:nanban"
+  }
+}

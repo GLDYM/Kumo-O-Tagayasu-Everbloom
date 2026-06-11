@@ -1,4 +1,18 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "dungeonsdelight"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "kaleidoscope_cookery"
+    }
+  ],
   "type": "dungeonsdelight:monster_cooking",
   "experience": 2,
   "ingredients": [
@@ -22,19 +36,5 @@
   "result": {
     "count": 1,
     "id": "dungeonsdelight:gyudon"
-  },
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "dungeonsdelight"
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "farmersdelight"
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "kaleidoscope_cookery"
-    }
-  ]
+  }
 }

@@ -1,0 +1,22 @@
+{
+  "type": "tofucraft:tofu_pot_shapeless",
+  "category": "fast_food",
+  "cook_time": 100,
+  "exp": 0.1,
+  "fluid": {
+    "fluid": "tofucreate:soyoil"
+  },
+  "ingredients": [
+    [
+      {
+        "item": "tofucraft:tofukinu"
+      },
+      {
+        "item": "tofucraft:tofumomen"
+      }
+    ]
+  ],
+  "result": {
+    "id": "tofucraft:tofufried"
+  }
+}

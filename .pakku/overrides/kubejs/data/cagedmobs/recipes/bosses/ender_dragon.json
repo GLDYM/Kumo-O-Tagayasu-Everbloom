@@ -1,41 +1,42 @@
 {
-    "_comment": "Kumo O Tagayasu Modpack(Shortname:KOTS) file comments, It acts to preserve the original author(Polaris_Light) information. According to the KOTS modpack usage agreement, users are allowed to create and distribute on the basis of KOTS modpack, but the original author information must be retained. KOTS modpack is free for users to download, if you spend real money in somewhere and download KOTS modpack, please avoid seller!",
-	"type": "cagedmobs:entity_data",
-	"neoforge:conditions": [
-		{
-			"type": "neoforge:mod_loaded",
-			"modid": "cagedmobs"
-		}
-	],
-	"entity": "minecraft:ender_dragon",
-	"samplerTier": 3,
-	"environments": ["end"],
-	"growTicks": 2400,
-	"results": [
-		{
-			"chance": 0.2,
-				"output": {
-					"item": "cagedmobs:dragon_scale"
-				},
-				"minAmount": 1,
-				"maxAmount": 1
-		},
-		{
-			"chance": 0.6,
-				"output": {
-					"item": "irons_spellbooks:dragonskin"
-				},
-				"minAmount": 1,
-				"maxAmount": 2
-		},
-		{
-			"chance": 1,
-				"output": {
-					"item": "irons_spellbooks:arcane_essence"
-				},
-				"minAmount": 3,
-				"maxAmount": 5
-		}		
-	]
-	
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cagedmobs"
+    }
+  ],
+  "type": "cagedmobs:entity_data",
+  "_comment": "Kumo O Tagayasu Modpack(Shortname:KOTS) file comments, It acts to preserve the original author(Polaris_Light) information. According to the KOTS modpack usage agreement, users are allowed to create and distribute on the basis of KOTS modpack, but the original author information must be retained. KOTS modpack is free for users to download, if you spend real money in somewhere and download KOTS modpack, please avoid seller!",
+  "entity": "minecraft:ender_dragon",
+  "environments": [
+    "end"
+  ],
+  "growTicks": 2400,
+  "results": [
+    {
+      "chance": 0.2,
+      "output": {
+        "item": "cagedmobs:dragon_scale"
+      },
+      "minAmount": 1,
+      "maxAmount": 1
+    },
+    {
+      "chance": 0.6,
+      "output": {
+        "item": "irons_spellbooks:dragonskin"
+      },
+      "minAmount": 1,
+      "maxAmount": 2
+    },
+    {
+      "chance": 1,
+      "output": {
+        "item": "irons_spellbooks:arcane_essence"
+      },
+      "minAmount": 3,
+      "maxAmount": 5
+    }
+  ],
+  "samplerTier": 3
 }

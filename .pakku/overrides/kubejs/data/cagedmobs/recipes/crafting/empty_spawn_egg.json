@@ -16,7 +16,7 @@
     " A "
   ],
   "result": {
-    "item": "cagedmobs:empty_spawn_egg"
+    "id": "cagedmobs:empty_spawn_egg"
   },
   "show_notification": true
 }

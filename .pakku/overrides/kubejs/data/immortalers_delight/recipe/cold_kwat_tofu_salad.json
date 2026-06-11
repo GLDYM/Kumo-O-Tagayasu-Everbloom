@@ -1,4 +1,10 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immortalers_delight"
+    }
+  ],
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
@@ -30,11 +36,5 @@
   "result": {
     "count": 1,
     "id": "immortalers_delight:cold_kwat_tofu_salad"
-  },
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "immortalers_delight"
-    }
-  ]
+  }
 }

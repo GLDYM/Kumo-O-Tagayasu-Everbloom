@@ -1,32 +1,33 @@
 {
-	"type": "cagedmobs:entity_data",
-	"neoforge:conditions": [
-		{
-			"type": "neoforge:mod_loaded",
-			"modid": "cagedmobs"
-		}
-	],
-	"entity": "minecraft:blaze",
-	"samplerTier": 2,
-	"environments": ["nether"],
-	"growTicks": 1800,
-	"results": [
-		{
-			"chance": 0.6,
-			"output": {
-				"item": "minecraft:blaze_rod"
-			},
-			"minAmount": 1,
-			"maxAmount": 2
-		},
-		{
-			"chance": 0.01,
-			"output": {
-				"item": "irons_spellbooks:blaze_spell_book"
-			},
-			"minAmount": 1,
-			"maxAmount": 1
-		}
-	]
-	
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cagedmobs"
+    }
+  ],
+  "type": "cagedmobs:entity_data",
+  "entity": "minecraft:blaze",
+  "environments": [
+    "nether"
+  ],
+  "growTicks": 1800,
+  "results": [
+    {
+      "chance": 0.6,
+      "output": {
+        "item": "minecraft:blaze_rod"
+      },
+      "minAmount": 1,
+      "maxAmount": 2
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "irons_spellbooks:blaze_spell_book"
+      },
+      "minAmount": 1,
+      "maxAmount": 1
+    }
+  ],
+  "samplerTier": 2
 }

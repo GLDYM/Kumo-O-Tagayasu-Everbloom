@@ -1,5 +1,20 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immortalers_delight"
+    }
+  ],
   "type": "farmersdelight:cooking",
+  "container": {
+    "id": "immortalers_delight:stone_pot"
+  },
+  "cookingtime": 300,
+  "experience": 0.35,
   "ingredients": [
     {
       "item": "minecraft:chicken"
@@ -20,22 +35,7 @@
       "item": "minecraft:potato"
     }
   ],
-  "container": {
-    "id": "immortalers_delight:stone_pot"
-  },
   "result": {
     "id": "immortalers_delight:tenchimuyo"
-  },
-  "experience": 0.35,
-  "cookingtime": 300,
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "farmersdelight"
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "immortalers_delight"
-    }
-  ]
+  }
 }

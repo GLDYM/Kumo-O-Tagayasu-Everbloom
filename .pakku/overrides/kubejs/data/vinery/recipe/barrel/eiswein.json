@@ -1,18 +1,4 @@
 {
-  "type": "kaleidoscope_tavern:barrel",
-  "carrier": {
-    "item": "kaleidoscope_tavern:empty_bottle"
-  },
-  "fluid": "kaleidoscope_compat:white_grape_juice",
-  "ingredients": [
-    {
-      "item": "minecraft:snowball"
-    }
-  ],
-  "result": {
-    "count": 1,
-    "id": "vinery:eiswein"
-  },
   "neoforge:conditions": [
     {
       "type": "neoforge:mod_loaded",
@@ -26,5 +12,19 @@
       "type": "neoforge:mod_loaded",
       "modid": "kaleidoscope_tavern"
     }
-  ]
+  ],
+  "type": "kaleidoscope_tavern:barrel",
+  "carrier": {
+    "item": "kaleidoscope_tavern:empty_bottle"
+  },
+  "fluid": "kaleidoscope_compat:white_grape_juice",
+  "ingredients": [
+    {
+      "item": "minecraft:snowball"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "vinery:eiswein"
+  }
 }

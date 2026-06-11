@@ -1,4 +1,10 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immortalers_delight"
+    }
+  ],
   "type": "minecraft:stonecutting",
   "ingredient": {
     "item": "minecraft:stone"
@@ -6,11 +12,5 @@
   "result": {
     "id": "immortalers_delight:stone_pot",
     "count": 1
-  },
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "immortalers_delight"
-    }
-  ]
+  }
 }

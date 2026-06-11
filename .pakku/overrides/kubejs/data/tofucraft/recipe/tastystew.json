@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:mushrooms"
+    },
+    {
+      "tag": "c:mushrooms"
+    },
+    {
+      "tag": "c:foods/meat/cooked"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:milk"
+    },
+    {
+      "tag": "c:crops/wheat"
+    },
+    {
+      "tag": "c:bowls"
+    }
+  ],
+  "result": {
+    "id": "tofucraft:tastystew"
+  }
+}

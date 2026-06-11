@@ -1,4 +1,18 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "betternether"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "kaleidoscope_cookery"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "kaleidoscope_nether"
+    }
+  ],
   "type": "kaleidoscope_cookery:stockpot",
   "cooking_bubble_color": 16772291,
   "cooking_texture": "kaleidoscope_cookery:stockpot/default_cooking",
@@ -26,19 +40,5 @@
     "id": "kaleidoscope_nether:nether_reed_stew"
   },
   "soup_base": "minecraft:water",
-  "time": 350,
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "betternether"
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "kaleidoscope_cookery"
-    },
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "kaleidoscope_nether"
-    }
-  ]
+  "time": 350
 }
