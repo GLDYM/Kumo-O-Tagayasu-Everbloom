@@ -2,16 +2,24 @@ import os
 import json
 
 def reorder_neoforge_conditions_first(data):
+    if isinstance(data, list):
+        return [reorder_neoforge_conditions_first(item) for item in data]
     if not isinstance(data, dict):
         return data
-    if "neoforge:conditions" not in data:
-        return data
 
-    ordered = {"neoforge:conditions": data["neoforge:conditions"]}
+    ordered = {}
+    if "neoforge:conditions" in data:
+        ordered["neoforge:conditions"] = reorder_neoforge_conditions_first(
+            data["neoforge:conditions"]
+        )
     if "type" in data:
-        ordered["type"] = data["type"]
-    for key in sorted(k for k in data.keys() if k not in {"neoforge:conditions", "type"}):
-        ordered[key] = data[key]
+        ordered["type"] = reorder_neoforge_conditions_first(data["type"])
+    for key in sorted(
+        k for k in data.keys() if k not in {"_comment", "neoforge:conditions", "type"}
+    ):
+        ordered[key] = reorder_neoforge_conditions_first(data[key])
+    if "_comment" in data:
+        ordered["_comment"] = reorder_neoforge_conditions_first(data["_comment"])
     return ordered
 
 def format_json_files(root_dir):

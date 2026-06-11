@@ -1,0 +1,28 @@
+{
+  "type": "vintagedelight:fermenting",
+  "processingTime": 2400,
+  "ingredients": [
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:salt"
+    }
+  ],
+  "output": {
+    "count": 5,
+    "id": "vintagedelight:pickled_egg"
+  }
+}

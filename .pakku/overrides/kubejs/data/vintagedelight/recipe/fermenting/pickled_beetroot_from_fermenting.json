@@ -1,0 +1,28 @@
+{
+  "type": "vintagedelight:fermenting",
+  "processingTime": 2400,
+  "ingredients": [
+    {
+      "tag": "c:crops/beetroot"
+    },
+    {
+      "tag": "c:crops/beetroot"
+    },
+    {
+      "tag": "c:crops/beetroot"
+    },
+    {
+      "tag": "c:crops/beetroot"
+    },
+    {
+      "tag": "c:crops/beetroot"
+    },
+    {
+      "tag": "c:salt"
+    }
+  ],
+  "output": {
+    "count": 5,
+    "id": "vintagedelight:pickled_beetroot"
+  }
+}
