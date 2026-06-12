@@ -1,0 +1,32 @@
+{
+  "type": "touhou_little_maid:altar_recipe_serializers",
+  "category": "misc",
+  "entity": "minecraft:item",
+  "group": "altar_recipe",
+  "result": {
+    "id": "touhou_little_maid_spell:wind_seeking_bell",
+    "count": 1
+  },
+  "lang": "jei.touhou_little_maid.altar_craft.item_craft.result",
+  "power": 4.5,
+  "ingredients": [
+    {
+      "item": "minecraft:bell"
+    },
+    {
+      "item": "irons_spellbooks:mithril_ingot"
+    },
+    {
+      "item": "irons_spellbooks:divine_soulshard"
+    },
+    {
+      "item": "minecraft:cherry_sapling"
+    },
+    {
+      "item": "minecraft:ender_eye"
+    },
+    {
+      "item": "minecraft:netherite_block"
+    }
+  ]
+}
