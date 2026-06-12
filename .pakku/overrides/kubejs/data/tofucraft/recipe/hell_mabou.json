@@ -13,7 +13,7 @@
       "tag": "c:crops/chilipepper"
     },
     {
-      "tag": "c:bowls"
+      "item": "minecraft:bowl"
     }
   ],
   "result": {

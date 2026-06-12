@@ -9,7 +9,7 @@
       "tag": "c:mushrooms"
     },
     {
-      "tag": "c:foods/meat/cooked"
+      "tag": "c:foods/cooked_meat"
     },
     {
       "tag": "c:salt"
@@ -21,7 +21,7 @@
       "tag": "c:crops/wheat"
     },
     {
-      "tag": "c:bowls"
+      "item": "minecraft:bowl"
     }
   ],
   "result": {

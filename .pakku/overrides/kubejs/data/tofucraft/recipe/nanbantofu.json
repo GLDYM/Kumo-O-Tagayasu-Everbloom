@@ -18,7 +18,7 @@
       "tag": "c:crops/wheat"
     },
     {
-      "tag": "c:bowls"
+      "item": "minecraft:bowl"
     },
     {
       "item": "tofucraft:bottle_soysause"
