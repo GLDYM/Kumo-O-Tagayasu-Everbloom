@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "irons_spellbooks:tarnished_helmet"
+  },
+  "cookingtime": 300,
+  "experience": 10.0,
+  "ingredients": [
+    {
+      "item": "irons_spellbooks:eldritch_manuscript"
+    },
+    {
+      "item": "irons_spellbooks:eldritch_manuscript"
+    },
+    {
+      "item": "irons_spellbooks:mana_upgrade_orb"
+    },
+    {
+      "item": "irons_spellbooks:cooldown_upgrade_orb"
+    },
+    {
+      "item": "irons_spellbooks:dragonskin_spell_book"
+    },
+    {
+      "item": "irons_spellbooks:dragonskin_spell_book"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "irons_spellbooks:gold_crown"
+  }
+}
