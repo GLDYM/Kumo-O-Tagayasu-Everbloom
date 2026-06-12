@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "neapolitan:dried_vanilla_pods"
+    },
+    {
+      "tag": "c:milk"
+    },
+    {
+      "item": "neapolitan:ice_cubes"
+    },
+    {
+      "tag": "c:sugar"
+    }
+  ],
+  "result": {
+    "id": "neapolitan:vanilla_ice_cream",
+    "count": 1
+  }
+}

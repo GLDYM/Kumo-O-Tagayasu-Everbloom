@@ -6,15 +6,12 @@
     },
     {
       "tag": "c:strawberry"
-    },
-    {
-      "tag": "c:strawberry"
     }
   ],
   "results": [
     {
       "amount": 1000,
-      "fluid": "tofucreate:soymilk_strawberry"
+      "id": "tofucreate:soymilk_strawberry"
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ADA",
+    "BEB",
+    "CDC"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:milk"
+    },
+    "B": {
+      "tag": "c:sugar"
+    },
+    "C": {
+      "tag": "c:wheat"
+    },
+    "D": {
+      "tag": "c:foods/chocolate_bar"
+    },
+    "E": {
+      "tag": "c:eggs"
+    }
+  },
+  "result": {
+    "id": "neapolitan:chocolate_cake"
+  }
+}

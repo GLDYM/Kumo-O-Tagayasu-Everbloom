@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "neapolitan:roasted_adzuki_beans"
+    },
+    {
+      "tag": "c:milk"
+    },
+    {
+      "tag": "c:wheat"
+    }
+  ],
+  "result": {
+    "id": "neapolitan:adzuki_bun",
+    "count": 1
+  }
+}

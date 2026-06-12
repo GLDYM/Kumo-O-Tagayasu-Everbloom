@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:wheat"
+    },
+    {
+      "tag": "c:foods/banana"
+    },
+    {
+      "tag": "c:sugar"
+    }
+  ],
+  "result": {
+    "id": "neapolitan:banana_bread",
+    "count": 1
+  }
+}
