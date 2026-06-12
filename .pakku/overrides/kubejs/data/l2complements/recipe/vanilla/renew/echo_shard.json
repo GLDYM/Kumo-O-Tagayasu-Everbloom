@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cagedmobs:warden_receptor"
+    },
+    {
+    "type": "neoforge:compound",
+    "children": [
+        {
+          "item": "quark:indigo_corundum_cluster"
+        },
+        {
+          "item": "minecraft:amethyst_shard"
+        }
+      ]
+    },
+    {
+      "item": "minecraft:sculk"
+    },
+    {
+      "item": "minecraft:sculk"
+    },
+    {
+      "item": "minecraft:sculk"
+    },
+    {
+      "item": "minecraft:sculk"
+    }
+  ],
+  "result": {
+    "id": "minecraft:echo_shard"
+  }
+}
