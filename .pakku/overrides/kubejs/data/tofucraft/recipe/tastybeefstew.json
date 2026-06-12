@@ -21,7 +21,7 @@
       "tag": "c:crops/wheat"
     },
     {
-      "tag": "c:bowls"
+      "item": "minecraft:bowl"
     }
   ],
   "result": {
