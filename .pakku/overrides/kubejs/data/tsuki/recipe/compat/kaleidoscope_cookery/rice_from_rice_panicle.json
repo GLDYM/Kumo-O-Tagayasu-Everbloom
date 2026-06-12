@@ -1,0 +1,18 @@
+{
+  "type": "tsuki:stone_mortar",
+  "ingredient": {
+    "item": "kaleidoscope_cookery:rice_panicle"
+  },
+  "experience": 0.0,
+  "recipeTime": 200,
+  "results": [
+    {
+      "count": 3,
+      "id": "kaleidoscope_cookery:rice"
+    },
+    {
+      "count": 1,
+      "id": "kaleidoscope_cookery:rice"
+    }
+  ]
+}

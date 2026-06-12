@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immortalers_delight"
+    }
+  ],
+  "type": "tsuki:stone_mortar",
+  "experience": 0.0,
+  "ingredient": {
+    "item": "minecraft:torchflower"
+  },
+  "recipeTime": 200,
+  "results": [
+    {
+      "count": 1,
+      "id": "immortalers_delight:torchflower_mustard"
+    },
+    {
+      "count": 1,
+      "id": "immortalers_delight:torchflower_mustard"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "tsuki:stone_mortar",
+  "ingredient": {
+    "tag": "minecraft:wool"
+  },
+  "experience": 0.0,
+  "recipeTime": 200,
+  "results": [
+    {
+    "count": 3,
+    "id": "minecraft:string"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "type": "tsuki:stone_mortar",
+  "experience": 0.0,
+  "ingredient": {
+      "item": "minecraft:moss_block"
+  },
+  "recipeTime": 100,
+  "results": [
+    {
+      "count": 2,
+      "id": "quark:moss_paste"
+    },
+    {
+      "count": 1,
+      "id": "quark:moss_paste"
+    }
+  ]
+}
