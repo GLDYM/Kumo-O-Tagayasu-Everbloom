@@ -1,0 +1,35 @@
+{
+  "_comment": "Kumo O Tagayasu Modpack(Shortname:KOTS) file comments, It acts to preserve the original author(Polaris_Light) information. According to the KOTS modpack usage agreement, users are allowed to create and distribute on the basis of KOTS modpack, but the original author information must be retained. KOTS modpack is free for users to download, if you spend real money in somewhere and download KOTS modpack, please avoid seller!",
+  "type": "farmersdelight:cooking",
+  "container": {
+    "id": "minecraft:compass"
+  },
+  "cookingtime": 300,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "type": "neoforge:compound",
+      "children": [
+          {
+            "item": "minecraft:map"
+          },
+          {
+            "item": "minecraft:filled_map"
+          }
+        ]
+    },
+    {
+      "tag": "c:storage_blocks/raw_copper"
+    },
+    {
+      "tag": "c:vegetables"
+    },
+    {
+      "tag": "c:fruits"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "naturescompass:naturescompass"
+  }
+}

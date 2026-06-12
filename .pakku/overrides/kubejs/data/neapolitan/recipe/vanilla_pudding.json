@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "neapolitan:dried_vanilla_pods"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "c:sugar"
+    }
+  ],
+  "result": {
+    "id": "neapolitan:vanilla_pudding",
+    "count": 1
+  }
+}

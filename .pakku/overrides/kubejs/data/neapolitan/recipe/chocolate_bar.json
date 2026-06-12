@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:milk"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    }
+  ],
+  "result": {
+    "id": "neapolitan:chocolate_bar",
+    "count": 4
+  }
+}

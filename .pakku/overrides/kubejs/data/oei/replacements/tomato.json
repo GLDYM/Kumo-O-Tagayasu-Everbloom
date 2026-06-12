@@ -144,5 +144,11 @@
       "vintagedelight:ghost_pepper"
     ],
     "resultItems": "kaleidoscope_cookery:red_chili"
+  },
+  {
+    "matchItems": [
+      "tsuki:mint"
+    ],
+    "resultItems": "neapolitan:mint_leaves"
   }
 ]
