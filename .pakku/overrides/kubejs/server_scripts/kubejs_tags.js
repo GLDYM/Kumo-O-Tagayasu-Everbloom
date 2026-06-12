@@ -247,6 +247,7 @@ ServerEvents.tags('item', event => {
   event.add('c:bottles/soy_sauce', ['tofucraft:bottle_soysause', 'youkaishomecoming:soy_sauce_bottle'])
   event.add('c:soysauce', ['youkaishomecoming:soy_sauce_bottle'])
   event.add('c:soysauce/soysauce', ['youkaishomecoming:soy_sauce_bottle'])
+  event.add('c:tomatosauce', ['farmersdelight:tomato_sauce'])
 })
 
 // 黄油与奶酪

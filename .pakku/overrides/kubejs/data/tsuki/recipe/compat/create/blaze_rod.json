@@ -1,0 +1,18 @@
+{
+  "type": "tsuki:stone_mortar",
+  "ingredient": {
+      "item": "minecraft:blaze_rod"
+    },
+  "experience": 0.0,
+  "recipeTime": 200,
+  "results": [
+    {
+      "count": 3,
+      "id": "minecraft:blaze_powder"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:blaze_powder"
+    }
+  ]
+}
