@@ -3242,67 +3242,6 @@
             ]
         },
         {
-            "pakku_id": "ojb39bkiMhbILQrK",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "create-misc-and-things",
-                "modrinth": "create-misc-and-things"
-            },
-            "name": {
-                "curseforge": "Create : Misc & Things",
-                "modrinth": "Create: Misc and Things"
-            },
-            "id": {
-                "curseforge": "652202",
-                "modrinth": "uWrs8XlB"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8169/164/create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
-                    "id": "8169164",
-                    "parent_id": "652202",
-                    "hashes": {
-                        "sha1": "d483dc9564ec37db97dfca306e439c998a7366bb",
-                        "md5": "015746413b5209f04c0046dc89e51feb"
-                    },
-                    "required_dependencies": [],
-                    "size": 1055815,
-                    "date_published": "2026-05-30T11:40:20.503Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/uWrs8XlB/versions/zfExofVB/create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
-                    "id": "zfExofVB",
-                    "parent_id": "uWrs8XlB",
-                    "hashes": {
-                        "sha512": "3e4530d97403cd8efabd3ac0dddfc2360b3c94b0cfc061ed36546a56d8857d1a4d95094c92087387c87904e117d3c05fd415d0f0062b9e3f83de7c663efb87b8",
-                        "sha1": "d483dc9564ec37db97dfca306e439c998a7366bb"
-                    },
-                    "required_dependencies": [],
-                    "size": 1055815,
-                    "date_published": "2026-05-30T11:42:16.045137Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "dxOQ9XcUHLsFV08d",
             "type": "MOD",
             "side": "CLIENT",
