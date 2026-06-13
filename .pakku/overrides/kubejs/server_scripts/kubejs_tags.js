@@ -300,7 +300,7 @@ ServerEvents.tags('item', event => {
   event.add('minecraft:completes_find_tree_tutorial', ['#minecraft:logs'])
   event.add('c:fruits', ['#c:berries'])
   event.add('minecraft:fox_food', ['#c:berries'])
-   event.add('farmersdelight:cabbage_roll_ingredients', ['#c:raw_fishes', '#c:raw_meats'])
+  event.add('farmersdelight:cabbage_roll_ingredients', ['#c:raw_fishes', '#c:raw_meats'])
   event.add('c:raw_meat', ['#c:raw_meats'])
   event.add('c:cooked_meat', ['#c:cooked_meats'])
   event.add('c:meats', ['#c:cooked_meats', '#c:raw_meats'])

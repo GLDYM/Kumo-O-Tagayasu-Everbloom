@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:cooked_fishes/salmon"
+    },
+    {
+      "tag": "c:berries"
+    },
+    {
+      "tag": "c:crops/cabbage"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:grilled_salmon"
+  }
+}

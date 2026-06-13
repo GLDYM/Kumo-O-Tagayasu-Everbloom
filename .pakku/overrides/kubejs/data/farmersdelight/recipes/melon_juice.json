@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:fruits/melon"
+    },
+    {
+      "tag": "c:fruits/melon"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:fruits/melon"
+    },
+    {
+      "tag": "c:fruits/melon"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:melon_juice"
+  }
+}
