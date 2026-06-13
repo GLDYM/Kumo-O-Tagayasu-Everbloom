@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:netherrack"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "amount": 100,
+      "id": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+	  "count": 2,
+      "id": "minecraft:netherrack"
+    }
+  ]
+}

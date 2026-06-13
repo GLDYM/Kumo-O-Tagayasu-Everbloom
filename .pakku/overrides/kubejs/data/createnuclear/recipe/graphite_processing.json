@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "createnuclear:graphene"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.005,
+      "id": "minecraft:diamond"
+    },
+    {
+      "chance": 0.50,
+      "id": "createnuclear:coal_dust"
+    },
+    {
+      "chance": 0.50,
+      "id": "create:experience_nugget"
+    }
+  ]
+}
