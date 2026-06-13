@@ -63,19 +63,26 @@
 - Two Tooltip ... 关掉 modernui 的现代化提示框
 - 去掉玩偶换成森罗
 - 去掉 cosmos
-- youkaishonecoming怎么有个没有输出的配方
-- 有几个tag不对
 - 煮锅没有实现 itemfluidHandler
 - Remove Sodium/Embeddium Options!
-- 补充一个 keymap
 - 工业平台? 好像也不需要，反正开局发飞行了，主要这东西没撤回太草了
-- OPAC 换 ftbc
+- 锻造模板减负
 - trade-tweaks
+
+- 补充一个 keymap
+- OPAC 换 ftbc
 - 换个音乐机？ --> 注意魔改
 - 把原初受火者加到笼子里面
 - 车万女仆精灵，绯红蚊子也要加到处决名单里面
-- 锻造模板减负
 - 那不勒斯也有薄荷，需要和月的合并
 - 沉浸式奏乐
 - 菠萝的 cutting 需要合并
+- 游戏里面有两个煎蛋，两个煎龙蛋，两个煎嗅探兽蛋（）
+- 月的砧板 EMI 显示不对，贴图需要向右下移动一格
+- youkaishonecoming怎么有个没有输出的配方
+- 有几个tag不对
+- 绿色勾玉补充鱼肉蛋奶水果，需要看最大集
+- 豆腐魔杖减负
+- c:wheat 经常会掉 Tag，很奇怪
+- ends 和 森罗末地 有很多重合材料
 
