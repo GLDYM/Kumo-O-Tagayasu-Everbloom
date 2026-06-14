@@ -1,0 +1,29 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: irons_spellbooks:add_to_lectern_and_bookshelf
+# Entries: 22
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.7987868+08:00
+
+irons_spellbooks:archevoker_logbook_translated
+irons_spellbooks:archevoker_logbook_untranslated
+irons_spellbooks:blaze_spell_book
+irons_spellbooks:chronicle
+irons_spellbooks:copper_spell_book
+irons_spellbooks:cursed_doll_spell_book
+irons_spellbooks:diamond_spell_book
+irons_spellbooks:dragonskin_spell_book
+irons_spellbooks:druidic_spell_book
+irons_spellbooks:evoker_spell_book
+irons_spellbooks:gold_spell_book
+irons_spellbooks:ice_spell_book
+irons_spellbooks:iron_spell_book
+irons_spellbooks:legendary_spell_book
+irons_spellbooks:necronomicon_spell_book
+irons_spellbooks:netherite_spell_book
+irons_spellbooks:rotten_spell_book
+irons_spellbooks:ruined_book
+irons_spellbooks:unchained_book
+irons_spellbooks:villager_spell_book
+irons_spellbooks:wimpy_spell_book
+iss_magicfromtheeast:ritual_orihon

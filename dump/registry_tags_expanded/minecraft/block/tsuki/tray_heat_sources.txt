@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: tsuki:tray_heat_sources
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.8395553+08:00
+
+create:blaze_burner
+create:lit_blaze_burner
+createnuclear:enriching_campfire
+createnuclear:enriching_fire
+minecraft:campfire
+minecraft:fire
+minecraft:lava
+minecraft:soul_campfire
+minecraft:soul_fire
+mynethersdelight:blazier_block
+mynethersdelight:magma_cake_block
+supplementaries:fire_pit

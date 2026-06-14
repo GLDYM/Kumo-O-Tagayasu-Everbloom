@@ -1,0 +1,21 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "youkaishomecoming"
+    }
+  ],
+  "structures": [
+    {
+      "structure": "touhou_little_maid_spell:fairy_maid_cafe",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 35,
+    "separation": 18,
+    "salt": 1856473920
+  }
+}
+

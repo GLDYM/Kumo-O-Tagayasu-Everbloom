@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:grain/wheat
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.3343353+08:00
+
+immortalers_delight:kwat_wheat
+minecraft:wheat
+vintagedelight:oat

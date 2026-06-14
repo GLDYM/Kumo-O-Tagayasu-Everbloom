@@ -1,0 +1,39 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:fences
+# Entries: 32
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.0404976+08:00
+
+atmospheric:aspen_fence
+atmospheric:grimwood_fence
+atmospheric:kousa_fence
+atmospheric:laurel_fence
+atmospheric:morado_fence
+atmospheric:rosewood_fence
+atmospheric:yucca_fence
+crabbersdelight:palm_fence
+farmersdelight:rope_fence
+immortalers_delight:ancient_wood_fence
+immortalers_delight:himekaido_fence
+immortalers_delight:leisamboo_fence
+minecraft:acacia_fence
+minecraft:bamboo_fence
+minecraft:birch_fence
+minecraft:cherry_fence
+minecraft:crimson_fence
+minecraft:dark_oak_fence
+minecraft:jungle_fence
+minecraft:mangrove_fence
+minecraft:nether_brick_fence
+minecraft:oak_fence
+minecraft:spruce_fence
+minecraft:warped_fence
+mynethersdelight:powdery_fence
+quark:ancient_fence
+quark:azalea_fence
+quark:blossom_fence
+tofucraft:leek_fence
+tofucraft:leek_green_fence
+tofucraft:tofustem_fence
+ultramarine:rosewood_fence

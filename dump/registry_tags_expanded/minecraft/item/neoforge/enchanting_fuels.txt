@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: neoforge:enchanting_fuels
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.3177008+08:00
+
+kaleidoscope_end:void_conch
+minecraft:lapis_lazuli

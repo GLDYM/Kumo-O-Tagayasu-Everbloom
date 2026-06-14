@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: another_furniture:benches
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4274693+08:00
+
+another_furniture:acacia_bench
+another_furniture:bamboo_bench
+another_furniture:birch_bench
+another_furniture:cherry_bench
+another_furniture:crimson_bench
+another_furniture:dark_oak_bench
+another_furniture:jungle_bench
+another_furniture:mangrove_bench
+another_furniture:oak_bench
+another_furniture:spruce_bench
+another_furniture:warped_bench

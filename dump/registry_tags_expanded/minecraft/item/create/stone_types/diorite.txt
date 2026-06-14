@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:stone_types/diorite
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.0177963+08:00
+
+bits_n_bobs:diorite_tile_stairs
+bits_n_bobs:diorite_tile_wall
+bits_n_bobs:diorite_tiles
+create:cut_diorite
+create:cut_diorite_brick_stairs
+create:cut_diorite_brick_wall
+create:cut_diorite_bricks
+create:cut_diorite_stairs
+create:cut_diorite_wall
+create:diorite_pillar
+create:layered_diorite
+create:polished_cut_diorite
+create:polished_cut_diorite_stairs
+create:polished_cut_diorite_wall
+create:small_diorite_brick_stairs
+create:small_diorite_brick_wall
+create:small_diorite_bricks
+minecraft:diorite

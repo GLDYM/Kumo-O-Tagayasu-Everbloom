@@ -1,0 +1,8 @@
+# Registry dump
+# Registry: minecraft:position_source_type
+# Minecraft: 1.21.1
+# Entries: 2
+# Generated: 2026-06-14T13:47:24.4018402+08:00
+
+minecraft:block raw_id=0 class=net.minecraft.world.level.gameevent.BlockPositionSource$Type
+minecraft:entity raw_id=1 class=net.minecraft.world.level.gameevent.EntityPositionSource$Type

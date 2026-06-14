@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: immortalers_delight:elite_mobs
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0708795+08:00
+
+immortalers_delight:strange_armour_stand
+minecraft:elder_guardian
+minecraft:giant
+minecraft:iron_golem
+minecraft:piglin_brute
+minecraft:ravager

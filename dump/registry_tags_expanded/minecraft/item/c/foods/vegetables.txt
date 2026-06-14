@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/vegetables
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.216508+08:00
+
+bakeries:tomato
+corn_delight:corn
+kaleidoscope_cookery:tomato
+minecraft:beetroot
+minecraft:carrot
+minecraft:potato
+minecraft:pumpkin
+tsuki:cabbage
+tsuki:eggplant
+tsuki:imogara
+tsuki:onion
+tsuki:radish
+tsuki:tomato
+vintagedelight:cucumber
+vintagedelight:ghost_pepper
+vintagedelight:peanut

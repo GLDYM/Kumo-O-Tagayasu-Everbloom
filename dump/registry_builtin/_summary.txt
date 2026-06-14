@@ -1,0 +1,7 @@
+# Built-in registry dump summary
+# Mod ID: registry_dumper_3000
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:45:01.594825+08:00
+
+# Registries written: 135
+# Total entries written (sum): 34224

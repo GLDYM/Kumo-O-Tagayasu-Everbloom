@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:point_of_interest_type
+# Tag: tofucraft:tofu_village
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.2768523+08:00
+
+tofucraft:tofunian_statue

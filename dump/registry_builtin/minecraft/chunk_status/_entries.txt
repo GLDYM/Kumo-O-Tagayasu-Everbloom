@@ -1,0 +1,18 @@
+# Registry dump
+# Registry: minecraft:chunk_status
+# Minecraft: 1.21.1
+# Entries: 12
+# Generated: 2026-06-14T13:45:01.1554715+08:00
+
+minecraft:biomes raw_id=3 class=net.minecraft.world.level.chunk.status.ChunkStatus
+minecraft:carvers raw_id=6 class=net.minecraft.world.level.chunk.status.ChunkStatus
+minecraft:empty raw_id=0 class=net.minecraft.world.level.chunk.status.ChunkStatus
+minecraft:features raw_id=7 class=net.minecraft.world.level.chunk.status.ChunkStatus
+minecraft:full raw_id=11 class=net.minecraft.world.level.chunk.status.ChunkStatus
+minecraft:initialize_light raw_id=8 class=net.minecraft.world.level.chunk.status.ChunkStatus
+minecraft:light raw_id=9 class=net.minecraft.world.level.chunk.status.ChunkStatus
+minecraft:noise raw_id=4 class=net.minecraft.world.level.chunk.status.ChunkStatus
+minecraft:spawn raw_id=10 class=net.minecraft.world.level.chunk.status.ChunkStatus
+minecraft:structure_references raw_id=2 class=net.minecraft.world.level.chunk.status.ChunkStatus
+minecraft:structure_starts raw_id=1 class=net.minecraft.world.level.chunk.status.ChunkStatus
+minecraft:surface raw_id=5 class=net.minecraft.world.level.chunk.status.ChunkStatus

@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:stone_types/ochrum
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.0296537+08:00
+
+bits_n_bobs:ochrum_tile_stairs
+bits_n_bobs:ochrum_tile_wall
+bits_n_bobs:ochrum_tiles
+create:cut_ochrum
+create:cut_ochrum_brick_stairs
+create:cut_ochrum_brick_wall
+create:cut_ochrum_bricks
+create:cut_ochrum_stairs
+create:cut_ochrum_wall
+create:layered_ochrum
+create:ochrum
+create:ochrum_pillar
+create:polished_cut_ochrum
+create:polished_cut_ochrum_stairs
+create:polished_cut_ochrum_wall
+create:small_ochrum_brick_stairs
+create:small_ochrum_brick_wall
+create:small_ochrum_bricks

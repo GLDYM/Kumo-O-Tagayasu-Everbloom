@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: l2weaponry:material/poseidite
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.9853451+08:00
+
+l2weaponry:poseidite_battle_axe
+l2weaponry:poseidite_claw
+l2weaponry:poseidite_dagger
+l2weaponry:poseidite_hammer
+l2weaponry:poseidite_javelin
+l2weaponry:poseidite_machete
+l2weaponry:poseidite_nunchaku
+l2weaponry:poseidite_plate_shield
+l2weaponry:poseidite_round_shield
+l2weaponry:poseidite_scythe
+l2weaponry:poseidite_spear
+l2weaponry:poseidite_throwing_axe

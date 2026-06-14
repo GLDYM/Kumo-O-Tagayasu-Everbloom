@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:frogs_spawnable_on
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.3782309+08:00
+
+amendments:water_lily_pad
+minecraft:grass_block
+minecraft:mangrove_roots
+minecraft:mud
+minecraft:muddy_mangrove_roots

@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:spawns_gold_rabbits
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.0164858+08:00
+
+atmospheric:dunes
+atmospheric:flourishing_dunes
+atmospheric:petrified_dunes
+atmospheric:rocky_dunes
+atmospheric:scrubland
+atmospheric:spiny_thicket
+minecraft:desert

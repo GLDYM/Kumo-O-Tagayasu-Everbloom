@@ -1,0 +1,9 @@
+# Registry dump
+# Registry: neapolitan:chimpanzee_variant
+# Minecraft: 1.21.1
+# Entries: 3
+# Generated: 2026-06-14T13:47:24.5743254+08:00
+
+neapolitan:bamboo raw_id=0 class=com.teamabnormals.neapolitan.common.entity.animal.ChimpanzeeVariant
+neapolitan:jungle raw_id=1 class=com.teamabnormals.neapolitan.common.entity.animal.ChimpanzeeVariant
+neapolitan:rainforest raw_id=2 class=com.teamabnormals.neapolitan.common.entity.animal.ChimpanzeeVariant

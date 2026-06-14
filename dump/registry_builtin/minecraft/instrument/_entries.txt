@@ -1,0 +1,14 @@
+# Registry dump
+# Registry: minecraft:instrument
+# Minecraft: 1.21.1
+# Entries: 8
+# Generated: 2026-06-14T13:45:01.1956416+08:00
+
+minecraft:admire_goat_horn raw_id=4 class=net.minecraft.world.item.Instrument
+minecraft:call_goat_horn raw_id=5 class=net.minecraft.world.item.Instrument
+minecraft:dream_goat_horn raw_id=7 class=net.minecraft.world.item.Instrument
+minecraft:feel_goat_horn raw_id=3 class=net.minecraft.world.item.Instrument
+minecraft:ponder_goat_horn raw_id=0 class=net.minecraft.world.item.Instrument
+minecraft:seek_goat_horn raw_id=2 class=net.minecraft.world.item.Instrument
+minecraft:sing_goat_horn raw_id=1 class=net.minecraft.world.item.Instrument
+minecraft:yearn_goat_horn raw_id=6 class=net.minecraft.world.item.Instrument

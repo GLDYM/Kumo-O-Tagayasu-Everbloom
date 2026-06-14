@@ -1,0 +1,15 @@
+# Registry dump
+# Registry: moonlight:villager_trades
+# Minecraft: 1.21.1
+# Entries: 9
+# Generated: 2026-06-14T13:45:01.5126002+08:00
+
+moonlight:no_op raw_id=7 class=com.mojang.serialization.MapCodec$2
+moonlight:remove_all_non_data raw_id=6 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+moonlight:simple raw_id=5 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+moonlight:villager_type_variant raw_id=8 class=com.mojang.serialization.Codec$3
+supplementaries:adventurer_map raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+supplementaries:random_firework raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+supplementaries:random_firework_star raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+supplementaries:structure_map raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+supplementaries:wrap_on_christmas raw_id=2 class=com.mojang.serialization.MapCodec$2

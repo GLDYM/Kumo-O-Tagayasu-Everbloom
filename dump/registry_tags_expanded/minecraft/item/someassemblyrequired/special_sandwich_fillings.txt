@@ -1,0 +1,73 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: someassemblyrequired:special_sandwich_fillings
+# Entries: 66
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.9499001+08:00
+
+create:builders_tea
+create:chocolate_bucket
+farmersdelight:apple_cider
+farmersdelight:bacon
+farmersdelight:bacon_and_eggs
+farmersdelight:baked_cod_stew
+farmersdelight:beef_patty
+farmersdelight:beef_stew
+farmersdelight:cabbage_leaf
+farmersdelight:chicken_cuts
+farmersdelight:chicken_soup
+farmersdelight:cod_slice
+farmersdelight:cooked_bacon
+farmersdelight:cooked_chicken_cuts
+farmersdelight:cooked_cod_slice
+farmersdelight:cooked_mutton_chops
+farmersdelight:cooked_rice
+farmersdelight:cooked_salmon_slice
+farmersdelight:fish_stew
+farmersdelight:fried_egg
+farmersdelight:fried_rice
+farmersdelight:fruit_salad
+farmersdelight:glow_berry_custard
+farmersdelight:grilled_salmon
+farmersdelight:hamburger
+farmersdelight:honey_glazed_ham
+farmersdelight:hot_cocoa
+farmersdelight:melon_juice
+farmersdelight:milk_bottle
+farmersdelight:minced_beef
+farmersdelight:mixed_salad
+farmersdelight:mutton_chops
+farmersdelight:nether_salad
+farmersdelight:noodle_soup
+farmersdelight:pasta_with_meatballs
+farmersdelight:pasta_with_mutton_chop
+farmersdelight:pumpkin_soup
+farmersdelight:ratatouille
+farmersdelight:roast_chicken
+farmersdelight:roasted_mutton_chops
+farmersdelight:salmon_slice
+farmersdelight:shepherds_pie
+farmersdelight:squid_ink_pasta
+farmersdelight:steak_and_potatoes
+farmersdelight:stuffed_pumpkin
+farmersdelight:tomato_sauce
+farmersdelight:vegetable_noodles
+farmersdelight:vegetable_soup
+minecraft:beetroot_soup
+minecraft:honey_bottle
+minecraft:milk_bucket
+minecraft:mushroom_stew
+minecraft:potato
+minecraft:rabbit_stew
+minecraft:suspicious_stew
+someassemblyrequired:apple_slices
+someassemblyrequired:burger_bun
+someassemblyrequired:burger_bun_bottom
+someassemblyrequired:burger_bun_top
+someassemblyrequired:chopped_beetroot
+someassemblyrequired:chopped_carrot
+someassemblyrequired:chopped_golden_carrot
+someassemblyrequired:enchanted_golden_apple_slices
+someassemblyrequired:golden_apple_slices
+someassemblyrequired:sliced_onion
+someassemblyrequired:tomato_slices

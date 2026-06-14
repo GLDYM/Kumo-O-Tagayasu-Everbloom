@@ -1,0 +1,35 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: minecraft:panic_causes
+# Entries: 28
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.937466+08:00
+
+farmersdelight:stove_burn
+minecraft:arrow
+minecraft:cactus
+minecraft:dragon_breath
+minecraft:explosion
+minecraft:fireball
+minecraft:fireworks
+minecraft:freeze
+minecraft:hot_floor
+minecraft:in_fire
+minecraft:indirect_magic
+minecraft:lava
+minecraft:lightning_bolt
+minecraft:magic
+minecraft:mob_attack
+minecraft:mob_projectile
+minecraft:on_fire
+minecraft:player_attack
+minecraft:player_explosion
+minecraft:sonic_boom
+minecraft:sting
+minecraft:thrown
+minecraft:trident
+minecraft:unattributed_fireball
+minecraft:wind_charge
+minecraft:wither
+minecraft:wither_skull
+neoforge:poison

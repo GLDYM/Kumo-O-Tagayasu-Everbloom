@@ -1,0 +1,11 @@
+# Registry dump
+# Registry: obscure_tooltips:tooltip_effect_type
+# Minecraft: 1.21.1
+# Entries: 5
+# Generated: 2026-06-14T13:47:24.6165594+08:00
+
+obscure_tooltips:icon_particle raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+obscure_tooltips:inward_particle raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+obscure_tooltips:ray_glow raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+obscure_tooltips:rim_light raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+obscure_tooltips:shimmer raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

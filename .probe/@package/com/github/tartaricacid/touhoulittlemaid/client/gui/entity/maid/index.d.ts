@@ -1,0 +1,60 @@
+import { $Rect2i } from "@package/net/minecraft/client/renderer";
+import { $ItemStack } from "@package/net/minecraft/world/item";
+import { $EntityMaid } from "@package/com/github/tartaricacid/touhoulittlemaid/entity/passive";
+import { $NarratableEntry } from "@package/net/minecraft/client/gui/narration";
+import { $Component, $Component_ } from "@package/net/minecraft/network/chat";
+import { $AbstractWidget, $Renderable } from "@package/net/minecraft/client/gui/components";
+import { $Inventory } from "@package/net/minecraft/world/entity/player";
+import { $AbstractMaidContainer } from "@package/com/github/tartaricacid/touhoulittlemaid/inventory/container";
+import { $Minecraft } from "@package/net/minecraft/client";
+import { $List, $Map } from "@package/java/util";
+import { $AbstractContainerScreen } from "@package/net/minecraft/client/gui/screens/inventory";
+import { $Screen$DeferredTooltipRendering } from "@package/net/minecraft/client/gui/screens";
+import { $ResourceLocation } from "@package/net/minecraft/resources";
+import { $Slot } from "@package/net/minecraft/world/inventory";
+import { $Font } from "@package/net/minecraft/client/gui";
+export * as ai from "@package/com/github/tartaricacid/touhoulittlemaid/client/gui/entity/maid/ai";
+
+declare module "@package/com/github/tartaricacid/touhoulittlemaid/client/gui/entity/maid" {
+    export class $AbstractMaidContainerGui<T extends $AbstractMaidContainer> extends $AbstractContainerScreen<T> {
+        getMaid(): $EntityMaid;
+        isTaskListOpen(): boolean;
+        getExclusionArea(): $List<$Rect2i>;
+        getEventAddButtons(): $Map<string, $AbstractWidget>;
+        leftPos: number;
+        static MENU_BACKGROUND: $ResourceLocation;
+        minecraft: $Minecraft;
+        static INWORLD_FOOTER_SEPARATOR: $ResourceLocation;
+        clickedSlot: $Slot;
+        title: $Component;
+        snapbackStartY: number;
+        renderables: $List<$Renderable>;
+        hoveredSlot: $Slot;
+        static INWORLD_HEADER_SEPARATOR: $ResourceLocation;
+        isSplittingStack: boolean;
+        snapbackItem: $ItemStack;
+        snapbackStartX: number;
+        static INVENTORY_LOCATION: $ResourceLocation;
+        snapbackTime: number;
+        static HEADER_SEPARATOR: $ResourceLocation;
+        height: number;
+        imageWidth: number;
+        snapbackEnd: $Slot;
+        draggingItem: $ItemStack;
+        static SLOT_ITEM_BLIT_OFFSET: number;
+        quickCraftingRemainder: number;
+        deferredTooltipRendering: $Screen$DeferredTooltipRendering;
+        static FOOTER_SEPARATOR: $ResourceLocation;
+        imageHeight: number;
+        quickCraftingType: number;
+        narratables: $List<$NarratableEntry>;
+        width: number;
+        topPos: number;
+        font: $Font;
+        constructor(arg0: T, arg1: $Inventory, arg2: $Component_);
+        get maid(): $EntityMaid;
+        get taskListOpen(): boolean;
+        get exclusionArea(): $List<$Rect2i>;
+        get eventAddButtons(): $Map<string, $AbstractWidget>;
+    }
+}

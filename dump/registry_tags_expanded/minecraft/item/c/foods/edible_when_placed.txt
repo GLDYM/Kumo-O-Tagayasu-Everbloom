@@ -1,0 +1,36 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/edible_when_placed
+# Entries: 29
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.1089241+08:00
+
+atmospheric:yucca_gateau
+brewinandchewin:fiery_fondue_pot
+brewinandchewin:flaxen_cheese_wheel
+brewinandchewin:pizza
+brewinandchewin:quiche
+brewinandchewin:scarlet_cheese_wheel
+farmersdelight:apple_pie
+farmersdelight:chocolate_pie
+farmersdelight:gleaming_salad_block
+farmersdelight:honey_glazed_ham_block
+farmersdelight:rice_roll_medley_block
+farmersdelight:roast_chicken_block
+farmersdelight:shepherds_pie_block
+farmersdelight:stuffed_pumpkin_block
+farmersdelight:sweet_berry_cheesecake
+minecraft:cake
+mynethersdelight:bread_loaf
+mynethersdelight:cold_striderloaf
+mynethersdelight:ghasta_with_cream
+mynethersdelight:magma_cake_block
+mynethersdelight:roast_stuffed_hoglin
+mynethersdelight:striderloaf
+neapolitan:adzuki_cake
+neapolitan:banana_cake
+neapolitan:chocolate_cake
+neapolitan:mint_cake
+neapolitan:strawberry_cake
+neapolitan:vanilla_cake
+supplementaries:pancake

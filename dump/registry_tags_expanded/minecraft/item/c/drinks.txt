@@ -1,0 +1,28 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:drinks
+# Entries: 21
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.9344191+08:00
+
+ccw:calcium_rich_milk
+ccw:carton_milk
+crabbersdelight:coconut_milk
+create:builders_tea
+farmersdelight:apple_cider
+farmersdelight:hot_cocoa
+farmersdelight:melon_juice
+farmersdelight:milk_bottle
+minecraft:honey_bottle
+minecraft:milk_bucket
+minecraft:ominous_bottle
+minecraft:potion
+neapolitan:adzuki_milkshake
+neapolitan:banana_milkshake
+neapolitan:chocolate_milkshake
+neapolitan:milk_bottle
+neapolitan:mint_milkshake
+neapolitan:strawberry_banana_smoothie
+neapolitan:strawberry_milkshake
+neapolitan:vanilla_milkshake
+supplementaries:lumisene_bottle

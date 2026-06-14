@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: fruitsdelight:pineapple_grows_on
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0095967+08:00
+
+minecraft:coarse_dirt
+minecraft:red_sand
+minecraft:sand

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "create_compressed:crushed_uranium_pile",
+    "create_compressed:crushed_tin_pile",
+    "create_compressed:crushed_silver_pile",
+    "create_compressed:crushed_quicksilver_pile",
+    "create_compressed:crushed_platium_pile",
+    "create_compressed:crushed_osmium_pile",
+    "create_compressed:crushed_nickel_pile",
+    "create_compressed:crushed_lead_pile",
+    "create_compressed:crushed_aluminium_pile",
+    "create_compressed:cinder_flour_pile",
+    "create_compressed:wheat_flour_pile",
+    "create_compressed:powdered_obsidian_pile",
+    "create_compressed:crushed_zinc_pile",
+    "create_compressed:crushed_gold_pile",
+    "create_compressed:crushed_iron_pile",
+    "create_compressed:crushed_copper_pile"
+  ]
+}

@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:has_structure/ocean_ruin_warm
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.9469698+08:00
+
+minecraft:deep_lukewarm_ocean
+minecraft:lukewarm_ocean
+minecraft:warm_ocean

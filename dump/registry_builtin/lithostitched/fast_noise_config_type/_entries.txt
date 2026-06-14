@@ -1,0 +1,9 @@
+# Registry dump
+# Registry: lithostitched:fast_noise_config_type
+# Minecraft: 1.21.1
+# Entries: 3
+# Generated: 2026-06-14T13:45:01.0830085+08:00
+
+lithostitched:cellular raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:perlin raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:simplex raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

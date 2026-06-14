@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: c:is_mountain
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.3944715+08:00
+
+minecraft:cherry_grove
+minecraft:frozen_peaks
+minecraft:grove
+minecraft:jagged_peaks
+minecraft:meadow
+minecraft:snowy_slopes
+minecraft:stony_peaks

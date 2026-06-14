@@ -1,0 +1,73 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: locksmith:lockable
+# Entries: 66
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.1731151+08:00
+
+another_furniture:acacia_drawer
+another_furniture:acacia_shutter
+another_furniture:bamboo_drawer
+another_furniture:bamboo_shutter
+another_furniture:birch_drawer
+another_furniture:birch_shutter
+another_furniture:cherry_drawer
+another_furniture:cherry_shutter
+another_furniture:crimson_drawer
+another_furniture:crimson_shutter
+another_furniture:dark_oak_drawer
+another_furniture:dark_oak_shutter
+another_furniture:jungle_drawer
+another_furniture:jungle_shutter
+another_furniture:mangrove_drawer
+another_furniture:mangrove_shutter
+another_furniture:oak_drawer
+another_furniture:oak_shutter
+another_furniture:spruce_drawer
+another_furniture:spruce_shutter
+another_furniture:warped_drawer
+another_furniture:warped_shutter
+dramaticdoors:short_acacia_door
+dramaticdoors:short_aspen_door
+dramaticdoors:short_bamboo_door
+dramaticdoors:short_birch_door
+dramaticdoors:short_cherry_door
+dramaticdoors:short_crimson_door
+dramaticdoors:short_dark_oak_door
+dramaticdoors:short_grimwood_door
+dramaticdoors:short_jungle_door
+dramaticdoors:short_kousa_door
+dramaticdoors:short_laurel_door
+dramaticdoors:short_mangrove_door
+dramaticdoors:short_morado_door
+dramaticdoors:short_oak_door
+dramaticdoors:short_powdery_door
+dramaticdoors:short_quark_ancient_door
+dramaticdoors:short_quark_azalea_door
+dramaticdoors:short_quark_blossom_door
+dramaticdoors:short_rosewood_door
+dramaticdoors:short_spruce_door
+dramaticdoors:short_warped_door
+dramaticdoors:short_yucca_door
+dramaticdoors:tall_acacia_door
+dramaticdoors:tall_aspen_door
+dramaticdoors:tall_bamboo_door
+dramaticdoors:tall_birch_door
+dramaticdoors:tall_cherry_door
+dramaticdoors:tall_crimson_door
+dramaticdoors:tall_dark_oak_door
+dramaticdoors:tall_grimwood_door
+dramaticdoors:tall_jungle_door
+dramaticdoors:tall_kousa_door
+dramaticdoors:tall_laurel_door
+dramaticdoors:tall_mangrove_door
+dramaticdoors:tall_morado_door
+dramaticdoors:tall_oak_door
+dramaticdoors:tall_powdery_door
+dramaticdoors:tall_quark_ancient_door
+dramaticdoors:tall_quark_azalea_door
+dramaticdoors:tall_quark_blossom_door
+dramaticdoors:tall_rosewood_door
+dramaticdoors:tall_spruce_door
+dramaticdoors:tall_warped_door
+dramaticdoors:tall_yucca_door

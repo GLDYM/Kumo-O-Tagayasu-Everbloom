@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:potion
+# Tag: supplementaries:tipped_spikes_blacklist
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.2818457+08:00
+
+minecraft:infested
+minecraft:oozing

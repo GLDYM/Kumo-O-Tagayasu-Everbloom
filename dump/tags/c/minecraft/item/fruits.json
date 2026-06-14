@@ -1,0 +1,12 @@
+{
+  "values": [
+    "#c:fruits/apple",
+    "#c:fruits/berries",
+    "#c:fruits/melon_slice",
+    "tsuki:grape",
+    "tsuki:grape_green",
+    "tsuki:lemon",
+    "tsuki:lime",
+    "tsuki:chestnut"
+  ]
+}

@@ -1,0 +1,113 @@
+import { $RegistryAccess } from "@package/net/minecraft/core";
+import { $Codec } from "@package/com/mojang/serialization";
+import { $ItemStack, $ItemStack_ } from "@package/net/minecraft/world/item";
+import { $CompoundTag, $CompoundTag_ } from "@package/net/minecraft/nbt";
+import { $Target } from "@package/studio/fantasyit/maid_storage_manager/storage";
+import { $RegistryFriendlyByteBuf } from "@package/net/minecraft/network";
+import { $ResourceLocation_, $ResourceLocation } from "@package/net/minecraft/resources";
+import { $List, $List_ } from "@package/java/util";
+import { $ActionOptionSet, $ActionOption_, $CraftAction } from "@package/studio/fantasyit/maid_storage_manager/craft/action";
+import { $StreamCodec } from "@package/net/minecraft/network/codec";
+
+declare module "@package/studio/fantasyit/maid_storage_manager/craft/data" {
+    export class $CraftGuideData {
+        getType(): $ResourceLocation;
+        copy(): $CraftGuideData;
+        available(): boolean;
+        getInput(): $List<$ItemStack>;
+        getOutput(): $List<$ItemStack>;
+        getSteps(): $List<$CraftGuideStepData>;
+        isMergeable(arg0: boolean): void;
+        isMergeable(): boolean;
+        static fromCompound(arg0: $CompoundTag_, arg1: $RegistryAccess): $CraftGuideData;
+        toCompound(arg0: $CompoundTag_, arg1: $RegistryAccess): $CompoundTag;
+        isCircular(): boolean;
+        buildInputAndOutputs(): void;
+        getAllInputItems(): $List<$ItemStack>;
+        getFirstOutput(): $ItemStack;
+        getStepByIdx(arg0: number): $CraftGuideStepData;
+        getAllOutputItems(): $List<$ItemStack>;
+        isNoOccupy(): boolean;
+        isNoOccupy(arg0: boolean): void;
+        getAllOutputItemsWithOptional(): $List<$ItemStack>;
+        getAllInputItemsWithOptional(): $List<$ItemStack>;
+        getTransformedSteps(): $List<$CraftGuideStepData>;
+        getExtraSlotConsume(): number;
+        getOutputsNoCircular(): $List<$ItemStack>;
+        getInputsNoCircular(): $List<$ItemStack>;
+        outputs: $List<$ItemStack>;
+        static CODEC: $Codec<$CraftGuideData>;
+        inputsWithOptional: $List<$ItemStack>;
+        inputsNoCircular: $List<$ItemStack>;
+        inputs: $List<$ItemStack>;
+        outputsWithOptional: $List<$ItemStack>;
+        type: $ResourceLocation;
+        steps: $List<$CraftGuideStepData>;
+        outputsNoCircular: $List<$ItemStack>;
+        extraSlotConsume: number;
+        static STREAM_CODEC: $StreamCodec<$RegistryFriendlyByteBuf, $CraftGuideData>;
+        selecting: number;
+        constructor(arg0: $List_<$CraftGuideStepData>, arg1: $ResourceLocation_);
+        constructor(arg0: $List_<$CraftGuideStepData>, arg1: $ResourceLocation_, arg2: boolean, arg3: boolean);
+        get input(): $List<$ItemStack>;
+        get output(): $List<$ItemStack>;
+        get circular(): boolean;
+        get allInputItems(): $List<$ItemStack>;
+        get firstOutput(): $ItemStack;
+        get allOutputItems(): $List<$ItemStack>;
+        get allOutputItemsWithOptional(): $List<$ItemStack>;
+        get allInputItemsWithOptional(): $List<$ItemStack>;
+        get transformedSteps(): $List<$CraftGuideStepData>;
+    }
+    export class $CraftGuideStepData {
+        copy(): $CraftGuideStepData;
+        setInput(arg0: number, arg1: $ItemStack_): void;
+        getInput(): $List<$ItemStack>;
+        getOptionValue(arg0: $ActionOption_<never>): string;
+        getOutput(): $List<$ItemStack>;
+        getItems(): $List<$ItemStack>;
+        getActionType(): $ResourceLocation;
+        getNonEmptyItems(): $List<$ItemStack>;
+        clearOutput(): void;
+        clearInput(): void;
+        static fromCompound(arg0: $RegistryAccess, arg1: $CompoundTag_): $CraftGuideStepData;
+        setAction(arg0: $ResourceLocation_): void;
+        toCompound(arg0: $RegistryAccess): $CompoundTag;
+        setOutput(arg0: number, arg1: $ItemStack_): void;
+        isOptional(): boolean;
+        getStorage(): $Target;
+        getExtraData(): $CompoundTag;
+        setExtraData(arg0: $CompoundTag_): void;
+        setOptionValue(arg0: $ActionOption_<never>, arg1: string): void;
+        getOptionSelection<T>(arg0: $ActionOption_<T>): (T) | undefined;
+        getNonEmptyInput(): $List<$ItemStack>;
+        setOptionSelection<T>(arg0: $ActionOption_<T>, arg1: T): void;
+        getNonEmptyOutput(): $List<$ItemStack>;
+        static createFromTypeStorage(arg0: $Target, arg1: $ResourceLocation_): $CraftGuideStepData;
+        getOptionSelectionId(arg0: $ActionOption_<never>): (number) | undefined;
+        getExtraSlotConsume(): number;
+        output: $List<$ItemStack>;
+        input: $List<$ItemStack>;
+        actionType: $CraftAction;
+        static CODEC: $Codec<$CraftGuideStepData>;
+        extraData: $CompoundTag;
+        action: $ResourceLocation;
+        storage: $Target;
+        static STREAM_CODEC: $StreamCodec<$RegistryFriendlyByteBuf, $CraftGuideStepData>;
+        static SPECIAL_ACTION: $ResourceLocation;
+        /**
+         * @deprecated
+         */
+        constructor(arg0: $Target, arg1: $List_<$ItemStack_>, arg2: $List_<$ItemStack_>, arg3: $ResourceLocation_, arg4: boolean, arg5: $CompoundTag_);
+        constructor(arg0: $Target, arg1: $List_<$ItemStack_>, arg2: $List_<$ItemStack_>, arg3: $ResourceLocation_, arg4: $ActionOptionSet);
+        constructor(arg0: $Target, arg1: $List_<$ItemStack_>, arg2: $List_<$ItemStack_>, arg3: $ResourceLocation_);
+        constructor(arg0: $Target, arg1: $List_<$ItemStack_>, arg2: $List_<$ItemStack_>, arg3: $ResourceLocation_, arg4: $CompoundTag_);
+        constructor(arg0: $Target, arg1: $List_<$ItemStack_>, arg2: $List_<$ItemStack_>, arg3: $ResourceLocation_, arg4: (boolean) | undefined, arg5: $CompoundTag_);
+        get items(): $List<$ItemStack>;
+        get nonEmptyItems(): $List<$ItemStack>;
+        get optional(): boolean;
+        get nonEmptyInput(): $List<$ItemStack>;
+        get nonEmptyOutput(): $List<$ItemStack>;
+        get extraSlotConsume(): number;
+    }
+}

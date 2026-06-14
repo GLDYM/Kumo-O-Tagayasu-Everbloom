@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: integrated_api:collections/hills
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.7684627+08:00
+
+minecraft:windswept_forest
+minecraft:windswept_gravelly_hills
+minecraft:windswept_hills

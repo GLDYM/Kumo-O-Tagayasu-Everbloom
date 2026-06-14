@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: mynethersdelight:powdery_cane
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.5987675+08:00
+
+mynethersdelight:bullet_pepper
+mynethersdelight:powdery_cane
+mynethersdelight:powdery_cannon

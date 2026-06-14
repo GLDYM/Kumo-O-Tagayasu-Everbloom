@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:increased_fire_burnout
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.9860662+08:00
+
+atmospheric:rainforest
+minecraft:bamboo_jungle
+minecraft:frozen_peaks
+minecraft:jagged_peaks
+minecraft:jungle
+minecraft:mangrove_swamp
+minecraft:mushroom_fields
+minecraft:snowy_slopes
+minecraft:swamp

@@ -1,0 +1,37 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:beds
+# Entries: 30
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.28714+08:00
+
+delighto_flight:cloud_silk_bed
+handcrafted:acacia_fancy_bed
+handcrafted:bamboo_fancy_bed
+handcrafted:birch_fancy_bed
+handcrafted:cherry_fancy_bed
+handcrafted:crimson_fancy_bed
+handcrafted:dark_oak_fancy_bed
+handcrafted:jungle_fancy_bed
+handcrafted:mangrove_fancy_bed
+handcrafted:oak_fancy_bed
+handcrafted:spruce_fancy_bed
+handcrafted:warped_fancy_bed
+minecraft:black_bed
+minecraft:blue_bed
+minecraft:brown_bed
+minecraft:cyan_bed
+minecraft:gray_bed
+minecraft:green_bed
+minecraft:light_blue_bed
+minecraft:light_gray_bed
+minecraft:lime_bed
+minecraft:magenta_bed
+minecraft:orange_bed
+minecraft:pink_bed
+minecraft:purple_bed
+minecraft:red_bed
+minecraft:white_bed
+minecraft:yellow_bed
+tofucraft:tofubed
+tsuki:futon

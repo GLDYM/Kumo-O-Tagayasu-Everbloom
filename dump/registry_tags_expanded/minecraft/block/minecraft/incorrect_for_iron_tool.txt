@@ -1,0 +1,31 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:incorrect_for_iron_tool
+# Entries: 24
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.3972637+08:00
+
+cagedmobs:star_infused_netherite_block
+createnuclear:deepslate_uranium_ore
+createnuclear:enriched_soul_soil
+createnuclear:raw_uranium_block
+createnuclear:reactor_casing
+createnuclear:reactor_controller
+createnuclear:reactor_cooler
+createnuclear:reactor_core
+createnuclear:reactor_frame
+createnuclear:reactor_input
+createnuclear:reactor_output
+createnuclear:uranium_ore
+dramaticdoors:short_netherite_door
+dramaticdoors:tall_netherite_door
+irons_spellbooks:deepslate_mithril_ore
+irons_spellbooks:mithril_ore
+minecraft:ancient_debris
+minecraft:crying_obsidian
+minecraft:netherite_block
+minecraft:obsidian
+minecraft:respawn_anchor
+supplementaries:netherite_door
+supplementaries:netherite_trapdoor
+supplementaries:safe

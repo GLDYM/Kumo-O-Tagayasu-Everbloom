@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: brewinandchewin:foods/horror_meat
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.5324349+08:00
+
+farmersdelight:chicken_cuts
+farmersdelight:minced_beef
+kaleidoscope_cookery:raw_cow_offal
+minecraft:beef
+minecraft:chicken
+tofucraft:soymeat

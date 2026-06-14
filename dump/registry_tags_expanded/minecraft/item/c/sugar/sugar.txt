@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:sugar/sugar
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.7972223+08:00
+
+minecraft:sugar

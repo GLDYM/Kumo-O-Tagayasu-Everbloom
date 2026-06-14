@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: c:is_rare
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.412643+08:00
+
+minecraft:bamboo_jungle
+minecraft:deep_dark
+minecraft:eroded_badlands
+minecraft:flower_forest
+minecraft:ice_spikes
+minecraft:mushroom_fields
+minecraft:old_growth_birch_forest
+minecraft:old_growth_spruce_taiga
+minecraft:savanna_plateau
+minecraft:sparse_jungle
+minecraft:sunflower_plains
+minecraft:windswept_gravelly_hills
+minecraft:windswept_savanna
+neapolitan:strawberry_fields
+quark:glimmering_weald

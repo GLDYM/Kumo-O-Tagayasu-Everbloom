@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: supplementaries:jar_cookies
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0106929+08:00
+
+create:chocolate_glazed_berries
+create:honeyed_apple
+farmersdelight:honey_cookie
+farmersdelight:sweet_berry_cookie
+minecraft:cookie
+supplementaries:candy
+tofucraft:tofucookie

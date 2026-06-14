@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: youkaishomecoming:cooked_tuna
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.1884976+08:00
+
+youkaishomecoming:seared_tuna
+youkaishomecoming:seared_tuna_slice

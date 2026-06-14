@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: c:entity_defense_enhancements
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9655639+08:00
+
+minecraft:blast_protection
+minecraft:feather_falling
+minecraft:fire_protection
+minecraft:projectile_protection
+minecraft:protection
+minecraft:respiration

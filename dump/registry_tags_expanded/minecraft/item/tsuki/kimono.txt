@@ -1,0 +1,21 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: tsuki:kimono
+# Entries: 14
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.1080244+08:00
+
+tsuki:kimono_black
+tsuki:kimono_brown
+tsuki:kimono_cyan
+tsuki:kimono_ene
+tsuki:kimono_green
+tsuki:kimono_miko
+tsuki:kimono_purple
+tsuki:kimono_sakura
+tsuki:kimono_white
+tsuki:yukata_blue
+tsuki:yukata_lime
+tsuki:yukata_magenta
+tsuki:yukata_red
+tsuki:yukata_yellow

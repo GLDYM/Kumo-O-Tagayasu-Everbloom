@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: another_furniture:sofas
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.3952755+08:00
+
+another_furniture:black_sofa
+another_furniture:blue_sofa
+another_furniture:brown_sofa
+another_furniture:cyan_sofa
+another_furniture:gray_sofa
+another_furniture:green_sofa
+another_furniture:light_blue_sofa
+another_furniture:light_gray_sofa
+another_furniture:lime_sofa
+another_furniture:magenta_sofa
+another_furniture:orange_sofa
+another_furniture:pink_sofa
+another_furniture:purple_sofa
+another_furniture:red_sofa
+another_furniture:white_sofa
+another_furniture:yellow_sofa

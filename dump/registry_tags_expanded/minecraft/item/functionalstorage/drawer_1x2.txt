@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: functionalstorage:drawer_1x2
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.7239964+08:00
+
+functionalstorage:acacia_2
+functionalstorage:birch_2
+functionalstorage:cherry_2
+functionalstorage:crimson_2
+functionalstorage:dark_oak_2
+functionalstorage:fluid_2
+functionalstorage:framed_2
+functionalstorage:jungle_2
+functionalstorage:mangrove_2
+functionalstorage:oak_2
+functionalstorage:spruce_2
+functionalstorage:warped_2

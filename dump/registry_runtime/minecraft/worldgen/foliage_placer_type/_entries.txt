@@ -1,0 +1,21 @@
+# Registry dump
+# Registry: minecraft:worldgen/foliage_placer_type
+# Minecraft: 1.21.1
+# Entries: 15
+# Generated: 2026-06-14T13:47:24.4952286+08:00
+
+crabbersdelight:palm_foliage_placer raw_id=14 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType
+minecraft:acacia_foliage_placer raw_id=3 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType
+minecraft:blob_foliage_placer raw_id=0 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType
+minecraft:bush_foliage_placer raw_id=4 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType
+minecraft:cherry_foliage_placer raw_id=10 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType
+minecraft:dark_oak_foliage_placer raw_id=8 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType
+minecraft:fancy_foliage_placer raw_id=5 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType
+minecraft:jungle_foliage_placer raw_id=6 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType
+minecraft:mega_pine_foliage_placer raw_id=7 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType
+minecraft:pine_foliage_placer raw_id=2 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType
+minecraft:random_spread_foliage_placer raw_id=9 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType
+minecraft:spruce_foliage_placer raw_id=1 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType
+quark:offset_fancy_foliage_placer raw_id=11 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType
+tofucraft:mushroom_foliage_placer raw_id=13 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType
+tofucraft:tofu_foliage_placer raw_id=12 class=net.minecraft.world.level.levelgen.feature.foliageplacers.FoliagePlacerType

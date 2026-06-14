@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: supplementaries:hourglass_sands
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0053122+08:00
+
+atmospheric:arid_sand
+atmospheric:red_arid_sand
+atmospheric:suspicious_arid_sand
+atmospheric:suspicious_red_arid_sand
+minecraft:red_sand
+minecraft:sand
+minecraft:suspicious_sand

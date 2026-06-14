@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:coral_blocks
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.3317872+08:00
+
+minecraft:brain_coral_block
+minecraft:bubble_coral_block
+minecraft:fire_coral_block
+minecraft:horn_coral_block
+minecraft:tube_coral_block

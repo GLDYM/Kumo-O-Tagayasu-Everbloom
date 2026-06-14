@@ -1,0 +1,39 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:ores
+# Entries: 32
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.6275418+08:00
+
+create:deepslate_zinc_ore
+create:zinc_ore
+createnuclear:deepslate_lead_ore
+createnuclear:deepslate_uranium_ore
+createnuclear:lead_ore
+createnuclear:uranium_ore
+irons_spellbooks:deepslate_mithril_ore
+irons_spellbooks:mithril_ore
+iss_magicfromtheeast:deepslate_jade_ore
+iss_magicfromtheeast:jade_ore
+minecraft:ancient_debris
+minecraft:coal_ore
+minecraft:copper_ore
+minecraft:deepslate_coal_ore
+minecraft:deepslate_copper_ore
+minecraft:deepslate_diamond_ore
+minecraft:deepslate_emerald_ore
+minecraft:deepslate_gold_ore
+minecraft:deepslate_iron_ore
+minecraft:deepslate_lapis_ore
+minecraft:deepslate_redstone_ore
+minecraft:diamond_ore
+minecraft:emerald_ore
+minecraft:gold_ore
+minecraft:iron_ore
+minecraft:lapis_ore
+minecraft:nether_gold_ore
+minecraft:nether_quartz_ore
+minecraft:redstone_ore
+tofucraft:ore_tofu_diamond
+tofucraft:ore_tofugem
+tofucraft:tofuslate_tofu_diamond_ore

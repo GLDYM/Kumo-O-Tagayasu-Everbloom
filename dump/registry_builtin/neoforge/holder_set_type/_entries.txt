@@ -1,0 +1,12 @@
+# Registry dump
+# Registry: neoforge:holder_set_type
+# Minecraft: 1.21.1
+# Entries: 6
+# Generated: 2026-06-14T13:45:01.5456832+08:00
+
+kubejs:namespace raw_id=5 class=dev.latvian.mods.kubejs.holder.KubeJSHolderSets$2
+kubejs:regex raw_id=4 class=dev.latvian.mods.kubejs.holder.KubeJSHolderSets$1
+neoforge:and raw_id=1 class=net.neoforged.neoforge.registries.holdersets.AndHolderSet$Type
+neoforge:any raw_id=0 class=net.neoforged.neoforge.registries.holdersets.AnyHolderSet$Type
+neoforge:not raw_id=3 class=net.neoforged.neoforge.registries.holdersets.NotHolderSet$Type
+neoforge:or raw_id=2 class=net.neoforged.neoforge.registries.holdersets.OrHolderSet$Type

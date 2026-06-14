@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: youkaishomecoming:sake
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.2225216+08:00
+
+youkaishomecoming:daiginjo
+youkaishomecoming:dassai
+youkaishomecoming:full_moons_eve
+youkaishomecoming:hakutsuru
+youkaishomecoming:kappa_village
+youkaishomecoming:kiku
+youkaishomecoming:mead
+youkaishomecoming:mio
+youkaishomecoming:sparrow_sake
+youkaishomecoming:suigei
+youkaishomecoming:tengu_tango
+youkaishomecoming:wind_priestesses

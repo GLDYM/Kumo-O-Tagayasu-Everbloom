@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create_bic_bit:tulip
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.053132+08:00
+
+minecraft:orange_tulip
+minecraft:pink_tulip
+minecraft:red_tulip
+minecraft:white_tulip

@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: createdeco:catwalks
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9008819+08:00
+
+createdeco:andesite_catwalk
+createdeco:brass_catwalk
+createdeco:copper_catwalk
+createdeco:industrial_iron_catwalk
+createdeco:iron_catwalk
+createdeco:zinc_catwalk

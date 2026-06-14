@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:acacia_logs
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.2552352+08:00
+
+minecraft:acacia_log
+minecraft:acacia_wood
+minecraft:stripped_acacia_log
+minecraft:stripped_acacia_wood

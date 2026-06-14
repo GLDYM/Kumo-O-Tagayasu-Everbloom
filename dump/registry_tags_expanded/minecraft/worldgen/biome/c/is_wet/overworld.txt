@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: c:is_wet/overworld
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.4602102+08:00
+
+minecraft:bamboo_jungle
+minecraft:beach
+minecraft:dripstone_caves
+minecraft:jungle
+minecraft:lush_caves
+minecraft:mangrove_swamp
+minecraft:sparse_jungle
+minecraft:swamp

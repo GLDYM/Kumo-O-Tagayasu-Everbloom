@@ -1,0 +1,21 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: artifacts:campsite_chests
+# Entries: 14
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.4026204+08:00
+
+minecraft:chest
+quark:acacia_chest
+quark:azalea_chest
+quark:bamboo_chest
+quark:birch_chest
+quark:blossom_chest
+quark:cherry_chest
+quark:crimson_chest
+quark:dark_oak_chest
+quark:jungle_chest
+quark:mangrove_chest
+quark:oak_chest
+quark:spruce_chest
+quark:warped_chest

@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:sugar
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.795559+08:00
+
+bakeries:brown_sugar_cube
+minecraft:sugar
+tsuki:maple_syrup
+tsuki:mirin_kasu

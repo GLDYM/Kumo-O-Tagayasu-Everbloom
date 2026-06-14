@@ -1,0 +1,12 @@
+# Registry dump
+# Registry: create:potato_projectile/entity_hit_action
+# Minecraft: 1.21.1
+# Entries: 6
+# Generated: 2026-06-14T13:47:24.0577496+08:00
+
+create:chorus_teleport raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+create:cure_zombie_villager raw_id=4 class=com.mojang.serialization.MapCodec$2
+create:food_effects raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+create:potion_effect raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+create:set_on_fire raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+create:suspicious_stew raw_id=5 class=com.mojang.serialization.MapCodec$2

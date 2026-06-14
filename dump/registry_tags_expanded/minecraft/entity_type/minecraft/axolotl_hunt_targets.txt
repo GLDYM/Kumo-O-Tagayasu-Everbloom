@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: minecraft:axolotl_hunt_targets
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.105732+08:00
+
+atmospheric:tetra
+minecraft:cod
+minecraft:glow_squid
+minecraft:pufferfish
+minecraft:salmon
+minecraft:squid
+minecraft:tadpole
+minecraft:tropical_fish

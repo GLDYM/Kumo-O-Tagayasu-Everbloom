@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:runtime_generated/compat/tofucraft/leek_green
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.0041271+08:00
+
+tofucraft:leek_green_stem

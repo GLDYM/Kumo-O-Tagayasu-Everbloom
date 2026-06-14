@@ -1,0 +1,67 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: sable:quarter_volume
+# Entries: 60
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.7031864+08:00
+
+createdeco:andesite_catwalk
+createdeco:andesite_catwalk_railing
+createdeco:andesite_support_wedge
+createdeco:black_placard
+createdeco:blue_andesite_lamp
+createdeco:blue_brass_lamp
+createdeco:blue_copper_lamp
+createdeco:blue_industrial_iron_lamp
+createdeco:blue_iron_lamp
+createdeco:blue_placard
+createdeco:blue_zinc_lamp
+createdeco:brass_catwalk
+createdeco:brass_catwalk_railing
+createdeco:brass_support_wedge
+createdeco:brown_placard
+createdeco:copper_catwalk
+createdeco:copper_catwalk_railing
+createdeco:copper_support_wedge
+createdeco:cyan_placard
+createdeco:gray_placard
+createdeco:green_andesite_lamp
+createdeco:green_brass_lamp
+createdeco:green_copper_lamp
+createdeco:green_industrial_iron_lamp
+createdeco:green_iron_lamp
+createdeco:green_placard
+createdeco:green_zinc_lamp
+createdeco:industrial_iron_catwalk
+createdeco:industrial_iron_catwalk_railing
+createdeco:industrial_iron_ladder
+createdeco:industrial_iron_support_wedge
+createdeco:iron_catwalk
+createdeco:iron_catwalk_railing
+createdeco:iron_ladder
+createdeco:iron_support_wedge
+createdeco:light_blue_placard
+createdeco:light_gray_placard
+createdeco:lime_placard
+createdeco:magenta_placard
+createdeco:orange_placard
+createdeco:pink_placard
+createdeco:purple_placard
+createdeco:red_andesite_lamp
+createdeco:red_brass_lamp
+createdeco:red_copper_lamp
+createdeco:red_industrial_iron_lamp
+createdeco:red_iron_lamp
+createdeco:red_placard
+createdeco:red_zinc_lamp
+createdeco:yellow_andesite_lamp
+createdeco:yellow_brass_lamp
+createdeco:yellow_copper_lamp
+createdeco:yellow_industrial_iron_lamp
+createdeco:yellow_iron_lamp
+createdeco:yellow_placard
+createdeco:yellow_zinc_lamp
+createdeco:zinc_catwalk
+createdeco:zinc_catwalk_railing
+createdeco:zinc_ladder
+createdeco:zinc_support_wedge

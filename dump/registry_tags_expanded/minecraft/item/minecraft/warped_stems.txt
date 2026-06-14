@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:warped_stems
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2755376+08:00
+
+minecraft:stripped_warped_hyphae
+minecraft:stripped_warped_stem
+minecraft:warped_hyphae
+minecraft:warped_stem

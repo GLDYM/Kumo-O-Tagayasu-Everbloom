@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: supplementaries:map_tint_foliage_color
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.7720293+08:00
+
+minecraft:acacia_leaves
+minecraft:dark_oak_leaves
+minecraft:oak_leaves
+minecraft:vine

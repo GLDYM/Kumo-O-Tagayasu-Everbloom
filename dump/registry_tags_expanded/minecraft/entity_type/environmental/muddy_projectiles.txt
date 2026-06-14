@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: environmental:muddy_projectiles
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0618443+08:00
+

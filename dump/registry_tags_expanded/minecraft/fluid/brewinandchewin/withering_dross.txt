@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:fluid
+# Tag: brewinandchewin:withering_dross
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.2084778+08:00
+
+brewinandchewin:flowing_withering_dross
+brewinandchewin:withering_dross

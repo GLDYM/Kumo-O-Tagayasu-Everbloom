@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: youkaishomecoming:iron_bowl_food
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.2052972+08:00
+
+youkaishomecoming:borscht
+youkaishomecoming:higan_soup
+youkaishomecoming:mushroom_soup
+youkaishomecoming:potato_soup
+youkaishomecoming:power_soup

@@ -1,0 +1,11 @@
+# Registry dump
+# Registry: minecraft:worldgen/chunk_generator
+# Minecraft: 1.21.1
+# Entries: 5
+# Generated: 2026-06-14T13:47:24.4756866+08:00
+
+bits_n_bobs:ponderous_planes raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+jamd:mining raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:debug raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:flat raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:noise raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: crabbersdelight:raw_seafood
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.9707941+08:00
+
+crabbersdelight:clawster
+crabbersdelight:crab
+crabbersdelight:raw_clam_meat
+crabbersdelight:shrimp

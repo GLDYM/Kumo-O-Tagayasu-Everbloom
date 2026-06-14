@@ -1,0 +1,26 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/safe_raw_fish
+# Entries: 19
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.1954296+08:00
+
+crabbersdelight:pufferfish_slice
+crabbersdelight:tropical_fish_slice
+create_bic_bit:raw_herring
+farmersdelight:cod_slice
+farmersdelight:salmon_slice
+kaleidoscope_cookery:sashimi
+minecraft:cod
+minecraft:salmon
+minecraft:tropical_fish
+mynethersdelight:ghasta
+mynethersdelight:strider_slice
+tsuki:bonito
+tsuki:chikuwa
+tsuki:fishcake
+tsuki:kamaboko
+tsuki:machined_bonito
+tsuki:machined_fish
+tsuki:satsumaage
+youkaishomecoming:raw_lamprey_fillet

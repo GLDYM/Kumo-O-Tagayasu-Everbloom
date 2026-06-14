@@ -1,0 +1,46 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: farmersdelight:cabbage_roll_ingredients
+# Entries: 39
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.5845404+08:00
+
+create_bic_bit:raw_herring
+farmersdelight:bacon
+farmersdelight:chicken_cuts
+farmersdelight:cod_slice
+farmersdelight:minced_beef
+farmersdelight:mutton_chops
+farmersdelight:salmon_slice
+immortalers_delight:dipped_rotten_flesh
+immortalers_delight:raw_sniffer_slice
+immortalers_delight:raw_sniffer_steak
+immortalers_delight:rotten_flesh_cuts
+kaleidoscope_cookery:raw_cow_offal
+kaleidoscope_cookery:raw_cut_small_meats
+kaleidoscope_cookery:raw_lamb_chops
+kaleidoscope_cookery:raw_pork_belly
+kaleidoscope_cookery:sashimi
+kaleidoscope_nether:ham
+kaleidoscope_nether:ham_slice
+kaleidoscope_nether:raw_piglin_meat
+kaleidoscope_nether:raw_strider_meat
+minecraft:beef
+minecraft:chicken
+minecraft:cod
+minecraft:mutton
+minecraft:porkchop
+minecraft:salmon
+minecraft:tropical_fish
+mynethersdelight:cooked_loin
+mynethersdelight:hoglin_loin
+mynethersdelight:hoglin_sausage
+tofucraft:soymeat
+tsuki:bonito
+tsuki:chikuwa
+tsuki:fishcake
+tsuki:kamaboko
+tsuki:machined_bonito
+tsuki:machined_fish
+tsuki:satsumaage
+youkaishomecoming:raw_lamprey_fillet

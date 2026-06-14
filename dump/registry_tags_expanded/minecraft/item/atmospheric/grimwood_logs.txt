@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: atmospheric:grimwood_logs
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4670338+08:00
+
+atmospheric:grimwood
+atmospheric:grimwood_log
+atmospheric:stripped_grimwood
+atmospheric:stripped_grimwood_log

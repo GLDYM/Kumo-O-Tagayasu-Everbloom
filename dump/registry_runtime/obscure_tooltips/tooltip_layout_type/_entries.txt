@@ -1,0 +1,9 @@
+# Registry dump
+# Registry: obscure_tooltips:tooltip_layout_type
+# Minecraft: 1.21.1
+# Entries: 3
+# Generated: 2026-06-14T13:47:24.6240871+08:00
+
+obscure_tooltips:armor_preview raw_id=1 class=com.mojang.serialization.MapCodec$2
+obscure_tooltips:default raw_id=0 class=com.mojang.serialization.MapCodec$2
+obscure_tooltips:tool_preview raw_id=2 class=com.mojang.serialization.MapCodec$2

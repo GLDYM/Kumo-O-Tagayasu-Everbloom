@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: quark:glow_shroom_may_place_on
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.6494691+08:00
+
+minecraft:barrier
+minecraft:deepslate

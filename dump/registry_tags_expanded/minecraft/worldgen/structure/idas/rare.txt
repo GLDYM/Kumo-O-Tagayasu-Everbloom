@@ -1,0 +1,21 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: idas:rare
+# Entries: 14
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1746597+08:00
+
+idas:ancient_mines
+idas:ars_nouveau/archmages_tower
+idas:bazaar
+idas:collectors_museum
+idas:desert_pyramid
+idas:iceandfire/dread_citadel
+idas:labyrinth
+idas:nexus
+idas:pillager_fortress
+idas:ruins_of_the_deep
+idas:tinkers_citadel
+idas:tinkers_workshop
+idas:tree_of_wisdom
+idas:windswept_shrine

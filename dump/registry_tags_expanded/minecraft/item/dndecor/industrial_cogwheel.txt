@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:industrial_cogwheel
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.272138+08:00
+
+dndecor:industrial_cogwheel

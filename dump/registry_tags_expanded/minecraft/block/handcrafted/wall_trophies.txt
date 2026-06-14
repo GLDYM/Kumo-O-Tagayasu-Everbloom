@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: handcrafted:wall_trophies
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0894046+08:00
+
+handcrafted:bear_trophy
+handcrafted:blaze_trophy
+handcrafted:fox_trophy
+handcrafted:goat_trophy
+handcrafted:pufferfish_trophy
+handcrafted:salmon_trophy
+handcrafted:silverfish_trophy
+handcrafted:skeleton_horse_trophy
+handcrafted:spider_trophy
+handcrafted:tropical_fish_trophy
+handcrafted:wither_skeleton_trophy
+handcrafted:wolf_trophy

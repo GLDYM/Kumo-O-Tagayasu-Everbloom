@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:cooked_fish
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.7668605+08:00
+
+minecraft:cooked_cod
+minecraft:cooked_salmon
+tsuki:chikuwa
+tsuki:fishcake
+tsuki:kamaboko
+tsuki:satsumaage
+youkaishomecoming:roasted_lamprey_fillet

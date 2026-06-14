@@ -1,0 +1,20 @@
+# Registry dump
+# Registry: create:mounted_item_storage_type
+# Minecraft: 1.21.1
+# Entries: 14
+# Generated: 2026-06-14T13:45:01.0431086+08:00
+
+beyonddimensions:net_interface_item raw_id=4 class=com.wintercogs.beyonddimensions.integration.module.create.contraption.NetInterfaceMountedStorageType
+create:chest raw_id=11 class=com.simibubi.create.api.contraption.storage.item.chest.ChestMountedStorageType
+create:creative_crate raw_id=6 class=com.simibubi.create.content.logistics.crate.CreativeCrateMountedStorageType
+create:depot raw_id=9 class=com.simibubi.create.content.logistics.depot.storage.DepotMountedStorageType
+create:dispenser raw_id=12 class=com.simibubi.create.content.contraptions.behaviour.dispenser.storage.DispenserMountedStorageType
+create:fallback raw_id=5 class=com.simibubi.create.impl.contraption.storage.FallbackMountedStorageType
+create:simple raw_id=10 class=com.simibubi.create.api.contraption.storage.item.simple.SimpleMountedStorageType$Impl
+create:toolbox raw_id=8 class=com.simibubi.create.content.equipment.toolbox.ToolboxMountedStorageType
+create:vault raw_id=7 class=com.simibubi.create.content.logistics.vault.ItemVaultMountedStorageType
+create_connected:silo raw_id=2 class=com.hlysine.create_connected.content.itemsilo.ItemSiloMountedStorageType
+createutilities:void_chest raw_id=1 class=me.duquee.createutilities.mountedstorage.VoidChestMountedStorageType
+dndecor:container raw_id=13 class=dev.lopyluna.dndecor.content.blocks.container.DyedContainerStorageType
+sophisticatedbackpacks:sophisticated_backpack raw_id=0 class=net.p3pp3rf1y.sophisticatedbackpackscreateintegration.backpack.MountedSophisticatedBackpackType
+sophisticatedstorage:sophisticated_storage raw_id=3 class=net.p3pp3rf1y.sophisticatedstoragecreateintegration.storage.MountedSophisticatedStorageType

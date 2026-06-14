@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:raw_pork
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.557941+08:00
+
+kaleidoscope_cookery:raw_pork_belly
+kaleidoscope_nether:ham
+kaleidoscope_nether:ham_slice
+kaleidoscope_nether:raw_piglin_meat
+minecraft:porkchop
+mynethersdelight:hoglin_loin

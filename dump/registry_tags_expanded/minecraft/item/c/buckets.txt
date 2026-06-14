@@ -1,0 +1,40 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:buckets
+# Entries: 33
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.6146228+08:00
+
+atmospheric:tetra_bucket
+create:chocolate_bucket
+create:honey_bucket
+create_dragons_plus:black_dye_bucket
+create_dragons_plus:blue_dye_bucket
+create_dragons_plus:brown_dye_bucket
+create_dragons_plus:cyan_dye_bucket
+create_dragons_plus:dragon_breath_bucket
+create_dragons_plus:gray_dye_bucket
+create_dragons_plus:green_dye_bucket
+create_dragons_plus:light_blue_dye_bucket
+create_dragons_plus:light_gray_dye_bucket
+create_dragons_plus:lime_dye_bucket
+create_dragons_plus:magenta_dye_bucket
+create_dragons_plus:orange_dye_bucket
+create_dragons_plus:pink_dye_bucket
+create_dragons_plus:purple_dye_bucket
+create_dragons_plus:red_dye_bucket
+create_dragons_plus:white_dye_bucket
+create_dragons_plus:yellow_dye_bucket
+create_enchantment_industry:experience_bucket
+minecraft:axolotl_bucket
+minecraft:bucket
+minecraft:cod_bucket
+minecraft:lava_bucket
+minecraft:milk_bucket
+minecraft:powder_snow_bucket
+minecraft:pufferfish_bucket
+minecraft:salmon_bucket
+minecraft:tadpole_bucket
+minecraft:tropical_fish_bucket
+minecraft:water_bucket
+supplementaries:lumisene_bucket

@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:stone_types/deepslate
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.0167901+08:00
+
+bits_n_bobs:deepslate_tile_stairs
+bits_n_bobs:deepslate_tile_wall
+bits_n_bobs:deepslate_tiles
+create:cut_deepslate
+create:cut_deepslate_brick_stairs
+create:cut_deepslate_brick_wall
+create:cut_deepslate_bricks
+create:cut_deepslate_stairs
+create:cut_deepslate_wall
+create:deepslate_pillar
+create:layered_deepslate
+create:polished_cut_deepslate
+create:polished_cut_deepslate_stairs
+create:polished_cut_deepslate_wall
+create:small_deepslate_brick_stairs
+create:small_deepslate_brick_wall
+create:small_deepslate_bricks
+minecraft:deepslate

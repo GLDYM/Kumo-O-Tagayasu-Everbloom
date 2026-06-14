@@ -1,0 +1,13 @@
+# Registry dump
+# Registry: minecraft:worldgen/configured_carver
+# Minecraft: 1.21.1
+# Entries: 7
+# Generated: 2026-06-14T13:47:24.478215+08:00
+
+minecraft:canyon raw_id=0 class=net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver
+minecraft:cave raw_id=1 class=net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver
+minecraft:cave_extra_underground raw_id=2 class=net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver
+minecraft:nether_cave raw_id=3 class=net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver
+tofucraft:tofu_canyon raw_id=4 class=net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver
+tofucraft:tofu_cave raw_id=5 class=net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver
+tofucraft:tofu_cave_extra_underground raw_id=6 class=net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver

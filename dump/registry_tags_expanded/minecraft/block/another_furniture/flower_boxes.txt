@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: another_furniture:flower_boxes
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.3852132+08:00
+
+another_furniture:acacia_flower_box
+another_furniture:bamboo_flower_box
+another_furniture:birch_flower_box
+another_furniture:cherry_flower_box
+another_furniture:crimson_flower_box
+another_furniture:dark_oak_flower_box
+another_furniture:jungle_flower_box
+another_furniture:mangrove_flower_box
+another_furniture:oak_flower_box
+another_furniture:spruce_flower_box
+another_furniture:warped_flower_box

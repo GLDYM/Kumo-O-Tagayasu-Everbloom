@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: epic:large_dungeon
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.4682399+08:00
+
+minecraft:birch_forest
+minecraft:forest
+minecraft:old_growth_birch_forest
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:plains
+minecraft:savanna
+minecraft:sunflower_plains

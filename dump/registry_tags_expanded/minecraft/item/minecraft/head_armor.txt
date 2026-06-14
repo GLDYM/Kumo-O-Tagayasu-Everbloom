@@ -1,0 +1,57 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:head_armor
+# Entries: 50
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1456777+08:00
+
+create:cardboard_helmet
+create:copper_diving_helmet
+create:netherite_diving_helmet
+create_sa:brass_helmet
+create_sa:copper_helmet
+create_sa:zinc_helmet
+irons_spellbooks:archevoker_helmet
+irons_spellbooks:cryomancer_helmet
+irons_spellbooks:cultist_helmet
+irons_spellbooks:electromancer_helmet
+irons_spellbooks:netherite_mage_helmet
+irons_spellbooks:plagued_helmet
+irons_spellbooks:priest_helmet
+irons_spellbooks:pumpkin_helmet
+irons_spellbooks:pyromancer_helmet
+irons_spellbooks:shadowwalker_helmet
+irons_spellbooks:tarnished_helmet
+irons_spellbooks:wandering_magician_helmet
+irons_spellbooks:wizard_hat
+irons_spellbooks:wizard_helmet
+iss_magicfromtheeast:jade_pagoda_helmet
+iss_magicfromtheeast:jiangshi_hat
+iss_magicfromtheeast:onmyoji_helmet
+iss_magicfromtheeast:taoist_helmet
+l2complements:eternium_helmet
+l2complements:poseidite_helmet
+l2complements:sculkium_helmet
+l2complements:shulkerate_helmet
+l2complements:totemic_gold_helmet
+minecraft:chainmail_helmet
+minecraft:diamond_helmet
+minecraft:golden_helmet
+minecraft:iron_helmet
+minecraft:leather_helmet
+minecraft:netherite_helmet
+minecraft:turtle_helmet
+tofucraft:tofu_diamond_helmet
+tofucraft:tofu_kinu_helmet
+tofucraft:tofu_metal_helmet
+tofucraft:tofu_momen_helmet
+tsuki:samurai_helmet_black
+tsuki:samurai_helmet_green
+tsuki:samurai_helmet_red
+tsuki:soldier_helmet_black
+tsuki:soldier_helmet_gray
+youkaishomecoming:cirno_hairband
+youkaishomecoming:koishi_hat
+youkaishomecoming:reimu_hairband
+youkaishomecoming:rumia_hairband
+youkaishomecoming:suwako_hat

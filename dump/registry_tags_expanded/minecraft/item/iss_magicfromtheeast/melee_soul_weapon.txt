@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: iss_magicfromtheeast:melee_soul_weapon
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.8524058+08:00
+
+iss_magicfromtheeast:soul_breaker
+iss_magicfromtheeast:spirit_crusher

@@ -1,0 +1,38 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: neoforge:is_magic
+# Entries: 31
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9467103+08:00
+
+danmaku_api:abyssal_danmaku
+danmaku_api:danmaku
+irons_spellbooks:blood_cauldron
+irons_spellbooks:blood_magic
+irons_spellbooks:dragon_breath_pool
+irons_spellbooks:eldritch_magic
+irons_spellbooks:ender_magic
+irons_spellbooks:evocation_magic
+irons_spellbooks:fire_field
+irons_spellbooks:fire_magic
+irons_spellbooks:holy_magic
+irons_spellbooks:ice_magic
+irons_spellbooks:lightning_magic
+irons_spellbooks:nature_magic
+irons_spellbooks:poison_cloud
+iss_magicfromtheeast:dune_magic
+iss_magicfromtheeast:soul_damage
+iss_magicfromtheeast:soul_weapons_bonus
+iss_magicfromtheeast:spirit_arrow
+iss_magicfromtheeast:spirit_magic
+iss_magicfromtheeast:symmetry_magic
+l2complements:freeze
+l2complements:soul_flame
+minecraft:dragon_breath
+minecraft:indirect_magic
+minecraft:magic
+minecraft:sonic_boom
+minecraft:thorns
+minecraft:wither
+minecraft:wither_skull
+neoforge:poison

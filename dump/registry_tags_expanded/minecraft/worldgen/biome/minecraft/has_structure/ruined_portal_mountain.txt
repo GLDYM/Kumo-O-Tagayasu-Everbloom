@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:has_structure/ruined_portal_mountain
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.9541589+08:00
+
+minecraft:badlands
+minecraft:cherry_grove
+minecraft:eroded_badlands
+minecraft:frozen_peaks
+minecraft:jagged_peaks
+minecraft:meadow
+minecraft:savanna_plateau
+minecraft:snowy_slopes
+minecraft:stony_peaks
+minecraft:stony_shore
+minecraft:windswept_forest
+minecraft:windswept_gravelly_hills
+minecraft:windswept_hills
+minecraft:windswept_savanna
+minecraft:wooded_badlands

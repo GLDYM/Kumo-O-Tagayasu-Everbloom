@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:sandstone/uncolored_slabs
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.6041004+08:00
+
+atmospheric:arid_sandstone_slab
+atmospheric:cut_arid_sandstone_slab
+atmospheric:smooth_arid_sandstone_slab
+minecraft:cut_sandstone_slab
+minecraft:sandstone_slab
+minecraft:smooth_sandstone_slab

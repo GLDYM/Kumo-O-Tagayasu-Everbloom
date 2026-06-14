@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: fruitsdelight:plants/blueberry_biomes
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.4975628+08:00
+
+minecraft:grove
+minecraft:mangrove_swamp
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:snowy_plains
+minecraft:snowy_taiga
+minecraft:swamp
+minecraft:taiga
+minecraft:windswept_forest
+minecraft:windswept_hills

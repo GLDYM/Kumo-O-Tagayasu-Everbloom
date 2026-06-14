@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: fruitsdelight:plants/cranberry_biomes
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.4990694+08:00
+
+minecraft:bamboo_jungle
+minecraft:dark_forest
+minecraft:jungle
+minecraft:mangrove_swamp
+minecraft:swamp

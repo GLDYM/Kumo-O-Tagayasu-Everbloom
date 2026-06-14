@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:stone_types/granite
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.0256468+08:00
+
+bits_n_bobs:granite_tile_stairs
+bits_n_bobs:granite_tile_wall
+bits_n_bobs:granite_tiles
+create:cut_granite
+create:cut_granite_brick_stairs
+create:cut_granite_brick_wall
+create:cut_granite_bricks
+create:cut_granite_stairs
+create:cut_granite_wall
+create:granite_pillar
+create:layered_granite
+create:polished_cut_granite
+create:polished_cut_granite_stairs
+create:polished_cut_granite_wall
+create:small_granite_brick_stairs
+create:small_granite_brick_wall
+create:small_granite_bricks
+minecraft:granite

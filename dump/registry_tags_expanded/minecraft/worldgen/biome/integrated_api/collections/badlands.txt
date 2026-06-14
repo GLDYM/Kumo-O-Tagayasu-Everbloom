@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: integrated_api:collections/badlands
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.7523834+08:00
+
+minecraft:badlands
+minecraft:eroded_badlands
+minecraft:wooded_badlands

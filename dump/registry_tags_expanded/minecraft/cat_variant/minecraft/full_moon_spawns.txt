@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:cat_variant
+# Tag: minecraft:full_moon_spawns
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.8586113+08:00
+
+copycats:copy_cat
+minecraft:all_black
+minecraft:black
+minecraft:british_shorthair
+minecraft:calico
+minecraft:jellie
+minecraft:persian
+minecraft:ragdoll
+minecraft:red
+minecraft:siamese
+minecraft:tabby
+minecraft:white

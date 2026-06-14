@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:stone_types/weathered_limestone
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.302954+08:00
+
+dndecor:cut_weathered_limestone
+dndecor:cut_weathered_limestone_brick_stairs
+dndecor:cut_weathered_limestone_brick_wall
+dndecor:cut_weathered_limestone_bricks
+dndecor:cut_weathered_limestone_stairs
+dndecor:cut_weathered_limestone_wall
+dndecor:layered_weathered_limestone
+dndecor:polished_cut_weathered_limestone
+dndecor:polished_cut_weathered_limestone_stairs
+dndecor:polished_cut_weathered_limestone_wall
+dndecor:small_weathered_limestone_brick_stairs
+dndecor:small_weathered_limestone_brick_wall
+dndecor:small_weathered_limestone_bricks
+dndecor:weathered_limestone
+dndecor:weathered_limestone_pillar

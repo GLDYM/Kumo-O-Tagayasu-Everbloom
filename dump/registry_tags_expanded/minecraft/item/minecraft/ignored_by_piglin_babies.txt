@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:ignored_by_piglin_babies
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1531941+08:00
+
+minecraft:leather

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "create_sa:brass_jetpack_chestplate",
+    "create_sa:copper_jetpack_chestplate",
+    "create_sa:brass_exoskeleton_chestplate",
+    "create_sa:copper_exoskeleton_chestplate",
+    "create_sa:portable_drill",
+    "create_sa:block_picker",
+    "create_sa:netherite_jetpack_chestplate"
+  ]
+}

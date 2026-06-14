@@ -1,0 +1,9 @@
+# Registry dump
+# Registry: minecraft:worldgen/multi_noise_biome_source_parameter_list
+# Minecraft: 1.21.1
+# Entries: 3
+# Generated: 2026-06-14T13:47:24.5022739+08:00
+
+minecraft:nether raw_id=0 class=net.minecraft.world.level.biome.MultiNoiseBiomeSourceParameterList
+minecraft:overworld raw_id=1 class=net.minecraft.world.level.biome.MultiNoiseBiomeSourceParameterList
+tofucraft:tofu_world raw_id=2 class=net.minecraft.world.level.biome.MultiNoiseBiomeSourceParameterList

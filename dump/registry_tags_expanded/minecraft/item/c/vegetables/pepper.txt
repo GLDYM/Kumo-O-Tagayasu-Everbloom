@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:vegetables/pepper
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.8952378+08:00
+
+kaleidoscope_cookery:green_chili
+kaleidoscope_cookery:red_chili
+kaleidoscope_nether:soul_pepper
+mynethersdelight:bullet_pepper
+tofucraft:chili
+vintagedelight:ghost_pepper

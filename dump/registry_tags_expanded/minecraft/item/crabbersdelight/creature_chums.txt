@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: crabbersdelight:creature_chums
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.9510265+08:00
+
+crabbersdelight:bucket_of_clam_chum
+crabbersdelight:bucket_of_clawster_chum
+crabbersdelight:bucket_of_crab_chum
+crabbersdelight:bucket_of_shrimp_chum

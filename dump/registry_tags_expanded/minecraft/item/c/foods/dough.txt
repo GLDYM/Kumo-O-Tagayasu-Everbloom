@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/dough
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.1053996+08:00
+
+create:dough
+farmersdelight:wheat_dough
+immortalers_delight:kwat_wheat_dough
+mynethersdelight:ghast_dough
+tofudelight:rice_dough
+vintagedelight:oat_dough

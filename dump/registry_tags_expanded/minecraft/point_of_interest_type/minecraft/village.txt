@@ -1,0 +1,31 @@
+# Expanded runtime tag dump
+# Registry: minecraft:point_of_interest_type
+# Tag: minecraft:village
+# Entries: 24
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.2752454+08:00
+
+bakeries:dough_crafting_table_poi
+beautify:botanist_workbench_poi
+chefsdelight:chef_poi
+chefsdelight:cook_poi
+kaleidoscope_cookery:stove
+minecraft:armorer
+minecraft:butcher
+minecraft:cartographer
+minecraft:cleric
+minecraft:farmer
+minecraft:fisherman
+minecraft:fletcher
+minecraft:home
+minecraft:leatherworker
+minecraft:librarian
+minecraft:mason
+minecraft:meeting
+minecraft:shepherd
+minecraft:toolsmith
+minecraft:weaponsmith
+tofucraft:tofu_craftsman
+tsuki:wa_farmer
+tsuki:wa_trader
+ultramarine:cooking_poi

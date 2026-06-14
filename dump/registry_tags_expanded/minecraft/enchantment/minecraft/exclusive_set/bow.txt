@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: minecraft:exclusive_set/bow
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.98798+08:00
+
+minecraft:infinity
+minecraft:mending

@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:grain
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.327329+08:00
+
+immortalers_delight:evolutcorn
+immortalers_delight:evolutcorn_grains
+immortalers_delight:kwat_wheat
+kaleidoscope_cookery:rice
+minecraft:wheat
+tsuki:brown_rice
+tsuki:buckwheat
+vintagedelight:oat
+vintagedelight:raw_oats

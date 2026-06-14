@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: farmersdelight:sweets
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.6095374+08:00
+
+farmersdelight:apple_pie_slice
+farmersdelight:cake_slice
+farmersdelight:chocolate_pie_slice
+farmersdelight:fruit_salad
+farmersdelight:glow_berry_custard
+farmersdelight:honey_cookie
+farmersdelight:melon_popsicle
+farmersdelight:pumpkin_pie_slice
+farmersdelight:sweet_berry_cheesecake_slice
+farmersdelight:sweet_berry_cookie
+minecraft:cake
+minecraft:cookie

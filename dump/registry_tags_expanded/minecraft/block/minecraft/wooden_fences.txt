@@ -1,0 +1,40 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:wooden_fences
+# Entries: 33
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.5815627+08:00
+
+atmospheric:aspen_fence
+atmospheric:grimwood_fence
+atmospheric:kousa_fence
+atmospheric:laurel_fence
+atmospheric:morado_fence
+atmospheric:rosewood_fence
+atmospheric:yucca_fence
+crabbersdelight:palm_fence
+immortalers_delight:a_bush_fence
+immortalers_delight:ancient_wood_fence
+immortalers_delight:himekaido_fence
+immortalers_delight:leisamboo_fence
+immortalers_delight:pearlip_shell_fence
+minecraft:acacia_fence
+minecraft:bamboo_fence
+minecraft:birch_fence
+minecraft:cherry_fence
+minecraft:crimson_fence
+minecraft:dark_oak_fence
+minecraft:jungle_fence
+minecraft:mangrove_fence
+minecraft:oak_fence
+minecraft:spruce_fence
+minecraft:warped_fence
+mynethersdelight:powdery_fence
+quark:ancient_fence
+quark:azalea_fence
+quark:blossom_fence
+tofucraft:leek_fence
+tofucraft:leek_green_fence
+tofucraft:tofustem_fence
+tsuki:bamboo_fence
+tsuki:bamboo_fence_sunburnt

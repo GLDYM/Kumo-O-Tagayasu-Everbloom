@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: supplementaries:cage_baby_catchable
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1642255+08:00
+
+minecraft:cow
+minecraft:goat
+minecraft:pig
+minecraft:sheep

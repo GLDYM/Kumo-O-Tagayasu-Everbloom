@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "dndecor:cut_basalt_stairs"
+    }
+  ],
+  "results": [
+    {
+      "id": "dndecor:polished_cut_basalt_stairs"
+    }
+  ]
+}

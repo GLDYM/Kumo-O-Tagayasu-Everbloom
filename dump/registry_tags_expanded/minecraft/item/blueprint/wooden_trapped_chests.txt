@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: blueprint:wooden_trapped_chests
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4995041+08:00
+
+atmospheric:trapped_aspen_chest
+atmospheric:trapped_grimwood_chest
+atmospheric:trapped_kousa_chest
+atmospheric:trapped_laurel_chest
+atmospheric:trapped_morado_chest
+atmospheric:trapped_rosewood_chest
+atmospheric:trapped_yucca_chest

@@ -1,0 +1,29 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: quark:stone_tool_materials
+# Entries: 22
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.3746063+08:00
+
+minecraft:andesite
+minecraft:blackstone
+minecraft:cobbled_deepslate
+minecraft:cobblestone
+minecraft:deepslate
+minecraft:diorite
+minecraft:flint
+minecraft:granite
+minecraft:infested_cobblestone
+minecraft:mossy_cobblestone
+minecraft:sandstone
+minecraft:stone
+minecraft:tuff
+quark:jasper
+quark:limestone
+quark:myalite
+quark:permafrost
+quark:polished_calcite
+quark:polished_jasper
+quark:polished_limestone
+quark:polished_shale
+quark:shale

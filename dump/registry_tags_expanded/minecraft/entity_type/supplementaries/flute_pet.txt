@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: supplementaries:flute_pet
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1752606+08:00
+
+minecraft:camel
+minecraft:donkey
+minecraft:fox
+minecraft:horse
+minecraft:llama
+minecraft:mule
+minecraft:skeleton_horse
+minecraft:zombie_horse

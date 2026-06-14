@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create_pattern_schematics:pattern_schematic_paper_substitutes
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.1433141+08:00
+
+create:empty_schematic
+create:schematic

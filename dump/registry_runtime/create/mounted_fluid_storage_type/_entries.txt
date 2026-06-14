@@ -1,0 +1,13 @@
+# Registry dump
+# Registry: create:mounted_fluid_storage_type
+# Minecraft: 1.21.1
+# Entries: 7
+# Generated: 2026-06-14T13:47:24.0431843+08:00
+
+create:creative_fluid_tank raw_id=3 class=com.simibubi.create.content.fluids.tank.storage.creative.CreativeFluidTankMountedStorageType
+create:fluid_tank raw_id=2 class=com.simibubi.create.content.fluids.tank.storage.FluidTankMountedStorageType
+create_connected:fluid_vessel raw_id=1 class=com.hlysine.create_connected.content.fluidvessel.FluidVesselMountedStorageType
+create_enchantment_industry:experience_lantern raw_id=4 class=plus.dragons.createenchantmentindustry.common.fluids.lantern.ExperienceLanternMountedFluidStorageType
+fluidlogistics:horizontal_multi_fluid_tank raw_id=6 class=com.yision.fluidlogistics.block.HorizontalMultiFluidTank.storage.HorizontalMultiFluidTankMountedStorageType
+fluidlogistics:multi_fluid_tank raw_id=5 class=com.yision.fluidlogistics.block.MultiFluidTank.storage.MultiFluidTankMountedStorageType
+railways:fuel_tank raw_id=0 class=com.railwayteam.railways.content.fuel.tank.FuelTankMountedStorageType

@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: c:is_deep_ocean
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.3551426+08:00
+
+minecraft:deep_cold_ocean
+minecraft:deep_frozen_ocean
+minecraft:deep_lukewarm_ocean
+minecraft:deep_ocean

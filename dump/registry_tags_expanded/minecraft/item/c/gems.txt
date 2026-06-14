@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:gems
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.3050474+08:00
+
+minecraft:amethyst_shard
+minecraft:diamond
+minecraft:emerald
+minecraft:lapis_lazuli
+minecraft:prismarine_crystals
+minecraft:quartz

@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "youkaishomecoming:diorite_vertical_slab"
+    }
+  ],
+  "results": [
+    {
+      "id": "youkaishomecoming:polished_diorite_vertical_slab"
+    }
+  ]
+}

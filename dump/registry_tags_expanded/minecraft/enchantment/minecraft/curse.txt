@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: minecraft:curse
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9834639+08:00
+
+minecraft:binding_curse
+minecraft:vanishing_curse
+mynethersdelight:poaching

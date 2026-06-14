@@ -1,0 +1,26 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/soup
+# Entries: 19
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.1984402+08:00
+
+brewinandchewin:creamy_onion_soup
+brewinandchewin:fiery_fondue
+corn_delight:corn_soup
+farmersdelight:baked_cod_stew
+farmersdelight:beef_stew
+farmersdelight:bone_broth
+farmersdelight:chicken_soup
+farmersdelight:fish_stew
+farmersdelight:noodle_soup
+farmersdelight:pumpkin_soup
+farmersdelight:vegetable_soup
+minecraft:beetroot_soup
+minecraft:mushroom_stew
+minecraft:rabbit_stew
+minecraft:suspicious_stew
+mynethersdelight:egg_soup
+mynethersdelight:rock_soup
+mynethersdelight:spicy_noodle_soup
+neapolitan:adzuki_stew

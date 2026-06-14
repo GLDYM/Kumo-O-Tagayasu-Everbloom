@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:sleepers
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.0083073+08:00
+
+minecraft:andesite_slab
+minecraft:smooth_stone_slab
+minecraft:stone_slab

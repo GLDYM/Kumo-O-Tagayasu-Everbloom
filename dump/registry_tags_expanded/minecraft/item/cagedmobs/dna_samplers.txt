@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: cagedmobs:dna_samplers
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.913211+08:00
+
+cagedmobs:diamond_dna_sampler
+cagedmobs:dna_sampler
+cagedmobs:netherite_dna_sampler

@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: minecraft:bypasses_cooldown
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.8998581+08:00
+
+brewinandchewin:cardiac_arrest
+danmaku_api:abyssal_danmaku
+danmaku_api:danmaku
+immortalers_delight:drunk
+immortalers_delight:gas
+iss_magicfromtheeast:soul_weapons_bonus
+l2complements:freeze
+l2complements:life_sync
+l2damagetracker:mob_attack-bypass_armor-bypass_cooldown
+l2damagetracker:mob_attack-bypass_armor-bypass_cooldown-bypass_magic
+l2damagetracker:mob_attack-bypass_cooldown
+l2damagetracker:mob_attack-bypass_cooldown-bypass_magic
+l2damagetracker:player_attack-bypass_armor-bypass_cooldown
+l2damagetracker:player_attack-bypass_armor-bypass_cooldown-bypass_magic
+l2damagetracker:player_attack-bypass_cooldown
+l2damagetracker:player_attack-bypass_cooldown-bypass_magic

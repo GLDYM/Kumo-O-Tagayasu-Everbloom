@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: blueprint:wooden_beehives
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.4622171+08:00
+
+atmospheric:aspen_beehive
+atmospheric:grimwood_beehive
+atmospheric:kousa_beehive
+atmospheric:laurel_beehive
+atmospheric:morado_beehive
+atmospheric:rosewood_beehive
+atmospheric:yucca_beehive
+minecraft:beehive

@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: ftbchunks:right_click_whitelist
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.7154768+08:00
+
+minecraft:firework_rocket
+minecraft:map
+minecraft:shield

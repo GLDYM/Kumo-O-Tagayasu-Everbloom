@@ -1,0 +1,7 @@
+# Registry dump
+# Registry: minecraft:worldgen/root_placer_type
+# Minecraft: 1.21.1
+# Entries: 1
+# Generated: 2026-06-14T13:45:01.4870152+08:00
+
+minecraft:mangrove_root_placer raw_id=0 class=net.minecraft.world.level.levelgen.feature.rootplacers.RootPlacerType

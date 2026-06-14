@@ -1,0 +1,43 @@
+# Expanded runtime tag dump
+# Registry: minecraft:mob_effect
+# Tag: l2complements:skill_effect
+# Entries: 36
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.2566828+08:00
+
+farmersdelight:comfort
+farmersdelight:nourishment
+irons_spellbooks:abyssal_shroud
+irons_spellbooks:airborne
+irons_spellbooks:angel_wings
+irons_spellbooks:antigravity
+irons_spellbooks:ascension
+irons_spellbooks:burning_dash
+irons_spellbooks:charged
+irons_spellbooks:echoing_strikes
+irons_spellbooks:evasion
+irons_spellbooks:fall_damage_immunity
+irons_spellbooks:fortify
+irons_spellbooks:frostbite
+irons_spellbooks:gluttony
+irons_spellbooks:guided
+irons_spellbooks:hastened
+irons_spellbooks:heartstop
+irons_spellbooks:immolate
+irons_spellbooks:oakskin
+irons_spellbooks:planar_sight
+irons_spellbooks:spider_aspect
+irons_spellbooks:thunderstorm
+irons_spellbooks:true_invisibility
+irons_spellbooks:vigor
+irons_spellbooks:volt_strike
+l2complements:cleanse
+l2complements:emerald_splash
+minecraft:bad_omen
+minecraft:conduit_power
+minecraft:dolphins_grace
+minecraft:hero_of_the_village
+minecraft:night_vision
+minecraft:raid_omen
+minecraft:trial_omen
+minecraft:water_breathing

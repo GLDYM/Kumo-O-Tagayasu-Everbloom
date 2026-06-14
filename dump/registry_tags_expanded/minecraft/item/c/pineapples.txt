@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:pineapples
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.4837135+08:00
+
+pineapple_delight:golden_pineapple
+pineapple_delight:pineapple
+pineapple_delight:pineapple_side

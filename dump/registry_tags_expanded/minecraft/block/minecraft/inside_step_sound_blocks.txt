@@ -1,0 +1,63 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:inside_step_sound_blocks
+# Entries: 56
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.4171298+08:00
+
+create:andesite_table_cloth
+create:brass_table_cloth
+create:copper_table_cloth
+minecraft:glow_lichen
+minecraft:lily_pad
+minecraft:pink_petals
+minecraft:powder_snow
+minecraft:sculk_vein
+minecraft:small_amethyst_bud
+quark:water_pink_petals
+supplementaries:ash
+supplementaries:bamboo_spikes
+supplementaries:barnacles
+supplementaries:pancake
+tradeworks:acacia_metal_shelf
+tradeworks:acacia_shelf
+tradeworks:acacia_side_shelf
+tradeworks:andesite_metal_shelf
+tradeworks:andesite_shelf
+tradeworks:andesite_side_shelf
+tradeworks:bamboo_metal_shelf
+tradeworks:bamboo_shelf
+tradeworks:bamboo_side_shelf
+tradeworks:birch_metal_shelf
+tradeworks:birch_shelf
+tradeworks:birch_side_shelf
+tradeworks:brass_metal_shelf
+tradeworks:brass_shelf
+tradeworks:brass_side_shelf
+tradeworks:cherry_metal_shelf
+tradeworks:cherry_shelf
+tradeworks:cherry_side_shelf
+tradeworks:copper_metal_shelf
+tradeworks:copper_shelf
+tradeworks:copper_side_shelf
+tradeworks:crimson_metal_shelf
+tradeworks:crimson_shelf
+tradeworks:crimson_side_shelf
+tradeworks:dark_oak_metal_shelf
+tradeworks:dark_oak_shelf
+tradeworks:dark_oak_side_shelf
+tradeworks:jungle_metal_shelf
+tradeworks:jungle_shelf
+tradeworks:jungle_side_shelf
+tradeworks:mangrove_metal_shelf
+tradeworks:mangrove_shelf
+tradeworks:mangrove_side_shelf
+tradeworks:oak_metal_shelf
+tradeworks:oak_shelf
+tradeworks:oak_side_shelf
+tradeworks:spruce_metal_shelf
+tradeworks:spruce_shelf
+tradeworks:spruce_side_shelf
+tradeworks:warped_metal_shelf
+tradeworks:warped_shelf
+tradeworks:warped_side_shelf

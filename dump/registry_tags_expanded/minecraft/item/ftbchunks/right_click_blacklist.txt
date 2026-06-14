@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: ftbchunks:right_click_blacklist
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.7139678+08:00
+
+minecraft:bucket
+minecraft:lava_bucket
+minecraft:lead
+minecraft:lingering_potion
+minecraft:name_tag
+minecraft:splash_potion
+minecraft:water_bucket

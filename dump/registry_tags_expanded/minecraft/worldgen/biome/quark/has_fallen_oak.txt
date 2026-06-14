@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: quark:has_fallen_oak
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.0637198+08:00
+
+minecraft:flower_forest
+minecraft:forest
+minecraft:meadow
+minecraft:swamp
+minecraft:windswept_forest
+minecraft:wooded_badlands

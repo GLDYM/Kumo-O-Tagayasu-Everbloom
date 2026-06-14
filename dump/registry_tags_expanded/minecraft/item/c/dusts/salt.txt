@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:dusts/salt
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.9644581+08:00
+
+tofucraft:salt
+tsuki:salt
+vintagedelight:salt_dust

@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:nuggets
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.4184628+08:00
+
+cagedmobs:star_infused_netherite_nugget
+create:brass_nugget
+create:copper_nugget
+create:experience_nugget
+create:zinc_nugget
+create_enchantment_industry:super_experience_nugget
+createdeco:industrial_iron_nugget
+createdeco:netherite_nugget
+createnuclear:lead_nugget
+createnuclear:steel_nugget
+l2complements:eternium_nugget
+l2complements:poseidite_nugget
+l2complements:sculkium_nugget
+l2complements:shulkerate_nugget
+l2complements:totemic_gold_nugget
+minecraft:gold_nugget
+minecraft:iron_nugget

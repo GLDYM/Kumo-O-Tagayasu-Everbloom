@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: quark:planks_vertical_slab
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.6656967+08:00
+
+quark:ancient_planks_vertical_slab
+quark:azalea_planks_vertical_slab
+quark:blossom_planks_vertical_slab

@@ -1,0 +1,42 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: dramaticdoors:mob_interactable_short_doors
+# Entries: 35
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9604706+08:00
+
+dramaticdoors:short_acacia_door
+dramaticdoors:short_andesite_door
+dramaticdoors:short_aspen_door
+dramaticdoors:short_bamboo_door
+dramaticdoors:short_birch_door
+dramaticdoors:short_brass_door
+dramaticdoors:short_cd_industrial_iron_door
+dramaticdoors:short_cherry_door
+dramaticdoors:short_copper_door
+dramaticdoors:short_crimson_door
+dramaticdoors:short_dark_oak_door
+dramaticdoors:short_exposed_copper_door
+dramaticdoors:short_gold_door
+dramaticdoors:short_grimwood_door
+dramaticdoors:short_jungle_door
+dramaticdoors:short_kousa_door
+dramaticdoors:short_laurel_door
+dramaticdoors:short_mangrove_door
+dramaticdoors:short_morado_door
+dramaticdoors:short_oak_door
+dramaticdoors:short_oxidized_copper_door
+dramaticdoors:short_powdery_door
+dramaticdoors:short_quark_ancient_door
+dramaticdoors:short_quark_azalea_door
+dramaticdoors:short_quark_blossom_door
+dramaticdoors:short_rosewood_door
+dramaticdoors:short_spruce_door
+dramaticdoors:short_warped_door
+dramaticdoors:short_waxed_copper_door
+dramaticdoors:short_waxed_exposed_copper_door
+dramaticdoors:short_waxed_oxidized_copper_door
+dramaticdoors:short_waxed_weathered_copper_door
+dramaticdoors:short_weathered_copper_door
+dramaticdoors:short_yucca_door
+dramaticdoors:short_zinc_door

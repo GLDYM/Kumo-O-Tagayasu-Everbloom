@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: quark:blossom_logs
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.6367152+08:00
+
+quark:blossom_log
+quark:blossom_wood
+quark:stripped_blossom_log
+quark:stripped_blossom_wood

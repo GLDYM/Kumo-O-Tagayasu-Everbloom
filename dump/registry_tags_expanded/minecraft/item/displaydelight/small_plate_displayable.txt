@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: displaydelight:small_plate_displayable
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2455951+08:00
+
+brewinandchewin:quiche_slice
+ends_delight:chorus_fruit_pie_slice
+farmersdelight:apple_pie_slice
+farmersdelight:cabbage_rolls
+farmersdelight:cake_slice
+farmersdelight:chocolate_pie_slice
+farmersdelight:cod_roll
+farmersdelight:kelp_roll_slice
+farmersdelight:pumpkin_pie_slice
+farmersdelight:salmon_roll
+farmersdelight:stuffed_potato
+farmersdelight:sweet_berry_cheesecake_slice
+mynethersdelight:magma_cake_slice
+pineapple_delight:pineapple_cake_slice
+pineapple_delight:pineapple_pie_side

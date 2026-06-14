@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:drinks/milkshake
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.9438354+08:00
+
+neapolitan:adzuki_milkshake
+neapolitan:banana_milkshake
+neapolitan:chocolate_milkshake
+neapolitan:mint_milkshake
+neapolitan:strawberry_milkshake
+neapolitan:vanilla_milkshake

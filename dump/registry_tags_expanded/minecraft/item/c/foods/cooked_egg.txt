@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/cooked_egg
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.0851148+08:00
+
+farmersdelight:fried_egg
+immortalers_delight:fried_sniffer_egg
+kaleidoscope_cookery:fried_egg
+mynethersdelight:boiled_egg
+mynethersdelight:enchanted_golden_egg
+mynethersdelight:golden_egg

@@ -1,0 +1,35 @@
+# Expanded runtime tag dump
+# Registry: minecraft:painting_variant
+# Tag: handcrafted:paintings
+# Entries: 28
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.2636818+08:00
+
+handcrafted:ad_astra
+handcrafted:apple
+handcrafted:beach_sunrise_left
+handcrafted:beach_sunrise_mid
+handcrafted:beach_sunrise_right
+handcrafted:broken_birches
+handcrafted:broken_birches_left_sidepanel
+handcrafted:broken_birches_right_sidepanel
+handcrafted:cookies_on_a_plate
+handcrafted:coral_depths
+handcrafted:desert_plateau
+handcrafted:flower_in_the_darkness
+handcrafted:green_woods
+handcrafted:lava_puddles
+handcrafted:love_flowers
+handcrafted:marigold_meadows
+handcrafted:misty_mountain_left_sidepanel
+handcrafted:misty_mountain_right_sidepanel
+handcrafted:misty_mountains
+handcrafted:my_man_diorite
+handcrafted:mysterious_mangroves
+handcrafted:nian_cat
+handcrafted:pride_steve
+handcrafted:rocky_beach
+handcrafted:safari_sunset
+handcrafted:small_safari_sunset
+handcrafted:terrarium
+handcrafted:the_cat_and_the_cup

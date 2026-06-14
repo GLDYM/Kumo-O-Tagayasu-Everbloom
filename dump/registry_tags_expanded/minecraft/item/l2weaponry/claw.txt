@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: l2weaponry:claw
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.9505437+08:00
+
+l2weaponry:claw_of_determination
+l2weaponry:diamond_claw
+l2weaponry:eternium_claw
+l2weaponry:gold_claw
+l2weaponry:iron_claw
+l2weaponry:netherite_claw
+l2weaponry:poseidite_claw
+l2weaponry:sculkium_claw
+l2weaponry:shulkerate_claw
+l2weaponry:totemic_gold_claw
+l2weaponry:vampire_desire

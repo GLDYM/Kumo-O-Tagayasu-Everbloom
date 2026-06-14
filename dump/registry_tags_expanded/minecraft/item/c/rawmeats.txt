@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:rawmeats
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.5641155+08:00
+
+immortalers_delight:raw_sniffer_steak
+mynethersdelight:hoglin_loin

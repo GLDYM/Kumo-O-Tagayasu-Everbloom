@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:raw_ender_mite_meat
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.5135536+08:00
+
+kaleidoscope_end:raw_endermite_meat

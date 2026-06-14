@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: lootr:convert/barrels
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.177132+08:00
+
+lootr:lootr_barrel
+minecraft:barrel
+sophisticatedstorage:barrel
+sophisticatedstorage:copper_barrel
+sophisticatedstorage:diamond_barrel
+sophisticatedstorage:gold_barrel
+sophisticatedstorage:iron_barrel
+sophisticatedstorage:netherite_barrel

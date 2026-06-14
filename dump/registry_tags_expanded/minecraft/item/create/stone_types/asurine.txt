@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:stone_types/asurine
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.0123043+08:00
+
+bits_n_bobs:asurine_tile_stairs
+bits_n_bobs:asurine_tile_wall
+bits_n_bobs:asurine_tiles
+create:asurine
+create:asurine_pillar
+create:cut_asurine
+create:cut_asurine_brick_stairs
+create:cut_asurine_brick_wall
+create:cut_asurine_bricks
+create:cut_asurine_stairs
+create:cut_asurine_wall
+create:layered_asurine
+create:polished_cut_asurine
+create:polished_cut_asurine_stairs
+create:polished_cut_asurine_wall
+create:small_asurine_brick_stairs
+create:small_asurine_brick_wall
+create:small_asurine_bricks

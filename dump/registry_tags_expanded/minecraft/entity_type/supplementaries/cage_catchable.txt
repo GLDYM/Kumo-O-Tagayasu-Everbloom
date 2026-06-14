@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: supplementaries:cage_catchable
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1647302+08:00
+
+minecraft:allay
+minecraft:armadillo
+minecraft:bat
+minecraft:bee
+minecraft:cat
+minecraft:chicken
+minecraft:endermite
+minecraft:fox
+minecraft:frog
+minecraft:magma_cube
+minecraft:ocelot
+minecraft:parrot
+minecraft:rabbit
+minecraft:slime
+minecraft:vex
+quark:crab
+quark:foxhound
+quark:stoneling

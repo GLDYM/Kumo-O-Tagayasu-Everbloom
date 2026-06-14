@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create_bic_bit:cheese_wheel
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.0481324+08:00
+
+create_bic_bit:aged_cheese
+create_bic_bit:unripe_cheese
+create_bic_bit:waxed_aged_cheese
+create_bic_bit:waxed_unripe_cheese
+create_bic_bit:waxed_young_cheese
+create_bic_bit:young_cheese

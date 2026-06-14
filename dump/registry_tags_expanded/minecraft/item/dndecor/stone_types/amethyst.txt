@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:stone_types/amethyst
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.291788+08:00
+
+dndecor:amethyst_pillar
+dndecor:cut_amethyst
+dndecor:cut_amethyst_brick_stairs
+dndecor:cut_amethyst_brick_wall
+dndecor:cut_amethyst_bricks
+dndecor:cut_amethyst_stairs
+dndecor:cut_amethyst_wall
+dndecor:layered_amethyst
+dndecor:polished_cut_amethyst
+dndecor:polished_cut_amethyst_stairs
+dndecor:polished_cut_amethyst_wall
+dndecor:small_amethyst_brick_stairs
+dndecor:small_amethyst_brick_wall
+dndecor:small_amethyst_bricks
+minecraft:amethyst_block

@@ -1,0 +1,11 @@
+# Raw resource rule dump summary
+# Mod ID: registry_dumper_3000
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:45.367959+08:00
+
+# Rule name: NeoForge loot modifiers
+# Side: data/server
+# Source prefix: neoforge/loot_modifiers
+# Files written: 0
+# Stack files written (optional): 0
+# Path collisions observed: 0

@@ -1,0 +1,41 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:wooden_slabs
+# Entries: 34
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2840578+08:00
+
+atmospheric:aspen_slab
+atmospheric:grimwood_slab
+atmospheric:kousa_slab
+atmospheric:laurel_slab
+atmospheric:morado_slab
+atmospheric:rosewood_slab
+atmospheric:yucca_slab
+crabbersdelight:palm_slab
+immortalers_delight:ancient_wood_slab
+immortalers_delight:himekaido_slab
+immortalers_delight:leisamboo_slab
+immortalers_delight:pearlip_shell_slab
+minecraft:acacia_slab
+minecraft:bamboo_slab
+minecraft:birch_slab
+minecraft:cherry_slab
+minecraft:crimson_slab
+minecraft:dark_oak_slab
+minecraft:jungle_slab
+minecraft:mangrove_slab
+minecraft:oak_slab
+minecraft:spruce_slab
+minecraft:warped_slab
+mynethersdelight:powdery_slab
+quark:ancient_planks_slab
+quark:azalea_planks_slab
+quark:blossom_planks_slab
+tofucraft:leek_green_slab
+tofucraft:leek_slab
+tofucraft:tofustem_slab
+ultramarine:bamboo_mat_slab
+ultramarine:rosewood_slab
+youkaishomecoming:hay_slab
+youkaishomecoming:straw_slab

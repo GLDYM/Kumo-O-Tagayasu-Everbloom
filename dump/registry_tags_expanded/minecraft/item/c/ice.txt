@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:ice
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.3505623+08:00
+
+minecraft:blue_ice
+minecraft:ice
+minecraft:packed_ice

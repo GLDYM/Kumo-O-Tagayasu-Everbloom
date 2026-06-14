@@ -1,0 +1,20 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: iss_magicfromtheeast:bypass_reversal_healing
+# Entries: 13
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.8796948+08:00
+
+irons_spellbooks:blood_cauldron
+irons_spellbooks:heartstop
+iss_magicfromtheeast:soul_damage
+minecraft:drown
+minecraft:dry_out
+minecraft:freeze
+minecraft:in_wall
+minecraft:on_fire
+minecraft:out_of_world
+minecraft:outside_border
+minecraft:starve
+minecraft:wither
+neoforge:poison

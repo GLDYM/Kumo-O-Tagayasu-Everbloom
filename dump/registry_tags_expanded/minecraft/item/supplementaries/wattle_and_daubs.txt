@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: supplementaries:wattle_and_daubs
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0537564+08:00
+
+supplementaries:daub_brace
+supplementaries:daub_cross_brace
+supplementaries:daub_frame

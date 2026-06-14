@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:ores/jade
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.6335441+08:00
+
+iss_magicfromtheeast:deepslate_jade_ore
+iss_magicfromtheeast:jade_ore

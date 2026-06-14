@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: ratatouille:eggs
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.9255096+08:00
+
+farmersdelight:fried_egg
+minecraft:egg
+minecraft:frogspawn
+minecraft:sniffer_egg
+minecraft:turtle_egg
+ratatouille:egg_shell

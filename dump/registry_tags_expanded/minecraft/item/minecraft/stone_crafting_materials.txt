@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:stone_crafting_materials
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2468822+08:00
+
+atmospheric:ivory_travertine
+atmospheric:peach_travertine
+atmospheric:persimmon_travertine
+atmospheric:saffron_travertine
+minecraft:blackstone
+minecraft:cobbled_deepslate
+minecraft:cobblestone
+tofucraft:tofuslate

@@ -1,0 +1,43 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:pressure_plates
+# Entries: 36
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.4833988+08:00
+
+atmospheric:aspen_pressure_plate
+atmospheric:grimwood_pressure_plate
+atmospheric:kousa_pressure_plate
+atmospheric:laurel_pressure_plate
+atmospheric:morado_pressure_plate
+atmospheric:rosewood_pressure_plate
+atmospheric:yucca_pressure_plate
+copycats:copycat_heavy_weighted_pressure_plate
+copycats:copycat_light_weighted_pressure_plate
+copycats:copycat_stone_pressure_plate
+copycats:copycat_wooden_pressure_plate
+crabbersdelight:palm_pressure_plate
+immortalers_delight:a_bush_pressure_plate
+immortalers_delight:ancient_wood_pressure_plate
+immortalers_delight:himekaido_pressure_plate
+immortalers_delight:leisamboo_pressure_plate
+immortalers_delight:pearlip_shell_pressure_plate
+minecraft:acacia_pressure_plate
+minecraft:bamboo_pressure_plate
+minecraft:birch_pressure_plate
+minecraft:cherry_pressure_plate
+minecraft:crimson_pressure_plate
+minecraft:dark_oak_pressure_plate
+minecraft:heavy_weighted_pressure_plate
+minecraft:jungle_pressure_plate
+minecraft:light_weighted_pressure_plate
+minecraft:mangrove_pressure_plate
+minecraft:oak_pressure_plate
+minecraft:polished_blackstone_pressure_plate
+minecraft:spruce_pressure_plate
+minecraft:stone_pressure_plate
+minecraft:warped_pressure_plate
+mynethersdelight:powdery_pressure_plate
+quark:ancient_pressure_plate
+quark:azalea_pressure_plate
+quark:blossom_pressure_plate

@@ -1,0 +1,8 @@
+# Registry dump
+# Registry: minecraft:worldgen/feature_size_type
+# Minecraft: 1.21.1
+# Entries: 2
+# Generated: 2026-06-14T13:47:24.4907776+08:00
+
+minecraft:three_layers_feature_size raw_id=1 class=net.minecraft.world.level.levelgen.feature.featuresize.FeatureSizeType
+minecraft:two_layers_feature_size raw_id=0 class=net.minecraft.world.level.levelgen.feature.featuresize.FeatureSizeType

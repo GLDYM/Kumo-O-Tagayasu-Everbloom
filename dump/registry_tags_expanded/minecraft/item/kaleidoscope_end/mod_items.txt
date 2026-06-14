@@ -1,0 +1,31 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_end:mod_items
+# Entries: 24
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.9145207+08:00
+
+kaleidoscope_end:chorus_flower_cake
+kaleidoscope_end:chorus_flower_tea
+kaleidoscope_end:chorus_pasta
+kaleidoscope_end:chorus_petal
+kaleidoscope_end:chorus_seed
+kaleidoscope_end:chorus_seed_cookie
+kaleidoscope_end:cooked_ender_dragon_meat
+kaleidoscope_end:dragon_breath_bucket
+kaleidoscope_end:dragon_dust
+kaleidoscope_end:dragon_egg_liquid
+kaleidoscope_end:dragon_egg_shell
+kaleidoscope_end:dragon_tooth
+kaleidoscope_end:dragon_tooth_knife
+kaleidoscope_end:dream_berry
+kaleidoscope_end:end_caterpillar
+kaleidoscope_end:ender_dragon_smithing_template
+kaleidoscope_end:ender_mint
+kaleidoscope_end:ender_mint_candy
+kaleidoscope_end:optic_nerve
+kaleidoscope_end:raw_ender_dragon_meat
+kaleidoscope_end:raw_endermite_meat
+kaleidoscope_end:roasted_endermite_meat
+kaleidoscope_end:shulker_shell_meat
+kaleidoscope_end:void_conch

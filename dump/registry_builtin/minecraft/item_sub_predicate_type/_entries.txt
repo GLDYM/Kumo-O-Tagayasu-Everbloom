@@ -1,0 +1,26 @@
+# Registry dump
+# Registry: minecraft:item_sub_predicate_type
+# Minecraft: 1.21.1
+# Entries: 20
+# Generated: 2026-06-14T13:45:01.2559078+08:00
+
+bookshelf:namespace raw_id=17 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+exposure:frame raw_id=16 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+minecraft:attribute_modifiers raw_id=11 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+minecraft:bundle_contents raw_id=6 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+minecraft:container raw_id=5 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+minecraft:custom_data raw_id=4 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+minecraft:damage raw_id=0 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+minecraft:enchantments raw_id=1 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+minecraft:firework_explosion raw_id=7 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+minecraft:fireworks raw_id=8 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+minecraft:jukebox_playable raw_id=13 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+minecraft:potion_contents raw_id=3 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+minecraft:stored_enchantments raw_id=2 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+minecraft:trim raw_id=12 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+minecraft:writable_book_content raw_id=9 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+minecraft:written_book_content raw_id=10 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+neoforge:item_ability raw_id=14 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+neoforge:piglin_currency raw_id=15 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+someassemblyrequired:is_double_decker raw_id=19 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+someassemblyrequired:sandwich_contents raw_id=18 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type

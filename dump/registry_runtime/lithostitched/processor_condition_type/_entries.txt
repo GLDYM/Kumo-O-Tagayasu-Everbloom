@@ -1,0 +1,14 @@
+# Registry dump
+# Registry: lithostitched:processor_condition_type
+# Minecraft: 1.21.1
+# Entries: 8
+# Generated: 2026-06-14T13:47:24.1485252+08:00
+
+lithostitched:all_of raw_id=2 class=com.mojang.serialization.MapCodec$2
+lithostitched:any_of raw_id=6 class=com.mojang.serialization.MapCodec$2
+lithostitched:matching_biomes raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:matching_blocks raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:not raw_id=1 class=com.mojang.serialization.MapCodec$2
+lithostitched:position raw_id=5 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:random_chance raw_id=0 class=com.mojang.serialization.MapCodec$2
+lithostitched:true raw_id=7 class=com.mojang.serialization.MapCodec$2

@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: handcrafted:chairs
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0512591+08:00
+
+handcrafted:acacia_chair
+handcrafted:bamboo_chair
+handcrafted:birch_chair
+handcrafted:cherry_chair
+handcrafted:crimson_chair
+handcrafted:dark_oak_chair
+handcrafted:jungle_chair
+handcrafted:mangrove_chair
+handcrafted:oak_chair
+handcrafted:spruce_chair
+handcrafted:warped_chair

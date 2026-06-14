@@ -1,0 +1,38 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: minecraft:bypasses_effects
+# Entries: 31
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9008639+08:00
+
+brewinandchewin:cardiac_arrest
+danmaku_api:abyssal_danmaku
+immortalers_delight:drunk
+immortalers_delight:gas
+l2complements:bleed
+l2complements:life_sync
+l2complements:void_eye
+l2damagetracker:mob_attack-bypass_armor-bypass_cooldown-bypass_magic
+l2damagetracker:mob_attack-bypass_armor-bypass_magic
+l2damagetracker:mob_attack-bypass_cooldown-bypass_magic
+l2damagetracker:mob_attack-bypass_magic
+l2damagetracker:player_attack-bypass_armor-bypass_cooldown-bypass_magic
+l2damagetracker:player_attack-bypass_armor-bypass_magic
+l2damagetracker:player_attack-bypass_cooldown-bypass_magic
+l2damagetracker:player_attack-bypass_magic
+l2weaponry:mob_attack-bypass_armor-bypass_magic-no_anger
+l2weaponry:mob_attack-bypass_magic-no_anger
+l2weaponry:player_attack-bypass_armor-bypass_magic-no_anger
+l2weaponry:player_attack-bypass_magic-no_anger
+l2weaponry:trident-bypass_armor-bypass_magic
+l2weaponry:trident-bypass_armor-bypass_magic-no_anger
+l2weaponry:trident-bypass_armor-bypass_magic-no_anger-no_projectile
+l2weaponry:trident-bypass_armor-bypass_magic-no_projectile
+l2weaponry:trident-bypass_magic
+l2weaponry:trident-bypass_magic-no_anger
+l2weaponry:trident-bypass_magic-no_anger-no_projectile
+l2weaponry:trident-bypass_magic-no_projectile
+minecraft:starve
+supplementaries:xp_extracting
+youkaishomecoming:koishi_attack
+youkaishomecoming:rumia_attack

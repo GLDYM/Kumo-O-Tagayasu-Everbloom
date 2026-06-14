@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:stone_types/dripstone
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.0197911+08:00
+
+bits_n_bobs:dripstone_tile_stairs
+bits_n_bobs:dripstone_tile_wall
+bits_n_bobs:dripstone_tiles
+create:cut_dripstone
+create:cut_dripstone_brick_stairs
+create:cut_dripstone_brick_wall
+create:cut_dripstone_bricks
+create:cut_dripstone_stairs
+create:cut_dripstone_wall
+create:dripstone_pillar
+create:layered_dripstone
+create:polished_cut_dripstone
+create:polished_cut_dripstone_stairs
+create:polished_cut_dripstone_wall
+create:small_dripstone_brick_stairs
+create:small_dripstone_brick_wall
+create:small_dripstone_bricks
+minecraft:dripstone_block

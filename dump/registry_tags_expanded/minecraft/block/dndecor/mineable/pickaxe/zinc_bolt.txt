@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: dndecor:mineable/pickaxe/zinc_bolt
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9486628+08:00
+
+dndecor:zinc_cross_bolt
+dndecor:zinc_dash_bolt
+dndecor:zinc_dot_bolt
+dndecor:zinc_flat_bolt

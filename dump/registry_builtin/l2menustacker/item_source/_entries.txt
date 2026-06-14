@@ -1,0 +1,9 @@
+# Registry dump
+# Registry: l2menustacker:item_source
+# Minecraft: 1.21.1
+# Entries: 3
+# Generated: 2026-06-14T13:45:01.075484+08:00
+
+l2menustacker:curios raw_id=2 class=dev.xkmc.l2tabs.compat.track.CurioSource
+l2menustacker:ender raw_id=1 class=dev.xkmc.l2menustacker.screen.source.EnderSource
+l2menustacker:inventory raw_id=0 class=dev.xkmc.l2menustacker.screen.source.InventorySource

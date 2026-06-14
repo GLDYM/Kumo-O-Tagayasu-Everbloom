@@ -1,0 +1,27 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: brewinandchewin:foods/pizza_topping
+# Entries: 20
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.535947+08:00
+
+farmersdelight:beef_patty
+farmersdelight:cabbage_leaf
+farmersdelight:cooked_bacon
+farmersdelight:cooked_cod_slice
+farmersdelight:cooked_mutton_chops
+farmersdelight:onion
+kaleidoscope_cookery:cooked_cow_offal
+kaleidoscope_cookery:cooked_lamb_chops
+kaleidoscope_cookery:cooked_pork_belly
+minecraft:beetroot
+minecraft:brown_mushroom
+minecraft:carrot
+minecraft:cooked_beef
+minecraft:cooked_cod
+minecraft:cooked_mutton
+minecraft:cooked_porkchop
+minecraft:red_mushroom
+mynethersdelight:cooked_loin
+mynethersdelight:roasted_sausage
+tofudelight:cooked_soymeat

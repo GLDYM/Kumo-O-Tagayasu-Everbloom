@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:ores/redstone
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.4697177+08:00
+
+minecraft:deepslate_redstone_ore
+minecraft:redstone_ore

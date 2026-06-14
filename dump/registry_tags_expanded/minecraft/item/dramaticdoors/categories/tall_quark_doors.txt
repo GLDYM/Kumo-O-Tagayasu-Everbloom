@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dramaticdoors:categories/tall_quark_doors
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.527297+08:00
+
+dramaticdoors:tall_bamboo_door
+dramaticdoors:tall_quark_ancient_door
+dramaticdoors:tall_quark_azalea_door
+dramaticdoors:tall_quark_blossom_door

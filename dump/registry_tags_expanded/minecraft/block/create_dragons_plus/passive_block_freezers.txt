@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: create_dragons_plus:passive_block_freezers
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.8509032+08:00
+
+create_connected:fan_freezing_catalyst
+minecraft:blue_ice
+minecraft:frosted_ice
+minecraft:ice
+minecraft:packed_ice
+minecraft:powder_snow
+minecraft:snow_block

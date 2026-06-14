@@ -1,0 +1,11 @@
+# Registry dump
+# Registry: ccw:flavor
+# Minecraft: 1.21.1
+# Entries: 5
+# Generated: 2026-06-14T13:47:24.0145059+08:00
+
+ccw:bold raw_id=2 class=com.lnatit.ccw.item.sugaring.SimpleFlavor
+ccw:excited raw_id=1 class=com.lnatit.ccw.item.sugaring.SimpleFlavor
+ccw:milky raw_id=3 class=com.lnatit.ccw.item.sugaring.MilkyFlavor
+ccw:nutritious raw_id=4 class=com.lnatit.ccw.compat.NutritiousFlavor
+ccw:original raw_id=0 class=com.lnatit.ccw.item.sugaring.Flavor$1

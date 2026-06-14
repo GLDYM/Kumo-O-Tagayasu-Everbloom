@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure_set
+# Tag: idas:common_avoid
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.2807564+08:00
+
+idas:idas_ocean
+idas:idas_rare
+idas:idas_small
+idas:idas_underground_rare
+minecraft:villages

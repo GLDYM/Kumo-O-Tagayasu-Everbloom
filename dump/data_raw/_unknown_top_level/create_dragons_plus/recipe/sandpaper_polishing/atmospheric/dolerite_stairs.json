@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "atmospheric:dolerite_stairs"
+    }
+  ],
+  "results": [
+    {
+      "id": "atmospheric:polished_dolerite_stairs"
+    }
+  ]
+}

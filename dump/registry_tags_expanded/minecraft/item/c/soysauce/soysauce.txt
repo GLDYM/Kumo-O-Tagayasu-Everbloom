@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:soysauce/soysauce
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.6821053+08:00
+
+tofucraft:bottle_soysause
+tsuki:soysauce
+youkaishomecoming:soy_sauce_bottle

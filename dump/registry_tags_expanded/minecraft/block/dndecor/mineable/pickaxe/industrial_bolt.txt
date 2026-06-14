@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: dndecor:mineable/pickaxe/industrial_bolt
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9431844+08:00
+
+dndecor:industrial_cross_bolt
+dndecor:industrial_dash_bolt
+dndecor:industrial_dot_bolt
+dndecor:industrial_flat_bolt

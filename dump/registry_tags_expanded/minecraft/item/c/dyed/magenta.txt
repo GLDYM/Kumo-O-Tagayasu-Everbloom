@@ -1,0 +1,27 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:dyed/magenta
+# Entries: 20
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.995264+08:00
+
+handcrafted:magenta_cushion
+handcrafted:magenta_sheet
+minecraft:magenta_banner
+minecraft:magenta_bed
+minecraft:magenta_candle
+minecraft:magenta_carpet
+minecraft:magenta_concrete
+minecraft:magenta_concrete_powder
+minecraft:magenta_glazed_terracotta
+minecraft:magenta_shulker_box
+minecraft:magenta_stained_glass
+minecraft:magenta_stained_glass_pane
+minecraft:magenta_terracotta
+minecraft:magenta_wool
+supplementaries:awning_magenta
+supplementaries:bunting_magenta
+supplementaries:candle_holder_magenta
+supplementaries:flag_magenta
+supplementaries:present_magenta
+supplementaries:trapped_present_magenta

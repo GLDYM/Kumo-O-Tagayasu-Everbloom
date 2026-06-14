@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: create:fan_processing_catalysts/smoking
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.8038403+08:00
+
+create:blaze_burner
+create:lit_blaze_burner
+create_connected:fan_smoking_catalyst
+create_enchantment_industry:blaze_enchanter
+create_enchantment_industry:blaze_forger
+create_enchantment_industry:classic_blaze_enchanter
+minecraft:campfire
+minecraft:fire
+supplementaries:fire_pit

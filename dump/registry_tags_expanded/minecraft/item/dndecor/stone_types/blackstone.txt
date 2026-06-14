@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:stone_types/blackstone
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2952927+08:00
+
+dndecor:blackstone_pillar
+dndecor:cut_blackstone
+dndecor:cut_blackstone_brick_stairs
+dndecor:cut_blackstone_brick_wall
+dndecor:cut_blackstone_bricks
+dndecor:cut_blackstone_stairs
+dndecor:cut_blackstone_wall
+dndecor:layered_blackstone
+dndecor:polished_cut_blackstone
+dndecor:polished_cut_blackstone_stairs
+dndecor:polished_cut_blackstone_wall
+dndecor:small_blackstone_brick_stairs
+dndecor:small_blackstone_brick_wall
+dndecor:small_blackstone_bricks
+minecraft:blackstone

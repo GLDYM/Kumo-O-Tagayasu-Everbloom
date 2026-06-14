@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: kaleidoscope_dim_wine:frostheart_fruit_biomes
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.9015122+08:00
+

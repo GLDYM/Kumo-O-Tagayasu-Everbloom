@@ -1,0 +1,18 @@
+# Registry dump
+# Registry: minecraft:worldgen/trunk_placer_type
+# Minecraft: 1.21.1
+# Entries: 12
+# Generated: 2026-06-14T13:47:24.5566144+08:00
+
+crabbersdelight:palm raw_id=11 class=net.minecraft.world.level.levelgen.feature.trunkplacers.TrunkPlacerType
+minecraft:bending_trunk_placer raw_id=6 class=net.minecraft.world.level.levelgen.feature.trunkplacers.TrunkPlacerType
+minecraft:cherry_trunk_placer raw_id=8 class=net.minecraft.world.level.levelgen.feature.trunkplacers.TrunkPlacerType
+minecraft:dark_oak_trunk_placer raw_id=4 class=net.minecraft.world.level.levelgen.feature.trunkplacers.TrunkPlacerType
+minecraft:fancy_trunk_placer raw_id=5 class=net.minecraft.world.level.levelgen.feature.trunkplacers.TrunkPlacerType
+minecraft:forking_trunk_placer raw_id=1 class=net.minecraft.world.level.levelgen.feature.trunkplacers.TrunkPlacerType
+minecraft:giant_trunk_placer raw_id=2 class=net.minecraft.world.level.levelgen.feature.trunkplacers.TrunkPlacerType
+minecraft:mega_jungle_trunk_placer raw_id=3 class=net.minecraft.world.level.levelgen.feature.trunkplacers.TrunkPlacerType
+minecraft:straight_trunk_placer raw_id=0 class=net.minecraft.world.level.levelgen.feature.trunkplacers.TrunkPlacerType
+minecraft:upwards_branching_trunk_placer raw_id=7 class=net.minecraft.world.level.levelgen.feature.trunkplacers.TrunkPlacerType
+quark:multi_foliage_straight_trunk_placer raw_id=9 class=net.minecraft.world.level.levelgen.feature.trunkplacers.TrunkPlacerType
+vintagedelight:vine_trunk_placer raw_id=10 class=net.minecraft.world.level.levelgen.feature.trunkplacers.TrunkPlacerType

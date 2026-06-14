@@ -1,0 +1,64 @@
+import { $Consumer_ } from "@package/java/util/function";
+import { $Screen, $Screen$DeferredTooltipRendering } from "@package/net/minecraft/client/gui/screens";
+import { $NarratableEntry } from "@package/net/minecraft/client/gui/narration";
+import { $Component, $Component_ } from "@package/net/minecraft/network/chat";
+import { $ResourceLocation } from "@package/net/minecraft/resources";
+import { $AbstractConfigEntry, $Tooltip, $ConfigScreen } from "@package/me/shedaniel/clothconfig2/api";
+import { $Renderable } from "@package/net/minecraft/client/gui/components";
+import { $Minecraft } from "@package/net/minecraft/client";
+import { $Runnable_ } from "@package/java/lang";
+import { $List, $Map } from "@package/java/util";
+import { $Font } from "@package/net/minecraft/client/gui";
+import { $GuiEventListener } from "@package/net/minecraft/client/gui/components/events";
+import { $KeyCodeEntry } from "@package/me/shedaniel/clothconfig2/gui/entries";
+export * as entries from "@package/me/shedaniel/clothconfig2/gui/entries";
+export * as widget from "@package/me/shedaniel/clothconfig2/gui/widget";
+
+declare module "@package/me/shedaniel/clothconfig2/gui" {
+    export class $AbstractConfigScreen extends $Screen implements $ConfigScreen {
+        save(): void;
+        setEditable(editable: boolean): void;
+        addTooltip(tooltip: $Tooltip): void;
+        saveAll(openOtherScreens: boolean): void;
+        setFallbackCategory(defaultFallbackCategory: $Component_): void;
+        setTransparentBackground(transparentBackground: boolean): void;
+        setAfterInitConsumer(afterInitConsumer: $Consumer_<$Screen>): void;
+        isRequiresRestart(): boolean;
+        isEditable(): boolean;
+        isEdited(): boolean;
+        setSavingRunnable(savingRunnable: $Runnable_): void;
+        isAlwaysShowTabs(): boolean;
+        setAlwaysShowTabs(alwaysShowTabs: boolean): void;
+        childrenL(): $List<$GuiEventListener>;
+        isShowingTabs(): boolean;
+        getFocusedBinding(): $KeyCodeEntry;
+        setConfirmSave(confirmSave: boolean): void;
+        setFocusedBinding(focusedBinding: $KeyCodeEntry): void;
+        isTransparentBackground(): boolean;
+        getBackgroundLocation(): $ResourceLocation;
+        getCategorizedEntries(): $Map<$Component, $List<$AbstractConfigEntry<never>>>;
+        getFallbackCategory(): $Component;
+        static MENU_BACKGROUND: $ResourceLocation;
+        minecraft: $Minecraft;
+        static INWORLD_FOOTER_SEPARATOR: $ResourceLocation;
+        deferredTooltipRendering: $Screen$DeferredTooltipRendering;
+        selectedCategoryIndex: number;
+        title: $Component;
+        static FOOTER_SEPARATOR: $ResourceLocation;
+        renderables: $List<$Renderable>;
+        static INWORLD_HEADER_SEPARATOR: $ResourceLocation;
+        narratables: $List<$NarratableEntry>;
+        width: number;
+        static HEADER_SEPARATOR: $ResourceLocation;
+        height: number;
+        font: $Font;
+        set afterInitConsumer(value: $Consumer_<$Screen>);
+        get requiresRestart(): boolean;
+        get edited(): boolean;
+        set savingRunnable(value: $Runnable_);
+        get showingTabs(): boolean;
+        set confirmSave(value: boolean);
+        get backgroundLocation(): $ResourceLocation;
+        get categorizedEntries(): $Map<$Component, $List<$AbstractConfigEntry<never>>>;
+    }
+}

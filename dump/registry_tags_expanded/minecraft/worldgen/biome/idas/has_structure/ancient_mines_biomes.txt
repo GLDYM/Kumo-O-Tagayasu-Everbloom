@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: idas:has_structure/ancient_mines_biomes
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.6344646+08:00
+
+minecraft:cherry_grove
+minecraft:frozen_peaks
+minecraft:jagged_peaks
+minecraft:meadow
+minecraft:snowy_slopes
+minecraft:stony_peaks
+minecraft:windswept_forest
+minecraft:windswept_gravelly_hills
+minecraft:windswept_hills

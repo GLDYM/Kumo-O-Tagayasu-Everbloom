@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: dndesires:fan_processing_catalysts/seething
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9554573+08:00
+
+create_connected:fan_seething_catalyst

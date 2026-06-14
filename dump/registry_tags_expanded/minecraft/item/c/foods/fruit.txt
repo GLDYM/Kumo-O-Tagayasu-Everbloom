@@ -1,0 +1,50 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/fruit
+# Entries: 43
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.1144087+08:00
+
+atmospheric:currant
+atmospheric:dragon_fruit
+atmospheric:golden_dragon_fruit
+atmospheric:orange
+atmospheric:passion_fruit
+atmospheric:roasted_yucca_fruit
+atmospheric:shimmering_passion_fruit
+atmospheric:yucca_fruit
+create:chocolate_glazed_berries
+create:honeyed_apple
+delighto_flight:cloud_berries
+delighto_flight:thunder_fruit
+fruitsdelight:bayberry
+fruitsdelight:blueberry
+fruitsdelight:cranberry
+fruitsdelight:fig
+fruitsdelight:hawberry
+fruitsdelight:kiwi
+fruitsdelight:lemon
+fruitsdelight:lychee
+fruitsdelight:mango
+fruitsdelight:mangosteen
+fruitsdelight:orange
+fruitsdelight:peach
+fruitsdelight:pear
+fruitsdelight:persimmon
+fruitsdelight:pineapple
+minecraft:apple
+minecraft:chorus_fruit
+minecraft:enchanted_golden_apple
+minecraft:glow_berries
+minecraft:golden_apple
+minecraft:melon_slice
+minecraft:sweet_berries
+neapolitan:banana
+neapolitan:strawberries
+trailandtales_delight:golden_lantern_fruit
+trailandtales_delight:lantern_fruit
+tsuki:grape
+tsuki:grape_green
+tsuki:lemon
+tsuki:lime
+vintagedelight:gearo_berry

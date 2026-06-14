@@ -1,0 +1,10 @@
+# Registry dump
+# Registry: minecraft:worldgen/pool_alias_binding
+# Minecraft: 1.21.1
+# Entries: 4
+# Generated: 2026-06-14T13:47:24.5195451+08:00
+
+lithostitched:internal/random_entries raw_id=3 class=com.mojang.serialization.Codec$3
+minecraft:direct raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:random raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:random_group raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

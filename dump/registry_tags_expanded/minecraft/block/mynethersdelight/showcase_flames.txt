@@ -1,0 +1,41 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: mynethersdelight:showcase_flames
+# Entries: 34
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.6057952+08:00
+
+amendments:skull_candle
+createnuclear:enriching_campfire
+farmersdelight:stove
+minecraft:black_candle
+minecraft:blast_furnace
+minecraft:blue_candle
+minecraft:brown_candle
+minecraft:campfire
+minecraft:candle
+minecraft:cyan_candle
+minecraft:furnace
+minecraft:gray_candle
+minecraft:green_candle
+minecraft:lantern
+minecraft:light_blue_candle
+minecraft:light_gray_candle
+minecraft:lime_candle
+minecraft:magenta_candle
+minecraft:magma_block
+minecraft:orange_candle
+minecraft:pink_candle
+minecraft:purple_candle
+minecraft:red_candle
+minecraft:smoker
+minecraft:soul_campfire
+minecraft:soul_lantern
+minecraft:soul_torch
+minecraft:torch
+minecraft:white_candle
+minecraft:yellow_candle
+mynethersdelight:magma_cake_block
+mynethersdelight:nether_stove
+mynethersdelight:powdery_torch
+supplementaries:fire_pit

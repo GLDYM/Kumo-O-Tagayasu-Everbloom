@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:soul_fire_base_blocks
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.239329+08:00
+
+minecraft:soul_sand
+minecraft:soul_soil
+mynethersdelight:letios_compost
+mynethersdelight:resurgent_soil
+mynethersdelight:resurgent_soil_farmland

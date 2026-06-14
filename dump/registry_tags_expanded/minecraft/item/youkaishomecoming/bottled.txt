@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: youkaishomecoming:bottled
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.1806831+08:00
+
+youkaishomecoming:burgundy_bottle
+youkaishomecoming:champagne_bottle
+youkaishomecoming:mayonnaise_flask
+youkaishomecoming:red_wine_bottle
+youkaishomecoming:soy_sauce_flask
+youkaishomecoming:van_allen_bottle
+youkaishomecoming:white_wine_bottle

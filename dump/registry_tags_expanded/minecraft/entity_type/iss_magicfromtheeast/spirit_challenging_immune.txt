@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: iss_magicfromtheeast:spirit_challenging_immune
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0826452+08:00
+
+irons_spellbooks:dead_king
+irons_spellbooks:fire_boss
+minecraft:ender_dragon
+minecraft:wither
+tofucraft:shudofuspider

@@ -1,0 +1,32 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:stripped_woods
+# Entries: 25
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.7940526+08:00
+
+atmospheric:stripped_aspen_wood
+atmospheric:stripped_grimwood
+atmospheric:stripped_kousa_wood
+atmospheric:stripped_laurel_wood
+atmospheric:stripped_morado_wood
+atmospheric:stripped_rosewood
+atmospheric:stripped_yucca_wood
+crabbersdelight:stripped_palm_wood
+minecraft:stripped_acacia_wood
+minecraft:stripped_birch_wood
+minecraft:stripped_cherry_wood
+minecraft:stripped_crimson_hyphae
+minecraft:stripped_dark_oak_wood
+minecraft:stripped_jungle_wood
+minecraft:stripped_mangrove_wood
+minecraft:stripped_oak_wood
+minecraft:stripped_spruce_wood
+minecraft:stripped_warped_hyphae
+quark:stripped_ancient_wood
+quark:stripped_azalea_wood
+quark:stripped_blossom_wood
+tsuki:stripped_maple_wood
+tsuki:stripped_sakura_wood
+tsuki:stripped_ume_wood
+vintagedelight:stripped_magic_vine_block

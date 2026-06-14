@@ -1,0 +1,11 @@
+export * as api from "@package/com/github/tartaricacid/touhoulittlemaid/api";
+export * as ai from "@package/com/github/tartaricacid/touhoulittlemaid/ai";
+export * as mixin from "@package/com/github/tartaricacid/touhoulittlemaid/mixin";
+export * as compat from "@package/com/github/tartaricacid/touhoulittlemaid/compat";
+export * as client from "@package/com/github/tartaricacid/touhoulittlemaid/client";
+export * as util from "@package/com/github/tartaricacid/touhoulittlemaid/util";
+export * as entity from "@package/com/github/tartaricacid/touhoulittlemaid/entity";
+export * as molang from "@package/com/github/tartaricacid/touhoulittlemaid/molang";
+export * as inventory from "@package/com/github/tartaricacid/touhoulittlemaid/inventory";
+export * as geckolib3 from "@package/com/github/tartaricacid/touhoulittlemaid/geckolib3";
+export * as network from "@package/com/github/tartaricacid/touhoulittlemaid/network";

@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: tofucraft:tofunian_soy_worker
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.8223221+08:00
+
+minecraft:cauldron
+minecraft:water_cauldron
+tofucraft:soymilk_cauldron

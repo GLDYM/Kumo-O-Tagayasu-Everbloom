@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:hoglin_repellents
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.3884502+08:00
+
+minecraft:nether_portal
+minecraft:potted_warped_fungus
+minecraft:respawn_anchor
+minecraft:warped_fungus
+mynethersdelight:bullet_pepper
+mynethersdelight:hoglin_trophy
+mynethersdelight:waxed_hoglin_trophy
+mynethersdelight:zoglin_trophy

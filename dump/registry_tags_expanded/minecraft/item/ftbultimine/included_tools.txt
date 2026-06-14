@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: ftbultimine:included_tools
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.7209975+08:00
+

@@ -1,0 +1,53 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: sable:light
+# Entries: 46
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.7021876+08:00
+
+crabbersdelight:palm_cabinet
+create_dragons_plus:fluid_hatch
+createdeco:andesite_catwalk_stairs
+createdeco:andesite_support
+createdeco:brass_catwalk_stairs
+createdeco:brass_support
+createdeco:copper_catwalk_stairs
+createdeco:copper_support
+createdeco:industrial_iron_catwalk_stairs
+createdeco:industrial_iron_support
+createdeco:iron_catwalk_stairs
+createdeco:iron_support
+createdeco:zinc_catwalk_stairs
+createdeco:zinc_support
+farmersdelight:acacia_cabinet
+farmersdelight:bamboo_basket
+farmersdelight:bamboo_cabinet
+farmersdelight:birch_cabinet
+farmersdelight:cherry_cabinet
+farmersdelight:crimson_cabinet
+farmersdelight:dark_oak_cabinet
+farmersdelight:jungle_cabinet
+farmersdelight:mangrove_cabinet
+farmersdelight:oak_cabinet
+farmersdelight:spruce_cabinet
+farmersdelight:warped_cabinet
+farmersdelight:wooden_basket
+mynethersdelight:blackstone_bricks_cabinet
+mynethersdelight:nether_bricks_cabinet
+mynethersdelight:powdery_cabinet
+mynethersdelight:red_nether_bricks_cabinet
+supplementaries:bellows
+supplementaries:book_pile
+supplementaries:book_pile_horizontal
+supplementaries:clock_block
+supplementaries:crank
+supplementaries:fine_wood
+supplementaries:fine_wood_slab
+supplementaries:flower_box
+supplementaries:jar
+supplementaries:lunch_basket
+supplementaries:pancake
+supplementaries:speaker_block
+supplementaries:timber_brace
+supplementaries:timber_cross_brace
+supplementaries:timber_frame

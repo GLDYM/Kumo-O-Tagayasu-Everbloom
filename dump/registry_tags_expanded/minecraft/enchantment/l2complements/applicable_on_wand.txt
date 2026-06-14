@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: l2complements:applicable_on_wand
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9809568+08:00
+
+l2complements:eternal
+l2complements:life_sync
+minecraft:unbreaking

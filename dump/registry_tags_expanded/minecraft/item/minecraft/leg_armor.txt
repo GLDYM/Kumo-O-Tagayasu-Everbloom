@@ -1,0 +1,46 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:leg_armor
+# Entries: 39
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1706186+08:00
+
+create:cardboard_leggings
+create_sa:brass_leggings
+create_sa:copper_leggings
+create_sa:zinc_leggings
+irons_spellbooks:archevoker_leggings
+irons_spellbooks:cryomancer_leggings
+irons_spellbooks:cultist_leggings
+irons_spellbooks:electromancer_leggings
+irons_spellbooks:netherite_mage_leggings
+irons_spellbooks:plagued_leggings
+irons_spellbooks:priest_leggings
+irons_spellbooks:pumpkin_leggings
+irons_spellbooks:pyromancer_leggings
+irons_spellbooks:shadowwalker_leggings
+irons_spellbooks:wandering_magician_leggings
+irons_spellbooks:wizard_leggings
+iss_magicfromtheeast:jade_pagoda_leggings
+iss_magicfromtheeast:onmyoji_leggings
+iss_magicfromtheeast:taoist_leggings
+l2complements:eternium_leggings
+l2complements:poseidite_leggings
+l2complements:sculkium_leggings
+l2complements:shulkerate_leggings
+l2complements:totemic_gold_leggings
+minecraft:chainmail_leggings
+minecraft:diamond_leggings
+minecraft:golden_leggings
+minecraft:iron_leggings
+minecraft:leather_leggings
+minecraft:netherite_leggings
+tofucraft:tofu_diamond_leggings
+tofucraft:tofu_kinu_leggings
+tofucraft:tofu_metal_leggings
+tofucraft:tofu_momen_leggings
+tsuki:samurai_leggings_black
+tsuki:samurai_leggings_green
+tsuki:samurai_leggings_red
+tsuki:soldier_leggings_black
+tsuki:soldier_leggings_gray

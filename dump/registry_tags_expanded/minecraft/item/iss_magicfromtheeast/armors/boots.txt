@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: iss_magicfromtheeast:armors/boots
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.8443406+08:00
+
+iss_magicfromtheeast:jade_pagoda_boots
+iss_magicfromtheeast:mist_boots
+iss_magicfromtheeast:onmyoji_boots
+iss_magicfromtheeast:taoist_boots

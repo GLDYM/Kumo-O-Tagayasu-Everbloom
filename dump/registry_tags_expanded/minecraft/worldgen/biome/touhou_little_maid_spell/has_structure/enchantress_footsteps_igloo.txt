@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: touhou_little_maid_spell:has_structure/enchantress_footsteps_igloo
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1070522+08:00
+
+minecraft:snowy_plains
+minecraft:snowy_slopes
+minecraft:snowy_taiga

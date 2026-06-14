@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: createdeco:shipping_containers
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9095882+08:00
+
+createdeco:black_shipping_container
+createdeco:blue_shipping_container
+createdeco:brown_shipping_container
+createdeco:cyan_shipping_container
+createdeco:gray_shipping_container
+createdeco:green_shipping_container
+createdeco:light_blue_shipping_container
+createdeco:light_gray_shipping_container
+createdeco:lime_shipping_container
+createdeco:magenta_shipping_container
+createdeco:orange_shipping_container
+createdeco:pink_shipping_container
+createdeco:purple_shipping_container
+createdeco:red_shipping_container
+createdeco:white_shipping_container
+createdeco:yellow_shipping_container

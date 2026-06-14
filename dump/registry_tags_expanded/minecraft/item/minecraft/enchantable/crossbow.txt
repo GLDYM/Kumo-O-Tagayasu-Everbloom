@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:enchantable/crossbow
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1022287+08:00
+
+irons_spellbooks:autoloader_crossbow
+iss_magicfromtheeast:repeating_crossbow
+minecraft:crossbow
+touhou_little_maid:hakurei_gohei
+touhou_little_maid:sanae_gohei

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: minecraft:soulpiercer_effect_exclusive
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0084972+08:00
+
+iss_magicfromtheeast:ghostly_cold
+iss_magicfromtheeast:soul_flame

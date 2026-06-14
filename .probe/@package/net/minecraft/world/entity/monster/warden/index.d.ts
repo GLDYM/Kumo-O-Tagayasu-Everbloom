@@ -1,0 +1,243 @@
+import { $GoalSelector } from "@package/net/minecraft/world/entity/ai/goal";
+import { $Codec } from "@package/com/mojang/serialization";
+import { $CompoundTag } from "@package/net/minecraft/nbt";
+import { $Pair } from "@package/com/mojang/datafixers/util";
+import { $EntityType_, $PortalProcessor, $Pose_, $Entity, $AnimationState, $EntityDimensions, $Entity$RemovalReason, $LivingEntity, $WalkAnimationState } from "@package/net/minecraft/world/entity";
+import { $CallbackInfo } from "@package/org/spongepowered/asm/mixin/injection/callback";
+import { $GameEvent, $GameEvent$Context_ } from "@package/net/minecraft/world/level/gameevent";
+import { $AttributeSupplier$Builder } from "@package/net/minecraft/world/entity/ai/attributes";
+import { $UUID_, $List_, $Comparator, $Map, $OptionalInt } from "@package/java/util";
+import { $RandomSource } from "@package/net/minecraft/util";
+import { $ToDoubleFunction_, $Function_, $Predicate_, $ToLongFunction_, $ToIntFunction_ } from "@package/java/util/function";
+import { $InteractionHand } from "@package/net/minecraft/world";
+import { $SoundEvent } from "@package/net/minecraft/sounds";
+import { $ServerLevel, $ServerPlayer } from "@package/net/minecraft/server/level";
+import { $HolderLookup$Provider, $BlockPos, $Holder_, $Holder, $BlockPos_ } from "@package/net/minecraft/core";
+import { $Enum, $Record, $Comparable } from "@package/java/lang";
+import { $LootTable } from "@package/net/minecraft/world/level/storage/loot";
+import { $Level, $Level_ } from "@package/net/minecraft/world/level";
+import { $TagKey } from "@package/net/minecraft/tags";
+import { $MobEffectInstance, $MobEffect } from "@package/net/minecraft/world/effect";
+import { $EntityDataAccessor_, $EntityDataAccessor } from "@package/net/minecraft/network/syncher";
+import { $VibrationSystem$User, $VibrationSystem$Data, $VibrationSystem } from "@package/net/minecraft/world/level/gameevent/vibrations";
+import { $ResourceKey } from "@package/net/minecraft/resources";
+import { $Monster } from "@package/net/minecraft/world/entity/monster";
+import { $BaguAnimationController } from "@package/bagu_chan/bagus_lib/animation";
+import { $Vec3_ } from "@package/net/minecraft/world/phys";
+
+declare module "@package/net/minecraft/world/entity/monster/warden" {
+    export class $Warden$VibrationUser implements $VibrationSystem$User {
+        canTriggerAvoidVibration(): boolean;
+        calculateTravelTimeInTicks(arg0: number): number;
+        getListenableEvents(): $TagKey<$GameEvent>;
+        requiresAdjacentChunksToBeTicking(): boolean;
+        isValidVibration(arg0: $Holder_<$GameEvent>, arg1: $GameEvent$Context_): boolean;
+        onDataChanged(): void;
+        get listenableEvents(): $TagKey<$GameEvent>;
+    }
+    export class $WardenAi {
+        static setDigCooldown(arg0: $LivingEntity): void;
+        static setDisturbanceLocation(arg0: $Warden, arg1: $BlockPos_): void;
+        static updateActivity(arg0: $Warden): void;
+        static DIGGING_COOLDOWN: number;
+        static ROAR_DURATION: number;
+        static EMERGE_DURATION: number;
+        constructor();
+        static set digCooldown(value: $LivingEntity);
+    }
+    export class $WardenSpawnTracker {
+        reset(): void;
+        tick(): void;
+        static tryWarn(arg0: $ServerLevel, arg1: $BlockPos_, arg2: $ServerPlayer): $OptionalInt;
+        setWarningLevel(arg0: number): void;
+        getWarningLevel(): number;
+        static CODEC: $Codec<$WardenSpawnTracker>;
+        static MAX_WARNING_LEVEL: number;
+        constructor(arg0: number, arg1: number, arg2: number);
+    }
+    export class $AngerLevel extends $Enum<$AngerLevel> {
+        static values(): $AngerLevel[];
+        static valueOf(arg0: string): $AngerLevel;
+        getAmbientSound(): $SoundEvent;
+        getListeningSound(): $SoundEvent;
+        isAngry(): boolean;
+        getMinimumAnger(): number;
+        static byAnger(arg0: number): $AngerLevel;
+        static CALM: $AngerLevel;
+        static AGITATED: $AngerLevel;
+        static ANGRY: $AngerLevel;
+        get ambientSound(): $SoundEvent;
+        get listeningSound(): $SoundEvent;
+        get angry(): boolean;
+        get minimumAnger(): number;
+    }
+    /**
+     * Values that may be interpreted as {@link $AngerLevel}.
+     */
+    export type $AngerLevel_ = "calm" | "agitated" | "angry";
+    export class $Warden extends $Monster implements $VibrationSystem {
+        canTargetEntity(arg0: $Entity): boolean;
+        getHeartAnimation(arg0: number): number;
+        getAngerLevel(): $AngerLevel;
+        increaseAngerAt(arg0: $Entity): void;
+        increaseAngerAt(arg0: $Entity, arg1: number, arg2: boolean): void;
+        getAngerManagement(): $AngerManagement;
+        getEntityAngryAt(): ($LivingEntity) | undefined;
+        static createAttributes(): $AttributeSupplier$Builder;
+        getTendrilAnimation(arg0: number): number;
+        getVibrationData(): $VibrationSystem$Data;
+        getVibrationUser(): $VibrationSystem$User;
+        getDefaultDimensions(arg0: $Pose_): $EntityDimensions;
+        setAttackTarget(arg0: $LivingEntity): void;
+        getClientAngerLevel(): number;
+        handler$bgj000$bagus_lib$onSyncedDataUpdated(arg0: $EntityDataAccessor_<any>, arg1: $CallbackInfo): void;
+        clearAnger(arg0: $Entity): void;
+        static applyDarknessAround(arg0: $ServerLevel, arg1: $Vec3_, arg2: $Entity, arg3: number): void;
+        serializeNBT(arg0: $HolderLookup$Provider): $CompoundTag;
+        static MAX_WEARING_ARMOR_CHANCE: number;
+        static PRESERVE_ITEM_DROP_CHANCE_THRESHOLD: number;
+        static DEFAULT_BASE_GRAVITY: number;
+        hasImpulse: boolean;
+        sonicBoomAnimationState: $AnimationState;
+        static USE_ITEM_INTERVAL: number;
+        static MAX_PICKUP_LOOT_CHANCE: number;
+        lootTable: $ResourceKey<$LootTable>;
+        yHeadRot: number;
+        noPhysics: boolean;
+        yo: number;
+        yBodyRotO: number;
+        removalReason: $Entity$RemovalReason;
+        zza: number;
+        goalSelector: $GoalSelector;
+        swingingArm: $InteractionHand;
+        static ID_TAG: string;
+        static DATA_HEALTH_ID: $EntityDataAccessor<number>;
+        persistenceRequired: boolean;
+        static DELTA_AFFECTED_BY_BLOCKS_BELOW_1_0: number;
+        xRotO: number;
+        zo: number;
+        diggingAnimationState: $AnimationState;
+        walkDist: number;
+        noCulling: boolean;
+        walkAnimation: $WalkAnimationState;
+        yya: number;
+        oAttackAnim: number;
+        yHeadRotO: number;
+        static UUID_TAG: string;
+        hurtDuration: number;
+        static DEATH_DURATION: number;
+        portalProcess: $PortalProcessor;
+        dead: boolean;
+        verticalCollision: boolean;
+        verticalCollisionBelow: boolean;
+        static DEFAULT_BABY_SCALE: number;
+        eyeHeight: number;
+        static ATTRIBUTES_FIELD: string;
+        static UPDATE_GOAL_SELECTOR_EVERY_N_TICKS: number;
+        static DEFAULT_BB_HEIGHT: number;
+        xxa: number;
+        flyDist: number;
+        sniffAnimationState: $AnimationState;
+        static PASSENGERS_TAG: string;
+        wasOnFire: boolean;
+        attackAnim: number;
+        emergeAnimationState: $AnimationState;
+        zOld: number;
+        timeOffs: number;
+        wasTouchingWater: boolean;
+        activeEffects: $Map<$Holder<$MobEffect>, $MobEffectInstance>;
+        rotA: number;
+        horizontalCollision: boolean;
+        dimensions: $EntityDimensions;
+        static DEFAULT_EQUIPMENT_DROP_CHANCE: number;
+        static ARMOR_SLOT_OFFSET: number;
+        swingTime: number;
+        static BODY_ARMOR_OFFSET: number;
+        tickCount: number;
+        static MAX_ENCHANTED_ARMOR_CHANCE: number;
+        static MAX_ENCHANTED_WEAPON_CHANCE: number;
+        static BOARDING_COOLDOWN: number;
+        static PRESERVE_ITEM_DROP_CHANCE: number;
+        static SWING_DURATION: number;
+        yRotO: number;
+        static MIN_MOVEMENT_DISTANCE: number;
+        static CONTENTS_SLOT_INDEX: number;
+        static BASE_JUMP_POWER: number;
+        level: $Level;
+        ambientSoundTime: number;
+        moveDist: number;
+        mainSupportingBlockPos: ($BlockPos) | undefined;
+        attackAnimationState: $AnimationState;
+        targetSelector: $GoalSelector;
+        xOld: number;
+        wasInPowderSnow: boolean;
+        hurtTime: number;
+        xpReward: number;
+        swinging: boolean;
+        hurtMarked: boolean;
+        attackStrengthTicker: number;
+        deathTime: number;
+        static EQUIPMENT_SLOT_OFFSET: number;
+        invulnerableTime: number;
+        jumping: boolean;
+        static BASE_TICKS_REQUIRED_TO_FREEZE: number;
+        fallDistance: number;
+        static DELTA_AFFECTED_BY_BLOCKS_BELOW_0_5: number;
+        static MAX_ENTITY_TAG_COUNT: number;
+        roarAnimationState: $AnimationState;
+        static ARMOR_SLOTS: number;
+        static DELTA_AFFECTED_BY_BLOCKS_BELOW_0_2: number;
+        random: $RandomSource;
+        static PLAYER_HURT_EXPERIENCE_TIME: number;
+        yOld: number;
+        static HAND_SLOTS: number;
+        static DEFAULT_BB_WIDTH: number;
+        minorHorizontalCollision: boolean;
+        static EXTRA_RENDER_CULLING_SIZE_WITH_BIG_HAT: number;
+        removeArrowTime: number;
+        walkDistO: number;
+        static FREEZE_HURT_FREQUENCY: number;
+        isInPowderSnow: boolean;
+        static ATTACHMENTS_NBT_KEY: string;
+        yBodyRot: number;
+        blocksBuilding: boolean;
+        static TOTAL_AIR_SUPPLY: number;
+        xo: number;
+        invulnerableDuration: number;
+        BAGU_ANIMATION_CONTROLLER: $BaguAnimationController<any>;
+        removeStingerTime: number;
+        static BASE_SAFE_FALL_DISTANCE: number;
+        effectsDirty: boolean;
+        constructor(arg0: $EntityType_<$Monster>, arg1: $Level_);
+        get angerLevel(): $AngerLevel;
+        get angerManagement(): $AngerManagement;
+        get entityAngryAt(): ($LivingEntity) | undefined;
+        get vibrationData(): $VibrationSystem$Data;
+        get vibrationUser(): $VibrationSystem$User;
+        set attackTarget(value: $LivingEntity);
+        get clientAngerLevel(): number;
+    }
+    export class $AngerManagement {
+        tick(arg0: $ServerLevel, arg1: $Predicate_<$Entity>): void;
+        getActiveAnger(arg0: $Entity): number;
+        increaseAnger(arg0: $Entity, arg1: number): number;
+        getActiveEntity(): ($LivingEntity) | undefined;
+        static codec(arg0: $Predicate_<$Entity>): $Codec<$AngerManagement>;
+        clearAnger(arg0: $Entity): void;
+        constructor(arg0: $Predicate_<$Entity>, arg1: $List_<$Pair<$UUID_, number>>);
+        get activeEntity(): ($LivingEntity) | undefined;
+    }
+    export class $AngerManagement$Sorter extends $Record implements $Comparator<$Entity> {
+        reversed(): $Comparator<$Entity>;
+        thenComparing<U>(arg0: $Function_<$Entity, U>, arg1: $Comparator<U>): $Comparator<$Entity>;
+        thenComparing(arg0: $Comparator<$Entity>): $Comparator<$Entity>;
+        thenComparing<U extends $Comparable<U>>(arg0: $Function_<$Entity, U>): $Comparator<$Entity>;
+        thenComparingInt(arg0: $ToIntFunction_<$Entity>): $Comparator<$Entity>;
+        thenComparingLong(arg0: $ToLongFunction_<$Entity>): $Comparator<$Entity>;
+        thenComparingDouble(arg0: $ToDoubleFunction_<$Entity>): $Comparator<$Entity>;
+    }
+    /**
+     * Values that may be interpreted as {@link $AngerManagement$Sorter}.
+     */
+    export type $AngerManagement$Sorter_ = { angerManagement?: $AngerManagement,  } | [angerManagement?: $AngerManagement, ];
+}

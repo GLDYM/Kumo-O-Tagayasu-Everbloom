@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: minecraft:can_turn_in_boats
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1107399+08:00
+
+exposure:camera_stand
+minecraft:blaze
+minecraft:breeze

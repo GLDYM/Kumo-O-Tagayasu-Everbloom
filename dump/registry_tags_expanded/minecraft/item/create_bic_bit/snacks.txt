@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create_bic_bit:snacks
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.0501358+08:00
+
+create_bic_bit:bitterballen
+create_bic_bit:cheese_souffle
+create_bic_bit:churros
+create_bic_bit:eggball
+create_bic_bit:enderball
+create_bic_bit:fries
+create_bic_bit:frikandel
+create_bic_bit:kroket
+create_bic_bit:oliebollen

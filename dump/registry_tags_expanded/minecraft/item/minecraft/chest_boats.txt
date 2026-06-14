@@ -1,0 +1,30 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:chest_boats
+# Entries: 23
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0638456+08:00
+
+atmospheric:aspen_chest_boat
+atmospheric:grimwood_chest_boat
+atmospheric:kousa_chest_boat
+atmospheric:laurel_chest_boat
+atmospheric:morado_chest_boat
+atmospheric:rosewood_chest_boat
+atmospheric:yucca_chest_boat
+crabbersdelight:palm_chest_boat
+minecraft:acacia_chest_boat
+minecraft:bamboo_chest_raft
+minecraft:birch_chest_boat
+minecraft:cherry_chest_boat
+minecraft:dark_oak_chest_boat
+minecraft:jungle_chest_boat
+minecraft:mangrove_chest_boat
+minecraft:oak_chest_boat
+minecraft:spruce_chest_boat
+quark:ancient_chest_boat
+quark:azalea_chest_boat
+quark:blossom_chest_boat
+tofucraft:leek_chest_boat
+tofucraft:leek_green_chest_boat
+tofucraft:tofu_stem_chest_boat

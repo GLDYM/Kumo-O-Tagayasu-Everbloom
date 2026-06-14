@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: l2weaponry:scythe
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0033013+08:00
+
+l2weaponry:death_scythe
+l2weaponry:diamond_scythe
+l2weaponry:eternium_scythe
+l2weaponry:gold_scythe
+l2weaponry:iron_scythe
+l2weaponry:netherite_scythe
+l2weaponry:poseidite_scythe
+l2weaponry:sculkium_scythe
+l2weaponry:shulkerate_scythe
+l2weaponry:totemic_gold_scythe

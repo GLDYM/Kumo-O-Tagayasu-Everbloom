@@ -1,0 +1,9 @@
+# Registry dump
+# Registry: minecraft:frog_variant
+# Minecraft: 1.21.1
+# Entries: 3
+# Generated: 2026-06-14T13:45:01.1896482+08:00
+
+minecraft:cold raw_id=2 class=net.minecraft.world.entity.animal.FrogVariant
+minecraft:temperate raw_id=0 class=net.minecraft.world.entity.animal.FrogVariant
+minecraft:warm raw_id=1 class=net.minecraft.world.entity.animal.FrogVariant

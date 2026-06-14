@@ -1,0 +1,41 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_cookery:kitchen_knife
+# Entries: 34
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.8740151+08:00
+
+ends_delight:dragon_egg_shell_knife
+ends_delight:dragon_tooth_knife
+ends_delight:end_stone_knife
+ends_delight:purpur_knife
+farmersdelight:diamond_knife
+farmersdelight:flint_knife
+farmersdelight:golden_knife
+farmersdelight:iron_knife
+farmersdelight:netherite_knife
+kaleidoscope_cookery:diamond_kitchen_knife
+kaleidoscope_cookery:gold_kitchen_knife
+kaleidoscope_cookery:iron_kitchen_knife
+kaleidoscope_cookery:netherite_kitchen_knife
+kaleidoscope_end:dragon_tooth_knife
+kaleidoscope_nether:primitive_machete
+l2weaponry:abyss_shock
+l2weaponry:diamond_dagger
+l2weaponry:eternium_dagger
+l2weaponry:gold_dagger
+l2weaponry:iron_dagger
+l2weaponry:netherite_dagger
+l2weaponry:poseidite_dagger
+l2weaponry:sculkium_dagger
+l2weaponry:shadow_hunter
+l2weaponry:shulkerate_dagger
+l2weaponry:totemic_gold_dagger
+tofudelight:tofu_diamond_knife
+tofudelight:tofu_metal_knife
+trailandtales_delight:cherry_iron_knife
+trailandtales_delight:sniffer_eggshell_knife
+tsuki:knife_fish
+tsuki:knife_noodle
+tsuki:sakura_knife_fish
+tsuki:sakura_knife_noodle

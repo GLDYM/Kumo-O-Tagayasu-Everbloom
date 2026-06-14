@@ -1,0 +1,123 @@
+import { $RadarRenderer } from "@package/xaero/hud/minimap/radar/render/element";
+import { $MinimapSession } from "@package/xaero/hud/minimap/module";
+import { $Level, $Level_ } from "@package/net/minecraft/world/level";
+import { $MapRegion, $MapTileChunk } from "@package/xaero/map/region";
+import { $ConfigOption } from "@package/xaero/lib/common/config/option";
+import { $IXaeroMinimap } from "@package/xaero/common";
+import { $Player } from "@package/net/minecraft/world/entity/player";
+import { $List } from "@package/java/util";
+import { $Registry } from "@package/net/minecraft/core";
+import { $MinimapRendererHelper } from "@package/xaero/common/minimap/render";
+import { $Screen } from "@package/net/minecraft/client/gui/screens";
+import { $MapProcessor } from "@package/xaero/map";
+import { $BlockState_, $BlockState } from "@package/net/minecraft/world/level/block/state";
+import { $SupportOpenPartiesAndClaims } from "@package/xaero/common/mods/pac";
+import { $ResourceKey_, $ResourceKey } from "@package/net/minecraft/resources";
+import { $VertexConsumer, $PoseStack } from "@package/com/mojang/blaze3d/vertex";
+import { $Block_ } from "@package/net/minecraft/world/level/block";
+import { $HighlighterRegistry } from "@package/xaero/common/minimap/highlight";
+import { $MultiTextureRenderTypeRendererProvider, $MultiTextureRenderTypeRenderer } from "@package/xaero/common/graphics/renderer/multitexture";
+import { $BlockEntity } from "@package/net/minecraft/world/level/block/entity";
+import { $Matrix4f } from "@package/org/joml";
+export * as pac from "@package/xaero/common/mods/pac";
+
+declare module "@package/xaero/common/mods" {
+    export class $SupportIris {
+        constructor();
+    }
+    export class $SupportXaeroWorldmap {
+        getWorldMapColours(): number;
+        getDisplayClaims(): boolean;
+        isLegibleCaveMaps(): boolean;
+        getWorldMapFlowers(): boolean;
+        getCaveModeDepth(): number;
+        getBiomeBlending(): boolean;
+        getManualCaveStart(): number;
+        getSettingsScreen(arg0: $Screen, arg1: $Screen): $Screen;
+        getSettingsScreen(arg0: $Screen): $Screen;
+        getClaimsFillOpacity(): number;
+        getWorldMapTerrainDepth(): boolean;
+        getPartialYTeleport(): boolean;
+        getWorldMapTerrainSlopes(): number;
+        getClaimsBorderOpacity(): number;
+        isStainedGlassDisplayed(): boolean;
+        getWorldMapScreenForOption(arg0: $ConfigOption<never>, arg1: $Screen): $Screen;
+        shouldPreventAutoCaveMode(arg0: $Level_): boolean;
+        caveLayersAreUsable(): boolean;
+        openSettings(): void;
+        bumpLoadedRegion(arg0: $MapProcessor, arg1: $MapRegion): void;
+        getWorldMapBiomeColorsVanillaMode(): boolean;
+        getAdjustHeightForCarpetLikeBlocks(): boolean;
+        drawMinimap(arg0: $MinimapSession, arg1: $PoseStack, arg2: $MinimapRendererHelper, arg3: number, arg4: number, arg5: number, arg6: number, arg7: number, arg8: number, arg9: boolean, arg10: number, arg11: number, arg12: $VertexConsumer, arg13: $MultiTextureRenderTypeRendererProvider): void;
+        getMapDimension(): $ResourceKey<$Level>;
+        getMapDimensionScale(): number;
+        confirmPlayerRadarRender(arg0: $Player): void;
+        getMinimapBrightness(): number;
+        createRadarRenderWrapper(arg0: $RadarRenderer): void;
+        registerHighlighters(arg0: $HighlighterRegistry): void;
+        toggleChunkClaims(): void;
+        getWorldMapIgnoreHeightmaps(): boolean;
+        tryToGetMultiworldName(arg0: $ResourceKey_<$Level>, arg1: string): string;
+        getMultiworldIds(arg0: $ResourceKey_<$Level>): $List<string>;
+        getCaveModeType(): number;
+        isMultiplayerMap(): boolean;
+        renderSlimeChunks(arg0: $MapTileChunk, arg1: number, arg2: number, arg3: number, arg4: $PoseStack, arg5: $MinimapRendererHelper, arg6: $VertexConsumer): void;
+        prepareMapTexturedRect(arg0: $Matrix4f, arg1: number, arg2: number, arg3: number, arg4: number, arg5: number, arg6: number, arg7: $MapTileChunk, arg8: $MultiTextureRenderTypeRenderer, arg9: $MultiTextureRenderTypeRenderer, arg10: $MinimapRendererHelper): void;
+        tryToGetMultiworldId(arg0: $ResourceKey_<$Level>): string;
+        getWorldMapWaypoints(): boolean;
+        getPotentialMultiworldIds(arg0: $ResourceKey_<$Level>): $List<string>;
+        worldMapIsRenderingRadar(): boolean;
+        hasEnabledCaveLayers(): boolean;
+        compatibilityVersion: number;
+        static WORLDMAP_COMPATIBILITY_VERSION: number;
+        static MINIMAP_MW: string;
+        static black: number;
+        static slime: number;
+        constructor(arg0: $IXaeroMinimap);
+        get worldMapColours(): number;
+        get displayClaims(): boolean;
+        get legibleCaveMaps(): boolean;
+        get worldMapFlowers(): boolean;
+        get caveModeDepth(): number;
+        get biomeBlending(): boolean;
+        get manualCaveStart(): number;
+        get claimsFillOpacity(): number;
+        get worldMapTerrainDepth(): boolean;
+        get partialYTeleport(): boolean;
+        get worldMapTerrainSlopes(): number;
+        get claimsBorderOpacity(): number;
+        get stainedGlassDisplayed(): boolean;
+        get worldMapBiomeColorsVanillaMode(): boolean;
+        get adjustHeightForCarpetLikeBlocks(): boolean;
+        get mapDimension(): $ResourceKey<$Level>;
+        get mapDimensionScale(): number;
+        get minimapBrightness(): number;
+        get worldMapIgnoreHeightmaps(): boolean;
+        get caveModeType(): number;
+        get multiplayerMap(): boolean;
+        get worldMapWaypoints(): boolean;
+    }
+    export class $SupportMods {
+        pac(): boolean;
+        worldmap(): boolean;
+        static checkForMinimapDuplicates(arg0: string): void;
+        shouldUseWorldMapChunks(): boolean;
+        shouldUseWorldMapCaveChunks(): boolean;
+        framedBlocks(): boolean;
+        supportIris: $SupportIris;
+        iris: boolean;
+        xaeroPac: $SupportOpenPartiesAndClaims;
+        optifine: boolean;
+        ftbTeams: boolean;
+        supportFramedBlocks: $SupportFramedBlocks;
+        vivecraft: boolean;
+        worldmapSupport: $SupportXaeroWorldmap;
+        constructor(arg0: $IXaeroMinimap);
+    }
+    export class $SupportFramedBlocks {
+        onWorldChange(): void;
+        unpackFramedBlock(arg0: $Level_, arg1: $Registry<$Block_>, arg2: $BlockState_, arg3: $BlockEntity): $BlockState;
+        isFrameBlock(arg0: $Level_, arg1: $Registry<$Block_>, arg2: $BlockState_): boolean;
+        constructor();
+    }
+}

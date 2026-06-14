@@ -1,0 +1,20 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:fox_food
+# Entries: 13
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1359564+08:00
+
+atmospheric:currant
+fruitsdelight:blueberry
+fruitsdelight:cranberry
+immortalers_delight:himekaido
+kaleidoscope_end:dream_berry
+minecraft:glow_berries
+minecraft:sweet_berries
+neapolitan:strawberries
+neapolitan:white_strawberries
+vintagedelight:gearo_berry
+youkaishomecoming:black_grape
+youkaishomecoming:red_grape
+youkaishomecoming:white_grape

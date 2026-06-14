@@ -1,0 +1,40 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:tools
+# Entries: 33
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2604714+08:00
+
+create_sa:blazing_axe
+create_sa:blazing_cleaver
+create_sa:blazing_pickaxe
+create_sa:blazing_shovel
+create_sa:brass_axe
+create_sa:brass_hoe
+create_sa:brass_pickaxe
+create_sa:brass_shovel
+create_sa:brass_sword
+create_sa:copper_axe
+create_sa:copper_hoe
+create_sa:copper_pickaxe
+create_sa:copper_shovel
+create_sa:copper_sword
+create_sa:experience_axe
+create_sa:experience_pickaxe
+create_sa:experience_shovel
+create_sa:experience_sword
+create_sa:rose_quartz_axe
+create_sa:rose_quartz_pickaxe
+create_sa:rose_quartz_shovel
+create_sa:rose_quartz_sword
+create_sa:zinc_axe
+create_sa:zinc_hoe
+create_sa:zinc_pickaxe
+create_sa:zinc_shovel
+create_sa:zinc_sword
+tofucraft:rollingpin
+tofucraft:tofu_diamond_hoe
+tofucraft:tofu_kinu_hoe
+tofucraft:tofu_metal_hoe
+tofucraft:tofu_momen_hoe
+tofucraft:tofu_solid_hoe

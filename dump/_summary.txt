@@ -1,0 +1,22 @@
+# Registry Dumper 3000 Global Summary
+# Mod ID: registry_dumper_3000
+# Minecraft: 1.21.1
+# Loader: CLIENT
+# Generated: 2026-06-14T13:47:45.9655781+08:00
+
+[config]
+config_version=1.0.0
+run_once_per_session=true
+dump_root=D:\MineCraft\.minecraft\versions\Kumo O Tagayasu Everbloom\dump
+
+[enabled_sections]
+built_in_registries=true
+runtime_registries=true
+raw_tags=true
+expanded_runtime_tags=true
+raw_recipes=true
+generic_data_resources=true
+client_assets=false
+
+[runtime]
+runtime_registry_count=187

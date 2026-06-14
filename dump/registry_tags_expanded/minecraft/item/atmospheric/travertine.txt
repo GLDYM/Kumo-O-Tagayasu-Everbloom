@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: atmospheric:travertine
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4775552+08:00
+
+atmospheric:ivory_travertine
+atmospheric:peach_travertine
+atmospheric:persimmon_travertine
+atmospheric:saffron_travertine

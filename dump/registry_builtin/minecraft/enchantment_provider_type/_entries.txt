@@ -1,0 +1,9 @@
+# Registry dump
+# Registry: minecraft:enchantment_provider_type
+# Minecraft: 1.21.1
+# Entries: 3
+# Generated: 2026-06-14T13:45:01.1776192+08:00
+
+minecraft:by_cost raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:by_cost_with_difficulty raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:single raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

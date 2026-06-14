@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: l2complements:thorn
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9824637+08:00
+
+l2complements:freezing_thorn
+l2complements:hellfire_thorn
+minecraft:thorns

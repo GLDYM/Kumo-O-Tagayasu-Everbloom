@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: minecraft:prevents_decorated_pot_shattering
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0039666+08:00
+
+minecraft:silk_touch

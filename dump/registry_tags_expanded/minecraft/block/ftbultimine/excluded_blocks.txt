@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: ftbultimine:excluded_blocks
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0166245+08:00
+
+kaleidoscope_cookery:rice_crop

@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: l2complements:immunity
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9814603+08:00
+
+l2complements:environment_immunity
+l2complements:explosion_immunity
+l2complements:friendly_fire_protection
+l2complements:invincible
+l2complements:magic_immunity

@@ -1,0 +1,25 @@
+# Registry dump
+# Registry: exposure:filter
+# Minecraft: 1.21.1
+# Entries: 19
+# Generated: 2026-06-14T13:47:24.0838402+08:00
+
+exposure:black_pane raw_id=0 class=io.github.mortuusars.exposure.data.Filter
+exposure:blue_pane raw_id=1 class=io.github.mortuusars.exposure.data.Filter
+exposure:broken_interplanar_projector raw_id=2 class=io.github.mortuusars.exposure.data.Filter
+exposure:brown_pane raw_id=3 class=io.github.mortuusars.exposure.data.Filter
+exposure:cyan_pane raw_id=4 class=io.github.mortuusars.exposure.data.Filter
+exposure:glass_pane raw_id=5 class=io.github.mortuusars.exposure.data.Filter
+exposure:gray_pane raw_id=6 class=io.github.mortuusars.exposure.data.Filter
+exposure:green_pane raw_id=7 class=io.github.mortuusars.exposure.data.Filter
+exposure:interplanar_projector raw_id=8 class=io.github.mortuusars.exposure.data.Filter
+exposure:light_blue_pane raw_id=9 class=io.github.mortuusars.exposure.data.Filter
+exposure:light_gray_pane raw_id=10 class=io.github.mortuusars.exposure.data.Filter
+exposure:lime_pane raw_id=11 class=io.github.mortuusars.exposure.data.Filter
+exposure:magenta_pane raw_id=12 class=io.github.mortuusars.exposure.data.Filter
+exposure:orange_pane raw_id=13 class=io.github.mortuusars.exposure.data.Filter
+exposure:pink_pane raw_id=14 class=io.github.mortuusars.exposure.data.Filter
+exposure:purple_pane raw_id=15 class=io.github.mortuusars.exposure.data.Filter
+exposure:red_pane raw_id=16 class=io.github.mortuusars.exposure.data.Filter
+exposure:white_pane raw_id=17 class=io.github.mortuusars.exposure.data.Filter
+exposure:yellow_pane raw_id=18 class=io.github.mortuusars.exposure.data.Filter

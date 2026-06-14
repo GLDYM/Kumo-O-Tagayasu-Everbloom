@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: another_furniture:chairs
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.3786159+08:00
+
+another_furniture:acacia_chair
+another_furniture:bamboo_chair
+another_furniture:birch_chair
+another_furniture:cherry_chair
+another_furniture:crimson_chair
+another_furniture:dark_oak_chair
+another_furniture:jungle_chair
+another_furniture:mangrove_chair
+another_furniture:oak_chair
+another_furniture:spruce_chair
+another_furniture:warped_chair

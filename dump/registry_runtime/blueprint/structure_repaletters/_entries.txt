@@ -1,0 +1,9 @@
+# Registry dump
+# Registry: blueprint:structure_repaletters
+# Minecraft: 1.21.1
+# Entries: 3
+# Generated: 2026-06-14T13:47:24.0109812+08:00
+
+amendments:cauldron_to_potion_cauldron raw_id=0 class=com.teamabnormals.blueprint.common.world.modification.structure.StructureRepaletterEntry
+amendments:water_cauldron_to_dye_cauldron raw_id=1 class=com.teamabnormals.blueprint.common.world.modification.structure.StructureRepaletterEntry
+amendments:water_cauldron_to_potion_cauldron raw_id=2 class=com.teamabnormals.blueprint.common.world.modification.structure.StructureRepaletterEntry

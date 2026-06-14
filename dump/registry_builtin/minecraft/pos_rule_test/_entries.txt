@@ -1,0 +1,11 @@
+# Registry dump
+# Registry: minecraft:pos_rule_test
+# Minecraft: 1.21.1
+# Entries: 5
+# Generated: 2026-06-14T13:45:01.3207377+08:00
+
+integrated_api:piece_origin_axis_aligned_linear_pos_rule_test raw_id=3 class=com.craisinlord.integrated_api.modinit.IAPredicates$$Lambda/0x0000023d1afeb768
+integrated_api:y_value_pos_rule_test raw_id=4 class=com.craisinlord.integrated_api.modinit.IAPredicates$$Lambda/0x0000023d1afeb980
+minecraft:always_true raw_id=0 class=net.minecraft.world.level.levelgen.structure.templatesystem.PosRuleTestType$$Lambda/0x0000023d17db5260
+minecraft:axis_aligned_linear_pos raw_id=2 class=net.minecraft.world.level.levelgen.structure.templatesystem.PosRuleTestType$$Lambda/0x0000023d17db5260
+minecraft:linear_pos raw_id=1 class=net.minecraft.world.level.levelgen.structure.templatesystem.PosRuleTestType$$Lambda/0x0000023d17db5260

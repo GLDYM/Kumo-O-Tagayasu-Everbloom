@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: kaleidoscope_cookery:cat_lie_on_blocks
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.1258094+08:00
+
+kaleidoscope_cookery:chair_acacia
+kaleidoscope_cookery:chair_bamboo
+kaleidoscope_cookery:chair_birch
+kaleidoscope_cookery:chair_cherry
+kaleidoscope_cookery:chair_crimson
+kaleidoscope_cookery:chair_dark_oak
+kaleidoscope_cookery:chair_jungle
+kaleidoscope_cookery:chair_mangrove
+kaleidoscope_cookery:chair_oak
+kaleidoscope_cookery:chair_spruce
+kaleidoscope_cookery:chair_warped
+kaleidoscope_cookery:fruit_basket

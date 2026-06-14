@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: l2damagetracker:ignore_scaling
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.886223+08:00
+
+l2complements:bleed
+l2complements:life_sync
+l2complements:soul_flame
+minecraft:drown
+minecraft:dry_out
+minecraft:in_wall
+minecraft:starve
+minecraft:thorns

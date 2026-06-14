@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: maid_restaurant:storage_block
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.2032002+08:00
+
+create:belt
+create:depot
+create:item_vault
+minecraft:barrel
+minecraft:chest

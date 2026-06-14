@@ -1,0 +1,40 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: supplementaries:way_signs
+# Entries: 33
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0562683+08:00
+
+supplementaries:atmospheric/way_sign_aspen
+supplementaries:atmospheric/way_sign_grimwood
+supplementaries:atmospheric/way_sign_kousa
+supplementaries:atmospheric/way_sign_laurel
+supplementaries:atmospheric/way_sign_morado
+supplementaries:atmospheric/way_sign_rosewood
+supplementaries:atmospheric/way_sign_yucca
+supplementaries:crabbersdelight/way_sign_palm
+supplementaries:immortalers_delight/way_sign_a_bush
+supplementaries:immortalers_delight/way_sign_ancient_wood
+supplementaries:immortalers_delight/way_sign_himekaido
+supplementaries:immortalers_delight/way_sign_leisamboo
+supplementaries:mynethersdelight/way_sign_powdery
+supplementaries:quark/way_sign_ancient
+supplementaries:quark/way_sign_azalea
+supplementaries:quark/way_sign_blossom
+supplementaries:tofucraft/way_sign_leek
+supplementaries:tofucraft/way_sign_leek_green
+supplementaries:tofucraft/way_sign_tofustem
+supplementaries:tsuki/way_sign_maple
+supplementaries:tsuki/way_sign_sakura
+supplementaries:tsuki/way_sign_ume
+supplementaries:way_sign_acacia
+supplementaries:way_sign_bamboo
+supplementaries:way_sign_birch
+supplementaries:way_sign_cherry
+supplementaries:way_sign_crimson
+supplementaries:way_sign_dark_oak
+supplementaries:way_sign_jungle
+supplementaries:way_sign_mangrove
+supplementaries:way_sign_oak
+supplementaries:way_sign_spruce
+supplementaries:way_sign_warped

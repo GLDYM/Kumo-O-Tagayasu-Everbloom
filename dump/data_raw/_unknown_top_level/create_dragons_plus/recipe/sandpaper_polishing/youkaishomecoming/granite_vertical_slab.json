@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "youkaishomecoming:granite_vertical_slab"
+    }
+  ],
+  "results": [
+    {
+      "id": "youkaishomecoming:polished_granite_vertical_slab"
+    }
+  ]
+}

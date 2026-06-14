@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: amendments:skull_candles
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.3722338+08:00
+
+amendments:skull_candle
+amendments:skull_candle_soul
+amendments:skull_candle_soul_wall
+amendments:skull_candle_wall

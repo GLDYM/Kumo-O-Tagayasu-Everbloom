@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: handcrafted:tables
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0853947+08:00
+
+handcrafted:acacia_table
+handcrafted:bamboo_table
+handcrafted:birch_table
+handcrafted:cherry_table
+handcrafted:crimson_table
+handcrafted:dark_oak_table
+handcrafted:jungle_table
+handcrafted:mangrove_table
+handcrafted:oak_table
+handcrafted:spruce_table
+handcrafted:warped_table

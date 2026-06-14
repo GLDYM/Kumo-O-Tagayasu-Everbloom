@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_nether:fruits
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.9182906+08:00
+
+kaleidoscope_nether:crimson_fruit
+kaleidoscope_nether:poisonous_fruit
+kaleidoscope_nether:warped_fruit

@@ -1,0 +1,15 @@
+# Registry dump
+# Registry: neoforge:fluid_ingredient_type
+# Minecraft: 1.21.1
+# Entries: 9
+# Generated: 2026-06-14T13:47:24.594441+08:00
+
+kubejs:namespace raw_id=8 class=net.neoforged.neoforge.fluids.crafting.FluidIngredientType
+kubejs:regex raw_id=7 class=net.neoforged.neoforge.fluids.crafting.FluidIngredientType
+neoforge:components raw_id=4 class=net.neoforged.neoforge.fluids.crafting.FluidIngredientType
+neoforge:compound raw_id=3 class=net.neoforged.neoforge.fluids.crafting.FluidIngredientType
+neoforge:difference raw_id=5 class=net.neoforged.neoforge.fluids.crafting.FluidIngredientType
+neoforge:empty raw_id=2 class=net.neoforged.neoforge.fluids.crafting.FluidIngredientType
+neoforge:intersection raw_id=6 class=net.neoforged.neoforge.fluids.crafting.FluidIngredientType
+neoforge:single raw_id=0 class=net.neoforged.neoforge.fluids.crafting.FluidIngredientType
+neoforge:tag raw_id=1 class=net.neoforged.neoforge.fluids.crafting.FluidIngredientType

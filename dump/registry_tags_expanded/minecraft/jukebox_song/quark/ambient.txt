@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:jukebox_song
+# Tag: quark:ambient
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.244902+08:00
+
+quark:ambient/chatter
+quark:ambient/clock
+quark:ambient/crickets
+quark:ambient/drips
+quark:ambient/fire
+quark:ambient/ocean
+quark:ambient/rain
+quark:ambient/wind

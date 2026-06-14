@@ -1,0 +1,35 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: supplementaries:road_sign_destinations
+# Entries: 28
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.2584098+08:00
+
+atmospheric:village_scrubland
+idas:bazaar
+idas:bearclaw_inn
+idas:beekeepers_house
+idas:castle
+idas:desert_market/desert_market
+idas:desert_market/desert_market_orange
+idas:desert_market/desert_market_red
+idas:farmhouse
+idas:fishermans_lodge
+idas:treetop_tavern
+integrated_villages:airship_village
+integrated_villages:cabin_village
+integrated_villages:clockwork_village
+integrated_villages:kutcha_village
+integrated_villages:marketstead_village
+integrated_villages:mediterranean_village
+integrated_villages:mossy_mounds
+integrated_villages:oasis_village
+integrated_villages:pirate_village
+integrated_villages:quark/minka_village
+integrated_villages:sunken_village
+integrated_villages:tavern_village
+minecraft:village_desert
+minecraft:village_plains
+minecraft:village_savanna
+minecraft:village_snowy
+minecraft:village_taiga

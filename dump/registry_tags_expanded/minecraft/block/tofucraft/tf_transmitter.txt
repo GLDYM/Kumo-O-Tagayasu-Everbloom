@@ -1,0 +1,41 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: tofucraft:tf_transmitter
+# Entries: 34
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.814042+08:00
+
+atmospheric:agave
+atmospheric:arid_sprouts
+atmospheric:golden_growths
+farmersdelight:sandy_shrub
+minecraft:air
+minecraft:bubble_column
+minecraft:cave_air
+minecraft:crimson_roots
+minecraft:dead_bush
+minecraft:fern
+minecraft:fire
+minecraft:glow_lichen
+minecraft:hanging_roots
+minecraft:large_fern
+minecraft:lava
+minecraft:light
+minecraft:nether_sprouts
+minecraft:seagrass
+minecraft:short_grass
+minecraft:snow
+minecraft:soul_fire
+minecraft:structure_void
+minecraft:tall_grass
+minecraft:tall_seagrass
+minecraft:vine
+minecraft:void_air
+minecraft:warped_roots
+minecraft:water
+quark:cut_vine
+supplementaries:ash
+supplementaries:barnacles
+tofucraft:antenna_advance
+tofucraft:antenna_basic
+tofucraft:blockleek

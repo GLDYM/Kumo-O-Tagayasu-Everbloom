@@ -1,0 +1,59 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:mineable/shear
+# Entries: 52
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.4495021+08:00
+
+supplementaries:awning
+supplementaries:awning_black
+supplementaries:awning_blue
+supplementaries:awning_brown
+supplementaries:awning_cyan
+supplementaries:awning_gray
+supplementaries:awning_green
+supplementaries:awning_light_blue
+supplementaries:awning_light_gray
+supplementaries:awning_lime
+supplementaries:awning_magenta
+supplementaries:awning_orange
+supplementaries:awning_pink
+supplementaries:awning_purple
+supplementaries:awning_red
+supplementaries:awning_white
+supplementaries:awning_yellow
+supplementaries:present
+supplementaries:present_black
+supplementaries:present_blue
+supplementaries:present_brown
+supplementaries:present_cyan
+supplementaries:present_gray
+supplementaries:present_green
+supplementaries:present_light_blue
+supplementaries:present_light_gray
+supplementaries:present_lime
+supplementaries:present_magenta
+supplementaries:present_orange
+supplementaries:present_pink
+supplementaries:present_purple
+supplementaries:present_red
+supplementaries:present_white
+supplementaries:present_yellow
+supplementaries:sack
+supplementaries:trapped_present
+supplementaries:trapped_present_black
+supplementaries:trapped_present_blue
+supplementaries:trapped_present_brown
+supplementaries:trapped_present_cyan
+supplementaries:trapped_present_gray
+supplementaries:trapped_present_green
+supplementaries:trapped_present_light_blue
+supplementaries:trapped_present_light_gray
+supplementaries:trapped_present_lime
+supplementaries:trapped_present_magenta
+supplementaries:trapped_present_orange
+supplementaries:trapped_present_pink
+supplementaries:trapped_present_purple
+supplementaries:trapped_present_red
+supplementaries:trapped_present_white
+supplementaries:trapped_present_yellow

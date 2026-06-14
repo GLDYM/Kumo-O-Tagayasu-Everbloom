@@ -1,0 +1,185 @@
+import { $CraftGuideStepData, $CraftGuideData } from "@package/studio/fantasyit/maid_storage_manager/craft/data";
+import { $Codec } from "@package/com/mojang/serialization";
+import { $ItemStack_, $ItemStack } from "@package/net/minecraft/world/item";
+import { $Pair } from "@package/oshi/util/tuples";
+import { $CompoundTag, $CompoundTag_ } from "@package/net/minecraft/nbt";
+import { $EntityMaid } from "@package/com/github/tartaricacid/touhoulittlemaid/entity/passive";
+import { $Component_ } from "@package/net/minecraft/network/chat";
+import { $IProgressDebugContextSetter, $ProgressDebugContext } from "@package/studio/fantasyit/maid_storage_manager/craft/debug";
+import { $Queue, $UUID, $List, $UUID_, $List_ } from "@package/java/util";
+import { $AbstractCraftActionContext } from "@package/studio/fantasyit/maid_storage_manager/craft/context";
+import { $CraftBlockOccupy } from "@package/studio/fantasyit/maid_storage_manager/attachment";
+import { $ServerLevel } from "@package/net/minecraft/server/level";
+import { $MutableObject, $MutableInt } from "@package/org/apache/commons/lang3/mutable";
+import { $Runnable_, $Enum, $Record } from "@package/java/lang";
+
+declare module "@package/studio/fantasyit/maid_storage_manager/craft/work" {
+    export class $SolvedCraftLayer$Progress extends $Enum<$SolvedCraftLayer$Progress> {
+        static values(): $SolvedCraftLayer$Progress[];
+        static valueOf(arg0: string): $SolvedCraftLayer$Progress;
+        static PREFETCH: $SolvedCraftLayer$Progress;
+        static WORKING: $SolvedCraftLayer$Progress;
+        static FAILED: $SolvedCraftLayer$Progress;
+        static GATHERING: $SolvedCraftLayer$Progress;
+        static IDLE: $SolvedCraftLayer$Progress;
+        static WAITING: $SolvedCraftLayer$Progress;
+        static STANDBY: $SolvedCraftLayer$Progress;
+        static FINISHED: $SolvedCraftLayer$Progress;
+        static DISPATCHED: $SolvedCraftLayer$Progress;
+    }
+    /**
+     * Values that may be interpreted as {@link $SolvedCraftLayer$Progress}.
+     */
+    export type $SolvedCraftLayer$Progress_ = "waiting" | "idle" | "prefetch" | "standby" | "gathering" | "working" | "finished" | "failed" | "dispatched";
+    export class $CraftLayerChain implements $IProgressDebugContextSetter {
+        isDone(): boolean;
+        getLayer(arg0: number): $CraftLayer;
+        ifChanged(arg0: $Runnable_): void;
+        getNode(arg0: number): $SolvedCraftLayer;
+        build(): void;
+        getMasterUUID(): $UUID;
+        doDispatchLayer(arg0: $SolvedCraftLayer_, arg1: $UUID_, arg2: $UUID_): void;
+        setStatusMessage(arg0: $Component_): void;
+        setStatusMessage(arg0: $EntityMaid, arg1: $Component_): void;
+        setDebugContext(arg0: $ProgressDebugContext): void;
+        getCurrentNode(): $SolvedCraftLayer;
+        hasCurrent(): boolean;
+        getLayerCount(): number;
+        addLayer(arg0: $CraftLayer): void;
+        setChanged(): void;
+        getLayers(): $List<$CraftLayer>;
+        isCurrentGathering(): boolean;
+        isCurrentStandBy(): boolean;
+        isCurrentWorking(): boolean;
+        failCurrent(arg0: $EntityMaid, arg1: $List_<$ItemStack_>, arg2: string): void;
+        failCurrent(arg0: $EntityMaid, arg1: $List_<$ItemStack_>): void;
+        getCurrentLayer(): $CraftLayer;
+        removeOccupied(arg0: $ServerLevel, arg1: $EntityMaid): void;
+        getLayerTaker(arg0: number): $UUID;
+        finishGathering(arg0: $EntityMaid): void;
+        dispatchedDone(arg0: $EntityMaid, arg1: $EntityMaid, arg2: number, arg3: boolean, arg4: $ItemStack_): boolean;
+        finishPrefetching(arg0: $EntityMaid): void;
+        dispatchedFail(arg0: string): void;
+        getCurrentGroup(): number;
+        finishCurrentLayer(arg0: $EntityMaid): void;
+        getMaxParallel(): number;
+        setOccupied(arg0: $ServerLevel, arg1: $EntityMaid): void;
+        getConsumes(): $List<$ItemStack>;
+        setMaster(arg0: $UUID_, arg1: $UUID_): void;
+        checkDispatchedValidation(arg0: $EntityMaid): void;
+        showCraftingProgress(arg0: $EntityMaid): void;
+        getIsStoppingAdding(): boolean;
+        getAndDispatchLayer(arg0: $EntityMaid): $Pair<$CraftLayer, $SolvedCraftLayer>;
+        onDispatchedStarted(arg0: $EntityMaid, arg1: number): void;
+        isMaster(): boolean;
+        startAny(): boolean;
+        failLayer(arg0: $EntityMaid, arg1: $List_<$ItemStack_>, arg2: string, arg3: $CraftLayer, arg4: $SolvedCraftLayer_): void;
+        checkAndSwitchGroup(arg0: $EntityMaid): void;
+        setToBeFailAddition(arg0: string): void;
+        handleStopAddingEvent(arg0: $EntityMaid): void;
+        isCurrentPrefetching(): boolean;
+        removeDispatchedItems(arg0: $List_<$ItemStack_>): void;
+        checkStepInputInbackpack(arg0: $EntityMaid): boolean;
+        hasDispatchedWaitingCheck(arg0: $EntityMaid): boolean;
+        checkIsCurrentOccupied(arg0: $ServerLevel, arg1: $EntityMaid): boolean;
+        checkInputInbackpack(arg0: $EntityMaid): boolean;
+        getDispatchedRemainItem(arg0: $CraftLayer): $List<$ItemStack>;
+        tryReleaseAndStartNext(): boolean;
+        tryUseAnotherCraftGuide(arg0: $ServerLevel, arg1: $EntityMaid): boolean;
+        static DISPATCHED_TASK_MAPPING_CODEC: $Codec<$Pair<$UUID, $Pair<number, $UUID>>>;
+        static CODEC: $Codec<$CraftLayerChain>;
+        freeze: boolean;
+        workingQueue: $Queue<$SolvedCraftLayer>;
+        remainMaterials: $List<$ItemStack>;
+        constructor(arg0: $EntityMaid);
+        get done(): boolean;
+        get masterUUID(): $UUID;
+        set debugContext(value: $ProgressDebugContext);
+        get currentNode(): $SolvedCraftLayer;
+        get layerCount(): number;
+        get layers(): $List<$CraftLayer>;
+        get currentGathering(): boolean;
+        get currentStandBy(): boolean;
+        get currentWorking(): boolean;
+        get currentLayer(): $CraftLayer;
+        get currentGroup(): number;
+        get maxParallel(): number;
+        get consumes(): $List<$ItemStack>;
+        get isStoppingAdding(): boolean;
+        set toBeFailAddition(value: string);
+        get currentPrefetching(): boolean;
+    }
+    export class $CraftLayer {
+        isDone(): boolean;
+        getCount(): number;
+        getItems(): $List<$ItemStack>;
+        getStep(): number;
+        setItems(arg0: $List_<$ItemStack_>): void;
+        setCount(arg0: number): void;
+        nextStep(): void;
+        memorizeItem(arg0: $ItemStack_, arg1: number): $ItemStack;
+        getTotalStep(): number;
+        getCraftData(): ($CraftGuideData) | undefined;
+        getDoneCount(): number;
+        getToPrefetchItems(arg0: $List_<$ItemStack_>): $List<$ItemStack>;
+        getUsableCraftData(): $List<$CraftGuideData>;
+        getCollectedCounts(): $List<number>;
+        shouldPlaceBefore(): boolean;
+        addAndGetTryTick(): number;
+        hasCollectedAll(): boolean;
+        clearNonFirstStep(): void;
+        setUsableCraftData(arg0: $List_<$CraftGuideData>): void;
+        clearPlaceBefore(): void;
+        getStepData(): $CraftGuideStepData;
+        copyWithNoState(): $CraftLayer;
+        setPlaceBefore(): void;
+        getEnv(): $CompoundTag;
+        setEnv(arg0: $CompoundTag_): void;
+        resetStep(): void;
+        setTryTick(arg0: number): void;
+        startStep(arg0: $EntityMaid): $AbstractCraftActionContext;
+        getTryTick(): number;
+        switchToNonOccupied(arg0: $ServerLevel, arg1: $EntityMaid, arg2: number, arg3: $CraftBlockOccupy): boolean;
+        memorizeItemSimulate(arg0: $ItemStack_): number;
+        getUnCollectedItems(): $List<$ItemStack>;
+        getCurrentStepCounts(): $List<number>;
+        addStep(arg0: $CraftGuideStepData): void;
+        getCurrentStepCount(arg0: number): number;
+        addCurrentStepPlacedCounts(arg0: number, arg1: number): void;
+        getExtraSlotConsume(): number;
+        static CODEC: $Codec<$CraftLayer>;
+        constructor(arg0: ($CraftGuideData) | undefined, arg1: $List_<$CraftGuideData>, arg2: $List_<$ItemStack_>, arg3: number);
+        constructor(arg0: ($CraftGuideData) | undefined, arg1: $List_<$ItemStack_>, arg2: number);
+        constructor(arg0: ($CraftGuideData) | undefined, arg1: $List_<$CraftGuideData>, arg2: $List_<$ItemStack_>, arg3: $List_<number>, arg4: number, arg5: number, arg6: number, arg7: $List_<number>, arg8: number, arg9: $CompoundTag_, arg10: boolean);
+        get done(): boolean;
+        get step(): number;
+        get totalStep(): number;
+        get craftData(): ($CraftGuideData) | undefined;
+        get doneCount(): number;
+        get collectedCounts(): $List<number>;
+        get stepData(): $CraftGuideStepData;
+        get unCollectedItems(): $List<$ItemStack>;
+        get currentStepCounts(): $List<number>;
+        get extraSlotConsume(): number;
+    }
+    export class $SolvedCraftLayer extends $Record {
+        index(): number;
+        group(): number;
+        nextIndex(): $List<number>;
+        nonFinishPrev(): $MutableInt;
+        prefetchable(): $List<$ItemStack>;
+        progress(): $MutableObject<$SolvedCraftLayer$Progress>;
+        nonStartPrev(): $MutableInt;
+        slotConsume(): number;
+        lastTouch(): $MutableInt;
+        slotInput(): number;
+        slotOutput(): number;
+        static CODEC: $Codec<$SolvedCraftLayer>;
+        constructor(arg0: number, arg1: number, arg2: number, arg3: number, arg4: $List_<number>, arg5: number, arg6: number, arg7: number, arg8: string, arg9: $List_<$ItemStack_>);
+        constructor(index: number, group: number, slotInput: number, slotOutput: number, nextIndex: $List_<number>, nonFinishPrev: $MutableInt, nonStartPrev: $MutableInt, lastTouch: $MutableInt, progress: $MutableObject<$SolvedCraftLayer$Progress_>, prefetchable: $List_<$ItemStack_>);
+    }
+    /**
+     * Values that may be interpreted as {@link $SolvedCraftLayer}.
+     */
+    export type $SolvedCraftLayer_ = { slotOutput?: number, slotInput?: number, nextIndex?: $List_<number>, prefetchable?: $List_<$ItemStack_>, index?: number, group?: number, lastTouch?: $MutableInt, nonFinishPrev?: $MutableInt, nonStartPrev?: $MutableInt, progress?: $MutableObject<$SolvedCraftLayer$Progress_>,  } | [slotOutput?: number, slotInput?: number, nextIndex?: $List_<number>, prefetchable?: $List_<$ItemStack_>, index?: number, group?: number, lastTouch?: $MutableInt, nonFinishPrev?: $MutableInt, nonStartPrev?: $MutableInt, progress?: $MutableObject<$SolvedCraftLayer$Progress_>, ];
+}

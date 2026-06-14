@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:seats
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.0073055+08:00
+
+create:black_seat
+create:blue_seat
+create:brown_seat
+create:cyan_seat
+create:gray_seat
+create:green_seat
+create:light_blue_seat
+create:light_gray_seat
+create:lime_seat
+create:magenta_seat
+create:orange_seat
+create:pink_seat
+create:purple_seat
+create:red_seat
+create:white_seat
+create:yellow_seat

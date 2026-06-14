@@ -1,0 +1,6 @@
+# Registry dump
+# Registry: neoforge:structure_modifier
+# Minecraft: 1.21.1
+# Entries: 0
+# Generated: 2026-06-14T13:47:24.6054993+08:00
+

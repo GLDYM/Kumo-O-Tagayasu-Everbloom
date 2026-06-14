@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: danmaku_api:preset_spell
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2314681+08:00
+
+youkaishomecoming:spell_koishi
+youkaishomecoming:spell_marisa
+youkaishomecoming:spell_mystia
+youkaishomecoming:spell_reimu
+youkaishomecoming:spell_remilia
+youkaishomecoming:spell_sanae
+youkaishomecoming:spell_yukari_butterfly
+youkaishomecoming:spell_yukari_laser

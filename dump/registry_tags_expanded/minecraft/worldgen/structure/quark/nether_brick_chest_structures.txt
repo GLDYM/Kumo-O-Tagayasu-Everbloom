@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: quark:nether_brick_chest_structures
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.2437259+08:00
+
+minecraft:fortress

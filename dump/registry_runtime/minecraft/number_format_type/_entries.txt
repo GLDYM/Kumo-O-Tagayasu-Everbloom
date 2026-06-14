@@ -1,0 +1,9 @@
+# Registry dump
+# Registry: minecraft:number_format_type
+# Minecraft: 1.21.1
+# Entries: 3
+# Generated: 2026-06-14T13:47:24.3852594+08:00
+
+minecraft:blank raw_id=0 class=net.minecraft.network.chat.numbers.BlankFormat$1
+minecraft:fixed raw_id=2 class=net.minecraft.network.chat.numbers.FixedFormat$1
+minecraft:styled raw_id=1 class=net.minecraft.network.chat.numbers.StyledFormat$1

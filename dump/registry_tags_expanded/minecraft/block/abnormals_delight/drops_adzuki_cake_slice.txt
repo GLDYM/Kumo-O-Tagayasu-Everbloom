@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: abnormals_delight:drops_adzuki_cake_slice
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.3515164+08:00
+
+neapolitan:adzuki_cake
+neapolitan:adzuki_candle_cake
+neapolitan:black_adzuki_candle_cake
+neapolitan:blue_adzuki_candle_cake
+neapolitan:brown_adzuki_candle_cake
+neapolitan:cyan_adzuki_candle_cake
+neapolitan:gray_adzuki_candle_cake
+neapolitan:green_adzuki_candle_cake
+neapolitan:light_blue_adzuki_candle_cake
+neapolitan:light_gray_adzuki_candle_cake
+neapolitan:lime_adzuki_candle_cake
+neapolitan:magenta_adzuki_candle_cake
+neapolitan:orange_adzuki_candle_cake
+neapolitan:pink_adzuki_candle_cake
+neapolitan:purple_adzuki_candle_cake
+neapolitan:red_adzuki_candle_cake
+neapolitan:white_adzuki_candle_cake
+neapolitan:yellow_adzuki_candle_cake

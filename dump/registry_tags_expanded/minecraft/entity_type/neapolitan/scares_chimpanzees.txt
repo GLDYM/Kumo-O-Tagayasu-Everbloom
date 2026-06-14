@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: neapolitan:scares_chimpanzees
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1540561+08:00
+
+minecraft:dragon_fireball
+minecraft:evoker_fangs
+minecraft:fireball
+minecraft:firework_rocket
+minecraft:lightning_bolt
+minecraft:small_fireball
+minecraft:tnt
+minecraft:wither_skull

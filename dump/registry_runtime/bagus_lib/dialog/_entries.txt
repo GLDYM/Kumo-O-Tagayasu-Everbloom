@@ -1,0 +1,8 @@
+# Registry dump
+# Registry: bagus_lib:dialog
+# Minecraft: 1.21.1
+# Entries: 2
+# Generated: 2026-06-14T13:47:23.995492+08:00
+
+bagus_lib:test raw_id=0 class=bagu_chan.bagus_lib.client.dialog.DialogType
+bagus_lib:test_image raw_id=1 class=bagu_chan.bagus_lib.client.dialog.ImageDialogType

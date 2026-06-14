@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: integrated_api:collections/jungles
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.7714704+08:00
+
+atmospheric:rainforest
+atmospheric:rainforest_basin
+atmospheric:sparse_rainforest
+atmospheric:sparse_rainforest_basin
+minecraft:bamboo_jungle
+minecraft:jungle
+minecraft:sparse_jungle

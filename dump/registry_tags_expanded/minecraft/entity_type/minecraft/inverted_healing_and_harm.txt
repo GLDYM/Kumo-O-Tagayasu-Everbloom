@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: minecraft:inverted_healing_and_harm
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1285836+08:00
+
+irons_spellbooks:dead_king
+irons_spellbooks:necromancer
+iss_magicfromtheeast:jiangshi
+iss_magicfromtheeast:summoned_jiangshi
+minecraft:bogged
+minecraft:drowned
+minecraft:husk
+minecraft:phantom
+minecraft:skeleton
+minecraft:skeleton_horse
+minecraft:stray
+minecraft:wither
+minecraft:wither_skeleton
+minecraft:zoglin
+minecraft:zombie
+minecraft:zombie_horse
+minecraft:zombie_villager
+minecraft:zombified_piglin

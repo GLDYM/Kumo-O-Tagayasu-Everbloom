@@ -1,0 +1,41 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:buttons
+# Entries: 34
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.2973861+08:00
+
+atmospheric:aspen_button
+atmospheric:grimwood_button
+atmospheric:kousa_button
+atmospheric:laurel_button
+atmospheric:morado_button
+atmospheric:rosewood_button
+atmospheric:yucca_button
+copycats:copycat_stone_button
+copycats:copycat_wooden_button
+crabbersdelight:palm_button
+immortalers_delight:a_bush_button
+immortalers_delight:ancient_wood_button
+immortalers_delight:himekaido_button
+immortalers_delight:leisamboo_button
+immortalers_delight:pearlip_shell_button
+minecraft:acacia_button
+minecraft:bamboo_button
+minecraft:birch_button
+minecraft:cherry_button
+minecraft:crimson_button
+minecraft:dark_oak_button
+minecraft:jungle_button
+minecraft:mangrove_button
+minecraft:oak_button
+minecraft:polished_blackstone_button
+minecraft:spruce_button
+minecraft:stone_button
+minecraft:warped_button
+mynethersdelight:powdery_button
+quark:ancient_button
+quark:azalea_button
+quark:blossom_button
+quark:gold_button
+quark:iron_button

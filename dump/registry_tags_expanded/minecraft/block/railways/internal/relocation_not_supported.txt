@@ -1,0 +1,65 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: railways:internal/relocation_not_supported
+# Entries: 58
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.6859703+08:00
+
+railways:track_acacia
+railways:track_acacia_narrow
+railways:track_acacia_wide
+railways:track_bamboo
+railways:track_bamboo_narrow
+railways:track_bamboo_wide
+railways:track_birch
+railways:track_birch_narrow
+railways:track_birch_wide
+railways:track_blackstone
+railways:track_blackstone_narrow
+railways:track_blackstone_wide
+railways:track_cherry
+railways:track_cherry_narrow
+railways:track_cherry_wide
+railways:track_create_andesite_narrow
+railways:track_create_andesite_wide
+railways:track_crimson
+railways:track_crimson_narrow
+railways:track_crimson_wide
+railways:track_dark_oak
+railways:track_dark_oak_narrow
+railways:track_dark_oak_wide
+railways:track_ender
+railways:track_ender_narrow
+railways:track_ender_wide
+railways:track_jungle
+railways:track_jungle_narrow
+railways:track_jungle_wide
+railways:track_mangrove
+railways:track_mangrove_narrow
+railways:track_mangrove_wide
+railways:track_monorail
+railways:track_oak
+railways:track_oak_narrow
+railways:track_oak_wide
+railways:track_phantom
+railways:track_quark_ancient
+railways:track_quark_ancient_narrow
+railways:track_quark_ancient_wide
+railways:track_quark_azalea
+railways:track_quark_azalea_narrow
+railways:track_quark_azalea_wide
+railways:track_quark_blossom
+railways:track_quark_blossom_narrow
+railways:track_quark_blossom_wide
+railways:track_spruce
+railways:track_spruce_narrow
+railways:track_spruce_wide
+railways:track_stripped_bamboo
+railways:track_stripped_bamboo_narrow
+railways:track_stripped_bamboo_wide
+railways:track_tieless
+railways:track_tieless_narrow
+railways:track_tieless_wide
+railways:track_warped
+railways:track_warped_narrow
+railways:track_warped_wide

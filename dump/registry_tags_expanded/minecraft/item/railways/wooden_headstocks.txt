@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:wooden_headstocks
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.9172477+08:00
+
+railways:wooden_headstock
+railways:wooden_headstock_buffer
+railways:wooden_headstock_knuckle_coupler
+railways:wooden_headstock_link_and_pin
+railways:wooden_headstock_link_and_pin_linkless
+railways:wooden_headstock_screwlink_coupler
+railways:wooden_headstock_split_knuckle_coupler

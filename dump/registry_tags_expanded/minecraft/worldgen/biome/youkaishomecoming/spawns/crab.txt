@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: youkaishomecoming:spawns/crab
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1370578+08:00
+
+minecraft:beach
+minecraft:frozen_river
+minecraft:mangrove_swamp
+minecraft:river
+minecraft:snowy_beach
+minecraft:swamp

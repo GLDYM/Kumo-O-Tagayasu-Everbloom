@@ -1,0 +1,20 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:ores_in_ground/stone
+# Entries: 13
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.6480816+08:00
+
+create:zinc_ore
+createnuclear:lead_ore
+createnuclear:uranium_ore
+irons_spellbooks:mithril_ore
+iss_magicfromtheeast:jade_ore
+minecraft:coal_ore
+minecraft:copper_ore
+minecraft:diamond_ore
+minecraft:emerald_ore
+minecraft:gold_ore
+minecraft:iron_ore
+minecraft:lapis_ore
+minecraft:redstone_ore

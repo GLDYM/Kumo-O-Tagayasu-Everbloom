@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:instrument
+# Tag: minecraft:regular_goat_horns
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.3866997+08:00
+
+minecraft:feel_goat_horn
+minecraft:ponder_goat_horn
+minecraft:seek_goat_horn
+minecraft:sing_goat_horn

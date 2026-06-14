@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: youkaishomecoming:spawns/redbean
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1440691+08:00
+
+minecraft:bamboo_jungle
+minecraft:birch_forest
+minecraft:old_growth_birch_forest
+minecraft:sunflower_plains
+youkaishomecoming:animal_path
+youkaishomecoming:sakura_birch_forest

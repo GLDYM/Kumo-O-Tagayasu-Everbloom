@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: neapolitan:unaffected_by_slipping
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1577034+08:00
+
+neapolitan:chimpanzee
+neapolitan:plantain_spider

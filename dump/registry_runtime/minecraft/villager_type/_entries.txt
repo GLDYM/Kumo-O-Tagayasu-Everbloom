@@ -1,0 +1,16 @@
+# Registry dump
+# Registry: minecraft:villager_type
+# Minecraft: 1.21.1
+# Entries: 10
+# Generated: 2026-06-14T13:47:24.4555576+08:00
+
+atmospheric:scrubland raw_id=9 class=net.minecraft.world.entity.npc.VillagerType
+minecraft:desert raw_id=0 class=net.minecraft.world.entity.npc.VillagerType
+minecraft:jungle raw_id=1 class=net.minecraft.world.entity.npc.VillagerType
+minecraft:plains raw_id=2 class=net.minecraft.world.entity.npc.VillagerType
+minecraft:savanna raw_id=3 class=net.minecraft.world.entity.npc.VillagerType
+minecraft:snow raw_id=4 class=net.minecraft.world.entity.npc.VillagerType
+minecraft:swamp raw_id=5 class=net.minecraft.world.entity.npc.VillagerType
+minecraft:taiga raw_id=6 class=net.minecraft.world.entity.npc.VillagerType
+quark:beach raw_id=7 class=net.minecraft.world.entity.npc.VillagerType
+quark:ocean raw_id=8 class=net.minecraft.world.entity.npc.VillagerType

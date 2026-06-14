@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: accessories:hat
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4162338+08:00
+
+artifacts:anglers_hat
+artifacts:cowboy_hat
+artifacts:night_vision_goggles
+artifacts:novelty_drinking_hat
+artifacts:plastic_drinking_hat
+artifacts:snorkel
+artifacts:superstitious_hat
+artifacts:villager_hat
+artifacts:whoopee_cushion
+kaleidoscope_cookery:straw_hat
+kaleidoscope_cookery:straw_hat_flower

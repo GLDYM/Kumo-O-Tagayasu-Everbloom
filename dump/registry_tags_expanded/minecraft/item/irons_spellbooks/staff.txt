@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: irons_spellbooks:staff
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.8351837+08:00
+
+irons_spellbooks:artificer_cane
+irons_spellbooks:blood_staff
+irons_spellbooks:graybeard_staff
+irons_spellbooks:ice_staff
+irons_spellbooks:lightning_rod
+irons_spellbooks:pyrium_staff

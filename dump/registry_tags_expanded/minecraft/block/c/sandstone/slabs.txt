@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:sandstone/slabs
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.6691893+08:00
+
+atmospheric:arid_sandstone_slab
+atmospheric:cut_arid_sandstone_slab
+atmospheric:cut_red_arid_sandstone_slab
+atmospheric:red_arid_sandstone_slab
+atmospheric:smooth_arid_sandstone_slab
+atmospheric:smooth_red_arid_sandstone_slab
+minecraft:cut_red_sandstone_slab
+minecraft:cut_sandstone_slab
+minecraft:red_sandstone_slab
+minecraft:sandstone_slab
+minecraft:smooth_red_sandstone_slab
+minecraft:smooth_sandstone_slab

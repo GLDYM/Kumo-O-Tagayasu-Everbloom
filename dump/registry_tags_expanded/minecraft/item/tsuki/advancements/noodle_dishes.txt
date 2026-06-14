@@ -1,0 +1,44 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: tsuki:advancements/noodle_dishes
+# Entries: 37
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0951902+08:00
+
+tsuki:pasta_mushroom
+tsuki:pasta_tomato
+tsuki:pasta_whitesauce
+tsuki:ramen
+tsuki:ramen_beef
+tsuki:ramen_chicken
+tsuki:ramen_croquette
+tsuki:ramen_curry
+tsuki:ramen_egg
+tsuki:ramen_friedtofu
+tsuki:ramen_katsu
+tsuki:ramen_large
+tsuki:ramen_tempura
+tsuki:soba
+tsuki:soba_beef
+tsuki:soba_chicken
+tsuki:soba_croquette
+tsuki:soba_curry
+tsuki:soba_egg
+tsuki:soba_friedtofu
+tsuki:soba_katsu
+tsuki:soba_large
+tsuki:soba_tempura
+tsuki:soba_zaru
+tsuki:udon
+tsuki:udon_beef
+tsuki:udon_chicken
+tsuki:udon_croquette
+tsuki:udon_curry
+tsuki:udon_egg
+tsuki:udon_friedtofu
+tsuki:udon_katsu
+tsuki:udon_large
+tsuki:udon_tempura
+tsuki:yaki_pasta
+tsuki:yaki_soba
+tsuki:yaki_udon

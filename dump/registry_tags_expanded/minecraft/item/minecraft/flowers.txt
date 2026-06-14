@@ -1,0 +1,57 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:flowers
+# Entries: 50
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1313542+08:00
+
+atmospheric:firethorn
+atmospheric:flowering_morado_leaves
+atmospheric:forsythia
+atmospheric:gilia
+atmospheric:hot_monkey_brush
+atmospheric:scalding_monkey_brush
+atmospheric:tall_yucca_flower
+atmospheric:warm_monkey_brush
+atmospheric:water_hyacinth
+atmospheric:yellow_blossoms
+atmospheric:yucca_flower
+farmersdelight:wild_beetroots
+farmersdelight:wild_cabbages
+farmersdelight:wild_carrots
+farmersdelight:wild_onions
+farmersdelight:wild_potatoes
+farmersdelight:wild_rice
+farmersdelight:wild_tomatoes
+minecraft:allium
+minecraft:azure_bluet
+minecraft:blue_orchid
+minecraft:cherry_leaves
+minecraft:chorus_flower
+minecraft:cornflower
+minecraft:dandelion
+minecraft:flowering_azalea
+minecraft:flowering_azalea_leaves
+minecraft:lilac
+minecraft:lily_of_the_valley
+minecraft:mangrove_propagule
+minecraft:orange_tulip
+minecraft:oxeye_daisy
+minecraft:peony
+minecraft:pink_petals
+minecraft:pink_tulip
+minecraft:pitcher_plant
+minecraft:poppy
+minecraft:red_tulip
+minecraft:rose_bush
+minecraft:spore_blossom
+minecraft:sunflower
+minecraft:torchflower
+minecraft:white_tulip
+minecraft:wither_rose
+supplementaries:wild_flax
+tofucraft:tofu_flower
+vintagedelight:wild_cucumbers
+vintagedelight:wild_ghost_peppers
+vintagedelight:wild_oats
+vintagedelight:wild_peanuts

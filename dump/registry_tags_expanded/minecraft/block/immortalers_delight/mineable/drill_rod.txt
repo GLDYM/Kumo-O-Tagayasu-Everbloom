@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: immortalers_delight:mineable/drill_rod
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0984428+08:00
+
+immortalers_delight:long_spike_trap
+immortalers_delight:metal_caltrop
+immortalers_delight:poisonous_long_spike_trap
+immortalers_delight:poisonous_metal_caltrop
+immortalers_delight:poisonous_spike_trap
+immortalers_delight:spike_bar
+immortalers_delight:spike_bar_base
+immortalers_delight:spike_trap
+minecraft:reinforced_deepslate

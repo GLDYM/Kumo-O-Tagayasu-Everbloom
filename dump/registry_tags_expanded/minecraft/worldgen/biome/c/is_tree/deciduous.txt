@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: c:is_tree/deciduous
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.4481199+08:00
+
+minecraft:birch_forest
+minecraft:dark_forest
+minecraft:flower_forest
+minecraft:forest
+minecraft:old_growth_birch_forest
+minecraft:windswept_forest

@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:chicken_food
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0653504+08:00
+
+atmospheric:aloe_kernels
+corn_delight:corn
+corn_delight:corn_seeds
+corn_delight:corncob
+farmersdelight:cabbage_seeds
+farmersdelight:rice
+farmersdelight:tomato_seeds
+minecraft:beetroot_seeds
+minecraft:melon_seeds
+minecraft:pitcher_pod
+minecraft:pumpkin_seeds
+minecraft:torchflower_seeds
+minecraft:wheat_seeds
+neapolitan:strawberry_pips
+supplementaries:flax_seeds
+tofucraft:seeds_rice
+tofucraft:soybeans_parched

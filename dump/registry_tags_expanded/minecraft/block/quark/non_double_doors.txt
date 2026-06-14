@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: quark:non_double_doors
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.6605503+08:00
+
+supplementaries:gold_gate
+supplementaries:iron_gate

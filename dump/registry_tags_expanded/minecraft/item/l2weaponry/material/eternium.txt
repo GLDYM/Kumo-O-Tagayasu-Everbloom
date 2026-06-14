@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: l2weaponry:material/eternium
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.9684332+08:00
+
+l2weaponry:eternium_battle_axe
+l2weaponry:eternium_claw
+l2weaponry:eternium_dagger
+l2weaponry:eternium_hammer
+l2weaponry:eternium_javelin
+l2weaponry:eternium_machete
+l2weaponry:eternium_nunchaku
+l2weaponry:eternium_plate_shield
+l2weaponry:eternium_round_shield
+l2weaponry:eternium_scythe
+l2weaponry:eternium_spear
+l2weaponry:eternium_throwing_axe

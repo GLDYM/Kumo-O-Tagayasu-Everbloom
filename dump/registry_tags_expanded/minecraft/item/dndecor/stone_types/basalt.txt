@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:stone_types/basalt
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2937877+08:00
+
+dndecor:basalt_pillar
+dndecor:cut_basalt
+dndecor:cut_basalt_brick_stairs
+dndecor:cut_basalt_brick_wall
+dndecor:cut_basalt_bricks
+dndecor:cut_basalt_stairs
+dndecor:cut_basalt_wall
+dndecor:layered_basalt
+dndecor:polished_cut_basalt
+dndecor:polished_cut_basalt_stairs
+dndecor:polished_cut_basalt_wall
+dndecor:small_basalt_brick_stairs
+dndecor:small_basalt_brick_wall
+dndecor:small_basalt_bricks
+minecraft:basalt

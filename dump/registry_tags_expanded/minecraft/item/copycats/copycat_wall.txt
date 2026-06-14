@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: copycats:copycat_wall
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.9418095+08:00
+
+copycats:copycat_wall
+create_connected:copycat_wall

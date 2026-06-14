@@ -1,0 +1,27 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: handcrafted:crockery
+# Entries: 20
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.7450565+08:00
+
+handcrafted:blue_bowl
+handcrafted:blue_crockery_combo
+handcrafted:blue_cup
+handcrafted:blue_plate
+handcrafted:terracotta_bowl
+handcrafted:terracotta_crockery_combo
+handcrafted:terracotta_cup
+handcrafted:terracotta_plate
+handcrafted:white_bowl
+handcrafted:white_crockery_combo
+handcrafted:white_cup
+handcrafted:white_plate
+handcrafted:wood_bowl
+handcrafted:wood_crockery_combo
+handcrafted:wood_cup
+handcrafted:wood_plate
+handcrafted:yellow_bowl
+handcrafted:yellow_crockery_combo
+handcrafted:yellow_cup
+handcrafted:yellow_plate

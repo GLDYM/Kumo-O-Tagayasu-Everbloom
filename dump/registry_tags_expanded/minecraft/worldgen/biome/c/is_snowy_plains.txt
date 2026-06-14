@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: c:is_snowy_plains
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.4211976+08:00
+
+minecraft:snowy_plains

@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_cookery:only_stockpot_output_recipe
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.8812118+08:00
+
+corn_delight:corn_dog
+corn_delight:corn_soup
+corn_delight:cornbread_stuffing
+corn_delight:creamed_corn
+corn_delight:creamy_corn_drink
+corn_delight:nachos_block
+farmersdelight:fried_rice
+farmersdelight:pumpkin_soup
+pineapple_delight:pineapple_fried_rice
+pineapple_delight:pineapple_ice_cream
+pineapple_delight:pineapple_milk_shake
+trailandtales_delight:ancient_coffee
+trailandtales_delight:cherry_petal_tea
+trailandtales_delight:pitcher_plant_tea
+trailandtales_delight:torchflower_tea

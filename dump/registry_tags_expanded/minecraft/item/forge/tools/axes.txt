@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: forge:tools/axes
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.6985909+08:00
+
+minecraft:diamond_axe
+minecraft:golden_axe
+minecraft:iron_axe
+minecraft:netherite_axe
+minecraft:stone_axe
+minecraft:wooden_axe

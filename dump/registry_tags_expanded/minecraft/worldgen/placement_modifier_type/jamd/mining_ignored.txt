@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/placement_modifier_type
+# Tag: jamd:mining_ignored
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1606182+08:00
+
+create:config_filter

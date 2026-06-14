@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: supplementaries:un_rotatable
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.7996896+08:00
+
+create:belt
+create:track
+minecraft:chain_command_block
+minecraft:command_block
+minecraft:end_portal_frame
+minecraft:jigsaw
+minecraft:moving_piston
+minecraft:repeating_command_block
+minecraft:structure_block
+supplementaries:moving_slidy_block_source

@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: trinkets:head/hat
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0866328+08:00
+
+artifacts:anglers_hat
+artifacts:cowboy_hat
+artifacts:night_vision_goggles
+artifacts:novelty_drinking_hat
+artifacts:plastic_drinking_hat
+artifacts:snorkel
+artifacts:superstitious_hat
+artifacts:villager_hat

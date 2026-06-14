@@ -1,0 +1,50 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:standing_signs
+# Entries: 43
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.5269577+08:00
+
+atmospheric:aspen_sign
+atmospheric:grimwood_sign
+atmospheric:kousa_sign
+atmospheric:laurel_sign
+atmospheric:morado_sign
+atmospheric:rosewood_sign
+atmospheric:yucca_sign
+crabbersdelight:palm_sign
+farmersdelight:black_canvas_sign
+farmersdelight:blue_canvas_sign
+farmersdelight:brown_canvas_sign
+farmersdelight:canvas_sign
+farmersdelight:cyan_canvas_sign
+farmersdelight:gray_canvas_sign
+farmersdelight:green_canvas_sign
+farmersdelight:light_blue_canvas_sign
+farmersdelight:light_gray_canvas_sign
+farmersdelight:lime_canvas_sign
+farmersdelight:magenta_canvas_sign
+farmersdelight:orange_canvas_sign
+farmersdelight:pink_canvas_sign
+farmersdelight:purple_canvas_sign
+farmersdelight:red_canvas_sign
+farmersdelight:white_canvas_sign
+farmersdelight:yellow_canvas_sign
+minecraft:acacia_sign
+minecraft:bamboo_sign
+minecraft:birch_sign
+minecraft:cherry_sign
+minecraft:crimson_sign
+minecraft:dark_oak_sign
+minecraft:jungle_sign
+minecraft:mangrove_sign
+minecraft:oak_sign
+minecraft:spruce_sign
+minecraft:warped_sign
+mynethersdelight:powdery_sign
+quark:ancient_sign
+quark:azalea_sign
+quark:blossom_sign
+tofucraft:leek_green_sign
+tofucraft:leek_sign
+tofucraft:tofustem_sign

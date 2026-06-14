@@ -1,0 +1,29 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: fruitsdelight:jello
+# Entries: 22
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.7099705+08:00
+
+fruitsdelight:apple_jello
+fruitsdelight:bayberry_jello
+fruitsdelight:blueberry_jello
+fruitsdelight:chorus_jello
+fruitsdelight:cranberry_jello
+fruitsdelight:durian_jello
+fruitsdelight:fig_jello
+fruitsdelight:glowberry_jello
+fruitsdelight:hamimelon_jello
+fruitsdelight:hawberry_jello
+fruitsdelight:kiwi_jello
+fruitsdelight:lemon_jello
+fruitsdelight:lychee_jello
+fruitsdelight:mango_jello
+fruitsdelight:mangosteen_jello
+fruitsdelight:melon_jello
+fruitsdelight:orange_jello
+fruitsdelight:peach_jello
+fruitsdelight:pear_jello
+fruitsdelight:persimmon_jello
+fruitsdelight:pineapple_jello
+fruitsdelight:sweetberry_jello

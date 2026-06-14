@@ -1,0 +1,37 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:decorated_pot_sherds
+# Entries: 30
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0868406+08:00
+
+atmospheric:scythe_pottery_sherd
+atmospheric:succulent_pottery_sherd
+atmospheric:sun_pottery_sherd
+minecraft:angler_pottery_sherd
+minecraft:archer_pottery_sherd
+minecraft:arms_up_pottery_sherd
+minecraft:blade_pottery_sherd
+minecraft:brewer_pottery_sherd
+minecraft:burn_pottery_sherd
+minecraft:danger_pottery_sherd
+minecraft:explorer_pottery_sherd
+minecraft:flow_pottery_sherd
+minecraft:friend_pottery_sherd
+minecraft:guster_pottery_sherd
+minecraft:heart_pottery_sherd
+minecraft:heartbreak_pottery_sherd
+minecraft:howl_pottery_sherd
+minecraft:miner_pottery_sherd
+minecraft:mourner_pottery_sherd
+minecraft:plenty_pottery_sherd
+minecraft:prize_pottery_sherd
+minecraft:scrape_pottery_sherd
+minecraft:sheaf_pottery_sherd
+minecraft:shelter_pottery_sherd
+minecraft:skull_pottery_sherd
+minecraft:snort_pottery_sherd
+neapolitan:reflection_pottery_sherd
+neapolitan:scream_pottery_sherd
+neapolitan:snack_pottery_sherd
+neapolitan:spider_pottery_sherd

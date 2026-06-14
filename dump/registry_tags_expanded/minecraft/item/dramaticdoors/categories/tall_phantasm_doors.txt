@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dramaticdoors:categories/tall_phantasm_doors
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.5167632+08:00
+

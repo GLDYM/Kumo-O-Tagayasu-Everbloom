@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: minecraft:no_anger_from_wind_charge
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1295818+08:00
+
+minecraft:bogged
+minecraft:breeze
+minecraft:cave_spider
+minecraft:husk
+minecraft:skeleton
+minecraft:slime
+minecraft:spider
+minecraft:stray
+minecraft:zombie

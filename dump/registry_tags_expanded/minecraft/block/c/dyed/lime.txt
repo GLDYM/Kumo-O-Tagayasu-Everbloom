@@ -1,0 +1,28 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:dyed/lime
+# Entries: 21
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.5318423+08:00
+
+handcrafted:lime_cushion
+minecraft:lime_banner
+minecraft:lime_bed
+minecraft:lime_candle
+minecraft:lime_carpet
+minecraft:lime_concrete
+minecraft:lime_concrete_powder
+minecraft:lime_glazed_terracotta
+minecraft:lime_shulker_box
+minecraft:lime_stained_glass
+minecraft:lime_stained_glass_pane
+minecraft:lime_terracotta
+minecraft:lime_wall_banner
+minecraft:lime_wool
+supplementaries:awning_lime
+supplementaries:bunting_lime
+supplementaries:bunting_wall_lime
+supplementaries:candle_holder_lime
+supplementaries:flag_lime
+supplementaries:present_lime
+supplementaries:trapped_present_lime

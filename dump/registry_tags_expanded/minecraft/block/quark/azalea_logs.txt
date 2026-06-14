@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: quark:azalea_logs
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.6344066+08:00
+
+quark:azalea_log
+quark:azalea_wood
+quark:stripped_azalea_log
+quark:stripped_azalea_wood

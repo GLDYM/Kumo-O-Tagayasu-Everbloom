@@ -1,0 +1,64 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: handcrafted:chests
+# Entries: 57
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.7370498+08:00
+
+atmospheric:aspen_chest
+atmospheric:grimwood_chest
+atmospheric:kousa_chest
+atmospheric:laurel_chest
+atmospheric:morado_chest
+atmospheric:rosewood_chest
+atmospheric:trapped_aspen_chest
+atmospheric:trapped_grimwood_chest
+atmospheric:trapped_kousa_chest
+atmospheric:trapped_laurel_chest
+atmospheric:trapped_morado_chest
+atmospheric:trapped_rosewood_chest
+atmospheric:trapped_yucca_chest
+atmospheric:yucca_chest
+minecraft:chest
+minecraft:ender_chest
+minecraft:trapped_chest
+quark:acacia_chest
+quark:ancient_chest
+quark:azalea_chest
+quark:bamboo_chest
+quark:birch_chest
+quark:blossom_chest
+quark:cherry_chest
+quark:crimson_chest
+quark:dark_oak_chest
+quark:jungle_chest
+quark:mangrove_chest
+quark:nether_brick_chest
+quark:oak_chest
+quark:prismarine_chest
+quark:purpur_chest
+quark:spruce_chest
+quark:trapped_acacia_chest
+quark:trapped_ancient_chest
+quark:trapped_azalea_chest
+quark:trapped_bamboo_chest
+quark:trapped_birch_chest
+quark:trapped_blossom_chest
+quark:trapped_cherry_chest
+quark:trapped_crimson_chest
+quark:trapped_dark_oak_chest
+quark:trapped_jungle_chest
+quark:trapped_mangrove_chest
+quark:trapped_nether_brick_chest
+quark:trapped_oak_chest
+quark:trapped_prismarine_chest
+quark:trapped_purpur_chest
+quark:trapped_spruce_chest
+quark:trapped_warped_chest
+quark:warped_chest
+sophisticatedstorage:chest
+sophisticatedstorage:copper_chest
+sophisticatedstorage:diamond_chest
+sophisticatedstorage:gold_chest
+sophisticatedstorage:iron_chest
+sophisticatedstorage:netherite_chest

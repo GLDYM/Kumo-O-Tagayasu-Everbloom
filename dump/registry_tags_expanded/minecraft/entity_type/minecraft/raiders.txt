@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: minecraft:raiders
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1366812+08:00
+
+minecraft:evoker
+minecraft:illusioner
+minecraft:pillager
+minecraft:ravager
+minecraft:vindicator
+minecraft:witch
+supplementaries:plunderer

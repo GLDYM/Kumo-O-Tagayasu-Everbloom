@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "quark:diorite_vertical_slab"
+    }
+  ],
+  "results": [
+    {
+      "id": "quark:polished_diorite_vertical_slab"
+    }
+  ]
+}

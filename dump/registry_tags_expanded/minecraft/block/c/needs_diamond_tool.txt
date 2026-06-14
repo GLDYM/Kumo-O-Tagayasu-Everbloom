@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:needs_diamond_tool
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.6053329+08:00
+
+quark:ender_watcher
+quark:matrix_enchanter
+quark:myalite_crystal
+quark:obsidian_pressure_plate

@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:fluid
+# Tag: c:hidden_from_recipe_viewers
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.3058663+08:00
+

@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "create_deepfried:corn_dog",                 "required": false },
+    { "id": "create_deepfried:chicken_nuggets",          "required": false },
+    { "id": "create_deepfried:yuca_fries",               "required": false },
+    { "id": "create_deepfried:springroll",               "required": false },
+    { "id": "create_deepfried:tempura",                  "required": false },
+    { "id": "create_deepfried:calamari",                 "required": false },
+    { "id": "create_deepfried:apfelkuchle",              "required": false },
+    { "id": "create_deepfried:berliner",                 "required": false },
+    { "id": "create_deepfried:deepfried_chocolate_bar",  "required": false },
+    { "id": "create_deepfried:fried_chicken",            "required": false },
+    { "id": "create_deepfried:panzerotto",               "required": false },
+    { "id": "create_deepfried:onion_rings",              "required": false },
+    { "id": "create_deepfried:blooming_onion",           "required": false }
+  ]
+}

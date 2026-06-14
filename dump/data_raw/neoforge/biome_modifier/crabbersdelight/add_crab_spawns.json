@@ -1,0 +1,13 @@
+{
+  "type": "crabbersdelight:conditional_spawn",
+  "biomes": [
+    "minecraft:mangrove_swamp",
+    "minecraft:swamp",
+    "minecraft:beach",
+    "minecraft:stony_shore",
+    "minecraft:snowy_beach"
+  ],
+  "category": "creature",
+  "config_key": "crab_spawns",
+  "entity_type": "crabbersdelight:crab"
+}

@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: youkaishomecoming:touhou_hat
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.2373902+08:00
+
+youkaishomecoming:cirno_hairband
+youkaishomecoming:koishi_hat
+youkaishomecoming:reimu_hairband
+youkaishomecoming:rumia_hairband
+youkaishomecoming:suwako_hat

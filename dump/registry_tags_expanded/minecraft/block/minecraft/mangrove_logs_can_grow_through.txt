@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:mangrove_logs_can_grow_through
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.4394174+08:00
+
+minecraft:mangrove_leaves
+minecraft:mangrove_log
+minecraft:mangrove_propagule
+minecraft:mangrove_roots
+minecraft:moss_carpet
+minecraft:mud
+minecraft:muddy_mangrove_roots
+minecraft:vine
+quark:cut_vine

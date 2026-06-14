@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: sereneseasons:winter_crops
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.935324+08:00
+
+delighto_flight:cloud_berries
+farmersdelight:cabbage_seeds
+fruitsdelight:hawberry_sapling
+fruitsdelight:kiwi_sapling
+fruitsdelight:persimmon_sapling
+vintagedelight:gearo_berry
+vintagedelight:oat_seeds
+vintagedelight:peanut

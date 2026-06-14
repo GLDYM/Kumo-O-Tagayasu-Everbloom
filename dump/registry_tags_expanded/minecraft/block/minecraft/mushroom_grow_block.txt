@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:mushroom_grow_block
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.4596509+08:00
+
+delighto_flight:weather_soil
+farmersdelight:organic_compost
+farmersdelight:rich_soil
+minecraft:crimson_nylium
+minecraft:mycelium
+minecraft:podzol
+minecraft:warped_nylium
+mynethersdelight:letios_compost
+mynethersdelight:resurgent_soil
+mynethersdelight:resurgent_soil_farmland
+supplementaries:planter
+vintagedelight:lush_grass_block

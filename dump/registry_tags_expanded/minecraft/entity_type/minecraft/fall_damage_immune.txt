@@ -1,0 +1,30 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: minecraft:fall_damage_immune
+# Entries: 23
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1140327+08:00
+
+createnuclear:irradiated_cat
+createnuclear:irradiated_chicken
+dummmmmmy:target_dummy
+minecraft:allay
+minecraft:bat
+minecraft:bee
+minecraft:blaze
+minecraft:breeze
+minecraft:cat
+minecraft:chicken
+minecraft:ghast
+minecraft:iron_golem
+minecraft:magma_cube
+minecraft:ocelot
+minecraft:parrot
+minecraft:phantom
+minecraft:shulker
+minecraft:snow_golem
+minecraft:wither
+tofucraft:shudofuspider
+tofucraft:tofu_gandlem
+tofucraft:tofu_golem
+touhou_little_maid:fairy

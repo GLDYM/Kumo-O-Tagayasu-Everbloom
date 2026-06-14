@@ -1,0 +1,26 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: farmersdelight:wild_crops
+# Entries: 19
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0065883+08:00
+
+corn_delight:wild_corn
+farmersdelight:wild_beetroots
+farmersdelight:wild_cabbages
+farmersdelight:wild_carrots
+farmersdelight:wild_onions
+farmersdelight:wild_potatoes
+farmersdelight:wild_rice
+farmersdelight:wild_tomatoes
+mynethersdelight:bullet_pepper
+youkaishomecoming:wild_black_grape
+youkaishomecoming:wild_coffea
+youkaishomecoming:wild_cucumber
+youkaishomecoming:wild_mandrake
+youkaishomecoming:wild_red_grape
+youkaishomecoming:wild_redbean
+youkaishomecoming:wild_soybean
+youkaishomecoming:wild_tea
+youkaishomecoming:wild_udumbara
+youkaishomecoming:wild_white_grape

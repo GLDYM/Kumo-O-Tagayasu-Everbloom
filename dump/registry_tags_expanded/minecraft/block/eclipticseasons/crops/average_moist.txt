@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: eclipticseasons:crops/average_moist
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9685144+08:00
+
+kaleidoscope_cookery:chili_crop
+kaleidoscope_cookery:lettuce_crop
+kaleidoscope_cookery:tomato_crop
+kaleidoscope_tavern:gold_grape_crop
+kaleidoscope_tavern:gold_grapevine_trellis
+kaleidoscope_tavern:grape_crop
+kaleidoscope_tavern:grapevine_trellis
+kaleidoscope_tavern:ice_grape_crop
+kaleidoscope_tavern:ice_grapevine_trellis

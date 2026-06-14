@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: c:is_dry
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.363278+08:00
+
+minecraft:badlands
+minecraft:basalt_deltas
+minecraft:crimson_forest
+minecraft:desert
+minecraft:end_barrens
+minecraft:end_highlands
+minecraft:end_midlands
+minecraft:eroded_badlands
+minecraft:nether_wastes
+minecraft:savanna
+minecraft:savanna_plateau
+minecraft:small_end_islands
+minecraft:soul_sand_valley
+minecraft:the_end
+minecraft:warped_forest
+minecraft:windswept_savanna
+minecraft:wooded_badlands

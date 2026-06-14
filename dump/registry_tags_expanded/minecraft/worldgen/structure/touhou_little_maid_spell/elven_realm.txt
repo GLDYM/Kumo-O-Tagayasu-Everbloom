@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: touhou_little_maid_spell:elven_realm
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.2614109+08:00
+
+touhou_little_maid_spell:elven_realm

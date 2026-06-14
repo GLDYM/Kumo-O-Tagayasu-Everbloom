@@ -1,0 +1,71 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: minecraft:bypasses_shield
+# Entries: 64
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9041725+08:00
+
+brewinandchewin:cardiac_arrest
+create:crush
+create:fan_fire
+create:fan_lava
+create:mechanical_drill
+create:mechanical_saw
+danmaku_api:abyssal_danmaku
+danmaku_api:danmaku
+delighto_flight:shock
+immortalers_delight:drunk
+immortalers_delight:gas
+immortalers_delight:moon_arrow
+iss_magicfromtheeast:soul_damage
+iss_magicfromtheeast:soul_weapons_bonus
+iss_magicfromtheeast:spirit_arrow
+l2complements:bleed
+l2complements:freeze
+l2complements:life_sync
+l2complements:soul_flame
+l2complements:void_eye
+l2damagetracker:mob_attack-bypass_armor
+l2damagetracker:mob_attack-bypass_armor-bypass_cooldown
+l2damagetracker:mob_attack-bypass_armor-bypass_cooldown-bypass_magic
+l2damagetracker:mob_attack-bypass_armor-bypass_magic
+l2damagetracker:player_attack-bypass_armor
+l2damagetracker:player_attack-bypass_armor-bypass_cooldown
+l2damagetracker:player_attack-bypass_armor-bypass_cooldown-bypass_magic
+l2damagetracker:player_attack-bypass_armor-bypass_magic
+l2weaponry:mob_attack-bypass_armor-bypass_magic-no_anger
+l2weaponry:mob_attack-bypass_armor-no_anger
+l2weaponry:player_attack-bypass_armor-bypass_magic-no_anger
+l2weaponry:player_attack-bypass_armor-no_anger
+l2weaponry:trident-bypass_armor
+l2weaponry:trident-bypass_armor-bypass_magic
+l2weaponry:trident-bypass_armor-bypass_magic-no_anger
+l2weaponry:trident-bypass_armor-bypass_magic-no_anger-no_projectile
+l2weaponry:trident-bypass_armor-bypass_magic-no_projectile
+l2weaponry:trident-bypass_armor-no_anger
+l2weaponry:trident-bypass_armor-no_anger-no_projectile
+l2weaponry:trident-bypass_armor-no_projectile
+minecraft:cramming
+minecraft:dragon_breath
+minecraft:drown
+minecraft:fall
+minecraft:falling_anvil
+minecraft:falling_stalactite
+minecraft:fly_into_wall
+minecraft:freeze
+minecraft:generic
+minecraft:generic_kill
+minecraft:in_wall
+minecraft:indirect_magic
+minecraft:magic
+minecraft:on_fire
+minecraft:out_of_world
+minecraft:outside_border
+minecraft:sonic_boom
+minecraft:stalagmite
+minecraft:starve
+minecraft:wither
+neoforge:poison
+supplementaries:bamboo_spikes
+supplementaries:xp_extracting
+tofucraft:zunda

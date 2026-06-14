@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: supplementaries:can_dismount_boats
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1662451+08:00
+
+immortalers_delight:scavenger
+minecraft:blaze
+minecraft:breeze
+minecraft:enderman
+minecraft:evoker
+minecraft:illusioner
+minecraft:pillager
+minecraft:ravager
+minecraft:vex
+minecraft:vindicator
+minecraft:witch
+supplementaries:plunderer

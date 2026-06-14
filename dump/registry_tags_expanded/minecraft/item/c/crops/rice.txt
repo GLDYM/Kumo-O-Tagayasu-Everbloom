@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:crops/rice
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.9093669+08:00
+
+farmersdelight:rice
+kaleidoscope_cookery:rice
+mynethersdelight:ghasmati
+tofucraft:rice
+tsuki:rice_seeds

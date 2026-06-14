@@ -1,0 +1,51 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:fruits
+# Entries: 44
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.2361134+08:00
+
+atmospheric:blood_orange
+atmospheric:currant
+atmospheric:yucca_fruit
+fruitsdelight:blueberry
+fruitsdelight:cranberry
+fruitsdelight:durian_flesh
+fruitsdelight:hamimelon_slice
+fruitsdelight:hawberry
+fruitsdelight:lemon
+fruitsdelight:lemon_slice
+fruitsdelight:lychee
+fruitsdelight:mango
+fruitsdelight:orange
+fruitsdelight:peach
+fruitsdelight:pear
+fruitsdelight:persimmon
+fruitsdelight:pineapple
+fruitsdelight:pineapple_slice
+immortalers_delight:himekaido
+kaleidoscope_dim_wine:crimson_grape
+kaleidoscope_dim_wine:dreamfruit
+kaleidoscope_dim_wine:warped_grape
+kaleidoscope_end:dream_berry
+kaleidoscope_nether:crimson_fruit
+kaleidoscope_nether:poisonous_fruit
+kaleidoscope_nether:warped_fruit
+minecraft:apple
+minecraft:chorus_fruit
+minecraft:glow_berries
+minecraft:melon_slice
+minecraft:sweet_berries
+pineapple_delight:golden_pineapple
+pineapple_delight:pineapple
+pineapple_delight:pineapple_side
+tofucraft:apricot
+tsuki:chestnut
+tsuki:grape
+tsuki:grape_green
+tsuki:lemon
+tsuki:lime
+vintagedelight:gearo_berry
+youkaishomecoming:black_grape
+youkaishomecoming:red_grape
+youkaishomecoming:white_grape

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: lootr:convert/item_frames
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0894838+08:00
+
+minecraft:glow_item_frame
+minecraft:item_frame

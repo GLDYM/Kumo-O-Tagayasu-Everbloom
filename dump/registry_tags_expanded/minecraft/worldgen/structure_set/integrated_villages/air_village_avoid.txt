@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure_set
+# Tag: integrated_villages:air_village_avoid
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.2941307+08:00
+
+integrated_villages:regular_villages
+minecraft:villages

@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: farmersdelight:pies
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.605525+08:00
+
+farmersdelight:apple_pie
+farmersdelight:chocolate_pie
+farmersdelight:sweet_berry_cheesecake
+minecraft:pumpkin_pie

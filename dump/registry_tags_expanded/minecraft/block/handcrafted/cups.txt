@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: handcrafted:cups
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0648115+08:00
+
+handcrafted:blue_cup
+handcrafted:terracotta_cup
+handcrafted:white_cup
+handcrafted:wood_cup
+handcrafted:yellow_cup

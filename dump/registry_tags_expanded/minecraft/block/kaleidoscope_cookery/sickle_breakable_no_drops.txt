@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: kaleidoscope_cookery:sickle_breakable_no_drops
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.1348186+08:00
+

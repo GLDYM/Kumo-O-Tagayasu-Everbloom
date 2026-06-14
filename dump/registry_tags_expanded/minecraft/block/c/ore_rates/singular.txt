@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:ore_rates/singular
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.6237903+08:00
+
+minecraft:ancient_debris
+minecraft:coal_ore
+minecraft:deepslate_coal_ore
+minecraft:deepslate_diamond_ore
+minecraft:deepslate_emerald_ore
+minecraft:deepslate_gold_ore
+minecraft:deepslate_iron_ore
+minecraft:diamond_ore
+minecraft:emerald_ore
+minecraft:gold_ore
+minecraft:iron_ore
+minecraft:nether_quartz_ore

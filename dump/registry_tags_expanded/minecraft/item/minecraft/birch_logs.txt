@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:birch_logs
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0475538+08:00
+
+minecraft:birch_log
+minecraft:birch_wood
+minecraft:stripped_birch_log
+minecraft:stripped_birch_wood

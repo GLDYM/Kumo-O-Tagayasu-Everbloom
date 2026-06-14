@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: quark:pickarang_enchantments
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0264171+08:00
+
+minecraft:efficiency
+minecraft:fortune
+minecraft:piercing
+minecraft:silk_touch
+minecraft:unbreaking

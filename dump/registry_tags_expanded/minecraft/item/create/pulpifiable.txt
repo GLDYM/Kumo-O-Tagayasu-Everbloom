@@ -1,0 +1,57 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:pulpifiable
+# Entries: 50
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.9995751+08:00
+
+atmospheric:aspen_sapling
+atmospheric:currant_seedling
+atmospheric:dry_laurel_sapling
+atmospheric:green_aspen_sapling
+atmospheric:grimwood_sapling
+atmospheric:kousa_sapling
+atmospheric:laurel_sapling
+atmospheric:morado_sapling
+atmospheric:rosewood_sapling
+atmospheric:yucca_sapling
+crabbersdelight:palm_sapling
+fruitsdelight:apple_sapling
+fruitsdelight:bayberry_sapling
+fruitsdelight:durian_sapling
+fruitsdelight:fig_sapling
+fruitsdelight:hawberry_sapling
+fruitsdelight:kiwi_sapling
+fruitsdelight:lychee_sapling
+fruitsdelight:mango_sapling
+fruitsdelight:mangosteen_sapling
+fruitsdelight:orange_sapling
+fruitsdelight:peach_sapling
+fruitsdelight:pear_sapling
+fruitsdelight:persimmon_sapling
+immortalers_delight:travarice
+minecraft:acacia_sapling
+minecraft:azalea
+minecraft:bamboo
+minecraft:birch_sapling
+minecraft:cherry_sapling
+minecraft:dark_oak_sapling
+minecraft:flowering_azalea
+minecraft:jungle_sapling
+minecraft:mangrove_propagule
+minecraft:oak_sapling
+minecraft:spruce_sapling
+minecraft:sugar_cane
+quark:ancient_sapling
+quark:blue_blossom_sapling
+quark:lavender_blossom_sapling
+quark:orange_blossom_sapling
+quark:red_blossom_sapling
+quark:yellow_blossom_sapling
+tsuki:maple_sapling_green
+tsuki:maple_sapling_orange
+tsuki:maple_sapling_red
+tsuki:maple_sapling_yellow
+tsuki:sakura_sapling
+tsuki:ume_sapling
+vintagedelight:magic_peanut

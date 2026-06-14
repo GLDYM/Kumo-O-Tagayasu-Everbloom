@@ -1,0 +1,13 @@
+# Registry dump
+# Registry: supplementaries:slot_reference_type
+# Minecraft: 1.21.1
+# Entries: 7
+# Generated: 2026-06-14T13:47:24.6399787+08:00
+
+supplementaries:curio raw_id=5 class=net.minecraft.network.codec.StreamCodec$8
+supplementaries:empty raw_id=2 class=net.minecraft.network.codec.StreamCodec$3
+supplementaries:eq_slot raw_id=3 class=net.minecraft.network.codec.StreamCodec$4
+supplementaries:hand raw_id=0 class=net.minecraft.network.codec.StreamCodec$4
+supplementaries:inv raw_id=1 class=net.minecraft.network.codec.StreamCodec$4
+supplementaries:mod_cap raw_id=6 class=net.minecraft.network.codec.StreamCodec$4
+supplementaries:quiver raw_id=4 class=net.minecraft.network.codec.StreamCodec$3

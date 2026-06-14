@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: atmospheric:smelts_to_arid_glass
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4765562+08:00
+
+atmospheric:arid_sand
+atmospheric:red_arid_sand

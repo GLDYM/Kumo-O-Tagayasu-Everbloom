@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/raw_hoglin
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.1795566+08:00
+
+mynethersdelight:hoglin_loin
+mynethersdelight:hoglin_sausage

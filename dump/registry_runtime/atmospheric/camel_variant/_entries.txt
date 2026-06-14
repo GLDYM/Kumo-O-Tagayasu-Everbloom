@@ -1,0 +1,9 @@
+# Registry dump
+# Registry: atmospheric:camel_variant
+# Minecraft: 1.21.1
+# Entries: 3
+# Generated: 2026-06-14T13:47:23.9902535+08:00
+
+atmospheric:arid raw_id=0 class=com.teamabnormals.atmospheric.common.entity.CamelVariant
+atmospheric:desert raw_id=1 class=com.teamabnormals.atmospheric.common.entity.CamelVariant
+atmospheric:hybrid raw_id=2 class=com.teamabnormals.atmospheric.common.entity.CamelVariant

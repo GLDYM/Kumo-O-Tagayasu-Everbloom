@@ -1,0 +1,11 @@
+# Raw resource rule dump summary
+# Mod ID: registry_dumper_3000
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:45.2997226+08:00
+
+# Rule name: Banner pattern (optional/version-dependent)
+# Side: data/server
+# Source prefix: banner_pattern
+# Files written: 48
+# Stack files written (optional): 0
+# Path collisions observed: 0

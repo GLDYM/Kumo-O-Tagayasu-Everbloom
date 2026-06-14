@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:game_event
+# Tag: minecraft:ignore_vibrations_sneaking
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.3766522+08:00
+
+minecraft:hit_ground
+minecraft:item_interact_finish
+minecraft:item_interact_start
+minecraft:projectile_shoot
+minecraft:step
+minecraft:swim

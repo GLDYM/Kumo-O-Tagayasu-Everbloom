@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: integrated_villages:collections/end_island_land
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.8293386+08:00
+
+minecraft:end_barrens
+minecraft:end_highlands
+minecraft:end_midlands
+minecraft:small_end_islands
+minecraft:the_end

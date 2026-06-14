@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dramaticdoors:categories/short_createdeco_doors
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.367745+08:00
+
+dramaticdoors:short_andesite_door
+dramaticdoors:short_brass_door
+dramaticdoors:short_copper_door
+dramaticdoors:short_locked_andesite_door
+dramaticdoors:short_locked_brass_door
+dramaticdoors:short_locked_zinc_door
+dramaticdoors:short_zinc_door

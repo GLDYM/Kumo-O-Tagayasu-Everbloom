@@ -1,0 +1,17 @@
+# Registry dump
+# Registry: obscure_tooltips:item_filter_type
+# Minecraft: 1.21.1
+# Entries: 11
+# Generated: 2026-06-14T13:45:01.5547133+08:00
+
+obscure_tooltips:all_of raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+obscure_tooltips:always raw_id=0 class=com.mojang.serialization.MapCodec$2
+obscure_tooltips:any_of raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+obscure_tooltips:enchantment raw_id=7 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+obscure_tooltips:item raw_id=5 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+obscure_tooltips:mod raw_id=6 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+obscure_tooltips:nbt raw_id=9 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+obscure_tooltips:never raw_id=1 class=com.mojang.serialization.MapCodec$2
+obscure_tooltips:none_of raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+obscure_tooltips:property raw_id=10 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+obscure_tooltips:rarity raw_id=8 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

@@ -1,0 +1,21 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: origins:meat
+# Entries: 14
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.325208+08:00
+
+artifacts:eternal_steak
+artifacts:everlasting_beef
+brewinandchewin:cheesy_pasta
+brewinandchewin:fiery_fondue
+brewinandchewin:ham_and_cheese_sandwich
+brewinandchewin:horror_lasagna
+brewinandchewin:jerky
+brewinandchewin:kippers
+farmersdelight:bacon_and_eggs
+farmersdelight:cod_slice
+farmersdelight:cooked_cod_slice
+farmersdelight:cooked_salmon_slice
+farmersdelight:fried_egg
+farmersdelight:salmon_slice

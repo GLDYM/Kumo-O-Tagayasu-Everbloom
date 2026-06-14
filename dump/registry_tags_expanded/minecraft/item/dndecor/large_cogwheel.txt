@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:large_cogwheel
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2756514+08:00
+
+dndecor:black_large_cogwheel
+dndecor:blue_large_cogwheel
+dndecor:brown_large_cogwheel
+dndecor:cyan_large_cogwheel
+dndecor:gray_large_cogwheel
+dndecor:green_large_cogwheel
+dndecor:large_dark_metal_cogwheel
+dndecor:light_blue_large_cogwheel
+dndecor:light_gray_large_cogwheel
+dndecor:lime_large_cogwheel
+dndecor:magenta_large_cogwheel
+dndecor:orange_large_cogwheel
+dndecor:pink_large_cogwheel
+dndecor:purple_large_cogwheel
+dndecor:red_large_cogwheel
+dndecor:white_large_cogwheel
+dndecor:yellow_large_cogwheel

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: atmospheric:cochineals_can_feed_on
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.4129231+08:00
+
+atmospheric:snowy_cactus
+minecraft:cactus

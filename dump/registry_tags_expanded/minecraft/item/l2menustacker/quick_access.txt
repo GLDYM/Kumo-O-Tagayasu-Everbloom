@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: l2menustacker:quick_access
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.9451709+08:00
+
+l2complements:eternal_anvil
+minecraft:cartography_table
+minecraft:crafting_table
+minecraft:grindstone
+minecraft:loom
+minecraft:smithing_table
+minecraft:stonecutter

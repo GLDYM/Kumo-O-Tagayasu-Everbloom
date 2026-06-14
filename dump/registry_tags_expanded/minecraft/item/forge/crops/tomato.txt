@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: forge:crops/tomato
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.6490022+08:00
+
+bakeries:tomato
+farmersdelight:rotten_tomato
+farmersdelight:tomato
+kaleidoscope_cookery:tomato
+tsuki:tomato

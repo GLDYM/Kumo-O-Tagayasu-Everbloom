@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:snow_golem_melts
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.0132763+08:00
+
+atmospheric:dunes
+atmospheric:flourishing_dunes
+atmospheric:petrified_dunes
+atmospheric:rocky_dunes
+atmospheric:scrubland
+atmospheric:spiny_thicket
+minecraft:badlands
+minecraft:basalt_deltas
+minecraft:crimson_forest
+minecraft:desert
+minecraft:eroded_badlands
+minecraft:nether_wastes
+minecraft:savanna
+minecraft:savanna_plateau
+minecraft:soul_sand_valley
+minecraft:warped_forest
+minecraft:windswept_savanna
+minecraft:wooded_badlands

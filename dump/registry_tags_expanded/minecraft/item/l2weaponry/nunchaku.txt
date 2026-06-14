@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: l2weaponry:nunchaku
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.99855+08:00
+
+l2weaponry:diamond_nunchaku
+l2weaponry:eternium_nunchaku
+l2weaponry:gold_nunchaku
+l2weaponry:iron_nunchaku
+l2weaponry:netherite_nunchaku
+l2weaponry:poseidite_nunchaku
+l2weaponry:sculkium_nunchaku
+l2weaponry:shulkerate_nunchaku
+l2weaponry:totemic_gold_nunchaku

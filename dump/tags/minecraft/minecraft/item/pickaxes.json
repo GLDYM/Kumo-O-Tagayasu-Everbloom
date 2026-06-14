@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "create_sa:zinc_pickaxe",
+    "create_sa:copper_pickaxe",
+    "create_sa:brass_pickaxe"
+  ]
+}

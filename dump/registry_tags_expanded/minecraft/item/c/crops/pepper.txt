@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:crops/pepper
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.8955271+08:00
+
+mynethersdelight:bullet_pepper
+tofucraft:chili
+tsuki:peppercorn_green
+tsuki:peppercorn_red
+vintagedelight:ghost_pepper

@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: quark:ladders
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.6575386+08:00
+
+minecraft:ladder
+quark:acacia_ladder
+quark:ancient_ladder
+quark:azalea_ladder
+quark:bamboo_ladder
+quark:birch_ladder
+quark:blossom_ladder
+quark:cherry_ladder
+quark:crimson_ladder
+quark:dark_oak_ladder
+quark:iron_ladder
+quark:jungle_ladder
+quark:mangrove_ladder
+quark:spruce_ladder
+quark:warped_ladder

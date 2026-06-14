@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/raw_mutton
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.1825594+08:00
+
+farmersdelight:mutton_chops
+kaleidoscope_cookery:raw_lamb_chops
+minecraft:mutton

@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: bakeries:sofa
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.4491634+08:00
+
+bakeries:sofa_light_gray
+bakeries:sofa_red
+bakeries:sofa_white

@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: neapolitan:spawns_rainforest_variant_chimpanzees
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.0503386+08:00
+
+atmospheric:rainforest
+atmospheric:rainforest_basin
+atmospheric:sparse_rainforest
+atmospheric:sparse_rainforest_basin

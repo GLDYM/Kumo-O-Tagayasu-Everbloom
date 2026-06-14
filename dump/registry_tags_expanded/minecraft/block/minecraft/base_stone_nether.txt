@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:base_stone_nether
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.2821074+08:00
+
+minecraft:basalt
+minecraft:blackstone
+minecraft:netherrack
+supplementaries:ashen_basalt

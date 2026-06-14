@@ -1,0 +1,24 @@
+# Registry dump
+# Registry: neoforge:biome_modifier_serializers
+# Minecraft: 1.21.1
+# Entries: 18
+# Generated: 2026-06-14T13:45:01.521628+08:00
+
+architectury:none_biome_mod_codec raw_id=16 class=com.mojang.serialization.MapCodec$2
+crabbersdelight:conditional_spawn raw_id=17 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+farmersdelight:add_features_by_filter raw_id=15 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+integrated_api:additions_modifier raw_id=11 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+integrated_api:additions_temperature_modifier raw_id=12 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+integrated_api:removals_modifier raw_id=13 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:replace_climate raw_id=9 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:replace_effects raw_id=10 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+neoforge:add_carvers raw_id=5 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+neoforge:add_features raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+neoforge:add_spawn_costs raw_id=7 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+neoforge:add_spawns raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+neoforge:none raw_id=0 class=com.mojang.serialization.MapCodec$2
+neoforge:remove_carvers raw_id=6 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+neoforge:remove_features raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+neoforge:remove_spawn_costs raw_id=8 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+neoforge:remove_spawns raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+zeta:biome_modifier raw_id=14 class=com.mojang.serialization.MapCodec$2

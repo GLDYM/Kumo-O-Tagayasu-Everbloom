@@ -1,0 +1,27 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dramaticdoors:categories/tall_vanilla_doors
+# Entries: 20
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.5510292+08:00
+
+dramaticdoors:tall_acacia_door
+dramaticdoors:tall_bamboo_door
+dramaticdoors:tall_birch_door
+dramaticdoors:tall_cherry_door
+dramaticdoors:tall_copper_door
+dramaticdoors:tall_crimson_door
+dramaticdoors:tall_dark_oak_door
+dramaticdoors:tall_exposed_copper_door
+dramaticdoors:tall_iron_door
+dramaticdoors:tall_jungle_door
+dramaticdoors:tall_mangrove_door
+dramaticdoors:tall_oak_door
+dramaticdoors:tall_oxidized_copper_door
+dramaticdoors:tall_spruce_door
+dramaticdoors:tall_warped_door
+dramaticdoors:tall_waxed_copper_door
+dramaticdoors:tall_waxed_exposed_copper_door
+dramaticdoors:tall_waxed_oxidized_copper_door
+dramaticdoors:tall_waxed_weathered_copper_door
+dramaticdoors:tall_weathered_copper_door

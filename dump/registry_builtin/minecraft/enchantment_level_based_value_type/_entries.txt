@@ -1,0 +1,11 @@
+# Registry dump
+# Registry: minecraft:enchantment_level_based_value_type
+# Minecraft: 1.21.1
+# Entries: 5
+# Generated: 2026-06-14T13:45:01.1746014+08:00
+
+minecraft:clamped raw_id=0 class=com.mojang.serialization.Codec$3
+minecraft:fraction raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:levels_squared raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:linear raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:lookup raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

@@ -1,0 +1,7 @@
+# Unknown top-level data resource dump summary
+# Mod ID: registry_dumper_3000
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:45.9635662+08:00
+
+# Files written: 200
+# Known top-level folders skipped: 23

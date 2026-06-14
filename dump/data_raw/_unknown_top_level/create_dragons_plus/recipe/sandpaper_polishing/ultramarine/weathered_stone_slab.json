@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "ultramarine:weathered_stone_slab"
+    }
+  ],
+  "results": [
+    {
+      "id": "ultramarine:polished_weathered_stone_slab"
+    }
+  ]
+}

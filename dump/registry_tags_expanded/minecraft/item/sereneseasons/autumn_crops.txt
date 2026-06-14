@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: sereneseasons:autumn_crops
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.9328181+08:00
+
+corn_delight:corn
+corn_delight:corn_seeds
+delighto_flight:cloud_berries
+farmersdelight:cabbage_seeds
+farmersdelight:onion
+farmersdelight:rice
+fruitsdelight:apple_sapling
+fruitsdelight:cranberry
+fruitsdelight:fig_sapling
+fruitsdelight:orange_sapling
+kaleidoscope_cookery:chili_seed
+kaleidoscope_cookery:lettuce_seed
+kaleidoscope_cookery:rice
+kaleidoscope_cookery:tomato_seed
+kaleidoscope_cookery:wild_rice
+vintagedelight:gearo_berry
+vintagedelight:oat_seeds
+vintagedelight:peanut

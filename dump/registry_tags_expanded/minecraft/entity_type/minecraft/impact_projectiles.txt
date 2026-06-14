@@ -1,0 +1,30 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: minecraft:impact_projectiles
+# Entries: 23
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1265798+08:00
+
+atmospheric:passion_fruit_seed
+l2complements:black_fire_charge
+l2complements:soul_fire_charge
+l2complements:strong_fire_charge
+l2weaponry:javelin
+l2weaponry:throwing_axe
+minecraft:arrow
+minecraft:breeze_wind_charge
+minecraft:dragon_fireball
+minecraft:egg
+minecraft:fireball
+minecraft:firework_rocket
+minecraft:small_fireball
+minecraft:snowball
+minecraft:spectral_arrow
+minecraft:trident
+minecraft:wind_charge
+minecraft:wither_skull
+neapolitan:bananarrow
+supplementaries:brick_projectile
+supplementaries:rope_arrow
+tofucraft:zunda_arrow
+touhou_little_maid:danmaku

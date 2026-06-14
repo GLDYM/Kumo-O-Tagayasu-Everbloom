@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:tools/hammers
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.8276835+08:00
+
+another_furniture:furniture_hammer
+handcrafted:hammer
+tsuki:iron_hammer
+tsuki:sakura_hammer
+tsuki:steel_hammer
+tsuki:stone_hammer

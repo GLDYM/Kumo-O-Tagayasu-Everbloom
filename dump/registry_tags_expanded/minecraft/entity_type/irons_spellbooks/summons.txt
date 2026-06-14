@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: irons_spellbooks:summons
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0801351+08:00
+
+irons_spellbooks:spectral_steed
+irons_spellbooks:summoned_polar_bear
+irons_spellbooks:summoned_skeleton
+irons_spellbooks:summoned_vex
+irons_spellbooks:summoned_zombie
+iss_magicfromtheeast:bone_hand
+iss_magicfromtheeast:jade_executioner
+iss_magicfromtheeast:spirit_ashigaru
+iss_magicfromtheeast:spirit_samurai
+iss_magicfromtheeast:summon_cloud
+iss_magicfromtheeast:summoned_jiangshi
+iss_magicfromtheeast:summoned_kitsune

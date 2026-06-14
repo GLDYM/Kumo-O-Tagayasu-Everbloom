@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: tsuki:has_structure/torii
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.127521+08:00
+
+minecraft:birch_forest
+minecraft:cherry_grove
+minecraft:dark_forest
+minecraft:flower_forest
+minecraft:forest
+minecraft:meadow
+minecraft:old_growth_birch_forest
+minecraft:plains
+minecraft:sunflower_plains

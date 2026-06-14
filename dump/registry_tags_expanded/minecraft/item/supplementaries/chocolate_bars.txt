@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: supplementaries:chocolate_bars
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.9914542+08:00
+
+create:bar_of_chocolate
+neapolitan:chocolate_bar

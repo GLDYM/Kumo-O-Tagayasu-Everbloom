@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:small_dripleaf_placeable
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.5080491+08:00
+
+minecraft:clay
+minecraft:moss_block
+supplementaries:planter

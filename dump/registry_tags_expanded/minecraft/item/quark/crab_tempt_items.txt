@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: quark:crab_tempt_items
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.3369896+08:00
+
+minecraft:chicken
+minecraft:cod
+minecraft:cooked_cod
+minecraft:cooked_salmon
+minecraft:pufferfish
+minecraft:salmon
+minecraft:tropical_fish
+minecraft:wheat
+youkaishomecoming:raw_lamprey
+youkaishomecoming:raw_lamprey_fillet
+youkaishomecoming:roasted_lamprey_fillet

@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: l2weaponry:material/iron
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.9799841+08:00
+
+l2weaponry:iron_battle_axe
+l2weaponry:iron_claw
+l2weaponry:iron_dagger
+l2weaponry:iron_hammer
+l2weaponry:iron_javelin
+l2weaponry:iron_machete
+l2weaponry:iron_nunchaku
+l2weaponry:iron_plate_shield
+l2weaponry:iron_round_shield
+l2weaponry:iron_scythe
+l2weaponry:iron_spear
+l2weaponry:iron_throwing_axe

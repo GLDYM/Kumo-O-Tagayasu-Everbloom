@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:obsidians
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.6123515+08:00
+
+minecraft:crying_obsidian
+minecraft:obsidian

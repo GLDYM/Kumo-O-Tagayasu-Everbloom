@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: another_furniture:shutters
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4425927+08:00
+
+another_furniture:acacia_shutter
+another_furniture:bamboo_shutter
+another_furniture:birch_shutter
+another_furniture:cherry_shutter
+another_furniture:crimson_shutter
+another_furniture:dark_oak_shutter
+another_furniture:jungle_shutter
+another_furniture:mangrove_shutter
+another_furniture:oak_shutter
+another_furniture:spruce_shutter
+another_furniture:warped_shutter

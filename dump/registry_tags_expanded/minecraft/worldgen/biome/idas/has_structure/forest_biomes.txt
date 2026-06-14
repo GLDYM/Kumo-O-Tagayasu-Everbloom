@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: idas:has_structure/forest_biomes
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.6755152+08:00
+
+atmospheric:grimwoods
+atmospheric:laurel_forest
+minecraft:birch_forest
+minecraft:dark_forest
+minecraft:flower_forest
+minecraft:forest
+minecraft:grove
+minecraft:old_growth_birch_forest
+tsuki:maple_forest

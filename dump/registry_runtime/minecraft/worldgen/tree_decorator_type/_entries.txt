@@ -1,0 +1,26 @@
+# Registry dump
+# Registry: minecraft:worldgen/tree_decorator_type
+# Minecraft: 1.21.1
+# Entries: 20
+# Generated: 2026-06-14T13:47:24.5541014+08:00
+
+atmospheric:cobweb raw_id=13 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+atmospheric:extend_petrified_yucca_tree raw_id=19 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+atmospheric:hanging_currant raw_id=12 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+atmospheric:monkey_brush raw_id=11 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+atmospheric:oranges raw_id=14 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+atmospheric:roasted_yucca_bundle raw_id=18 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+atmospheric:yucca_bundle raw_id=15 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+atmospheric:yucca_flower_patch raw_id=17 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+atmospheric:yucca_flowers raw_id=16 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+kaleidoscope_tavern:wild_grapevine raw_id=7 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+minecraft:alter_ground raw_id=4 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+minecraft:attached_to_leaves raw_id=5 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+minecraft:beehive raw_id=3 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+minecraft:cocoa raw_id=2 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+minecraft:leave_vine raw_id=1 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+minecraft:trunk_vine raw_id=0 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+quark:ancient_tree_topper_decorator raw_id=6 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+tsuki:chestnut_burr raw_id=10 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+tsuki:maple_fallen_leaves raw_id=9 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType
+tsuki:maple_sap_log raw_id=8 class=net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecoratorType

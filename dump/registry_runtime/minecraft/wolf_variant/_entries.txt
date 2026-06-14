@@ -1,0 +1,20 @@
+# Registry dump
+# Registry: minecraft:wolf_variant
+# Minecraft: 1.21.1
+# Entries: 14
+# Generated: 2026-06-14T13:47:24.4591018+08:00
+
+atmospheric:bush raw_id=2 class=net.minecraft.world.entity.animal.WolfVariant
+atmospheric:cream raw_id=4 class=net.minecraft.world.entity.animal.WolfVariant
+atmospheric:golden raw_id=5 class=net.minecraft.world.entity.animal.WolfVariant
+atmospheric:maned raw_id=6 class=net.minecraft.world.entity.animal.WolfVariant
+atmospheric:masked raw_id=7 class=net.minecraft.world.entity.animal.WolfVariant
+minecraft:ashen raw_id=0 class=net.minecraft.world.entity.animal.WolfVariant
+minecraft:black raw_id=1 class=net.minecraft.world.entity.animal.WolfVariant
+minecraft:chestnut raw_id=3 class=net.minecraft.world.entity.animal.WolfVariant
+minecraft:pale raw_id=8 class=net.minecraft.world.entity.animal.WolfVariant
+minecraft:rusty raw_id=9 class=net.minecraft.world.entity.animal.WolfVariant
+minecraft:snowy raw_id=10 class=net.minecraft.world.entity.animal.WolfVariant
+minecraft:spotted raw_id=11 class=net.minecraft.world.entity.animal.WolfVariant
+minecraft:striped raw_id=12 class=net.minecraft.world.entity.animal.WolfVariant
+minecraft:woods raw_id=13 class=net.minecraft.world.entity.animal.WolfVariant

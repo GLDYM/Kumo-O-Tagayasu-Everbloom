@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: kaleidoscope_dim_wine:outer_end_islands
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.9015122+08:00
+
+minecraft:end_barrens
+minecraft:end_highlands
+minecraft:end_midlands
+minecraft:small_end_islands

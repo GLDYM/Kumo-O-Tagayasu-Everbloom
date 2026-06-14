@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: create:tree_attachments
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.8343715+08:00
+
+minecraft:bee_nest
+minecraft:cocoa
+minecraft:mangrove_propagule
+minecraft:moss_carpet
+minecraft:shroomlight
+minecraft:vine

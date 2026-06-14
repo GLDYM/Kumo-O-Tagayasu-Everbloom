@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: another_furniture:chairs_tuckable_under
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.3801206+08:00
+
+another_furniture:acacia_table
+another_furniture:bamboo_table
+another_furniture:birch_table
+another_furniture:cherry_table
+another_furniture:crimson_table
+another_furniture:dark_oak_table
+another_furniture:jungle_table
+another_furniture:mangrove_table
+another_furniture:oak_table
+another_furniture:spruce_table
+another_furniture:warped_table

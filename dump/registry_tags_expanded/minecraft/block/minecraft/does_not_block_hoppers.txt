@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:does_not_block_hoppers
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.3489697+08:00
+
+atmospheric:aspen_beehive
+atmospheric:grimwood_beehive
+atmospheric:kousa_beehive
+atmospheric:laurel_beehive
+atmospheric:morado_beehive
+atmospheric:rosewood_beehive
+atmospheric:yucca_beehive
+minecraft:bee_nest
+minecraft:beehive

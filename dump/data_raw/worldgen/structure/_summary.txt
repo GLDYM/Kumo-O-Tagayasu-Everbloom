@@ -1,0 +1,11 @@
+# Raw resource rule dump summary
+# Mod ID: registry_dumper_3000
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:41.9656248+08:00
+
+# Rule name: Worldgen structure
+# Side: data/server
+# Source prefix: worldgen/structure
+# Files written: 185
+# Stack files written (optional): 0
+# Path collisions observed: 0

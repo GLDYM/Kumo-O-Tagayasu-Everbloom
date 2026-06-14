@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:beacon_payment_items
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0440329+08:00
+
+create:andesite_alloy
+create:brass_ingot
+create:zinc_ingot
+minecraft:diamond
+minecraft:emerald
+minecraft:gold_ingot
+minecraft:iron_ingot
+minecraft:netherite_ingot

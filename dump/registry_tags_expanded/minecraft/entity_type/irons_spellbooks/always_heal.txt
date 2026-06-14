@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: irons_spellbooks:always_heal
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0736025+08:00
+
+minecraft:cat
+minecraft:chicken
+minecraft:cow
+minecraft:iron_golem
+minecraft:pig
+minecraft:sheep
+minecraft:villager
+minecraft:wandering_trader
+minecraft:wolf

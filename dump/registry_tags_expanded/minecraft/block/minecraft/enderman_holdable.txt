@@ -1,0 +1,75 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:enderman_holdable
+# Entries: 68
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.361626+08:00
+
+atmospheric:crustose
+atmospheric:firethorn
+atmospheric:forsythia
+atmospheric:gilia
+atmospheric:hot_monkey_brush
+atmospheric:hot_wall_monkey_brush
+atmospheric:scalding_monkey_brush
+atmospheric:scalding_wall_monkey_brush
+atmospheric:warm_monkey_brush
+atmospheric:warm_wall_monkey_brush
+atmospheric:water_hyacinth
+atmospheric:yucca_flower
+corn_delight:wild_corn
+delighto_flight:weather_soil
+farmersdelight:rich_soil
+farmersdelight:wild_beetroots
+farmersdelight:wild_cabbages
+farmersdelight:wild_carrots
+farmersdelight:wild_onions
+farmersdelight:wild_potatoes
+farmersdelight:wild_tomatoes
+fruitsdelight:hamimelon
+minecraft:allium
+minecraft:azure_bluet
+minecraft:blue_orchid
+minecraft:brown_mushroom
+minecraft:cactus
+minecraft:carved_pumpkin
+minecraft:clay
+minecraft:coarse_dirt
+minecraft:cornflower
+minecraft:crimson_fungus
+minecraft:crimson_nylium
+minecraft:crimson_roots
+minecraft:dandelion
+minecraft:dirt
+minecraft:grass_block
+minecraft:gravel
+minecraft:lily_of_the_valley
+minecraft:melon
+minecraft:moss_block
+minecraft:mud
+minecraft:muddy_mangrove_roots
+minecraft:mycelium
+minecraft:orange_tulip
+minecraft:oxeye_daisy
+minecraft:pink_tulip
+minecraft:podzol
+minecraft:poppy
+minecraft:pumpkin
+minecraft:red_mushroom
+minecraft:red_sand
+minecraft:red_tulip
+minecraft:rooted_dirt
+minecraft:sand
+minecraft:tnt
+minecraft:torchflower
+minecraft:warped_fungus
+minecraft:warped_nylium
+minecraft:warped_roots
+minecraft:white_tulip
+minecraft:wither_rose
+mynethersdelight:bullet_pepper
+mynethersdelight:resurgent_soil
+mynethersdelight:resurgent_soil_farmland
+supplementaries:wild_flax
+tofucraft:tofu_flower
+vintagedelight:lush_grass_block

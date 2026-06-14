@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: mynethersdelight:below_propagate_plant
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.5957597+08:00
+
+minecraft:glow_lichen
+minecraft:hanging_roots
+minecraft:spore_blossom

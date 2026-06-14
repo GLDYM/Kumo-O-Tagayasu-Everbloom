@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:create/flywheels
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.79503+08:00
+
+create:flywheel
+dndecor:black_flywheel
+dndecor:blue_flywheel
+dndecor:brown_flywheel
+dndecor:cyan_flywheel
+dndecor:gray_flywheel
+dndecor:green_flywheel
+dndecor:light_blue_flywheel
+dndecor:light_gray_flywheel
+dndecor:lime_flywheel
+dndecor:magenta_flywheel
+dndecor:orange_flywheel
+dndecor:pink_flywheel
+dndecor:purple_flywheel
+dndecor:red_flywheel
+dndecor:white_flywheel
+dndecor:yellow_flywheel

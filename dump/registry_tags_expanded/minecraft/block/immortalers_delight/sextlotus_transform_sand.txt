@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: immortalers_delight:sextlotus_transform_sand
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.109491+08:00
+
+atmospheric:crustose
+delighto_flight:weather_soil
+farmersdelight:rich_soil
+immortalers_delight:pearlipearl_bundle
+minecraft:coarse_dirt
+minecraft:dirt
+minecraft:grass_block
+minecraft:moss_block
+minecraft:mud
+minecraft:muddy_mangrove_roots
+minecraft:mycelium
+minecraft:podzol
+minecraft:rooted_dirt
+mynethersdelight:resurgent_soil
+mynethersdelight:resurgent_soil_farmland
+vintagedelight:lush_grass_block

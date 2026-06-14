@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:geode_invalid_blocks
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.3802851+08:00
+
+minecraft:bedrock
+minecraft:blue_ice
+minecraft:ice
+minecraft:lava
+minecraft:packed_ice
+minecraft:water

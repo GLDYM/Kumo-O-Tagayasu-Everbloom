@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:suspicious
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.7733627+08:00
+
+minecraft:suspicious_gravel
+minecraft:suspicious_sand
+supplementaries:suspicious_gravel_bricks

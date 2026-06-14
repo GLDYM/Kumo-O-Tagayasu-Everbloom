@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/dye_groups/slashed
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.9112293+08:00
+
+railways:black_slashed_locometal
+railways:blue_slashed_locometal
+railways:brown_slashed_locometal
+railways:cyan_slashed_locometal
+railways:gray_slashed_locometal
+railways:green_slashed_locometal
+railways:light_blue_slashed_locometal
+railways:light_gray_slashed_locometal
+railways:lime_slashed_locometal
+railways:magenta_slashed_locometal
+railways:orange_slashed_locometal
+railways:pink_slashed_locometal
+railways:purple_slashed_locometal
+railways:red_slashed_locometal
+railways:slashed_locometal
+railways:white_slashed_locometal
+railways:yellow_slashed_locometal

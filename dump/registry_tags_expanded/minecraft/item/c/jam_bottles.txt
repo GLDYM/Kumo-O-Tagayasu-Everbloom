@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:jam_bottles
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.3717538+08:00
+
+minecraft:honey_bottle
+vintagedelight:apple_sauce_bottle
+vintagedelight:gearo_berry_jam_bottle
+vintagedelight:glow_berry_jam_bottle
+vintagedelight:pepper_jam_bottle
+vintagedelight:relish_bottle
+vintagedelight:sweet_berry_jam_bottle

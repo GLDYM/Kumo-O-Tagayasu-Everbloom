@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/dye_groups/riveted
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.9092291+08:00
+
+railways:black_riveted_locometal
+railways:blue_riveted_locometal
+railways:brown_riveted_locometal
+railways:cyan_riveted_locometal
+railways:gray_riveted_locometal
+railways:green_riveted_locometal
+railways:light_blue_riveted_locometal
+railways:light_gray_riveted_locometal
+railways:lime_riveted_locometal
+railways:magenta_riveted_locometal
+railways:orange_riveted_locometal
+railways:pink_riveted_locometal
+railways:purple_riveted_locometal
+railways:red_riveted_locometal
+railways:riveted_locometal
+railways:white_riveted_locometal
+railways:yellow_riveted_locometal

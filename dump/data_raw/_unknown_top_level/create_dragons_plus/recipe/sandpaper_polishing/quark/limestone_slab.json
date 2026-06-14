@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "quark:limestone_slab"
+    }
+  ],
+  "results": [
+    {
+      "id": "quark:polished_limestone_slab"
+    }
+  ]
+}

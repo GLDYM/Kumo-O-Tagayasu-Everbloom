@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/raw_strider
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.1883949+08:00
+
+kaleidoscope_nether:raw_strider_meat
+mynethersdelight:minced_strider
+mynethersdelight:strider_slice

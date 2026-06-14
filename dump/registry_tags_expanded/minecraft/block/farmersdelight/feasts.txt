@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: farmersdelight:feasts
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9877182+08:00
+
+farmersdelight:gleaming_salad_block
+farmersdelight:honey_glazed_ham_block
+farmersdelight:rice_roll_medley_block
+farmersdelight:roast_chicken_block
+farmersdelight:shepherds_pie_block
+farmersdelight:stuffed_pumpkin_block
+mynethersdelight:bread_loaf_block
+mynethersdelight:ghasta_with_cream_block
+mynethersdelight:magma_cake_block
+mynethersdelight:striderloaf_block
+mynethersdelight:stuffed_hoglin

@@ -1,0 +1,16 @@
+# Registry dump
+# Registry: atmospheric:tetra_variant
+# Minecraft: 1.21.1
+# Entries: 10
+# Generated: 2026-06-14T13:47:23.9934836+08:00
+
+atmospheric:beacon raw_id=0 class=com.teamabnormals.atmospheric.common.entity.TetraVariant
+atmospheric:cardinal raw_id=1 class=com.teamabnormals.atmospheric.common.entity.TetraVariant
+atmospheric:diamond raw_id=2 class=com.teamabnormals.atmospheric.common.entity.TetraVariant
+atmospheric:ember raw_id=3 class=com.teamabnormals.atmospheric.common.entity.TetraVariant
+atmospheric:emperor raw_id=4 class=com.teamabnormals.atmospheric.common.entity.TetraVariant
+atmospheric:flame raw_id=5 class=com.teamabnormals.atmospheric.common.entity.TetraVariant
+atmospheric:jewel raw_id=6 class=com.teamabnormals.atmospheric.common.entity.TetraVariant
+atmospheric:neon raw_id=7 class=com.teamabnormals.atmospheric.common.entity.TetraVariant
+atmospheric:ornate raw_id=8 class=com.teamabnormals.atmospheric.common.entity.TetraVariant
+atmospheric:royal raw_id=9 class=com.teamabnormals.atmospheric.common.entity.TetraVariant

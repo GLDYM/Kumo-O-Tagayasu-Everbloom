@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: fruitsdelight:allow_jam
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.7066435+08:00
+
+fruitsdelight:hawberry_roll
+fruitsdelight:jam_bread
+fruitsdelight:mango_salad
