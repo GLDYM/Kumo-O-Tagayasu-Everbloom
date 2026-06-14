@@ -1,0 +1,18 @@
+# Registry dump
+# Registry: minecraft:loot_pool_entry_type
+# Minecraft: 1.21.1
+# Entries: 12
+# Generated: 2026-06-14T13:45:01.2779536+08:00
+
+bookshelf:item_stack raw_id=8 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+minecraft:alternatives raw_id=5 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+minecraft:dynamic raw_id=3 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+minecraft:empty raw_id=0 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+minecraft:group raw_id=7 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+minecraft:item raw_id=1 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+minecraft:loot_table raw_id=2 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+minecraft:sequence raw_id=6 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+minecraft:tag raw_id=4 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+moonlight:config_item raw_id=10 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+moonlight:optional_item raw_id=9 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+someassemblyrequired:optional_item raw_id=11 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType

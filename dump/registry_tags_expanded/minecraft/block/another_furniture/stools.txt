@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: another_furniture:stools
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.3962813+08:00
+
+another_furniture:black_stool
+another_furniture:blue_stool
+another_furniture:brown_stool
+another_furniture:cyan_stool
+another_furniture:gray_stool
+another_furniture:green_stool
+another_furniture:light_blue_stool
+another_furniture:light_gray_stool
+another_furniture:lime_stool
+another_furniture:magenta_stool
+another_furniture:orange_stool
+another_furniture:pink_stool
+another_furniture:purple_stool
+another_furniture:red_stool
+another_furniture:white_stool
+another_furniture:yellow_stool

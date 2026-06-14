@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: l2weaponry:material/diamond
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.9664443+08:00
+
+l2weaponry:diamond_battle_axe
+l2weaponry:diamond_claw
+l2weaponry:diamond_dagger
+l2weaponry:diamond_hammer
+l2weaponry:diamond_javelin
+l2weaponry:diamond_machete
+l2weaponry:diamond_nunchaku
+l2weaponry:diamond_plate_shield
+l2weaponry:diamond_round_shield
+l2weaponry:diamond_scythe
+l2weaponry:diamond_spear
+l2weaponry:diamond_throwing_axe

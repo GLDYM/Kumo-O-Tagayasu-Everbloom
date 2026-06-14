@@ -1,0 +1,11 @@
+# Raw resource rule dump summary
+# Mod ID: registry_dumper_3000
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:44.4310775+08:00
+
+# Rule name: Worldgen density_function
+# Side: data/server
+# Source prefix: worldgen/density_function
+# Files written: 48
+# Stack files written (optional): 0
+# Path collisions observed: 0

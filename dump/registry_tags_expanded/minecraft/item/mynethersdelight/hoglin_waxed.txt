@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: mynethersdelight:hoglin_waxed
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.3002404+08:00
+
+minecraft:honeycomb
+minecraft:nether_wart

@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: youkaishomecoming:wine
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.2403908+08:00
+
+youkaishomecoming:burgundy
+youkaishomecoming:champagne
+youkaishomecoming:red_wine
+youkaishomecoming:van_allen
+youkaishomecoming:white_wine

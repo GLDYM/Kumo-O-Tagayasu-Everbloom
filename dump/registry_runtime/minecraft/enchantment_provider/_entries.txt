@@ -1,0 +1,13 @@
+# Registry dump
+# Registry: minecraft:enchantment_provider
+# Minecraft: 1.21.1
+# Entries: 7
+# Generated: 2026-06-14T13:47:24.271549+08:00
+
+minecraft:enderman_loot_drop raw_id=0 class=net.minecraft.world.item.enchantment.providers.SingleEnchantment
+minecraft:mob_spawn_equipment raw_id=1 class=net.minecraft.world.item.enchantment.providers.EnchantmentsByCostWithDifficulty
+minecraft:pillager_spawn_crossbow raw_id=2 class=net.minecraft.world.item.enchantment.providers.SingleEnchantment
+minecraft:raid/pillager_post_wave_3 raw_id=3 class=net.minecraft.world.item.enchantment.providers.SingleEnchantment
+minecraft:raid/pillager_post_wave_5 raw_id=4 class=net.minecraft.world.item.enchantment.providers.SingleEnchantment
+minecraft:raid/vindicator raw_id=5 class=net.minecraft.world.item.enchantment.providers.SingleEnchantment
+minecraft:raid/vindicator_post_wave_5 raw_id=6 class=net.minecraft.world.item.enchantment.providers.SingleEnchantment

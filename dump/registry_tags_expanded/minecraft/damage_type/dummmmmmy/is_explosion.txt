@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: dummmmmmy:is_explosion
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.8646262+08:00
+
+create:cuckoo_surprise
+minecraft:bad_respawn_point
+minecraft:explosion
+minecraft:fireworks
+minecraft:player_explosion
+supplementaries:bomb_explosion
+supplementaries:player_bomb_explosion

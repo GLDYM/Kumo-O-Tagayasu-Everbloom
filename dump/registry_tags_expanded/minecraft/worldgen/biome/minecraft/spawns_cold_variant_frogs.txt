@@ -1,0 +1,26 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:spawns_cold_variant_frogs
+# Entries: 19
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.0152765+08:00
+
+atmospheric:kousa_jungle
+atmospheric:snowy_scrubland
+minecraft:deep_dark
+minecraft:deep_frozen_ocean
+minecraft:end_barrens
+minecraft:end_highlands
+minecraft:end_midlands
+minecraft:frozen_ocean
+minecraft:frozen_peaks
+minecraft:frozen_river
+minecraft:grove
+minecraft:ice_spikes
+minecraft:jagged_peaks
+minecraft:small_end_islands
+minecraft:snowy_beach
+minecraft:snowy_plains
+minecraft:snowy_slopes
+minecraft:snowy_taiga
+minecraft:the_end

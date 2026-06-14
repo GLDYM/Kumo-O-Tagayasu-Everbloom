@@ -1,0 +1,8 @@
+# Registry dump
+# Registry: minecraft:loot_score_provider_type
+# Minecraft: 1.21.1
+# Entries: 2
+# Generated: 2026-06-14T13:47:24.373205+08:00
+
+minecraft:context raw_id=1 class=net.minecraft.world.level.storage.loot.providers.score.LootScoreProviderType
+minecraft:fixed raw_id=0 class=net.minecraft.world.level.storage.loot.providers.score.LootScoreProviderType

@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: irons_spellbooks:has_structure/mountain_tower
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.8911191+08:00
+
+minecraft:cherry_grove
+minecraft:frozen_peaks
+minecraft:grove
+minecraft:ice_spikes
+minecraft:jagged_peaks
+minecraft:meadow
+minecraft:snowy_plains
+minecraft:snowy_slopes
+minecraft:snowy_taiga
+minecraft:stony_peaks

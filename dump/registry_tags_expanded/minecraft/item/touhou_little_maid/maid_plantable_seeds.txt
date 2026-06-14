@@ -1,0 +1,72 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: touhou_little_maid:maid_plantable_seeds
+# Entries: 65
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0785836+08:00
+
+atmospheric:aloe_kernels
+corn_delight:corn_seeds
+create_bic_bit:sunflower_seeds
+delighto_flight:thunder_fruit_seeds
+farmersdelight:cabbage_seeds
+farmersdelight:onion
+farmersdelight:rice
+farmersdelight:tomato_seeds
+immortalers_delight:alfalfa_seeds
+immortalers_delight:evolutcorn_grains
+immortalers_delight:himekaido_seed
+immortalers_delight:kwat_wheat_seeds
+immortalers_delight:pearlipearl
+kaleidoscope_cookery:chili_seed
+kaleidoscope_cookery:lettuce_seed
+kaleidoscope_cookery:rice
+kaleidoscope_cookery:tomato_seed
+kaleidoscope_cookery:wild_rice
+kaleidoscope_dim_wine:hop_seed
+minecraft:beetroot_seeds
+minecraft:carrot
+minecraft:melon_seeds
+minecraft:nether_wart
+minecraft:pitcher_pod
+minecraft:potato
+minecraft:pumpkin_seeds
+minecraft:torchflower_seeds
+minecraft:wheat_seeds
+neapolitan:adzuki_beans
+neapolitan:strawberry_pips
+supplementaries:flax_seeds
+tofucraft:seeds_chili
+tofucraft:seeds_rice
+tofucraft:seeds_soybeans
+tofucraft:seeds_soybeans_nether
+tofucraft:seeds_soybeans_soul
+tsuki:buckwheat
+tsuki:cabbage_seeds
+tsuki:eggplant_seeds
+tsuki:grape_seeds
+tsuki:hop
+tsuki:onion_seeds
+tsuki:pepper_seeds
+tsuki:radish_seeds
+tsuki:rapeseeds
+tsuki:red_bean
+tsuki:rice_seeds
+tsuki:sunflower_seeds
+tsuki:tomato_seeds
+tsuki:vanilla_seeds
+vintagedelight:cucumber_seeds
+vintagedelight:ghost_pepper_seeds
+vintagedelight:magic_peanut
+vintagedelight:oat_seeds
+vintagedelight:peanut
+youkaishomecoming:black_grape_seeds
+youkaishomecoming:cucumber_seeds
+youkaishomecoming:green_coffee_bean
+youkaishomecoming:mandrake_root
+youkaishomecoming:red_grape_seeds
+youkaishomecoming:redbean
+youkaishomecoming:soybean
+youkaishomecoming:tea_seeds
+youkaishomecoming:udumbara_seeds
+youkaishomecoming:white_grape_seeds

@@ -1,0 +1,37 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: tsuki:heat_sources
+# Entries: 30
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.8365566+08:00
+
+brewinandchewin:fiery_fondue_pot
+brewinandchewin:heating_cask
+create:blaze_burner
+create:lit_blaze_burner
+createnuclear:enriching_campfire
+createnuclear:enriching_fire
+ends_delight:end_stove
+farmersdelight:stove
+immortalers_delight:ancient_stove
+immortalers_delight:exposed_ancient_stove
+immortalers_delight:oxidized_ancient_stove
+immortalers_delight:waxed_ancient_stove
+immortalers_delight:waxed_exposed_ancient_stove
+immortalers_delight:waxed_oxidized_ancient_stove
+immortalers_delight:waxed_weathered_ancient_stove
+immortalers_delight:weathered_ancient_stove
+kaleidoscope_cookery:stove
+minecraft:campfire
+minecraft:fire
+minecraft:lava
+minecraft:lava_cauldron
+minecraft:magma_block
+minecraft:soul_campfire
+minecraft:soul_fire
+mynethersdelight:blazier_block
+mynethersdelight:bullet_pepper_crate
+mynethersdelight:magma_cake_block
+mynethersdelight:nether_stove
+supplementaries:fire_pit
+trailandtales_delight:mud_stove

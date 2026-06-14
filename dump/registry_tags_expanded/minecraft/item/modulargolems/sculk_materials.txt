@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: modulargolems:sculk_materials
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2912148+08:00
+
+l2complements:sculkium_ingot

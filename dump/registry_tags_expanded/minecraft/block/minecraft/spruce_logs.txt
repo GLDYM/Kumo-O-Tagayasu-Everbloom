@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:spruce_logs
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.5244485+08:00
+
+minecraft:spruce_log
+minecraft:spruce_wood
+minecraft:stripped_spruce_log
+minecraft:stripped_spruce_wood

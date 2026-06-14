@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: tsuki:can_spawn_iron_sand_ore
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1234235+08:00
+
+minecraft:beach
+minecraft:frozen_river
+minecraft:river
+minecraft:snowy_beach

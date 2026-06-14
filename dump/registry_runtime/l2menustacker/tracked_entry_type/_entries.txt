@@ -1,0 +1,12 @@
+# Registry dump
+# Registry: l2menustacker:tracked_entry_type
+# Minecraft: 1.21.1
+# Entries: 6
+# Generated: 2026-06-14T13:47:24.1214132+08:00
+
+l2menustacker:curios_inv raw_id=4 class=dev.xkmc.l2tabs.compat.track.CurioInvTrace
+l2menustacker:curios_tab raw_id=5 class=dev.xkmc.l2tabs.compat.track.CurioTabTrace
+l2menustacker:ender raw_id=1 class=dev.xkmc.l2menustacker.screen.track.EnderTrace
+l2menustacker:inventory raw_id=0 class=dev.xkmc.l2menustacker.screen.track.InventoryTrace
+l2menustacker:menu_provider raw_id=3 class=dev.xkmc.l2menustacker.screen.track.MenuProviderTrace
+l2menustacker:quick_access raw_id=2 class=dev.xkmc.l2menustacker.screen.track.QuickAccessTrace

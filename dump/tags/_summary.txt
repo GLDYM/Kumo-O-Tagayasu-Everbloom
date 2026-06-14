@@ -1,0 +1,8 @@
+# Raw tag JSON dump summary
+# Mod ID: registry_dumper_3000
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.2733416+08:00
+
+# Resources discovered: 4297
+# Files written: 4297
+# Unknown tag type folder count: 65

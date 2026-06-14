@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: lootr:convert/item_frame_blacklist
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0170019+08:00
+
+minecraft:filled_map
+minecraft:map

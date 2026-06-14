@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: crabbersdelight:cooked_seafood
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.9439969+08:00
+
+crabbersdelight:cooked_clam_meat
+crabbersdelight:cooked_clawster
+crabbersdelight:cooked_crab
+crabbersdelight:cooked_shrimp

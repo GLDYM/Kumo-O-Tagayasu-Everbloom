@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:flour
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.0471869+08:00
+
+bakeries:flour
+kaleidoscope_cookery:flour
+tsuki:flour
+tsuki:flour_buckwheat
+tsuki:flour_rice

@@ -1,0 +1,8 @@
+{
+  "asset_id": "atmospheric:druid",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.atmospheric.druid"
+  },
+  "template_item": "atmospheric:druid_armor_trim_smithing_template"
+}

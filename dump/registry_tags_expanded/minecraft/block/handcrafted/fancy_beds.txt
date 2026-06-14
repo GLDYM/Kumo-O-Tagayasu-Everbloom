@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: handcrafted:fancy_beds
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0738436+08:00
+
+handcrafted:acacia_fancy_bed
+handcrafted:bamboo_fancy_bed
+handcrafted:birch_fancy_bed
+handcrafted:cherry_fancy_bed
+handcrafted:crimson_fancy_bed
+handcrafted:dark_oak_fancy_bed
+handcrafted:jungle_fancy_bed
+handcrafted:mangrove_fancy_bed
+handcrafted:oak_fancy_bed
+handcrafted:spruce_fancy_bed
+handcrafted:warped_fancy_bed

@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:noteblock_top_instruments
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.185984+08:00
+
+minecraft:creeper_head
+minecraft:dragon_head
+minecraft:piglin_head
+minecraft:player_head
+minecraft:skeleton_skull
+minecraft:wither_skeleton_skull
+minecraft:zombie_head
+neapolitan:chimpanzee_head
+supplementaries:enderman_head
+supplementaries:spider_head

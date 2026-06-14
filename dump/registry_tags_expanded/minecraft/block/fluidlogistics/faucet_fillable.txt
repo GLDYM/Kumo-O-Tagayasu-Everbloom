@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: fluidlogistics:faucet_fillable
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0075867+08:00
+
+create:basin
+fluidlogistics:copper_basin
+fluidlogistics:smart_hopper

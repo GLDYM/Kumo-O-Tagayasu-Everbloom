@@ -1,0 +1,29 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dramaticdoors:tall_wooden_doors
+# Entries: 22
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.5595702+08:00
+
+dramaticdoors:tall_acacia_door
+dramaticdoors:tall_aspen_door
+dramaticdoors:tall_bamboo_door
+dramaticdoors:tall_birch_door
+dramaticdoors:tall_cherry_door
+dramaticdoors:tall_crimson_door
+dramaticdoors:tall_dark_oak_door
+dramaticdoors:tall_grimwood_door
+dramaticdoors:tall_jungle_door
+dramaticdoors:tall_kousa_door
+dramaticdoors:tall_laurel_door
+dramaticdoors:tall_mangrove_door
+dramaticdoors:tall_morado_door
+dramaticdoors:tall_oak_door
+dramaticdoors:tall_powdery_door
+dramaticdoors:tall_quark_ancient_door
+dramaticdoors:tall_quark_azalea_door
+dramaticdoors:tall_quark_blossom_door
+dramaticdoors:tall_rosewood_door
+dramaticdoors:tall_spruce_door
+dramaticdoors:tall_warped_door
+dramaticdoors:tall_yucca_door

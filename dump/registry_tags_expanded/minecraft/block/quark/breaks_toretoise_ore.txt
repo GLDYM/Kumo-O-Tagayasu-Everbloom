@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: quark:breaks_toretoise_ore
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.6377206+08:00
+
+quark:iron_rod

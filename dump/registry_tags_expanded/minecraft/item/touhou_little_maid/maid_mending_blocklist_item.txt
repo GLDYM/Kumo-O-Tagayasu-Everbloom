@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: touhou_little_maid:maid_mending_blocklist_item
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0775838+08:00
+
+touhou_little_maid:ultramarine_orb_elixir

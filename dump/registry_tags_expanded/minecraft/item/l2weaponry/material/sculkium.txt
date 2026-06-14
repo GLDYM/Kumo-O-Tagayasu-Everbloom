@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: l2weaponry:material/sculkium
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.9866283+08:00
+
+l2weaponry:sculkium_battle_axe
+l2weaponry:sculkium_claw
+l2weaponry:sculkium_dagger
+l2weaponry:sculkium_hammer
+l2weaponry:sculkium_javelin
+l2weaponry:sculkium_machete
+l2weaponry:sculkium_nunchaku
+l2weaponry:sculkium_plate_shield
+l2weaponry:sculkium_round_shield
+l2weaponry:sculkium_scythe
+l2weaponry:sculkium_spear
+l2weaponry:sculkium_throwing_axe

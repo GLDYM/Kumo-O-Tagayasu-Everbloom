@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:ore_rates/dense
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.622285+08:00
+
+minecraft:copper_ore
+minecraft:deepslate_copper_ore
+minecraft:deepslate_lapis_ore
+minecraft:deepslate_redstone_ore
+minecraft:lapis_ore
+minecraft:redstone_ore

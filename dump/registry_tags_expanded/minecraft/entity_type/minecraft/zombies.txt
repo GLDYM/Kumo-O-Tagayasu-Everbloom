@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: minecraft:zombies
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.15022+08:00
+
+minecraft:drowned
+minecraft:husk
+minecraft:zoglin
+minecraft:zombie
+minecraft:zombie_horse
+minecraft:zombie_villager
+minecraft:zombified_piglin

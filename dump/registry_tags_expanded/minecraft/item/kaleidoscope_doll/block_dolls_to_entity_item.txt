@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_doll:block_dolls_to_entity_item
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.8906002+08:00
+
+minecraft:clay_ball
+minecraft:slime_ball

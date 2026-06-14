@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: ratatouille:compostable_items_1to4
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.9205149+08:00
+
+minecraft:brown_mushroom_block
+minecraft:cactus
+minecraft:carved_pumpkin
+minecraft:moss_block
+minecraft:mushroom_stem
+minecraft:pumpkin
+minecraft:red_mushroom_block
+minecraft:shroomlight

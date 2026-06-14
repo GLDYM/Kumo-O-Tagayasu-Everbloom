@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: supplementaries:throwable_bricks
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0484476+08:00
+
+minecraft:brick
+minecraft:nether_brick
+supplementaries:ash_brick

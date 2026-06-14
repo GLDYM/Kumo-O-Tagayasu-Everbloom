@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: exposure:photo_agers
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.5795116+08:00
+
+minecraft:brown_dye
+supplementaries:antique_ink

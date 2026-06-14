@@ -1,0 +1,14 @@
+# Registry dump
+# Registry: minecraft:schedule
+# Minecraft: 1.21.1
+# Entries: 8
+# Generated: 2026-06-14T13:45:01.3598267+08:00
+
+minecraft:empty raw_id=0 class=net.minecraft.world.entity.schedule.Schedule
+minecraft:simple raw_id=1 class=net.minecraft.world.entity.schedule.Schedule
+minecraft:villager_baby raw_id=2 class=net.minecraft.world.entity.schedule.Schedule
+minecraft:villager_default raw_id=3 class=net.minecraft.world.entity.schedule.Schedule
+moonlight:custom_villager_schedule raw_id=7 class=net.minecraft.world.entity.schedule.Schedule
+touhou_little_maid:maid_all_day_schedules raw_id=6 class=net.minecraft.world.entity.schedule.Schedule
+touhou_little_maid:maid_day_shift_schedules raw_id=4 class=net.minecraft.world.entity.schedule.Schedule
+touhou_little_maid:maid_night_shift_schedules raw_id=5 class=net.minecraft.world.entity.schedule.Schedule

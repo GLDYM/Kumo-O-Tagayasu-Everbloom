@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: supplementaries:has_barnacles
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.0834753+08:00
+
+minecraft:beach
+minecraft:cold_ocean
+minecraft:deep_cold_ocean
+minecraft:deep_frozen_ocean
+minecraft:deep_lukewarm_ocean
+minecraft:deep_ocean
+minecraft:frozen_ocean
+minecraft:lukewarm_ocean
+minecraft:ocean
+minecraft:snowy_beach
+minecraft:stony_shore
+minecraft:warm_ocean

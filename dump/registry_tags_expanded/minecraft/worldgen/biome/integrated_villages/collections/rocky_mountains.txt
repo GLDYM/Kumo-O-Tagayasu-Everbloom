@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: integrated_villages:collections/rocky_mountains
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.8586728+08:00
+

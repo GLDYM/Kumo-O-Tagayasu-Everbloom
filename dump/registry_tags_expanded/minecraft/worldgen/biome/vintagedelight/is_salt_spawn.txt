@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: vintagedelight:is_salt_spawn
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1285192+08:00
+
+minecraft:beach
+minecraft:snowy_beach
+minecraft:stony_shore

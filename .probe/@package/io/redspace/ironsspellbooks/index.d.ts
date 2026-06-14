@@ -1,0 +1,10 @@
+export * as block from "@package/io/redspace/ironsspellbooks/block";
+export * as api from "@package/io/redspace/ironsspellbooks/api";
+export * as capabilities from "@package/io/redspace/ironsspellbooks/capabilities";
+export * as mixin from "@package/io/redspace/ironsspellbooks/mixin";
+export * as item from "@package/io/redspace/ironsspellbooks/item";
+export * as worldgen from "@package/io/redspace/ironsspellbooks/worldgen";
+export * as player from "@package/io/redspace/ironsspellbooks/player";
+export * as gui from "@package/io/redspace/ironsspellbooks/gui";
+export * as render from "@package/io/redspace/ironsspellbooks/render";
+export * as damage from "@package/io/redspace/ironsspellbooks/damage";

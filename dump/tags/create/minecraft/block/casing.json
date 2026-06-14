@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "createprism:andesite_clear_glass_casing",
+    "createprism:brass_clear_glass_casing",
+    "createprism:copper_clear_glass_casing",
+    "createprism:train_clear_glass_casing",
+    "createprism:andesite_glass_casing",
+    "createprism:brass_glass_casing",
+    "createprism:copper_glass_casing",
+    "createprism:train_glass_casing",
+    "createprism:andesite_illumination_casing",
+    "createprism:brass_illumination_casing",
+    "createprism:copper_illumination_casing",
+    "createprism:train_illumination_casing"
+  ]
+}

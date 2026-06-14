@@ -1,0 +1,11 @@
+# Registry dump
+# Registry: supplementaries:placeable_books
+# Minecraft: 1.21.1
+# Entries: 5
+# Generated: 2026-06-14T13:47:24.6369703+08:00
+
+supplementaries:book raw_id=0 class=net.mehvahdjukaar.supplementaries.common.block.placeable_book.BookType
+supplementaries:enchanted raw_id=1 class=net.mehvahdjukaar.supplementaries.common.block.placeable_book.BookType
+supplementaries:tome raw_id=2 class=net.mehvahdjukaar.supplementaries.common.block.placeable_book.BookType
+supplementaries:writable raw_id=3 class=net.mehvahdjukaar.supplementaries.common.block.placeable_book.BookType
+supplementaries:written raw_id=4 class=net.mehvahdjukaar.supplementaries.common.block.placeable_book.BookType

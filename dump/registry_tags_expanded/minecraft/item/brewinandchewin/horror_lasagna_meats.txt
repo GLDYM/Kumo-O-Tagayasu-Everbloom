@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: brewinandchewin:horror_lasagna_meats
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.5439833+08:00
+
+mynethersdelight:hoglin_loin
+mynethersdelight:hoglin_sausage
+mynethersdelight:minced_strider

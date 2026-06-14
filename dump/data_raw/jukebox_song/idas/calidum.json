@@ -1,0 +1,8 @@
+{
+  "sound_event": "idas:calidum",
+  "description": {
+    "translate": "jukebox_song.idas.calidum"
+  },
+  "length_in_seconds": 195.0,
+  "comparator_output": 2
+}

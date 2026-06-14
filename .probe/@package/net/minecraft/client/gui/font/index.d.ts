@@ -1,0 +1,200 @@
+import { $IntSet } from "@package/it/unimi/dsi/fastutil/ints";
+import { $RenderType } from "@package/net/minecraft/client/renderer";
+import { $Codec } from "@package/com/mojang/serialization";
+import { $GlyphProviderDefinition$Conditional_ } from "@package/net/minecraft/client/gui/font/providers";
+import { $Either } from "@package/com/mojang/datafixers/util";
+import { $ProfilerFiller } from "@package/net/minecraft/util/profiling";
+import { $Executor_, $CompletableFuture } from "@package/java/util/concurrent";
+import { $AccessFontManager } from "@package/icyllis/modernui/mc/text/mixin";
+import { $BakedGlyph } from "@package/net/minecraft/client/gui/font/glyphs";
+import { $Minecraft, $Options } from "@package/net/minecraft/client";
+import { $ResourceManager, $PreparableReloadListener, $PreparableReloadListener$PreparationBarrier_ } from "@package/net/minecraft/server/packs/resources";
+import { $Map_, $Set_, $List_, $Map } from "@package/java/util";
+import { $StringRepresentable, $DependencySorter$Entry } from "@package/net/minecraft/util";
+import { $SheetGlyphInfo, $GlyphProvider, $GlyphInfo, $GlyphProvider_, $GlyphProvider$Conditional_ } from "@package/com/mojang/blaze3d/font";
+import { $Consumer, $IntFunction_, $Supplier_, $Consumer_, $Predicate_, $Supplier } from "@package/java/util/function";
+import { $Path_ } from "@package/java/nio/file";
+import { $AccessorFontManager } from "@package/net/darkhax/bookshelf/common/mixin/access/client";
+import { $ResourceLocation_, $ResourceLocation } from "@package/net/minecraft/resources";
+import { $Dumpable, $AbstractTexture, $TextureManager } from "@package/net/minecraft/client/renderer/texture";
+import { $Enum, $Record, $AutoCloseable } from "@package/java/lang";
+import { $Font, $Font$DisplayMode_ } from "@package/net/minecraft/client/gui";
+export * as providers from "@package/net/minecraft/client/gui/font/providers";
+export * as glyphs from "@package/net/minecraft/client/gui/font/glyphs";
+
+declare module "@package/net/minecraft/client/gui/font" {
+    export class $FontOption extends $Enum<$FontOption> implements $StringRepresentable {
+        static values(): $FontOption[];
+        static valueOf(arg0: string): $FontOption;
+        getSerializedName(): string;
+        getRemappedEnumConstantName(): string;
+        static CODEC: $Codec<$FontOption>;
+        static UNIFORM: $FontOption;
+        static JAPANESE_VARIANTS: $FontOption;
+        get serializedName(): string;
+        get remappedEnumConstantName(): string;
+    }
+    /**
+     * Values that may be interpreted as {@link $FontOption}.
+     */
+    export type $FontOption_ = "uniform" | "jp";
+    export class $FontTexture extends $AbstractTexture implements $Dumpable {
+        add(arg0: $SheetGlyphInfo): $BakedGlyph;
+        dumpContents(arg0: $ResourceLocation_, arg1: $Path_): void;
+        static NOT_ASSIGNED: number;
+        constructor(arg0: $GlyphRenderTypes_, arg1: boolean);
+    }
+    export class $FontSet$GlyphInfoFilter extends $Record {
+    }
+    /**
+     * Values that may be interpreted as {@link $FontSet$GlyphInfoFilter}.
+     */
+    export type $FontSet$GlyphInfoFilter_ = { glyphInfoNotFishy?: $GlyphInfo, glyphInfo?: $GlyphInfo,  } | [glyphInfoNotFishy?: $GlyphInfo, glyphInfo?: $GlyphInfo, ];
+    export class $CodepointMap$Output<T> {
+    }
+    export interface $CodepointMap$Output<T> {
+        accept(arg0: number, arg1: T): void;
+    }
+    /**
+     * Values that may be interpreted as {@link $CodepointMap$Output}.
+     */
+    export type $CodepointMap$Output_<T> = ((arg0: number, arg1: T) => void);
+    export class $FontTexture$Node {
+    }
+    export class $TextFieldHelper$CursorStep extends $Enum<$TextFieldHelper$CursorStep> {
+        static values(): $TextFieldHelper$CursorStep[];
+        static valueOf(arg0: string): $TextFieldHelper$CursorStep;
+        static WORD: $TextFieldHelper$CursorStep;
+        static CHARACTER: $TextFieldHelper$CursorStep;
+    }
+    /**
+     * Values that may be interpreted as {@link $TextFieldHelper$CursorStep}.
+     */
+    export type $TextFieldHelper$CursorStep_ = "character" | "word";
+    export class $CodepointMap<T> {
+        remove(arg0: number): T;
+        get(arg0: number): T;
+        put(arg0: number, arg1: T): T;
+        clear(): void;
+        forEach(arg0: $CodepointMap$Output_<T>): void;
+        computeIfAbsent(arg0: number, arg1: $IntFunction_<T>): T;
+        keySet(): $IntSet;
+        constructor(arg0: $IntFunction_<T[]>, arg1: $IntFunction_<T[][]>);
+    }
+    export class $FontOption$Filter {
+        apply(arg0: $Set_<$FontOption_>): boolean;
+        merge(arg0: $FontOption$Filter): $FontOption$Filter;
+        static CODEC: $Codec<$FontOption$Filter>;
+        static ALWAYS_PASS: $FontOption$Filter;
+        constructor(arg0: $Map_<$FontOption_, boolean>);
+    }
+    export class $FontManager$UnresolvedBuilderBundle extends $Record implements $DependencySorter$Entry<$ResourceLocation> {
+    }
+    /**
+     * Values that may be interpreted as {@link $FontManager$UnresolvedBuilderBundle}.
+     */
+    export type $FontManager$UnresolvedBuilderBundle_ = { builders?: $List_<$FontManager$BuilderResult_>, fontId?: $ResourceLocation_, dependencies?: $Set_<$ResourceLocation_>,  } | [builders?: $List_<$FontManager$BuilderResult_>, fontId?: $ResourceLocation_, dependencies?: $Set_<$ResourceLocation_>, ];
+    export class $FontManager$FontDefinitionFile extends $Record {
+    }
+    /**
+     * Values that may be interpreted as {@link $FontManager$FontDefinitionFile}.
+     */
+    export type $FontManager$FontDefinitionFile_ = { providers?: $List_<$GlyphProviderDefinition$Conditional_>,  } | [providers?: $List_<$GlyphProviderDefinition$Conditional_>, ];
+    export class $GlyphRenderTypes extends $Record {
+        normal(): $RenderType;
+        select(arg0: $Font$DisplayMode_): $RenderType;
+        polygonOffset(): $RenderType;
+        seeThrough(): $RenderType;
+        static createForColorTexture(arg0: $ResourceLocation_): $GlyphRenderTypes;
+        static createForIntensityTexture(arg0: $ResourceLocation_): $GlyphRenderTypes;
+        constructor(arg0: $RenderType, arg1: $RenderType, arg2: $RenderType);
+    }
+    /**
+     * Values that may be interpreted as {@link $GlyphRenderTypes}.
+     */
+    export type $GlyphRenderTypes_ = { polygonOffset?: $RenderType, seeThrough?: $RenderType, normal?: $RenderType,  } | [polygonOffset?: $RenderType, seeThrough?: $RenderType, normal?: $RenderType, ];
+    export class $FontManager implements $PreparableReloadListener, $AutoCloseable, $AccessFontManager, $AccessorFontManager {
+        close(): void;
+        reload(preparationBarrier: $PreparableReloadListener$PreparationBarrier_, resourceManager: $ResourceManager, preparationProfiler: $ProfilerFiller, reloadProfiler: $ProfilerFiller, preparationExecutor: $Executor_, reloadExecutor: $Executor_): $CompletableFuture<any>;
+        createFontFilterFishy(): $Font;
+        createFont(): $Font;
+        updateOptions(arg0: $Options): void;
+        getName(): string;
+        getFontSets(): $Map<$ResourceLocation, $FontSet>;
+        bookshelf$getFonts(): $Map<$ResourceLocation, $FontSet>;
+        static MISSING_FONT: $ResourceLocation;
+        constructor(arg0: $TextureManager);
+        get name(): string;
+        get fontSets(): $Map<$ResourceLocation, $FontSet>;
+    }
+    export class $FontManager$Preparation extends $Record {
+    }
+    /**
+     * Values that may be interpreted as {@link $FontManager$Preparation}.
+     */
+    export type $FontManager$Preparation_ = { fontSets?: $Map_<$ResourceLocation_, $List_<$GlyphProvider$Conditional_>>, allProviders?: $List_<$GlyphProvider_>,  } | [fontSets?: $Map_<$ResourceLocation_, $List_<$GlyphProvider$Conditional_>>, allProviders?: $List_<$GlyphProvider_>, ];
+    export class $FontSet implements $AutoCloseable {
+        name(): $ResourceLocation;
+        close(): void;
+        reload(arg0: $List_<$GlyphProvider$Conditional_>, arg1: $Set_<$FontOption_>): void;
+        reload(arg0: $Set_<$FontOption_>): void;
+        getGlyphInfo(arg0: number, arg1: boolean): $GlyphInfo;
+        getRandomGlyph(arg0: $GlyphInfo): $BakedGlyph;
+        getGlyph(arg0: number): $BakedGlyph;
+        whiteGlyph(): $BakedGlyph;
+        constructor(arg0: $TextureManager, arg1: $ResourceLocation_);
+    }
+    export class $TextFieldHelper {
+        copy(): void;
+        setSelectionPos(arg0: number): void;
+        insertText(arg0: string): void;
+        keyPressed(arg0: number): boolean;
+        charTyped(arg0: string): boolean;
+        cut(): void;
+        setCursorToEnd(): void;
+        setCursorToEnd(arg0: boolean): void;
+        setSelectionRange(arg0: number, arg1: number): void;
+        moveByChars(arg0: number, arg1: boolean): void;
+        moveByChars(arg0: number): void;
+        isSelecting(): boolean;
+        getCursorPos(): number;
+        moveByWords(arg0: number): void;
+        moveByWords(arg0: number, arg1: boolean): void;
+        getSelectionPos(): number;
+        setCursorPos(arg0: number, arg1: boolean): void;
+        setCursorPos(arg0: number): void;
+        removeFromCursor(arg0: number, arg1: $TextFieldHelper$CursorStep_): void;
+        setCursorToStart(): void;
+        setCursorToStart(arg0: boolean): void;
+        moveBy(arg0: number, arg1: boolean, arg2: $TextFieldHelper$CursorStep_): void;
+        static createClipboardSetter(arg0: $Minecraft): $Consumer<string>;
+        static createClipboardGetter(arg0: $Minecraft): $Supplier<string>;
+        selectAll(): void;
+        paste(): void;
+        static getClipboardContents(arg0: $Minecraft): string;
+        static setClipboardContents(arg0: $Minecraft, arg1: string): void;
+        removeCharsFromCursor(arg0: number): void;
+        removeWordsFromCursor(arg0: number): void;
+        constructor(arg0: $Supplier_<string>, arg1: $Consumer_<string>, arg2: $Supplier_<string>, arg3: $Consumer_<string>, arg4: $Predicate_<string>);
+        get selecting(): boolean;
+    }
+    export class $AllMissingGlyphProvider implements $GlyphProvider {
+        getGlyph(arg0: number): $GlyphInfo;
+        getSupportedGlyphs(): $IntSet;
+        close(): void;
+        constructor();
+        get supportedGlyphs(): $IntSet;
+    }
+    export class $FontManager$BuilderId extends $Record {
+    }
+    /**
+     * Values that may be interpreted as {@link $FontManager$BuilderId}.
+     */
+    export type $FontManager$BuilderId_ = { pack?: string, fontId?: $ResourceLocation_, index?: number,  } | [pack?: string, fontId?: $ResourceLocation_, index?: number, ];
+    export class $FontManager$BuilderResult extends $Record {
+    }
+    /**
+     * Values that may be interpreted as {@link $FontManager$BuilderResult}.
+     */
+    export type $FontManager$BuilderResult_ = { filter?: $FontOption$Filter, result?: $Either<$CompletableFuture<($GlyphProvider_) | undefined>, $ResourceLocation_>, id?: $FontManager$BuilderId_,  } | [filter?: $FontOption$Filter, result?: $Either<$CompletableFuture<($GlyphProvider_) | undefined>, $ResourceLocation_>, id?: $FontManager$BuilderId_, ];
+}

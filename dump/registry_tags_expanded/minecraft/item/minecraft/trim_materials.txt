@@ -1,0 +1,27 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:trim_materials
+# Entries: 20
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2639796+08:00
+
+atmospheric:carmine_husk
+crabbersdelight:pearl
+l2complements:eternium_ingot
+l2complements:poseidite_ingot
+l2complements:sculkium_ingot
+l2complements:shulkerate_ingot
+l2complements:totemic_gold_ingot
+minecraft:amethyst_shard
+minecraft:copper_ingot
+minecraft:diamond
+minecraft:emerald
+minecraft:gold_ingot
+minecraft:iron_ingot
+minecraft:lapis_lazuli
+minecraft:netherite_ingot
+minecraft:quartz
+minecraft:redstone
+tofucraft:tofudiamond
+tofucraft:tofumetal
+tofucraft:zundaruby

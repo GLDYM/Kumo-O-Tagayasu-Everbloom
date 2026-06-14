@@ -1,0 +1,18 @@
+# Registry dump
+# Registry: create:display_target
+# Minecraft: 1.21.1
+# Entries: 12
+# Generated: 2026-06-14T13:47:24.0361783+08:00
+
+bits_n_bobs:nixie_board raw_id=5 class=com.kipti.bnb.content.nixie.foundation.GenericNixieDisplayTarget
+create:display_board raw_id=10 class=com.simibubi.create.content.redstone.displayLink.target.DisplayBoardTarget
+create:lectern raw_id=9 class=com.simibubi.create.content.redstone.displayLink.target.LecternDisplayTarget
+create:nixie_tube raw_id=11 class=com.simibubi.create.content.redstone.displayLink.target.NixieTubeDisplayTarget
+create:sign raw_id=8 class=com.simibubi.create.content.redstone.displayLink.target.SignDisplayTarget
+create_connected:dashboard raw_id=7 class=com.hlysine.create_connected.content.dashboard.DashboardDisplayTarget
+createrailwaysnavigator:advanced_display raw_id=4 class=de.mrjulsen.crn.block.display.AdvancedDisplayTarget
+railways:semaphore raw_id=6 class=com.railwayteam.railways.content.distant_signals.SemaphoreDisplayTarget
+supplementaries:blackboard_display_target raw_id=3 class=net.mehvahdjukaar.supplementaries.integration.platform.create.BlackboardDisplayTarget
+supplementaries:notice_board_display_target raw_id=0 class=net.mehvahdjukaar.supplementaries.integration.platform.create.NoticeBoardDisplayTarget
+supplementaries:speaker_block_display_target raw_id=2 class=net.mehvahdjukaar.supplementaries.integration.platform.create.SpeakerBlockDisplayTarget
+supplementaries:text_holder_display_target raw_id=1 class=net.mehvahdjukaar.supplementaries.integration.platform.create.TextHolderDisplayTarget

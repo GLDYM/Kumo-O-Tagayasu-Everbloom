@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:storage_blocks/raw_zinc
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.7625256+08:00
+
+create:raw_zinc_block

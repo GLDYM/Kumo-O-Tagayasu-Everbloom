@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: another_furniture:shelves
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.3927609+08:00
+
+another_furniture:acacia_shelf
+another_furniture:bamboo_shelf
+another_furniture:birch_shelf
+another_furniture:cherry_shelf
+another_furniture:crimson_shelf
+another_furniture:dark_oak_shelf
+another_furniture:jungle_shelf
+another_furniture:mangrove_shelf
+another_furniture:oak_shelf
+another_furniture:spruce_shelf
+another_furniture:warped_shelf

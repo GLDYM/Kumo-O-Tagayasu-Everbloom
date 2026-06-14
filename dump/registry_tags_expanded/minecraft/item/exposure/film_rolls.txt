@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: exposure:film_rolls
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.5729788+08:00
+
+exposure:black_and_white_film
+exposure:color_film
+exposure:high_sensitivity_black_and_white_film
+exposure:high_sensitivity_color_film

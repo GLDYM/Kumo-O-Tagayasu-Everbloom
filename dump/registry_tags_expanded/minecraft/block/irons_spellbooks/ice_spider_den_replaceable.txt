@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: irons_spellbooks:ice_spider_den_replaceable
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.12052+08:00
+
+minecraft:cobbled_deepslate
+minecraft:cracked_stone_bricks
+minecraft:stone_brick_slab
+minecraft:stone_brick_stairs
+minecraft:stone_bricks

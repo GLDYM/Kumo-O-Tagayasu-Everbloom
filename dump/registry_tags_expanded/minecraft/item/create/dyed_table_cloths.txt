@@ -1,0 +1,39 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:dyed_table_cloths
+# Entries: 32
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.9904981+08:00
+
+create:black_table_cloth
+create:blue_table_cloth
+create:brown_table_cloth
+create:cyan_table_cloth
+create:gray_table_cloth
+create:green_table_cloth
+create:light_blue_table_cloth
+create:light_gray_table_cloth
+create:lime_table_cloth
+create:magenta_table_cloth
+create:orange_table_cloth
+create:pink_table_cloth
+create:purple_table_cloth
+create:red_table_cloth
+create:white_table_cloth
+create:yellow_table_cloth
+tradeworks:black_inverted_table_cloth
+tradeworks:blue_inverted_table_cloth
+tradeworks:brown_inverted_table_cloth
+tradeworks:cyan_inverted_table_cloth
+tradeworks:gray_inverted_table_cloth
+tradeworks:green_inverted_table_cloth
+tradeworks:light_blue_inverted_table_cloth
+tradeworks:light_gray_inverted_table_cloth
+tradeworks:lime_inverted_table_cloth
+tradeworks:magenta_inverted_table_cloth
+tradeworks:orange_inverted_table_cloth
+tradeworks:pink_inverted_table_cloth
+tradeworks:purple_inverted_table_cloth
+tradeworks:red_inverted_table_cloth
+tradeworks:white_inverted_table_cloth
+tradeworks:yellow_inverted_table_cloth

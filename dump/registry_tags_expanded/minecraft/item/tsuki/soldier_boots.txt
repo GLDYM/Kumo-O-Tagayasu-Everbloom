@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: tsuki:soldier_boots
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.12294+08:00
+
+tsuki:soldier_boots_black
+tsuki:soldier_boots_gray

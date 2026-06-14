@@ -1,0 +1,21 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: quark:revertable_trapped_chests
+# Entries: 14
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.3603723+08:00
+
+quark:trapped_acacia_chest
+quark:trapped_ancient_chest
+quark:trapped_azalea_chest
+quark:trapped_bamboo_chest
+quark:trapped_birch_chest
+quark:trapped_blossom_chest
+quark:trapped_cherry_chest
+quark:trapped_crimson_chest
+quark:trapped_dark_oak_chest
+quark:trapped_jungle_chest
+quark:trapped_mangrove_chest
+quark:trapped_oak_chest
+quark:trapped_spruce_chest
+quark:trapped_warped_chest

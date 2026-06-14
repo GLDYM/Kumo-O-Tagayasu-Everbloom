@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:cookedmeats
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.7849778+08:00
+
+immortalers_delight:cooked_sniffer_steak
+mynethersdelight:cooked_loin

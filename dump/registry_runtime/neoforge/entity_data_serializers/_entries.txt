@@ -1,0 +1,15 @@
+# Registry dump
+# Registry: neoforge:entity_data_serializers
+# Minecraft: 1.21.1
+# Entries: 9
+# Generated: 2026-06-14T13:47:24.5914133+08:00
+
+atmospheric:camel_variant raw_id=7 class=net.minecraft.network.syncher.EntityDataSerializer$$Lambda/0x0000023d17cc5470
+atmospheric:tetra_variant raw_id=6 class=net.minecraft.network.syncher.EntityDataSerializer$$Lambda/0x0000023d17cc5470
+create:carriage_data raw_id=8 class=com.simibubi.create.content.trains.entity.CarriageSyncDataSerializer
+moonlight:wood_type raw_id=5 class=net.minecraft.network.syncher.EntityDataSerializer$$Lambda/0x0000023d17cc5470
+neapolitan:chimpanzee_variant raw_id=4 class=net.minecraft.network.syncher.EntityDataSerializer$$Lambda/0x0000023d17cc5470
+tofucraft:fluid_stack raw_id=2 class=net.minecraft.network.syncher.EntityDataSerializer$$Lambda/0x0000023d17cc5470
+tofucraft:tofunian_profession raw_id=3 class=net.minecraft.network.syncher.EntityDataSerializer$$Lambda/0x0000023d17cc5470
+touhou_little_maid:maid_chat_bubble raw_id=1 class=com.github.tartaricacid.touhoulittlemaid.entity.chatbubble.ChatBubbleRegister$1
+touhou_little_maid:maid_schedule raw_id=0 class=com.github.tartaricacid.touhoulittlemaid.entity.ai.brain.MaidSchedule$1

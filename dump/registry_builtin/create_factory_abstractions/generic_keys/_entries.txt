@@ -1,0 +1,8 @@
+# Registry dump
+# Registry: create_factory_abstractions:generic_keys
+# Minecraft: 1.21.1
+# Entries: 2
+# Generated: 2026-06-14T13:45:01.0531366+08:00
+
+create_factory_abstractions:empty raw_id=0 class=ru.zznty.create_factory_abstractions.generic.impl.GenericContentExtender$Registration
+create_factory_abstractions:item raw_id=1 class=ru.zznty.create_factory_abstractions.generic.impl.GenericContentExtender$Registration

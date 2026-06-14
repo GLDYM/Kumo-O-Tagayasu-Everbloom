@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:dirt
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0898399+08:00
+
+atmospheric:crustose
+minecraft:coarse_dirt
+minecraft:dirt
+minecraft:grass_block
+minecraft:moss_block
+minecraft:mud
+minecraft:muddy_mangrove_roots
+minecraft:mycelium
+minecraft:podzol
+minecraft:rooted_dirt

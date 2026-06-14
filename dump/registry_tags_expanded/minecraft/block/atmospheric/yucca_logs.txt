@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: atmospheric:yucca_logs
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.4481669+08:00
+
+atmospheric:stripped_yucca_log
+atmospheric:stripped_yucca_wood
+atmospheric:yucca_log
+atmospheric:yucca_wood

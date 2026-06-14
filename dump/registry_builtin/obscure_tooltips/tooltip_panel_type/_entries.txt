@@ -1,0 +1,8 @@
+# Registry dump
+# Registry: obscure_tooltips:tooltip_panel_type
+# Minecraft: 1.21.1
+# Entries: 2
+# Generated: 2026-06-14T13:45:01.5697331+08:00
+
+obscure_tooltips:blank raw_id=0 class=com.mojang.serialization.MapCodec$2
+obscure_tooltips:color_rect raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

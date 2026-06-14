@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: carryon:entity_blacklist
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0558201+08:00
+
+touhou_little_maid:broom
+touhou_little_maid:sit
+touhou_little_maid:tombstone

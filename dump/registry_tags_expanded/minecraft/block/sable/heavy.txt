@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: sable:heavy
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.7001887+08:00
+
+createdeco:andesite_hull
+createdeco:brass_hull
+createdeco:copper_hull
+createdeco:industrial_iron_hull
+createdeco:iron_hull
+createdeco:zinc_hull
+supplementaries:cannonball
+supplementaries:netherite_door
+supplementaries:netherite_trapdoor
+supplementaries:slidy_block

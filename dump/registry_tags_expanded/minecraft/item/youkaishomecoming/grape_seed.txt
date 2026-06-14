@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: youkaishomecoming:grape_seed
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.2032741+08:00
+
+youkaishomecoming:black_grape_seeds
+youkaishomecoming:red_grape_seeds
+youkaishomecoming:white_grape_seeds

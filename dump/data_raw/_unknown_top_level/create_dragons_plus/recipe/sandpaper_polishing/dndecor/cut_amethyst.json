@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "dndecor:cut_amethyst"
+    }
+  ],
+  "results": [
+    {
+      "id": "dndecor:polished_cut_amethyst"
+    }
+  ]
+}

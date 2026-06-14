@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/pasta
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.1604646+08:00
+
+farmersdelight:raw_pasta
+kaleidoscope_cookery:raw_noodles
+mynethersdelight:ghasta
+vintagedelight:cucumber_noodles

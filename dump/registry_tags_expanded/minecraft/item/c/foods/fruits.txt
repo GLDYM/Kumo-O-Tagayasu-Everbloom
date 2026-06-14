@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/fruits
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.118442+08:00
+
+minecraft:apple
+minecraft:glow_berries
+minecraft:melon_slice
+minecraft:sweet_berries
+tsuki:grape
+tsuki:grape_green
+tsuki:lemon
+tsuki:lime
+vintagedelight:gearo_berry

@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:dyed_stone_metal_decor
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2679967+08:00
+
+dndecor:black_stone_metal
+dndecor:blue_stone_metal
+dndecor:brown_stone_metal
+dndecor:cyan_stone_metal
+dndecor:gray_stone_metal
+dndecor:green_stone_metal
+dndecor:light_blue_stone_metal
+dndecor:light_gray_stone_metal
+dndecor:lime_stone_metal
+dndecor:magenta_stone_metal
+dndecor:orange_stone_metal
+dndecor:pink_stone_metal
+dndecor:purple_stone_metal
+dndecor:red_stone_metal
+dndecor:white_stone_metal
+dndecor:yellow_stone_metal

@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:crimson_stems
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.3337842+08:00
+
+minecraft:crimson_hyphae
+minecraft:crimson_stem
+minecraft:stripped_crimson_hyphae
+minecraft:stripped_crimson_stem

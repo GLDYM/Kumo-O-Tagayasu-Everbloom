@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:cat_variant
+# Tag: minecraft:default_spawns
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.8586113+08:00
+
+minecraft:black
+minecraft:british_shorthair
+minecraft:calico
+minecraft:jellie
+minecraft:persian
+minecraft:ragdoll
+minecraft:red
+minecraft:siamese
+minecraft:tabby
+minecraft:white

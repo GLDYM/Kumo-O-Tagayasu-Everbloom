@@ -1,0 +1,47 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:wooden_stairs
+# Entries: 40
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.5856165+08:00
+
+atmospheric:aspen_stairs
+atmospheric:grimwood_stairs
+atmospheric:kousa_stairs
+atmospheric:laurel_stairs
+atmospheric:morado_stairs
+atmospheric:rosewood_stairs
+atmospheric:yucca_stairs
+crabbersdelight:palm_stairs
+immortalers_delight:a_bush_stairs
+immortalers_delight:ancient_wood_stairs
+immortalers_delight:himekaido_stairs
+immortalers_delight:leisamboo_stairs
+immortalers_delight:pearlip_shell_stairs
+minecraft:acacia_stairs
+minecraft:bamboo_stairs
+minecraft:birch_stairs
+minecraft:cherry_stairs
+minecraft:crimson_stairs
+minecraft:dark_oak_stairs
+minecraft:jungle_stairs
+minecraft:mangrove_stairs
+minecraft:oak_stairs
+minecraft:spruce_stairs
+minecraft:warped_stairs
+mynethersdelight:powdery_stairs
+quark:ancient_planks_stairs
+quark:azalea_planks_stairs
+quark:blossom_planks_stairs
+tofucraft:leek_green_stair
+tofucraft:leek_stair
+tofucraft:tofustem_stair
+tsuki:stairs_bamboo_block
+tsuki:stairs_bamboo_block_sunburnt
+tsuki:stairs_plank_bamboo
+tsuki:stairs_plank_maple
+tsuki:stairs_plank_sakura
+tsuki:stairs_plank_ume
+vintagedelight:vine_tile_stairs
+youkaishomecoming:hay_stairs
+youkaishomecoming:straw_stairs

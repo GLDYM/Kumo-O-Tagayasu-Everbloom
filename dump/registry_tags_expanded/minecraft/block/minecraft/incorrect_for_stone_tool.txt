@@ -1,0 +1,70 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:incorrect_for_stone_tool
+# Entries: 63
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.4007844+08:00
+
+cagedmobs:star_infused_netherite_block
+create:brass_block
+create:deepslate_zinc_ore
+create:raw_zinc_block
+create:zinc_block
+create:zinc_ore
+create_compressed:brass_sheet_block
+create_compressed:gold_sheet_block
+create_compressed:sturdy_sheet_block
+createnuclear:deepslate_lead_ore
+createnuclear:deepslate_uranium_ore
+createnuclear:enriched_soul_soil
+createnuclear:lead_ore
+createnuclear:raw_uranium_block
+createnuclear:reactor_casing
+createnuclear:reactor_controller
+createnuclear:reactor_cooler
+createnuclear:reactor_core
+createnuclear:reactor_frame
+createnuclear:reactor_input
+createnuclear:reactor_output
+createnuclear:uranium_ore
+dramaticdoors:short_netherite_door
+dramaticdoors:tall_netherite_door
+immortalers_delight:enchantal_cooler
+immortalers_delight:gelpitaya_crop
+irons_spellbooks:deepslate_mithril_ore
+irons_spellbooks:mithril_ore
+iss_magicfromtheeast:refined_jade_block
+minecraft:ancient_debris
+minecraft:crying_obsidian
+minecraft:deepslate_diamond_ore
+minecraft:deepslate_emerald_ore
+minecraft:deepslate_gold_ore
+minecraft:deepslate_redstone_ore
+minecraft:diamond_block
+minecraft:diamond_ore
+minecraft:emerald_block
+minecraft:emerald_ore
+minecraft:gold_block
+minecraft:gold_ore
+minecraft:netherite_block
+minecraft:obsidian
+minecraft:raw_gold_block
+minecraft:redstone_ore
+minecraft:respawn_anchor
+quark:raw_gold_bricks
+quark:raw_gold_bricks_slab
+quark:raw_gold_bricks_stairs
+quark:raw_gold_bricks_vertical_slab
+supplementaries:gold_door
+supplementaries:gold_trapdoor
+supplementaries:netherite_door
+supplementaries:netherite_trapdoor
+supplementaries:safe
+tofucraft:blocktofudiamond
+tofucraft:tofuslate_tofu_diamond_ore
+tsuki:deepslate_sakura_diamond_ore
+tsuki:sakura_diamond_block
+tsuki:sakura_diamond_ore
+ultramarine:deepslate_jade_ore
+ultramarine:jade_ore
+ultramarine:nether_cobalt_ore

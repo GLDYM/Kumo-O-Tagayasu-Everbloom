@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: supplementaries:hourglass_dusts
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0033141+08:00
+
+create:cinder_flour
+create:powdered_obsidian
+createnuclear:coal_dust
+createnuclear:uranium_powder
+minecraft:glowstone_dust
+minecraft:gunpowder
+minecraft:redstone
+supplementaries:ash

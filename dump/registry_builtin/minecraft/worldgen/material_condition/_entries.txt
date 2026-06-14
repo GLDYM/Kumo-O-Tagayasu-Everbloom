@@ -1,0 +1,22 @@
+# Registry dump
+# Registry: minecraft:worldgen/material_condition
+# Minecraft: 1.21.1
+# Entries: 16
+# Generated: 2026-06-14T13:45:01.4679766+08:00
+
+lithostitched:all_of raw_id=14 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:any_of raw_id=11 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:biome raw_id=13 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:internal/tag_filled raw_id=12 class=com.mojang.serialization.MapCodec$2
+lithostitched:slope raw_id=15 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:above_preliminary_surface raw_id=9 class=com.mojang.serialization.MapCodec$2
+minecraft:biome raw_id=0 class=com.mojang.serialization.MapCodec$2
+minecraft:hole raw_id=8 class=com.mojang.serialization.MapCodec$2
+minecraft:noise_threshold raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:not raw_id=7 class=com.mojang.serialization.MapCodec$2
+minecraft:steep raw_id=6 class=com.mojang.serialization.MapCodec$2
+minecraft:stone_depth raw_id=10 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:temperature raw_id=5 class=com.mojang.serialization.MapCodec$2
+minecraft:vertical_gradient raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:water raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:y_above raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

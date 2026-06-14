@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "dndecor:cut_blackstone_wall"
+    }
+  ],
+  "results": [
+    {
+      "id": "dndecor:polished_cut_blackstone_wall"
+    }
+  ]
+}

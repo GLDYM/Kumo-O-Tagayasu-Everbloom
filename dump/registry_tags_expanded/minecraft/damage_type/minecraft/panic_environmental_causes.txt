@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: minecraft:panic_environmental_causes
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9409806+08:00
+
+farmersdelight:stove_burn
+minecraft:cactus
+minecraft:freeze
+minecraft:hot_floor
+minecraft:in_fire
+minecraft:lava
+minecraft:lightning_bolt
+minecraft:on_fire

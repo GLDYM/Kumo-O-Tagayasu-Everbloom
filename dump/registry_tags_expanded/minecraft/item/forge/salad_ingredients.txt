@@ -1,0 +1,32 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: forge:salad_ingredients
+# Entries: 25
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.6813043+08:00
+
+atmospheric:aloe_leaves
+bakeries:tomato
+corn_delight:corn
+farmersdelight:cabbage
+farmersdelight:cabbage_leaf
+farmersdelight:onion
+farmersdelight:tomato
+kaleidoscope_cookery:tomato
+minecraft:beetroot
+minecraft:brown_mushroom
+minecraft:carrot
+minecraft:golden_carrot
+minecraft:potato
+minecraft:pumpkin
+minecraft:red_mushroom
+minecraft:sweet_berries
+tsuki:cabbage
+tsuki:eggplant
+tsuki:imogara
+tsuki:onion
+tsuki:radish
+tsuki:tomato
+vintagedelight:cucumber
+vintagedelight:ghost_pepper
+vintagedelight:peanut

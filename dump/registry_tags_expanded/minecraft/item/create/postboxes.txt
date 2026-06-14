@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:postboxes
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.9965723+08:00
+
+create:black_postbox
+create:blue_postbox
+create:brown_postbox
+create:cyan_postbox
+create:gray_postbox
+create:green_postbox
+create:light_blue_postbox
+create:light_gray_postbox
+create:lime_postbox
+create:magenta_postbox
+create:orange_postbox
+create:pink_postbox
+create:purple_postbox
+create:red_postbox
+create:white_postbox
+create:yellow_postbox

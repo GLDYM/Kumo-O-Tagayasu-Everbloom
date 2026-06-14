@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: supplementaries:galleon_treasure
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0324506+08:00
+
+minecraft:channeling
+minecraft:depth_strider
+minecraft:impaling
+minecraft:loyalty
+minecraft:luck_of_the_sea
+minecraft:multishot
+minecraft:piercing
+minecraft:respiration
+minecraft:riptide

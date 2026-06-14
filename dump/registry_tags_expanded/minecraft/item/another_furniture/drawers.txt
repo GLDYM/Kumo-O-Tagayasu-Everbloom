@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: another_furniture:drawers
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4309308+08:00
+
+another_furniture:acacia_drawer
+another_furniture:bamboo_drawer
+another_furniture:birch_drawer
+another_furniture:cherry_drawer
+another_furniture:crimson_drawer
+another_furniture:dark_oak_drawer
+another_furniture:jungle_drawer
+another_furniture:mangrove_drawer
+another_furniture:oak_drawer
+another_furniture:spruce_drawer
+another_furniture:warped_drawer

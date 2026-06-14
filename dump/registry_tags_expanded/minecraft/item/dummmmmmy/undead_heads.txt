@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dummmmmmy:undead_heads
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.565459+08:00
+
+minecraft:skeleton_skull
+minecraft:wither_skeleton_skull
+minecraft:zombie_head

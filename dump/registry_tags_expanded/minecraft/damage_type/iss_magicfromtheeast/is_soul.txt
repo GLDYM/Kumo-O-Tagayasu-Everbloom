@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: iss_magicfromtheeast:is_soul
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.8807021+08:00
+
+iss_magicfromtheeast:soul_damage
+iss_magicfromtheeast:soul_weapons_bonus
+iss_magicfromtheeast:spirit_arrow

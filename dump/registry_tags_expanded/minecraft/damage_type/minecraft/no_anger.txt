@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: minecraft:no_anger
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9289333+08:00
+
+l2weaponry:mob_attack-bypass_armor-bypass_magic-no_anger
+l2weaponry:mob_attack-bypass_armor-no_anger
+l2weaponry:mob_attack-bypass_magic-no_anger
+l2weaponry:mob_attack-no_anger
+l2weaponry:player_attack-bypass_armor-bypass_magic-no_anger
+l2weaponry:player_attack-bypass_armor-no_anger
+l2weaponry:player_attack-bypass_magic-no_anger
+l2weaponry:player_attack-no_anger
+l2weaponry:trident-bypass_armor-bypass_magic-no_anger
+l2weaponry:trident-bypass_armor-bypass_magic-no_anger-no_projectile
+l2weaponry:trident-bypass_armor-no_anger
+l2weaponry:trident-bypass_armor-no_anger-no_projectile
+l2weaponry:trident-bypass_magic-no_anger
+l2weaponry:trident-bypass_magic-no_anger-no_projectile
+l2weaponry:trident-no_anger
+l2weaponry:trident-no_anger-no_projectile
+minecraft:mob_attack_no_aggro

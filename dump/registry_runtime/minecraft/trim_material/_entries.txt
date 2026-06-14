@@ -1,0 +1,26 @@
+# Registry dump
+# Registry: minecraft:trim_material
+# Minecraft: 1.21.1
+# Entries: 20
+# Generated: 2026-06-14T13:47:24.4485214+08:00
+
+atmospheric:carmine raw_id=1 class=net.minecraft.world.item.armortrim.TrimMaterial
+crabbersdelight:pearl raw_id=10 class=net.minecraft.world.item.armortrim.TrimMaterial
+l2complements:eternium raw_id=5 class=net.minecraft.world.item.armortrim.TrimMaterial
+l2complements:poseidite raw_id=11 class=net.minecraft.world.item.armortrim.TrimMaterial
+l2complements:sculkium raw_id=14 class=net.minecraft.world.item.armortrim.TrimMaterial
+l2complements:shulkerate raw_id=15 class=net.minecraft.world.item.armortrim.TrimMaterial
+l2complements:totemic_gold raw_id=18 class=net.minecraft.world.item.armortrim.TrimMaterial
+minecraft:amethyst raw_id=0 class=net.minecraft.world.item.armortrim.TrimMaterial
+minecraft:copper raw_id=2 class=net.minecraft.world.item.armortrim.TrimMaterial
+minecraft:diamond raw_id=3 class=net.minecraft.world.item.armortrim.TrimMaterial
+minecraft:emerald raw_id=4 class=net.minecraft.world.item.armortrim.TrimMaterial
+minecraft:gold raw_id=6 class=net.minecraft.world.item.armortrim.TrimMaterial
+minecraft:iron raw_id=7 class=net.minecraft.world.item.armortrim.TrimMaterial
+minecraft:lapis raw_id=8 class=net.minecraft.world.item.armortrim.TrimMaterial
+minecraft:netherite raw_id=9 class=net.minecraft.world.item.armortrim.TrimMaterial
+minecraft:quartz raw_id=12 class=net.minecraft.world.item.armortrim.TrimMaterial
+minecraft:redstone raw_id=13 class=net.minecraft.world.item.armortrim.TrimMaterial
+tofucraft:tofu_diamond raw_id=16 class=net.minecraft.world.item.armortrim.TrimMaterial
+tofucraft:tofu_metal raw_id=17 class=net.minecraft.world.item.armortrim.TrimMaterial
+tofucraft:zunda_ruby raw_id=19 class=net.minecraft.world.item.armortrim.TrimMaterial

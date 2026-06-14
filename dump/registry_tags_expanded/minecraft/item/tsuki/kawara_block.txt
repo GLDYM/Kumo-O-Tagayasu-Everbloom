@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: tsuki:kawara_block
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.1056289+08:00
+
+tsuki:kawara_block
+tsuki:kawara_block_alter

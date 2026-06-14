@@ -1,0 +1,20 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: tofucraft:statue_happy
+# Entries: 13
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0674435+08:00
+
+tofucraft:edamame_templa
+tofucraft:goheimochi
+tofucraft:kinako_mochi
+tofucraft:kinakomanju
+tofucraft:koyadofustew
+tofucraft:moyashiitame
+tofucraft:moyashiohitashi
+tofucraft:nanbantofu
+tofucraft:ricesoborotofu
+tofucraft:tofuannin
+tofucraft:tofucookie
+tofucraft:zunda_mochi
+tofucraft:zundamanju

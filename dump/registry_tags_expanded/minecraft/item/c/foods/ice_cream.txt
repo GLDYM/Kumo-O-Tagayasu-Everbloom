@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/ice_cream
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.150482+08:00
+
+neapolitan:adzuki_ice_cream
+neapolitan:banana_ice_cream
+neapolitan:chocolate_ice_cream
+neapolitan:mint_ice_cream
+neapolitan:neapolitan_ice_cream
+neapolitan:strawberry_ice_cream
+neapolitan:vanilla_ice_cream

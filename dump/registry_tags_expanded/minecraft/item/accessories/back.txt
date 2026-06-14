@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: accessories:back
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4111224+08:00
+
+sophisticatedbackpacks:backpack
+sophisticatedbackpacks:copper_backpack
+sophisticatedbackpacks:diamond_backpack
+sophisticatedbackpacks:gold_backpack
+sophisticatedbackpacks:iron_backpack
+sophisticatedbackpacks:netherite_backpack

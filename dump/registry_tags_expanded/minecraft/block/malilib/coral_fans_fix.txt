@@ -1,0 +1,27 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: malilib:coral_fans_fix
+# Entries: 20
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.2298706+08:00
+
+minecraft:brain_coral_fan
+minecraft:brain_coral_wall_fan
+minecraft:bubble_coral_fan
+minecraft:bubble_coral_wall_fan
+minecraft:dead_brain_coral_fan
+minecraft:dead_brain_coral_wall_fan
+minecraft:dead_bubble_coral_fan
+minecraft:dead_bubble_coral_wall_fan
+minecraft:dead_fire_coral_fan
+minecraft:dead_fire_coral_wall_fan
+minecraft:dead_horn_coral_fan
+minecraft:dead_horn_coral_wall_fan
+minecraft:dead_tube_coral_fan
+minecraft:dead_tube_coral_wall_fan
+minecraft:fire_coral_fan
+minecraft:fire_coral_wall_fan
+minecraft:horn_coral_fan
+minecraft:horn_coral_wall_fan
+minecraft:tube_coral_fan
+minecraft:tube_coral_wall_fan

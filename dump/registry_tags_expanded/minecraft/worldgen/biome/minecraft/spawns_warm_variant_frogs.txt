@@ -1,0 +1,34 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:spawns_warm_variant_frogs
+# Entries: 27
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.0195144+08:00
+
+atmospheric:dunes
+atmospheric:flourishing_dunes
+atmospheric:petrified_dunes
+atmospheric:rainforest
+atmospheric:rainforest_basin
+atmospheric:rocky_dunes
+atmospheric:scrubland
+atmospheric:sparse_rainforest
+atmospheric:sparse_rainforest_basin
+atmospheric:spiny_thicket
+minecraft:badlands
+minecraft:bamboo_jungle
+minecraft:basalt_deltas
+minecraft:crimson_forest
+minecraft:desert
+minecraft:eroded_badlands
+minecraft:jungle
+minecraft:mangrove_swamp
+minecraft:nether_wastes
+minecraft:savanna
+minecraft:savanna_plateau
+minecraft:soul_sand_valley
+minecraft:sparse_jungle
+minecraft:warm_ocean
+minecraft:warped_forest
+minecraft:windswept_savanna
+minecraft:wooded_badlands

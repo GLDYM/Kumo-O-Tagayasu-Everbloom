@@ -1,0 +1,27 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: neoforge:is_physical
+# Entries: 20
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9477088+08:00
+
+minecraft:arrow
+minecraft:cactus
+minecraft:cramming
+minecraft:fall
+minecraft:falling_anvil
+minecraft:falling_block
+minecraft:falling_stalactite
+minecraft:fly_into_wall
+minecraft:generic
+minecraft:in_wall
+minecraft:mob_attack
+minecraft:mob_attack_no_aggro
+minecraft:mob_projectile
+minecraft:player_attack
+minecraft:sonic_boom
+minecraft:stalagmite
+minecraft:sting
+minecraft:sweet_berry_bush
+minecraft:thrown
+minecraft:trident

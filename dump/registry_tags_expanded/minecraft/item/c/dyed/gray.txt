@@ -1,0 +1,27 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:dyed/gray
+# Entries: 20
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.9827281+08:00
+
+handcrafted:gray_cushion
+handcrafted:gray_sheet
+minecraft:gray_banner
+minecraft:gray_bed
+minecraft:gray_candle
+minecraft:gray_carpet
+minecraft:gray_concrete
+minecraft:gray_concrete_powder
+minecraft:gray_glazed_terracotta
+minecraft:gray_shulker_box
+minecraft:gray_stained_glass
+minecraft:gray_stained_glass_pane
+minecraft:gray_terracotta
+minecraft:gray_wool
+supplementaries:awning_gray
+supplementaries:bunting_gray
+supplementaries:candle_holder_gray
+supplementaries:flag_gray
+supplementaries:present_gray
+supplementaries:trapped_present_gray

@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: createaddition:plants
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.1504581+08:00
+
+farmersdelight:brown_mushroom_colony
+farmersdelight:red_mushroom_colony
+farmersdelight:sandy_shrub

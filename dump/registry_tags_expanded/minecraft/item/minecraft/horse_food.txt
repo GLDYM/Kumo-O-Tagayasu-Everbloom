@@ -1,0 +1,20 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:horse_food
+# Entries: 13
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1496896+08:00
+
+corn_delight:corn
+corn_delight:corn_seeds
+corn_delight:corncob
+minecraft:apple
+minecraft:enchanted_golden_apple
+minecraft:golden_apple
+minecraft:golden_carrot
+minecraft:hay_block
+minecraft:sugar
+minecraft:wheat
+supplementaries:flax
+supplementaries:flax_block
+supplementaries:sugar_cube

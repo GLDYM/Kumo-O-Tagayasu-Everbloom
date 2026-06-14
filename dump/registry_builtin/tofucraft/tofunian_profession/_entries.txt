@@ -1,0 +1,11 @@
+# Registry dump
+# Registry: tofucraft:tofunian_profession
+# Minecraft: 1.21.1
+# Entries: 5
+# Generated: 2026-06-14T13:45:01.5918184+08:00
+
+tofucraft:engineer raw_id=4 class=baguchan.tofucraft.api.TofunianProfession
+tofucraft:farmer raw_id=2 class=baguchan.tofucraft.api.TofunianProfession
+tofucraft:none raw_id=0 class=baguchan.tofucraft.api.TofunianProfession
+tofucraft:smith raw_id=3 class=baguchan.tofucraft.api.TofunianProfession
+tofucraft:soy_worker raw_id=1 class=baguchan.tofucraft.api.TofunianProfession

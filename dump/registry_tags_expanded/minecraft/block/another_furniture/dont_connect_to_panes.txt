@@ -1,0 +1,34 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: another_furniture:dont_connect_to_panes
+# Entries: 27
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.3832078+08:00
+
+another_furniture:acacia_shutter
+another_furniture:bamboo_shutter
+another_furniture:birch_shutter
+another_furniture:black_curtain
+another_furniture:blue_curtain
+another_furniture:brown_curtain
+another_furniture:cherry_shutter
+another_furniture:crimson_shutter
+another_furniture:cyan_curtain
+another_furniture:dark_oak_shutter
+another_furniture:gray_curtain
+another_furniture:green_curtain
+another_furniture:jungle_shutter
+another_furniture:light_blue_curtain
+another_furniture:light_gray_curtain
+another_furniture:lime_curtain
+another_furniture:magenta_curtain
+another_furniture:mangrove_shutter
+another_furniture:oak_shutter
+another_furniture:orange_curtain
+another_furniture:pink_curtain
+another_furniture:purple_curtain
+another_furniture:red_curtain
+another_furniture:spruce_shutter
+another_furniture:warped_shutter
+another_furniture:white_curtain
+another_furniture:yellow_curtain

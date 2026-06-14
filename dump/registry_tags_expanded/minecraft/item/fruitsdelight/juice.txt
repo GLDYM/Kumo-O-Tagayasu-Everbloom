@@ -1,0 +1,21 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: fruitsdelight:juice
+# Entries: 14
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.7119708+08:00
+
+fruitsdelight:bayberry_soup
+fruitsdelight:bellini_cocktail
+fruitsdelight:hamimelon_juice
+fruitsdelight:hamimelon_shaved_ice
+fruitsdelight:hawberry_tea
+fruitsdelight:kiwi_juice
+fruitsdelight:lemon_juice
+fruitsdelight:lychee_cherry_tea
+fruitsdelight:mango_milkshake
+fruitsdelight:mango_tea
+fruitsdelight:mangosteen_tea
+fruitsdelight:orange_juice
+fruitsdelight:peach_tea
+fruitsdelight:pear_juice

@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: quark:has_fallen_cherry
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.0568523+08:00
+
+minecraft:cherry_grove

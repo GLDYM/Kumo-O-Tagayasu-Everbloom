@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:compat_slabs/byg/palm_narrow
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.5497491+08:00
+

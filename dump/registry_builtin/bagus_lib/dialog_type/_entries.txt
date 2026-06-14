@@ -1,0 +1,10 @@
+# Registry dump
+# Registry: bagus_lib:dialog_type
+# Minecraft: 1.21.1
+# Entries: 4
+# Generated: 2026-06-14T13:45:01.0159427+08:00
+
+bagus_lib:dialog raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+bagus_lib:image_dialog raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+bagus_lib:item_dialog raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+bagus_lib:win_dialog raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

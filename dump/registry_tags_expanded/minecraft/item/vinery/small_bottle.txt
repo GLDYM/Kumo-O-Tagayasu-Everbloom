@@ -1,0 +1,31 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: vinery:small_bottle
+# Entries: 24
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.1572065+08:00
+
+kaleidoscope_dim_wine:abyssal_porter
+kaleidoscope_dim_wine:black_bone_lafite
+kaleidoscope_dim_wine:blaze_martell
+kaleidoscope_dim_wine:chorus_cognac
+kaleidoscope_dim_wine:crimson_crescendo
+kaleidoscope_dim_wine:divine_embryo_port
+kaleidoscope_dim_wine:draconic_blood_wine
+kaleidoscope_dim_wine:dragons_breath_brandy
+kaleidoscope_dim_wine:end_starlight
+kaleidoscope_dim_wine:ethereal_noble
+kaleidoscope_dim_wine:forgotten_margarita
+kaleidoscope_dim_wine:phantom_dream_bubble
+kaleidoscope_dim_wine:silent_sherry
+kaleidoscope_dim_wine:wart_hennessy
+kaleidoscope_tavern:champagne
+kaleidoscope_tavern:empty_bottle
+kaleidoscope_tavern:ice_wine
+kaleidoscope_tavern:molotov
+kaleidoscope_tavern:plum_wine
+kaleidoscope_tavern:sakura_wine
+kaleidoscope_tavern:vinegar
+kaleidoscope_tavern:vodka
+kaleidoscope_tavern:whiskey
+kaleidoscope_tavern:wine

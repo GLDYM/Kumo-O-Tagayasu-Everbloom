@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: neapolitan:unaffected_by_harmony
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1567134+08:00
+

@@ -1,0 +1,32 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_cookery:extinguish_stove
+# Entries: 25
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.8674973+08:00
+
+create_sa:blazing_shovel
+create_sa:brass_shovel
+create_sa:copper_shovel
+create_sa:experience_shovel
+create_sa:rose_quartz_shovel
+create_sa:zinc_shovel
+kaleidoscope_cookery:kitchen_shovel
+l2complements:eternium_shovel
+l2complements:poseidite_shovel
+l2complements:sculkium_shovel
+l2complements:shulkerate_shovel
+l2complements:totemic_gold_shovel
+minecraft:diamond_shovel
+minecraft:golden_shovel
+minecraft:iron_shovel
+minecraft:netherite_shovel
+minecraft:stone_shovel
+minecraft:wooden_shovel
+tofucraft:tofu_diamond_shovel
+tofucraft:tofu_kinu_shovel
+tofucraft:tofu_metal_shovel
+tofucraft:tofu_momen_shovel
+tofucraft:tofu_solid_shovel
+tsuki:broom
+tsuki:sakura_shovel

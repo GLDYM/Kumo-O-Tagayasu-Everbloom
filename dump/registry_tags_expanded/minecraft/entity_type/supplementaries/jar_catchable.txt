@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: supplementaries:jar_catchable
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1767694+08:00
+
+minecraft:allay
+minecraft:bee
+minecraft:frog
+minecraft:magma_cube
+minecraft:slime
+quark:crab

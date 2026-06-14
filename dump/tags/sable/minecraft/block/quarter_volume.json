@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#createdeco:cage_lamps",
+    "#createdeco:catwalks",
+    "#createdeco:ladders",
+    "#createdeco:placards",
+    "#createdeco:railings",
+    "#createdeco:support_wedges"
+  ]
+}

@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:storage_blocks/charcoal
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.7024227+08:00
+
+quark:charcoal_block

@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: kaleidoscope_cookery:rice_growth_booster
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0864794+08:00
+
+minecraft:axolotl
+minecraft:cod
+minecraft:pufferfish
+minecraft:salmon
+minecraft:tadpole
+minecraft:tropical_fish

@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:goats_spawnable_on
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.3823145+08:00
+
+atmospheric:arid_sand
+atmospheric:crustose
+minecraft:grass_block
+minecraft:gravel
+minecraft:packed_ice
+minecraft:snow
+minecraft:snow_block
+minecraft:stone

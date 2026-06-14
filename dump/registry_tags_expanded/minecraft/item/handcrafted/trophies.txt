@@ -1,0 +1,26 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: handcrafted:trophies
+# Entries: 19
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.7756111+08:00
+
+handcrafted:bear_trophy
+handcrafted:blaze_trophy
+handcrafted:creeper_trophy
+handcrafted:evoker_trophy
+handcrafted:fox_trophy
+handcrafted:goat_trophy
+handcrafted:phantom_trophy
+handcrafted:pillager_trophy
+handcrafted:pufferfish_trophy
+handcrafted:salmon_trophy
+handcrafted:silverfish_trophy
+handcrafted:skeleton_horse_trophy
+handcrafted:skeleton_trophy
+handcrafted:spider_trophy
+handcrafted:tropical_fish_trophy
+handcrafted:vindicator_trophy
+handcrafted:witch_trophy
+handcrafted:wither_skeleton_trophy
+handcrafted:wolf_trophy

@@ -1,0 +1,20 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: sereneseasons:winter_crops
+# Entries: 13
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.7177181+08:00
+
+delighto_flight:cloud_berry_bush
+farmersdelight:cabbages
+fruitsdelight:hawberry_leaves
+fruitsdelight:hawberry_sapling
+fruitsdelight:kiwi_leaves
+fruitsdelight:kiwi_sapling
+fruitsdelight:persimmon_leaves
+fruitsdelight:persimmon_sapling
+kaleidoscope_tavern:ice_grape_crop
+kaleidoscope_tavern:ice_grapevine_trellis
+vintagedelight:gearo_berry_bush
+vintagedelight:oat_crop
+vintagedelight:peanut_crop

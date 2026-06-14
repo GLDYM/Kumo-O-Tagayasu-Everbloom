@@ -1,0 +1,52 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:wooden_doors
+# Entries: 45
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.5805628+08:00
+
+atmospheric:aspen_door
+atmospheric:grimwood_door
+atmospheric:kousa_door
+atmospheric:laurel_door
+atmospheric:morado_door
+atmospheric:rosewood_door
+atmospheric:yucca_door
+copycats:copycat_folding_door
+copycats:copycat_sliding_door
+crabbersdelight:palm_door
+create:andesite_door
+create:brass_door
+create:copper_door
+create:framed_glass_door
+create:train_door
+immortalers_delight:a_bush_door
+immortalers_delight:ancient_wood_door
+immortalers_delight:himekaido_door
+immortalers_delight:leisamboo_door
+immortalers_delight:pearlip_shell_door
+minecraft:acacia_door
+minecraft:bamboo_door
+minecraft:birch_door
+minecraft:cherry_door
+minecraft:crimson_door
+minecraft:dark_oak_door
+minecraft:jungle_door
+minecraft:mangrove_door
+minecraft:oak_door
+minecraft:spruce_door
+minecraft:warped_door
+mynethersdelight:powdery_door
+quark:ancient_door
+quark:azalea_door
+quark:blossom_door
+tofucraft:leek_green_door
+tofucraft:tofudoor_grilled
+tofucraft:tofudoor_hell
+tofucraft:tofudoor_ishi
+tofucraft:tofudoor_kinu
+tofucraft:tofudoor_momen
+tofucraft:tofudoor_soul
+tofucraft:tofudoor_zunda
+tofucraft:tofustem_door
+tsuki:bamboo_door

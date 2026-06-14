@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:coalburner_stack
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.3912421+08:00
+
+railways:smokestack_coalburner
+railways:smokestack_coalburner_brass
+railways:smokestack_coalburner_brass_cap_copper
+railways:smokestack_coalburner_brass_cap_steel
+railways:smokestack_coalburner_copper
+railways:smokestack_coalburner_copper_cap_brass
+railways:smokestack_coalburner_copper_cap_steel

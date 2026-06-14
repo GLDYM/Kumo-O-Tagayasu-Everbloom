@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: quark:ancient_logs
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.3278732+08:00
+
+quark:ancient_log
+quark:ancient_wood
+quark:stripped_ancient_log
+quark:stripped_ancient_wood

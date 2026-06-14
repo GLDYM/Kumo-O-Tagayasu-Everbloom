@@ -1,0 +1,15 @@
+# Registry dump
+# Registry: minecraft:worldgen/material_rule
+# Minecraft: 1.21.1
+# Entries: 9
+# Generated: 2026-06-14T13:45:01.4739958+08:00
+
+blueprint:transient_merged raw_id=8 class=com.mojang.serialization.MapCodec$2
+lithostitched:bandlands raw_id=5 class=com.mojang.serialization.MapCodec$2
+lithostitched:reference raw_id=6 class=com.mojang.serialization.MapCodec$2
+lithostitched:transient_merged raw_id=7 class=com.mojang.serialization.MapCodec$2
+minecraft:bandlands raw_id=0 class=com.mojang.serialization.MapCodec$2
+minecraft:block raw_id=1 class=com.mojang.serialization.MapCodec$2
+minecraft:condition raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:sequence raw_id=2 class=com.mojang.serialization.MapCodec$2
+terrablender:merged raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: farmersdelight:cabinets/wooden
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.5885631+08:00
+
+crabbersdelight:palm_cabinet
+farmersdelight:acacia_cabinet
+farmersdelight:bamboo_cabinet
+farmersdelight:birch_cabinet
+farmersdelight:cherry_cabinet
+farmersdelight:crimson_cabinet
+farmersdelight:dark_oak_cabinet
+farmersdelight:jungle_cabinet
+farmersdelight:mangrove_cabinet
+farmersdelight:oak_cabinet
+farmersdelight:spruce_cabinet
+farmersdelight:warped_cabinet
+immortalers_delight:ancient_wood_cabinet
+immortalers_delight:himekaido_cabinet
+immortalers_delight:leisamboo_cabinet
+immortalers_delight:pearlip_shell_cabinet
+mynethersdelight:powdery_cabinet

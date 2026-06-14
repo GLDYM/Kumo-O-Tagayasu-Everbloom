@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:needs_iron_tool
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.607346+08:00
+
+quark:gold_bars
+quark:raw_gold_bricks
+quark:raw_gold_bricks_slab
+quark:raw_gold_bricks_stairs
+quark:raw_gold_bricks_vertical_slab
+quark:raw_gold_bricks_wall

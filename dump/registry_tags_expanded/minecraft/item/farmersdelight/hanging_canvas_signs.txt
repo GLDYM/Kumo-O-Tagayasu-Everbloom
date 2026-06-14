@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: farmersdelight:hanging_canvas_signs
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.5995014+08:00
+
+farmersdelight:black_hanging_canvas_sign
+farmersdelight:blue_hanging_canvas_sign
+farmersdelight:brown_hanging_canvas_sign
+farmersdelight:cyan_hanging_canvas_sign
+farmersdelight:gray_hanging_canvas_sign
+farmersdelight:green_hanging_canvas_sign
+farmersdelight:hanging_canvas_sign
+farmersdelight:light_blue_hanging_canvas_sign
+farmersdelight:light_gray_hanging_canvas_sign
+farmersdelight:lime_hanging_canvas_sign
+farmersdelight:magenta_hanging_canvas_sign
+farmersdelight:orange_hanging_canvas_sign
+farmersdelight:pink_hanging_canvas_sign
+farmersdelight:purple_hanging_canvas_sign
+farmersdelight:red_hanging_canvas_sign
+farmersdelight:white_hanging_canvas_sign
+farmersdelight:yellow_hanging_canvas_sign

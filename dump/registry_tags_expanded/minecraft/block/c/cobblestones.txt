@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:cobblestones
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.4993507+08:00
+
+minecraft:cobbled_deepslate
+minecraft:cobblestone
+minecraft:infested_cobblestone
+minecraft:mossy_cobblestone

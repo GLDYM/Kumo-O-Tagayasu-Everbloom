@@ -1,0 +1,50 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:foot_armor
+# Entries: 43
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1338775+08:00
+
+create:cardboard_boots
+create:copper_diving_boots
+create:netherite_diving_boots
+create_sa:brass_boots
+create_sa:copper_boots
+create_sa:zinc_boots
+irons_spellbooks:archevoker_boots
+irons_spellbooks:cryomancer_boots
+irons_spellbooks:cultist_boots
+irons_spellbooks:electromancer_boots
+irons_spellbooks:netherite_mage_boots
+irons_spellbooks:plagued_boots
+irons_spellbooks:priest_boots
+irons_spellbooks:pumpkin_boots
+irons_spellbooks:pyromancer_boots
+irons_spellbooks:shadowwalker_boots
+irons_spellbooks:speed_boots
+irons_spellbooks:wandering_magician_boots
+irons_spellbooks:wizard_boots
+iss_magicfromtheeast:jade_pagoda_boots
+iss_magicfromtheeast:mist_boots
+iss_magicfromtheeast:onmyoji_boots
+iss_magicfromtheeast:taoist_boots
+l2complements:eternium_boots
+l2complements:poseidite_boots
+l2complements:sculkium_boots
+l2complements:shulkerate_boots
+l2complements:totemic_gold_boots
+minecraft:chainmail_boots
+minecraft:diamond_boots
+minecraft:golden_boots
+minecraft:iron_boots
+minecraft:leather_boots
+minecraft:netherite_boots
+tofucraft:tofu_diamond_boots
+tofucraft:tofu_kinu_boots
+tofucraft:tofu_metal_boots
+tofucraft:tofu_momen_boots
+tsuki:samurai_boots_black
+tsuki:samurai_boots_green
+tsuki:samurai_boots_red
+tsuki:soldier_boots_black
+tsuki:soldier_boots_gray

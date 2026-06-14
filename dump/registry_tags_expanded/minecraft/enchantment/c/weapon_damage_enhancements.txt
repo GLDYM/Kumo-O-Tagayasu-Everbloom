@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: c:weapon_damage_enhancements
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9714516+08:00
+
+minecraft:bane_of_arthropods
+minecraft:impaling
+minecraft:power
+minecraft:sharpness
+minecraft:smite

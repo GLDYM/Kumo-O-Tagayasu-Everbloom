@@ -1,0 +1,47 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:lush_ground_replaceable
+# Entries: 40
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.4318894+08:00
+
+atmospheric:crustose
+create:asurine
+create:crimsite
+create:limestone
+create:ochrum
+create:scorchia
+create:scoria
+create:veridium
+createnuclear:autunite
+delighto_flight:weather_soil
+dndecor:dolomite
+dndecor:gabbro
+dndecor:weathered_limestone
+farmersdelight:rich_soil
+minecraft:andesite
+minecraft:cave_vines
+minecraft:cave_vines_plant
+minecraft:clay
+minecraft:coarse_dirt
+minecraft:deepslate
+minecraft:diorite
+minecraft:dirt
+minecraft:granite
+minecraft:grass_block
+minecraft:gravel
+minecraft:moss_block
+minecraft:mud
+minecraft:muddy_mangrove_roots
+minecraft:mycelium
+minecraft:podzol
+minecraft:rooted_dirt
+minecraft:sand
+minecraft:stone
+minecraft:tuff
+mynethersdelight:resurgent_soil
+mynethersdelight:resurgent_soil_farmland
+quark:jasper
+quark:limestone
+quark:shale
+vintagedelight:lush_grass_block

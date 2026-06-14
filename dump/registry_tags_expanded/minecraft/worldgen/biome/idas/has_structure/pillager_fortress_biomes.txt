@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: idas:has_structure/pillager_fortress_biomes
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.7046397+08:00
+
+minecraft:bamboo_jungle
+minecraft:cherry_grove
+minecraft:flower_forest
+minecraft:jungle
+minecraft:meadow
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:plains
+minecraft:sunflower_plains
+minecraft:taiga

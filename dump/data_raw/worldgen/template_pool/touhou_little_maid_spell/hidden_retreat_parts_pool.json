@@ -1,0 +1,78 @@
+{
+  "name": "touhou_little_maid_spell:hidden_retreat_parts_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "touhou_little_maid_spell:hidden_retreat/hidden_retreat_base_left",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "touhou_little_maid_spell:hidden_retreat/hidden_retreat_building",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "touhou_little_maid_spell:no_terrain_pool_element",
+        "location": "touhou_little_maid_spell:hidden_retreat/hidden_retreat_tree_left",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "touhou_little_maid_spell:no_terrain_pool_element",
+        "location": "touhou_little_maid_spell:hidden_retreat/hidden_retreat_tree_back",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "touhou_little_maid_spell:no_terrain_pool_element",
+        "location": "touhou_little_maid_spell:hidden_retreat/hidden_retreat_tree_front",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "touhou_little_maid_spell:no_terrain_pool_element",
+        "location": "touhou_little_maid_spell:hidden_retreat/hidden_retreat_tree_front_top",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "touhou_little_maid_spell:no_terrain_pool_element",
+        "location": "touhou_little_maid_spell:hidden_retreat/hidden_retreat_leaves_back",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "touhou_little_maid_spell:no_terrain_pool_element",
+        "location": "touhou_little_maid_spell:hidden_retreat/hidden_retreat_flowers",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

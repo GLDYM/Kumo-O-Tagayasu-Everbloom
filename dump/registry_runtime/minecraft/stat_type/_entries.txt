@@ -1,0 +1,15 @@
+# Registry dump
+# Registry: minecraft:stat_type
+# Minecraft: 1.21.1
+# Entries: 9
+# Generated: 2026-06-14T13:47:24.4430024+08:00
+
+minecraft:broken raw_id=3 class=net.minecraft.stats.StatType
+minecraft:crafted raw_id=1 class=net.minecraft.stats.StatType
+minecraft:custom raw_id=8 class=net.minecraft.stats.StatType
+minecraft:dropped raw_id=5 class=net.minecraft.stats.StatType
+minecraft:killed raw_id=6 class=net.minecraft.stats.StatType
+minecraft:killed_by raw_id=7 class=net.minecraft.stats.StatType
+minecraft:mined raw_id=0 class=net.minecraft.stats.StatType
+minecraft:picked_up raw_id=4 class=net.minecraft.stats.StatType
+minecraft:used raw_id=2 class=net.minecraft.stats.StatType

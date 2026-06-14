@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: c:is_dense_vegetation
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.3577669+08:00
+
+minecraft:bamboo_jungle
+minecraft:dark_forest
+minecraft:jungle
+minecraft:mangrove_swamp
+minecraft:old_growth_birch_forest
+minecraft:old_growth_spruce_taiga

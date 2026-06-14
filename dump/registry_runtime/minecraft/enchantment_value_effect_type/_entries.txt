@@ -1,0 +1,12 @@
+# Registry dump
+# Registry: minecraft:enchantment_value_effect_type
+# Minecraft: 1.21.1
+# Entries: 6
+# Generated: 2026-06-14T13:47:24.2760522+08:00
+
+l2complements:limit raw_id=5 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:add raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:all_of raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:multiply raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:remove_binomial raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:set raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

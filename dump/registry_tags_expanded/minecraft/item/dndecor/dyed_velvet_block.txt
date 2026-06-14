@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:dyed_velvet_block
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2701389+08:00
+
+dndecor:black_velvet_block
+dndecor:blue_velvet_block
+dndecor:brown_velvet_block
+dndecor:cyan_velvet_block
+dndecor:gray_velvet_block
+dndecor:green_velvet_block
+dndecor:light_blue_velvet_block
+dndecor:light_gray_velvet_block
+dndecor:lime_velvet_block
+dndecor:magenta_velvet_block
+dndecor:orange_velvet_block
+dndecor:pink_velvet_block
+dndecor:purple_velvet_block
+dndecor:red_velvet_block
+dndecor:white_velvet_block
+dndecor:yellow_velvet_block

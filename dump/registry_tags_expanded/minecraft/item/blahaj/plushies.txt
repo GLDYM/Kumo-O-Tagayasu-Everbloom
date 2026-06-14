@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: blahaj:plushies
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4878007+08:00
+
+blahaj:blue_shark
+blahaj:blue_whale
+blahaj:bread
+blahaj:brown_bear
+blahaj:gray_shark

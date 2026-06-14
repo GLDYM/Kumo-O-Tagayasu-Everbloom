@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:water_bucket",
+      "required": false
+    },
+	{
+      "id": "aether:skyroot_water_bucket",
+      "required": false
+    },
+	{
+      "id": "pamhc2foodcore:freshwateritem",
+      "required": false
+    },
+	{
+      "id": "ic2:cell_water",
+      "required": false
+    }
+  ]
+}

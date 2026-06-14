@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:stone_buttons
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2448501+08:00
+
+minecraft:polished_blackstone_button
+minecraft:stone_button

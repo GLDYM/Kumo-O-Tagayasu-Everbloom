@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:fruits"
+    },
+    [
+    {
+      "tag": "c:fruits/melon"
+    },
+    {
+      "tag": "c:fruits/hamimelon"
+    }
+    ],
+    [
+    {
+      "tag": "c:fruits/melon"
+    },
+    {
+      "tag": "c:fruits/hamimelon"
+    }
+    ],
+    {
+      "tag": "c:berries"
+    },
+    {
+      "tag": "c:berries"
+    },
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:fruit_salad"
+  }
+}

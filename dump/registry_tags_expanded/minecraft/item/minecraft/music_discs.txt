@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:music_discs
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1832084+08:00
+
+idas:music_disc_calidum
+idas:music_disc_slither
+integrated_stronghold:music_disc_forlorn
+integrated_stronghold:music_disc_sight

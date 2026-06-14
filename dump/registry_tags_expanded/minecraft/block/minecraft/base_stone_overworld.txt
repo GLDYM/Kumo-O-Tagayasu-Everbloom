@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:base_stone_overworld
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.2831071+08:00
+
+minecraft:andesite
+minecraft:deepslate
+minecraft:diorite
+minecraft:granite
+minecraft:stone
+minecraft:tuff
+quark:jasper
+quark:limestone
+quark:shale

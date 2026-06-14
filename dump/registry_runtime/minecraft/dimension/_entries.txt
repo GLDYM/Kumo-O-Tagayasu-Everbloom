@@ -1,0 +1,16 @@
+# Registry dump
+# Registry: minecraft:dimension
+# Minecraft: 1.21.1
+# Entries: 10
+# Generated: 2026-06-14T13:47:24.257196+08:00
+
+irons_spellbooks:pocket_dimension raw_id=9 class=net.minecraft.world.level.dimension.LevelStem
+jamd:end raw_id=7 class=net.minecraft.world.level.dimension.LevelStem
+jamd:mining raw_id=6 class=net.minecraft.world.level.dimension.LevelStem
+jamd:nether raw_id=8 class=net.minecraft.world.level.dimension.LevelStem
+javd:void raw_id=5 class=net.minecraft.world.level.dimension.LevelStem
+minecraft:overworld raw_id=0 class=net.minecraft.world.level.dimension.LevelStem
+minecraft:the_end raw_id=2 class=net.minecraft.world.level.dimension.LevelStem
+minecraft:the_nether raw_id=1 class=net.minecraft.world.level.dimension.LevelStem
+tofucraft:tofu_world raw_id=3 class=net.minecraft.world.level.dimension.LevelStem
+touhou_little_maid_spell:the_retreat raw_id=4 class=net.minecraft.world.level.dimension.LevelStem

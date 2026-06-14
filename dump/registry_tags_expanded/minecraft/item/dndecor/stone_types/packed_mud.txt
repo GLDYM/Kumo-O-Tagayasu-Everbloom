@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:stone_types/packed_mud
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2998113+08:00
+
+dndecor:cut_packed_mud
+dndecor:cut_packed_mud_brick_stairs
+dndecor:cut_packed_mud_brick_wall
+dndecor:cut_packed_mud_bricks
+dndecor:cut_packed_mud_stairs
+dndecor:cut_packed_mud_wall
+dndecor:layered_packed_mud
+dndecor:packed_mud_pillar
+dndecor:polished_cut_packed_mud
+dndecor:polished_cut_packed_mud_stairs
+dndecor:polished_cut_packed_mud_wall
+dndecor:small_packed_mud_brick_stairs
+dndecor:small_packed_mud_brick_wall
+dndecor:small_packed_mud_bricks
+minecraft:packed_mud

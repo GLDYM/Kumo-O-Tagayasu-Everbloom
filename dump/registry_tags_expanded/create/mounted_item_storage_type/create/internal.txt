@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: create:mounted_item_storage_type
+# Tag: create:internal
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.2856968+08:00
+
+create:dispenser

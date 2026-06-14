@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:stone_types/crimsite
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.0155192+08:00
+
+bits_n_bobs:crimsite_tile_stairs
+bits_n_bobs:crimsite_tile_wall
+bits_n_bobs:crimsite_tiles
+create:crimsite
+create:crimsite_pillar
+create:cut_crimsite
+create:cut_crimsite_brick_stairs
+create:cut_crimsite_brick_wall
+create:cut_crimsite_bricks
+create:cut_crimsite_stairs
+create:cut_crimsite_wall
+create:layered_crimsite
+create:polished_cut_crimsite
+create:polished_cut_crimsite_stairs
+create:polished_cut_crimsite_wall
+create:small_crimsite_brick_stairs
+create:small_crimsite_brick_wall
+create:small_crimsite_bricks

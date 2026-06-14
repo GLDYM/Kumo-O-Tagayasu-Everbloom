@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: kaleidoscope_tavern:grapevine_trellises
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.1630929+08:00
+
+kaleidoscope_tavern:gold_grapevine_trellis
+kaleidoscope_tavern:grapevine_trellis
+kaleidoscope_tavern:ice_grapevine_trellis

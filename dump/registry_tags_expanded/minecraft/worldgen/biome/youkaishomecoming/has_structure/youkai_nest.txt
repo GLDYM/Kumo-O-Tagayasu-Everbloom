@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: youkaishomecoming:has_structure/youkai_nest
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1325334+08:00
+
+atmospheric:grimwoods
+atmospheric:laurel_forest
+minecraft:birch_forest
+minecraft:dark_forest
+minecraft:flower_forest
+minecraft:forest
+minecraft:grove
+minecraft:meadow
+minecraft:old_growth_birch_forest
+minecraft:plains
+minecraft:sunflower_plains
+tsuki:maple_forest
+youkaishomecoming:animal_path
+youkaishomecoming:sakura_birch_forest
+youkaishomecoming:sakura_forest
+youkaishomecoming:sakura_taiga

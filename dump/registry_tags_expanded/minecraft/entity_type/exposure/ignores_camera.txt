@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: exposure:ignores_camera
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.062851+08:00
+
+minecraft:elder_guardian
+minecraft:ender_dragon
+minecraft:phantom
+minecraft:warden
+minecraft:wither

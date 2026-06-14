@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:wart_blocks
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2765433+08:00
+
+minecraft:nether_wart_block
+minecraft:warped_wart_block

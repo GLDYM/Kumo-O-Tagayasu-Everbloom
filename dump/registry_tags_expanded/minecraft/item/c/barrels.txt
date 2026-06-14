@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:barrels
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.5675148+08:00
+
+minecraft:barrel
+sophisticatedstorage:barrel
+sophisticatedstorage:copper_barrel
+sophisticatedstorage:diamond_barrel
+sophisticatedstorage:gold_barrel
+sophisticatedstorage:iron_barrel
+sophisticatedstorage:netherite_barrel

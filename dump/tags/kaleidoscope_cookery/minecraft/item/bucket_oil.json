@@ -1,0 +1,15 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tsuki"
+    }
+  ],
+  "replace": false,
+  "values": [
+    {
+      "id": "tsuki:food_oil_bucket",
+      "required": false
+    }
+  ]
+}

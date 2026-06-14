@@ -1,0 +1,16 @@
+# Registry dump
+# Registry: functionalstorage:functional_upgrade_behavior
+# Minecraft: 1.21.1
+# Entries: 10
+# Generated: 2026-06-14T13:47:24.0927464+08:00
+
+functionalstorage:and raw_id=9 class=com.mojang.serialization.MapCodec$2
+functionalstorage:collect_fluids raw_id=7 class=com.mojang.serialization.MapCodec$2
+functionalstorage:collect_item_entities raw_id=6 class=com.mojang.serialization.MapCodec$2
+functionalstorage:delegate_to_item raw_id=0 class=com.mojang.serialization.MapCodec$2
+functionalstorage:emit_redstone raw_id=8 class=com.mojang.serialization.MapCodec$2
+functionalstorage:execute_every raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+functionalstorage:generate_fluid raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+functionalstorage:generate_item raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+functionalstorage:move_fluids raw_id=5 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+functionalstorage:move_items raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

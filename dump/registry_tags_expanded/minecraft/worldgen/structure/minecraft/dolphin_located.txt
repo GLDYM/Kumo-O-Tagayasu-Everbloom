@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: minecraft:dolphin_located
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.2052425+08:00
+
+minecraft:ocean_ruin_cold
+minecraft:ocean_ruin_warm
+minecraft:shipwreck
+minecraft:shipwreck_beached

@@ -1,0 +1,32 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:snaps_goat_horn
+# Entries: 25
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.5133488+08:00
+
+atmospheric:aspen_log
+atmospheric:grimwood_log
+atmospheric:kousa_log
+atmospheric:laurel_log
+atmospheric:morado_log
+atmospheric:rosewood_log
+atmospheric:watchful_aspen_log
+atmospheric:yucca_log
+crabbersdelight:palm_log
+minecraft:acacia_log
+minecraft:birch_log
+minecraft:cherry_log
+minecraft:coal_ore
+minecraft:copper_ore
+minecraft:dark_oak_log
+minecraft:emerald_ore
+minecraft:iron_ore
+minecraft:jungle_log
+minecraft:mangrove_log
+minecraft:oak_log
+minecraft:packed_ice
+minecraft:spruce_log
+minecraft:stone
+quark:azalea_log
+quark:blossom_log

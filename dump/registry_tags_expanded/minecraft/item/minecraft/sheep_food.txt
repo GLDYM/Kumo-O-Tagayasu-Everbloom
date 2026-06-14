@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:sheep_food
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2262895+08:00
+
+corn_delight:corn
+corn_delight:corn_seeds
+corn_delight:corncob
+minecraft:wheat
+supplementaries:flax

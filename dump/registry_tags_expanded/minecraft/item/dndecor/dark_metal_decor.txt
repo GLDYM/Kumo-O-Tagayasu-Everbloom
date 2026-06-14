@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:dark_metal_decor
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2521754+08:00
+
+dndecor:dark_metal_block
+dndecor:dark_metal_block_stairs
+dndecor:dark_metal_brick_stairs
+dndecor:dark_metal_bricks
+dndecor:dark_metal_plating

@@ -1,0 +1,21 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:beacon_base_blocks
+# Entries: 14
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.284109+08:00
+
+cagedmobs:star_infused_netherite_block
+create:brass_block
+create:experience_block
+create:zinc_block
+create_enchantment_industry:super_experience_block
+createutilities:void_steel_block
+minecraft:diamond_block
+minecraft:emerald_block
+minecraft:gold_block
+minecraft:iron_block
+minecraft:netherite_block
+quark:golden_apple_crate
+tsuki:sakura_diamond_block
+ultramarine:jade_block

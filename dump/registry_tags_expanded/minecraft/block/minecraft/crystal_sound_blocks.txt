@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:crystal_sound_blocks
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.3372986+08:00
+
+minecraft:amethyst_block
+minecraft:budding_amethyst

@@ -1,0 +1,30 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:trim_templates
+# Entries: 23
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2665106+08:00
+
+atmospheric:apostle_armor_trim_smithing_template
+atmospheric:druid_armor_trim_smithing_template
+atmospheric:petrified_armor_trim_smithing_template
+minecraft:bolt_armor_trim_smithing_template
+minecraft:coast_armor_trim_smithing_template
+minecraft:dune_armor_trim_smithing_template
+minecraft:eye_armor_trim_smithing_template
+minecraft:flow_armor_trim_smithing_template
+minecraft:host_armor_trim_smithing_template
+minecraft:raiser_armor_trim_smithing_template
+minecraft:rib_armor_trim_smithing_template
+minecraft:sentry_armor_trim_smithing_template
+minecraft:shaper_armor_trim_smithing_template
+minecraft:silence_armor_trim_smithing_template
+minecraft:snout_armor_trim_smithing_template
+minecraft:spire_armor_trim_smithing_template
+minecraft:tide_armor_trim_smithing_template
+minecraft:vex_armor_trim_smithing_template
+minecraft:ward_armor_trim_smithing_template
+minecraft:wayfinder_armor_trim_smithing_template
+minecraft:wild_armor_trim_smithing_template
+neapolitan:primal_armor_trim_smithing_template
+supplementaries:blast_armor_trim_smithing_template

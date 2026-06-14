@@ -1,0 +1,27 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:dyed/brown
+# Entries: 20
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.9783821+08:00
+
+handcrafted:brown_cushion
+handcrafted:brown_sheet
+minecraft:brown_banner
+minecraft:brown_bed
+minecraft:brown_candle
+minecraft:brown_carpet
+minecraft:brown_concrete
+minecraft:brown_concrete_powder
+minecraft:brown_glazed_terracotta
+minecraft:brown_shulker_box
+minecraft:brown_stained_glass
+minecraft:brown_stained_glass_pane
+minecraft:brown_terracotta
+minecraft:brown_wool
+supplementaries:awning_brown
+supplementaries:bunting_brown
+supplementaries:candle_holder_brown
+supplementaries:flag_brown
+supplementaries:present_brown
+supplementaries:trapped_present_brown

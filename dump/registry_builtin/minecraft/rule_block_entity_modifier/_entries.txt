@@ -1,0 +1,12 @@
+# Registry dump
+# Registry: minecraft:rule_block_entity_modifier
+# Minecraft: 1.21.1
+# Entries: 6
+# Generated: 2026-06-14T13:45:01.3518104+08:00
+
+lithostitched:apply_all raw_id=4 class=dev.worldgen.lithostitched.worldgen.blockentitymodifier.ApplyAll$$Lambda/0x0000023d18ffcf40
+lithostitched:apply_random raw_id=5 class=dev.worldgen.lithostitched.worldgen.blockentitymodifier.ApplyRandom$$Lambda/0x0000023d19002f10
+minecraft:append_loot raw_id=3 class=net.minecraft.world.level.levelgen.structure.templatesystem.rule.blockentity.RuleBlockEntityModifierType$$Lambda/0x0000023d17db2fb0
+minecraft:append_static raw_id=2 class=net.minecraft.world.level.levelgen.structure.templatesystem.rule.blockentity.RuleBlockEntityModifierType$$Lambda/0x0000023d17db2fb0
+minecraft:clear raw_id=0 class=net.minecraft.world.level.levelgen.structure.templatesystem.rule.blockentity.RuleBlockEntityModifierType$$Lambda/0x0000023d17db2fb0
+minecraft:passthrough raw_id=1 class=net.minecraft.world.level.levelgen.structure.templatesystem.rule.blockentity.RuleBlockEntityModifierType$$Lambda/0x0000023d17db2fb0

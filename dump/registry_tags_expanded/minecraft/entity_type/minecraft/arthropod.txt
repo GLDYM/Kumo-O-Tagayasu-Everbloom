@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: minecraft:arthropod
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.097205+08:00
+
+atmospheric:cochineal
+minecraft:bee
+minecraft:cave_spider
+minecraft:endermite
+minecraft:silverfish
+minecraft:spider
+neapolitan:plantain_spider
+tofucraft:shudofuspider
+tofucraft:tofuspider

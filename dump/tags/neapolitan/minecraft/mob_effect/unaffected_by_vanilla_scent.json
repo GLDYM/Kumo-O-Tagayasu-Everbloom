@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:darkness",
+    "neapolitan:vanilla_scent",
+    {
+      "id": "autumnity:foul_taste",
+      "required": false
+    }
+  ]
+}

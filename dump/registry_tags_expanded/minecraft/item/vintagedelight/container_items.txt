@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: vintagedelight:container_items
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.1582082+08:00
+
+minecraft:bowl
+minecraft:bucket
+minecraft:glass_bottle
+vintagedelight:mason_jar

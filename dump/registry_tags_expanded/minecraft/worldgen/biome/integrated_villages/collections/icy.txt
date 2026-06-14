@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: integrated_villages:collections/icy
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.8365684+08:00
+
+minecraft:frozen_peaks
+minecraft:ice_spikes

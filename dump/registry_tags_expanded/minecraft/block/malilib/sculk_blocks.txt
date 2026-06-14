@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: malilib:sculk_blocks
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.2502392+08:00
+
+minecraft:calibrated_sculk_sensor
+minecraft:sculk
+minecraft:sculk_catalyst
+minecraft:sculk_sensor
+minecraft:sculk_shrieker
+minecraft:sculk_vein

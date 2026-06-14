@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: create_enchantment_industry:sable/heavy_machines
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.8566228+08:00
+
+create_enchantment_industry:grindstone_drain
+create_enchantment_industry:mechanical_grindstone
+create_enchantment_industry:super_experience_block

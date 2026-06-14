@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: farmersdelight:mushroom_colony_growable_on
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.99656+08:00
+
+farmersdelight:rich_soil
+mynethersdelight:resurgent_soil

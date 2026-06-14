@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: tsuki:samurai_boots
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.1165791+08:00
+
+tsuki:samurai_boots_black
+tsuki:samurai_boots_green
+tsuki:samurai_boots_red

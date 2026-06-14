@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: tofucraft:tofunian_farmer
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.8175668+08:00
+
+minecraft:composter

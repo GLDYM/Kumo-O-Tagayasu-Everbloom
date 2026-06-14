@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: idas:has_structure/tree_of_wisdom_biomes
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.7272945+08:00
+
+minecraft:bamboo_jungle
+minecraft:dark_forest
+minecraft:jungle
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:taiga

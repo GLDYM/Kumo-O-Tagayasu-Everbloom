@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: minecraft:damages_helmet
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.907295+08:00
+
+immortalers_delight:moon_arrow
+minecraft:falling_anvil
+minecraft:falling_block
+minecraft:falling_stalactite
+tofucraft:falling_tofu

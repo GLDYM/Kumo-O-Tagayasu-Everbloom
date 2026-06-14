@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:is_taiga
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.0052007+08:00
+
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:snowy_taiga
+minecraft:taiga

@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: handcrafted:plates
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.7632832+08:00
+
+handcrafted:blue_plate
+handcrafted:terracotta_plate
+handcrafted:white_plate
+handcrafted:wood_plate
+handcrafted:yellow_plate

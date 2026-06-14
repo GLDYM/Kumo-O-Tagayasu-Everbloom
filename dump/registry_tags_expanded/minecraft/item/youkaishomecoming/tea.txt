@@ -1,0 +1,20 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: youkaishomecoming:tea
+# Entries: 13
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.2353809+08:00
+
+youkaishomecoming:black_tea
+youkaishomecoming:cornflower_tea
+youkaishomecoming:dark_tea
+youkaishomecoming:genmai_tea
+youkaishomecoming:green_tea
+youkaishomecoming:green_water
+youkaishomecoming:oolong_tea
+youkaishomecoming:saidi_tea
+youkaishomecoming:sakura_honey_tea
+youkaishomecoming:scarlet_tea
+youkaishomecoming:tea_mocha
+youkaishomecoming:white_tea
+youkaishomecoming:yellow_tea

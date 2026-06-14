@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: youkaishomecoming:spawns/deer
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1390552+08:00
+
+atmospheric:grimwoods
+atmospheric:laurel_forest
+minecraft:birch_forest
+minecraft:cherry_grove
+minecraft:dark_forest
+minecraft:flower_forest
+minecraft:forest
+minecraft:grove
+minecraft:meadow
+minecraft:old_growth_birch_forest
+minecraft:plains
+minecraft:sunflower_plains
+tsuki:maple_forest
+youkaishomecoming:animal_path
+youkaishomecoming:sakura_birch_forest
+youkaishomecoming:sakura_forest
+youkaishomecoming:sakura_taiga

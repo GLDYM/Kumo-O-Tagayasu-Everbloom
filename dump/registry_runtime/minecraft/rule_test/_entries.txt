@@ -1,0 +1,17 @@
+# Registry dump
+# Registry: minecraft:rule_test
+# Minecraft: 1.21.1
+# Entries: 11
+# Generated: 2026-06-14T13:47:24.4251858+08:00
+
+integrated_api:matter_phase_rule_test raw_id=6 class=com.craisinlord.integrated_api.modinit.IAPredicates$$Lambda/0x0000023d1afeb550
+kubejs:all_match raw_id=9 class=dev.latvian.mods.kubejs.level.ruletest.KubeJSRuleTests$$Lambda/0x0000023d1a6f5db8
+kubejs:always_false raw_id=8 class=dev.latvian.mods.kubejs.level.ruletest.KubeJSRuleTests$$Lambda/0x0000023d1a6f5db8
+kubejs:any_match raw_id=10 class=dev.latvian.mods.kubejs.level.ruletest.KubeJSRuleTests$$Lambda/0x0000023d1a6f5db8
+kubejs:invert raw_id=7 class=dev.latvian.mods.kubejs.level.ruletest.KubeJSRuleTests$$Lambda/0x0000023d1a6f5db8
+minecraft:always_true raw_id=0 class=net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda/0x0000023d17daf950
+minecraft:block_match raw_id=1 class=net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda/0x0000023d17daf950
+minecraft:blockstate_match raw_id=2 class=net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda/0x0000023d17daf950
+minecraft:random_block_match raw_id=4 class=net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda/0x0000023d17daf950
+minecraft:random_blockstate_match raw_id=5 class=net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda/0x0000023d17daf950
+minecraft:tag_match raw_id=3 class=net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda/0x0000023d17daf950

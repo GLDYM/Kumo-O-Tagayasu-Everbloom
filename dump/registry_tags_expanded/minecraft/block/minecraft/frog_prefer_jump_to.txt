@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:frog_prefer_jump_to
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.3762265+08:00
+
+amendments:water_lily_pad
+minecraft:big_dripleaf
+minecraft:lily_pad

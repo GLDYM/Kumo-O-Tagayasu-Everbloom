@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:sands/red
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.5939907+08:00
+
+atmospheric:red_arid_sand
+minecraft:red_sand

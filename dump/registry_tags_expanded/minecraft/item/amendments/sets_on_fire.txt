@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: amendments:sets_on_fire
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4255804+08:00
+
+minecraft:soul_torch
+minecraft:torch
+supplementaries:sconce
+supplementaries:sconce_green
+supplementaries:sconce_soul

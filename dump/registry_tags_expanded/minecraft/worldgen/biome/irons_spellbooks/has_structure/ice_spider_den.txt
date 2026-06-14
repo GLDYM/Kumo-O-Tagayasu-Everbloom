@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: irons_spellbooks:has_structure/ice_spider_den
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.8854657+08:00
+
+minecraft:ice_spikes
+minecraft:snowy_beach
+minecraft:snowy_plains
+minecraft:snowy_taiga

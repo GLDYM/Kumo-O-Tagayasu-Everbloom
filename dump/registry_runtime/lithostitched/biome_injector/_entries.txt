@@ -1,0 +1,6 @@
+# Registry dump
+# Registry: lithostitched:biome_injector
+# Minecraft: 1.21.1
+# Entries: 0
+# Generated: 2026-06-14T13:47:24.1314483+08:00
+

@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: atmospheric:kousa_logs
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.4244765+08:00
+
+atmospheric:kousa_log
+atmospheric:kousa_wood
+atmospheric:stripped_kousa_log
+atmospheric:stripped_kousa_wood

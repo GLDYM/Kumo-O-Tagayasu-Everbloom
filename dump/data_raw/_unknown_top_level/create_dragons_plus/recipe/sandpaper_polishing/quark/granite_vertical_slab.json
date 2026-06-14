@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "quark:granite_vertical_slab"
+    }
+  ],
+  "results": [
+    {
+      "id": "quark:polished_granite_vertical_slab"
+    }
+  ]
+}

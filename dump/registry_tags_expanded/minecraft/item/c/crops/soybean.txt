@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:crops/soybean
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.9113651+08:00
+
+tofucraft:seeds_soybeans
+tsuki:soybean

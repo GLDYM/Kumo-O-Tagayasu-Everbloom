@@ -1,0 +1,47 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:wooden_trapdoors
+# Entries: 40
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.5866565+08:00
+
+atmospheric:aspen_trapdoor
+atmospheric:grimwood_trapdoor
+atmospheric:kousa_trapdoor
+atmospheric:laurel_trapdoor
+atmospheric:morado_trapdoor
+atmospheric:rosewood_trapdoor
+atmospheric:yucca_trapdoor
+copycats:copycat_trapdoor
+crabbersdelight:palm_trapdoor
+immortalers_delight:a_bush_trapdoor
+immortalers_delight:ancient_wood_trapdoor
+immortalers_delight:himekaido_trapdoor
+immortalers_delight:leisamboo_trapdoor
+immortalers_delight:pearlip_shell_trapdoor
+minecraft:acacia_trapdoor
+minecraft:bamboo_trapdoor
+minecraft:birch_trapdoor
+minecraft:cherry_trapdoor
+minecraft:crimson_trapdoor
+minecraft:dark_oak_trapdoor
+minecraft:jungle_trapdoor
+minecraft:mangrove_trapdoor
+minecraft:oak_trapdoor
+minecraft:spruce_trapdoor
+minecraft:warped_trapdoor
+mynethersdelight:powdery_trapdoor
+quark:ancient_trapdoor
+quark:azalea_trapdoor
+quark:blossom_trapdoor
+tofucraft:leek_green_trapdoor
+tofucraft:tofustem_trapdoor
+tofucraft:tofutrapdoor_grilled
+tofucraft:tofutrapdoor_hell
+tofucraft:tofutrapdoor_ishi
+tofucraft:tofutrapdoor_kinu
+tofucraft:tofutrapdoor_momen
+tofucraft:tofutrapdoor_soul
+tofucraft:tofutrapdoor_zunda
+youkaishomecoming:hay_trap_door
+youkaishomecoming:straw_trap_door

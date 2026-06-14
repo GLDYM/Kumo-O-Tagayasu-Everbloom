@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/raw_ghast
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.177555+08:00
+
+kaleidoscope_nether:ghast_tentacle
+mynethersdelight:ghasmati
+mynethersdelight:ghasta

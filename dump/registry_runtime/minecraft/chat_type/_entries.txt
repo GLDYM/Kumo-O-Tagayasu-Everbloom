@@ -1,0 +1,13 @@
+# Registry dump
+# Registry: minecraft:chat_type
+# Minecraft: 1.21.1
+# Entries: 7
+# Generated: 2026-06-14T13:47:24.2344288+08:00
+
+minecraft:chat raw_id=0 class=net.minecraft.network.chat.ChatType
+minecraft:emote_command raw_id=1 class=net.minecraft.network.chat.ChatType
+minecraft:msg_command_incoming raw_id=2 class=net.minecraft.network.chat.ChatType
+minecraft:msg_command_outgoing raw_id=3 class=net.minecraft.network.chat.ChatType
+minecraft:say_command raw_id=4 class=net.minecraft.network.chat.ChatType
+minecraft:team_msg_command_incoming raw_id=5 class=net.minecraft.network.chat.ChatType
+minecraft:team_msg_command_outgoing raw_id=6 class=net.minecraft.network.chat.ChatType

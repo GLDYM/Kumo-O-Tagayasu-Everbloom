@@ -1,0 +1,49 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: lootr:interact_whitelist_blocks
+# Entries: 42
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.194175+08:00
+
+lootr:decorated_pot
+lootr:lootr_barrel
+lootr:lootr_chest
+lootr:lootr_inventory
+lootr:lootr_shulker
+lootr:lootr_trapped_chest
+lootr:suspicious_gravel
+lootr:suspicious_sand
+quark:lootr_acacia_chest
+quark:lootr_ancient_chest
+quark:lootr_azalea_chest
+quark:lootr_bamboo_chest
+quark:lootr_birch_chest
+quark:lootr_blossom_chest
+quark:lootr_cherry_chest
+quark:lootr_crimson_chest
+quark:lootr_dark_oak_chest
+quark:lootr_jungle_chest
+quark:lootr_mangrove_chest
+quark:lootr_nether_brick_chest
+quark:lootr_oak_chest
+quark:lootr_prismarine_chest
+quark:lootr_purpur_chest
+quark:lootr_spruce_chest
+quark:lootr_warped_chest
+quark:trapped_lootr_acacia_chest
+quark:trapped_lootr_ancient_chest
+quark:trapped_lootr_azalea_chest
+quark:trapped_lootr_bamboo_chest
+quark:trapped_lootr_birch_chest
+quark:trapped_lootr_blossom_chest
+quark:trapped_lootr_cherry_chest
+quark:trapped_lootr_crimson_chest
+quark:trapped_lootr_dark_oak_chest
+quark:trapped_lootr_jungle_chest
+quark:trapped_lootr_mangrove_chest
+quark:trapped_lootr_nether_brick_chest
+quark:trapped_lootr_oak_chest
+quark:trapped_lootr_prismarine_chest
+quark:trapped_lootr_purpur_chest
+quark:trapped_lootr_spruce_chest
+quark:trapped_lootr_warped_chest

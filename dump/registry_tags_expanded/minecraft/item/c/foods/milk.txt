@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/milk
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.156471+08:00
+
+bakeries:bottle_milk
+ccw:calcium_rich_milk
+ccw:carton_milk
+farmersdelight:milk_bottle
+minecraft:milk_bucket
+vintagedelight:nut_milk_bottle

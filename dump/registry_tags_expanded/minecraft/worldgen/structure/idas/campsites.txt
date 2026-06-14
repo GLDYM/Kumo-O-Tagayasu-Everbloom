@@ -1,0 +1,27 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: idas:campsites
+# Entries: 20
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1693187+08:00
+
+idas:desert_camp/desert_camp
+idas:desert_camp/desert_camp_bygwindswept
+idas:desert_camp/desert_camp_orange
+idas:desert_camp/desert_camp_red
+idas:lumber_camp/lumber_camp_acacia
+idas:lumber_camp/lumber_camp_birch
+idas:lumber_camp/lumber_camp_bopmahogany
+idas:lumber_camp/lumber_camp_bopredwood
+idas:lumber_camp/lumber_camp_bygmahogany
+idas:lumber_camp/lumber_camp_bygredwood
+idas:lumber_camp/lumber_camp_dark_oak
+idas:lumber_camp/lumber_camp_jungle
+idas:lumber_camp/lumber_camp_oak
+idas:lumber_camp/lumber_camp_spruce
+idas:nether_pump_camp
+idas:pillager_camp
+idas:snifferhenge
+idas:underground_camp/underground_camp
+idas:underground_camp/underground_camp_deep
+idas:washing_camp

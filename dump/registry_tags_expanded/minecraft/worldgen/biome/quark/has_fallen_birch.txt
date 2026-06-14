@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: quark:has_fallen_birch
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.0558445+08:00
+
+minecraft:birch_forest
+minecraft:forest
+minecraft:old_growth_birch_forest

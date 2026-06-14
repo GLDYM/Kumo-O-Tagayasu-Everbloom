@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create_sa:fuelable
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.1464499+08:00
+
+create_sa:andesite_exoskeleton_chestplate
+create_sa:andesite_jetpack_chestplate
+create_sa:brass_exoskeleton_chestplate
+create_sa:brass_jetpack_chestplate
+create_sa:flamethrower
+create_sa:grapplin_whisk
+create_sa:netherite_jetpack_chestplate
+create_sa:portable_drill

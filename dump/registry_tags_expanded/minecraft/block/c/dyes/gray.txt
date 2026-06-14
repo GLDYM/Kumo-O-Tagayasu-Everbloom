@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:dyes/gray
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.5510843+08:00
+
+create_connected:gray_fan_dyeing_catalyst

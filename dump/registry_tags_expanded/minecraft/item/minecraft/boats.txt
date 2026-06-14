@@ -1,0 +1,77 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:boats
+# Entries: 70
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0495515+08:00
+
+atmospheric:aspen_boat
+atmospheric:aspen_chest_boat
+atmospheric:grimwood_boat
+atmospheric:grimwood_chest_boat
+atmospheric:kousa_boat
+atmospheric:kousa_chest_boat
+atmospheric:laurel_boat
+atmospheric:laurel_chest_boat
+atmospheric:morado_boat
+atmospheric:morado_chest_boat
+atmospheric:rosewood_boat
+atmospheric:rosewood_chest_boat
+atmospheric:yucca_boat
+atmospheric:yucca_chest_boat
+crabbersdelight:palm_boat
+crabbersdelight:palm_chest_boat
+minecraft:acacia_boat
+minecraft:acacia_chest_boat
+minecraft:bamboo_chest_raft
+minecraft:bamboo_raft
+minecraft:birch_boat
+minecraft:birch_chest_boat
+minecraft:cherry_boat
+minecraft:cherry_chest_boat
+minecraft:dark_oak_boat
+minecraft:dark_oak_chest_boat
+minecraft:jungle_boat
+minecraft:jungle_chest_boat
+minecraft:mangrove_boat
+minecraft:mangrove_chest_boat
+minecraft:oak_boat
+minecraft:oak_chest_boat
+minecraft:spruce_boat
+minecraft:spruce_chest_boat
+quark:ancient_boat
+quark:ancient_chest_boat
+quark:azalea_boat
+quark:azalea_chest_boat
+quark:blossom_boat
+quark:blossom_chest_boat
+supplementaries:atmospheric/cannon_boat_aspen
+supplementaries:atmospheric/cannon_boat_grimwood
+supplementaries:atmospheric/cannon_boat_kousa
+supplementaries:atmospheric/cannon_boat_laurel
+supplementaries:atmospheric/cannon_boat_morado
+supplementaries:atmospheric/cannon_boat_rosewood
+supplementaries:atmospheric/cannon_boat_yucca
+supplementaries:cannon_boat_acacia
+supplementaries:cannon_boat_bamboo
+supplementaries:cannon_boat_birch
+supplementaries:cannon_boat_cherry
+supplementaries:cannon_boat_dark_oak
+supplementaries:cannon_boat_jungle
+supplementaries:cannon_boat_mangrove
+supplementaries:cannon_boat_oak
+supplementaries:cannon_boat_spruce
+supplementaries:crabbersdelight/cannon_boat_palm
+supplementaries:immortalers_delight/cannon_boat_ancient_wood
+supplementaries:immortalers_delight/cannon_boat_himekaido
+supplementaries:quark/cannon_boat_ancient
+supplementaries:quark/cannon_boat_azalea
+supplementaries:quark/cannon_boat_blossom
+supplementaries:tofucraft/cannon_boat_leek
+supplementaries:tofucraft/cannon_boat_leek_green
+tofucraft:leek_boat
+tofucraft:leek_chest_boat
+tofucraft:leek_green_boat
+tofucraft:leek_green_chest_boat
+tofucraft:tofu_stem_boat
+tofucraft:tofu_stem_chest_boat

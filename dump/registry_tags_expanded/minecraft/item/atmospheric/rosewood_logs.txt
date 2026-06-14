@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: atmospheric:rosewood_logs
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4740404+08:00
+
+atmospheric:rosewood
+atmospheric:rosewood_log
+atmospheric:stripped_rosewood
+atmospheric:stripped_rosewood_log

@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "createnuclear:cut_autunite"
+    }
+  ],
+  "results": [
+    {
+      "id": "createnuclear:polished_cut_autunite"
+    }
+  ]
+}

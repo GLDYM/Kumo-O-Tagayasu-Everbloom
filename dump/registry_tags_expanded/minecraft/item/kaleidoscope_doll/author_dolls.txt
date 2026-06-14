@@ -1,0 +1,21 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_doll:author_dolls
+# Entries: 14
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.8895844+08:00
+
+kaleidoscope_doll:doll_0
+kaleidoscope_doll:doll_1
+kaleidoscope_doll:doll_599
+kaleidoscope_doll:doll_601
+kaleidoscope_doll:doll_614
+kaleidoscope_doll:doll_67
+kaleidoscope_doll:doll_68
+kaleidoscope_doll:doll_692
+kaleidoscope_nether:doll_0
+kaleidoscope_nether:doll_1
+kaleidoscope_nether:doll_2
+kaleidoscope_nether:doll_3
+kaleidoscope_nether:doll_4
+kaleidoscope_nether:doll_5

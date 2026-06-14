@@ -1,0 +1,38 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:vegetables
+# Entries: 31
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.8688067+08:00
+
+atmospheric:aloe_leaves
+bakeries:tomato
+farmersdelight:cabbage
+farmersdelight:cabbage_leaf
+immortalers_delight:evolutcorn
+immortalers_delight:evolutcorn_grains
+kaleidoscope_cookery:green_chili
+kaleidoscope_cookery:lettuce
+kaleidoscope_cookery:red_chili
+kaleidoscope_cookery:tomato
+kaleidoscope_nether:soul_pepper
+minecraft:beetroot
+minecraft:carrot
+minecraft:potato
+minecraft:pumpkin
+mynethersdelight:bullet_pepper
+neapolitan:mint_leaves
+tofucraft:chili
+tofucraft:leek
+trailandtales_delight:pitcher_taro
+tsuki:cabbage
+tsuki:eggplant
+tsuki:imogara
+tsuki:onion
+tsuki:radish
+tsuki:sliced_cabbage
+tsuki:tomato
+vintagedelight:cucumber
+vintagedelight:ghost_pepper
+vintagedelight:peanut
+youkaishomecoming:cucumber

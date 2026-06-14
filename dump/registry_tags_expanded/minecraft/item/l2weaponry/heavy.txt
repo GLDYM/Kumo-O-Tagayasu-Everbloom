@@ -1,0 +1,73 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: l2weaponry:heavy
+# Entries: 66
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.9540542+08:00
+
+create_sa:blazing_axe
+create_sa:brass_axe
+create_sa:copper_axe
+create_sa:experience_axe
+create_sa:rose_quartz_axe
+create_sa:zinc_axe
+l2complements:eternium_axe
+l2complements:poseidite_axe
+l2complements:sculkium_axe
+l2complements:shulkerate_axe
+l2complements:totemic_gold_axe
+l2weaponry:abyss_echo
+l2weaponry:abyss_terror
+l2weaponry:axe_of_cursed_flame
+l2weaponry:death_scythe
+l2weaponry:diamond_battle_axe
+l2weaponry:diamond_hammer
+l2weaponry:diamond_plate_shield
+l2weaponry:diamond_scythe
+l2weaponry:dogmatic_punishment
+l2weaponry:dogmatic_standoff
+l2weaponry:eternium_battle_axe
+l2weaponry:eternium_hammer
+l2weaponry:eternium_plate_shield
+l2weaponry:eternium_scythe
+l2weaponry:gold_battle_axe
+l2weaponry:gold_hammer
+l2weaponry:gold_plate_shield
+l2weaponry:gold_scythe
+l2weaponry:hammer_of_incarceration
+l2weaponry:iron_battle_axe
+l2weaponry:iron_hammer
+l2weaponry:iron_plate_shield
+l2weaponry:iron_scythe
+l2weaponry:netherite_battle_axe
+l2weaponry:netherite_hammer
+l2weaponry:netherite_plate_shield
+l2weaponry:netherite_scythe
+l2weaponry:poseidite_battle_axe
+l2weaponry:poseidite_hammer
+l2weaponry:poseidite_plate_shield
+l2weaponry:poseidite_scythe
+l2weaponry:sculkium_battle_axe
+l2weaponry:sculkium_hammer
+l2weaponry:sculkium_plate_shield
+l2weaponry:sculkium_scythe
+l2weaponry:shulkerate_battle_axe
+l2weaponry:shulkerate_hammer
+l2weaponry:shulkerate_plate_shield
+l2weaponry:shulkerate_scythe
+l2weaponry:totemic_gold_battle_axe
+l2weaponry:totemic_gold_hammer
+l2weaponry:totemic_gold_plate_shield
+l2weaponry:totemic_gold_scythe
+minecraft:diamond_axe
+minecraft:golden_axe
+minecraft:iron_axe
+minecraft:netherite_axe
+minecraft:stone_axe
+minecraft:wooden_axe
+tofucraft:tofu_diamond_axe
+tofucraft:tofu_kinu_axe
+tofucraft:tofu_metal_axe
+tofucraft:tofu_momen_axe
+tofucraft:tofu_solid_axe
+tsuki:sakura_axe

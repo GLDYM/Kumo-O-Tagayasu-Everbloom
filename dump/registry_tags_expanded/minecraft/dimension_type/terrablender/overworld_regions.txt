@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:dimension_type
+# Tag: terrablender:overworld_regions
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9613475+08:00
+
+minecraft:overworld

@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create_sa:fillable
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.1453182+08:00
+
+create_sa:block_picker
+create_sa:brass_exoskeleton_chestplate
+create_sa:brass_jetpack_chestplate
+create_sa:copper_exoskeleton_chestplate
+create_sa:copper_jetpack_chestplate
+create_sa:netherite_jetpack_chestplate
+create_sa:portable_drill

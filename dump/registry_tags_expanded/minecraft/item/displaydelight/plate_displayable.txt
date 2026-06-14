@@ -1,0 +1,49 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: displaydelight:plate_displayable
+# Entries: 42
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.243594+08:00
+
+brewinandchewin:ham_and_cheese_sandwich
+corn_delight:classic_corn_dog
+corn_delight:grilled_corn
+corn_delight:taco
+crabbersdelight:fish_stick
+crabbersdelight:frog_leg_kebab
+crabbersdelight:shrimp_skewer
+crabbersdelight:squid_kebab
+crabbersdelight:stuffed_nautilus_shell
+ends_delight:chorus_flower_pie
+ends_delight:chorus_fruit_popsicle
+ends_delight:end_barbecue_stick
+ends_delight:ender_bamboo_rice
+ends_delight:stuffed_rice_cake
+farmersdelight:bacon_sandwich
+farmersdelight:barbecue_stick
+farmersdelight:cabbage_rolls
+farmersdelight:chicken_sandwich
+farmersdelight:cod_roll
+farmersdelight:dumplings
+farmersdelight:egg_sandwich
+farmersdelight:hamburger
+farmersdelight:honey_cookie
+farmersdelight:kelp_roll
+farmersdelight:kelp_roll_slice
+farmersdelight:melon_popsicle
+farmersdelight:mutton_wrap
+farmersdelight:salmon_roll
+farmersdelight:stuffed_potato
+farmersdelight:sweet_berry_cookie
+minecraft:cookie
+minecraft:pumpkin_pie
+mynethersdelight:bacon-wrapped_sausage_on_a_stick
+mynethersdelight:chilidog
+mynethersdelight:fries_ghasta
+mynethersdelight:hotdog_with_mixed_salad
+mynethersdelight:hotdog_with_nether_salad
+mynethersdelight:nether_burger
+mynethersdelight:red_loin_on_a_stick
+mynethersdelight:spicy_cotton
+mynethersdelight:spicy_skewer
+mynethersdelight:stuffed_pepper

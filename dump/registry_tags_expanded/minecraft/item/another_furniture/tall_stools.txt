@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: another_furniture:tall_stools
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4469117+08:00
+
+another_furniture:black_tall_stool
+another_furniture:blue_tall_stool
+another_furniture:brown_tall_stool
+another_furniture:cyan_tall_stool
+another_furniture:gray_tall_stool
+another_furniture:green_tall_stool
+another_furniture:light_blue_tall_stool
+another_furniture:light_gray_tall_stool
+another_furniture:lime_tall_stool
+another_furniture:magenta_tall_stool
+another_furniture:orange_tall_stool
+another_furniture:pink_tall_stool
+another_furniture:purple_tall_stool
+another_furniture:red_tall_stool
+another_furniture:white_tall_stool
+another_furniture:yellow_tall_stool

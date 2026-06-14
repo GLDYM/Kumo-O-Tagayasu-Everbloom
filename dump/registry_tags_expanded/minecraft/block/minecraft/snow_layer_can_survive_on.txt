@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:snow_layer_can_survive_on
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.5188711+08:00
+
+minecraft:honey_block
+minecraft:mud
+minecraft:soul_sand

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:copper_ores
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.3297768+08:00
+
+minecraft:copper_ore
+minecraft:deepslate_copper_ore

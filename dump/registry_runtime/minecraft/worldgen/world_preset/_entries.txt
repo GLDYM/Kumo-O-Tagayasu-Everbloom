@@ -1,0 +1,13 @@
+# Registry dump
+# Registry: minecraft:worldgen/world_preset
+# Minecraft: 1.21.1
+# Entries: 7
+# Generated: 2026-06-14T13:47:24.5586215+08:00
+
+bits_n_bobs:ponderous_planes raw_id=5 class=net.minecraft.world.level.levelgen.presets.WorldPreset
+minecraft:amplified raw_id=0 class=net.minecraft.world.level.levelgen.presets.WorldPreset
+minecraft:debug_all_block_states raw_id=1 class=net.minecraft.world.level.levelgen.presets.WorldPreset
+minecraft:flat raw_id=2 class=net.minecraft.world.level.levelgen.presets.WorldPreset
+minecraft:large_biomes raw_id=3 class=net.minecraft.world.level.levelgen.presets.WorldPreset
+minecraft:normal raw_id=4 class=net.minecraft.world.level.levelgen.presets.WorldPreset
+minecraft:single_biome_surface raw_id=6 class=net.minecraft.world.level.levelgen.presets.WorldPreset

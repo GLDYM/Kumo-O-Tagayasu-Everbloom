@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: garnished:fan_processing_catalysts/dye/pink
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.03938+08:00
+
+create_connected:pink_fan_dyeing_catalyst

@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:tools/knife
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.8317989+08:00
+
+bakeries:bread_knife
+ends_delight:dragon_egg_shell_knife
+ends_delight:dragon_tooth_knife
+ends_delight:end_stone_knife
+ends_delight:purpur_knife
+farmersdelight:diamond_knife
+farmersdelight:flint_knife
+farmersdelight:golden_knife
+farmersdelight:iron_knife
+farmersdelight:netherite_knife
+kaleidoscope_cookery:diamond_kitchen_knife
+kaleidoscope_cookery:gold_kitchen_knife
+kaleidoscope_cookery:iron_kitchen_knife
+kaleidoscope_cookery:netherite_kitchen_knife
+tofudelight:tofu_diamond_knife
+tofudelight:tofu_metal_knife
+trailandtales_delight:cherry_iron_knife
+trailandtales_delight:sniffer_eggshell_knife

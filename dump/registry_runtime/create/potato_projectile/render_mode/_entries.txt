@@ -1,0 +1,10 @@
+# Registry dump
+# Registry: create:potato_projectile/render_mode
+# Minecraft: 1.21.1
+# Entries: 4
+# Generated: 2026-06-14T13:47:24.0667777+08:00
+
+create:billboard raw_id=0 class=com.mojang.serialization.MapCodec$2
+create:stuck_to_entity raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+create:toward_motion raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+create:tumble raw_id=1 class=com.mojang.serialization.MapCodec$2

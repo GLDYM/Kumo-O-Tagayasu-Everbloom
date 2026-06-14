@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: handcrafted:dining_benches
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0693289+08:00
+
+handcrafted:acacia_dining_bench
+handcrafted:bamboo_dining_bench
+handcrafted:birch_dining_bench
+handcrafted:cherry_dining_bench
+handcrafted:crimson_dining_bench
+handcrafted:dark_oak_dining_bench
+handcrafted:jungle_dining_bench
+handcrafted:mangrove_dining_bench
+handcrafted:oak_dining_bench
+handcrafted:spruce_dining_bench
+handcrafted:warped_dining_bench

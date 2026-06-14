@@ -1,0 +1,9 @@
+# Raw recipe JSON dump summary
+# Mod ID: registry_dumper_3000
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.5760817+08:00
+
+# Resources discovered: 120
+# Files written: 120
+# Unknown recipe type folder count: 0
+# Invalid JSON folder count: 0

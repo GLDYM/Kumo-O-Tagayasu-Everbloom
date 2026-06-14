@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:stone_types/dolomite
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2963017+08:00
+
+dndecor:cut_dolomite
+dndecor:cut_dolomite_brick_stairs
+dndecor:cut_dolomite_brick_wall
+dndecor:cut_dolomite_bricks
+dndecor:cut_dolomite_stairs
+dndecor:cut_dolomite_wall
+dndecor:dolomite
+dndecor:dolomite_pillar
+dndecor:layered_dolomite
+dndecor:polished_cut_dolomite
+dndecor:polished_cut_dolomite_stairs
+dndecor:polished_cut_dolomite_wall
+dndecor:small_dolomite_brick_stairs
+dndecor:small_dolomite_brick_wall
+dndecor:small_dolomite_bricks

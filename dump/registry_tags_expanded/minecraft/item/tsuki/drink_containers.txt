@@ -1,0 +1,26 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: tsuki:drink_containers
+# Entries: 19
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0973341+08:00
+
+tsuki:beer_bottle
+tsuki:brandy_bottle
+tsuki:champagne_bottle
+tsuki:cocoa_liqueur_bottle
+tsuki:collins_glass
+tsuki:cup
+tsuki:doburoku_bottle
+tsuki:gin_bottle
+tsuki:glass_cup
+tsuki:liqueur_bottle
+tsuki:red_wine_bottle
+tsuki:rum_bottle
+tsuki:sake_bottle
+tsuki:shouchu_bottle
+tsuki:tequila_bottle
+tsuki:vodka_bottle
+tsuki:whiskey_bottle
+tsuki:white_wine_bottle
+tsuki:wine_bottle

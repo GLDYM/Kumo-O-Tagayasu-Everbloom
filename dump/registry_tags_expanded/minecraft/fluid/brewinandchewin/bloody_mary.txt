@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:fluid
+# Tag: brewinandchewin:bloody_mary
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1955341+08:00
+
+brewinandchewin:bloody_mary
+brewinandchewin:flowing_bloody_mary

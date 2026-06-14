@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: minecraft:burn_from_stepping
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.8953482+08:00
+
+farmersdelight:stove_burn
+minecraft:campfire
+minecraft:hot_floor

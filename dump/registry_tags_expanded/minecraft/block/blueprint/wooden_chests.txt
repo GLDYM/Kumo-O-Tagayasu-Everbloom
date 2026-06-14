@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: blueprint:wooden_chests
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.4643559+08:00
+
+atmospheric:aspen_chest
+atmospheric:grimwood_chest
+atmospheric:kousa_chest
+atmospheric:laurel_chest
+atmospheric:morado_chest
+atmospheric:rosewood_chest
+atmospheric:yucca_chest

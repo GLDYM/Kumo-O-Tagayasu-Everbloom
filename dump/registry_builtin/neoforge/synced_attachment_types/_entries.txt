@@ -1,0 +1,12 @@
+# Registry dump
+# Registry: neoforge:synced_attachment_types
+# Minecraft: 1.21.1
+# Entries: 6
+# Generated: 2026-06-14T13:45:01.5517101+08:00
+
+maid_restaurant:block_selection raw_id=4 class=net.neoforged.neoforge.attachment.AttachmentType
+maid_restaurant:cook_request_handler raw_id=0 class=net.neoforged.neoforge.attachment.AttachmentType
+maid_restaurant:serve_request_handler raw_id=1 class=net.neoforged.neoforge.attachment.AttachmentType
+maid_restaurant:world_cook_request_handler raw_id=2 class=net.neoforged.neoforge.attachment.AttachmentType
+maid_restaurant:world_serve_request_handler raw_id=3 class=net.neoforged.neoforge.attachment.AttachmentType
+supplementaries:slimed_data raw_id=5 class=net.neoforged.neoforge.attachment.AttachmentType

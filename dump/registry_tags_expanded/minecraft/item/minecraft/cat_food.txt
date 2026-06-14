@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:cat_food
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0598163+08:00
+
+farmersdelight:cod_slice
+farmersdelight:salmon_slice
+kaleidoscope_nether:raw_strider_meat
+minecraft:cod
+minecraft:salmon
+mynethersdelight:ghasmati
+mynethersdelight:minced_strider
+mynethersdelight:strider_slice

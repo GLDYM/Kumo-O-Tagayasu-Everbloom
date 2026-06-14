@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: brewinandchewin:cheese_wheels/ripe
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.4711866+08:00
+
+brewinandchewin:flaxen_cheese_wheel
+brewinandchewin:scarlet_cheese_wheel

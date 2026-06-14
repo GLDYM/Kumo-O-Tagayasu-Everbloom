@@ -1,0 +1,21 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:creeper_drop_music_discs
+# Entries: 14
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0752002+08:00
+
+create_connected:music_disc_elevator
+create_connected:music_disc_interlude
+minecraft:music_disc_11
+minecraft:music_disc_13
+minecraft:music_disc_blocks
+minecraft:music_disc_cat
+minecraft:music_disc_chirp
+minecraft:music_disc_far
+minecraft:music_disc_mall
+minecraft:music_disc_mellohi
+minecraft:music_disc_stal
+minecraft:music_disc_strad
+minecraft:music_disc_wait
+minecraft:music_disc_ward

@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: irons_spellbooks:cant_use_portal
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0781301+08:00
+
+irons_spellbooks:dead_king
+irons_spellbooks:dead_king_corpse
+irons_spellbooks:fire_boss
+irons_spellbooks:portal
+minecraft:ender_dragon
+minecraft:wither
+tofucraft:shudofuspider

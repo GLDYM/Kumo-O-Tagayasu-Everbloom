@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_cookery:bucket_container
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.862481+08:00
+
+minecraft:axolotl_bucket
+minecraft:cod_bucket
+minecraft:lava_bucket
+minecraft:milk_bucket
+minecraft:powder_snow_bucket
+minecraft:pufferfish_bucket
+minecraft:salmon_bucket
+minecraft:tadpole_bucket
+minecraft:tropical_fish_bucket
+minecraft:water_bucket

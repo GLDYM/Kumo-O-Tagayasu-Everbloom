@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: createnuclear:fan_processing_catalysts/enriched
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9211715+08:00
+
+create_connected:fan_enriched_catalyst
+createnuclear:enriching_campfire
+createnuclear:enriching_fire

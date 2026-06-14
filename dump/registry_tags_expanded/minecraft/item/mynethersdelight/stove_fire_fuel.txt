@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: mynethersdelight:stove_fire_fuel
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.3032386+08:00
+
+minecraft:blaze_powder
+minecraft:blaze_rod
+minecraft:fire_charge
+minecraft:magma_block
+minecraft:magma_cream
+mynethersdelight:bullet_pepper
+mynethersdelight:pepper_powder

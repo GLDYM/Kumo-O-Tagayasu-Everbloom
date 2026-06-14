@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: iss_magicfromtheeast:symmetry_focus
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.858473+08:00
+
+iss_magicfromtheeast:yin_yang_core

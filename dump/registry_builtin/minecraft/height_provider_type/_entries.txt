@@ -1,0 +1,12 @@
+# Registry dump
+# Registry: minecraft:height_provider_type
+# Minecraft: 1.21.1
+# Entries: 6
+# Generated: 2026-06-14T13:45:01.1936484+08:00
+
+minecraft:biased_to_bottom raw_id=2 class=net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda/0x0000023d17e870d0
+minecraft:constant raw_id=0 class=net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda/0x0000023d17e870d0
+minecraft:trapezoid raw_id=4 class=net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda/0x0000023d17e870d0
+minecraft:uniform raw_id=1 class=net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda/0x0000023d17e870d0
+minecraft:very_biased_to_bottom raw_id=3 class=net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda/0x0000023d17e870d0
+minecraft:weighted_list raw_id=5 class=net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda/0x0000023d17e870d0

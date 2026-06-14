@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:stone_types/netherrack
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2972989+08:00
+
+dndecor:cut_netherrack
+dndecor:cut_netherrack_brick_stairs
+dndecor:cut_netherrack_brick_wall
+dndecor:cut_netherrack_bricks
+dndecor:cut_netherrack_stairs
+dndecor:cut_netherrack_wall
+dndecor:layered_netherrack
+dndecor:netherrack_pillar
+dndecor:polished_cut_netherrack
+dndecor:polished_cut_netherrack_stairs
+dndecor:polished_cut_netherrack_wall
+dndecor:small_netherrack_brick_stairs
+dndecor:small_netherrack_brick_wall
+dndecor:small_netherrack_bricks
+minecraft:netherrack

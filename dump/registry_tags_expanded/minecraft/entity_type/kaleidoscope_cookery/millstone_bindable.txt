@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: kaleidoscope_cookery:millstone_bindable
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0839683+08:00
+
+minecraft:cow
+minecraft:donkey
+minecraft:goat
+minecraft:horse
+minecraft:llama
+minecraft:mooshroom
+minecraft:mule
+minecraft:sheep
+minecraft:skeleton_horse
+minecraft:trader_llama
+minecraft:villager
+minecraft:zombie_horse

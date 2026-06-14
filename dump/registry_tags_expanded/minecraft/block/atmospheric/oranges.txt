@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: atmospheric:oranges
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.4375346+08:00
+
+atmospheric:blood_orange
+atmospheric:orange

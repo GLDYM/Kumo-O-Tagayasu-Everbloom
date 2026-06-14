@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/dye_groups/smokebox
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.912231+08:00
+
+railways:black_locometal_smokebox
+railways:blue_locometal_smokebox
+railways:brown_locometal_smokebox
+railways:cyan_locometal_smokebox
+railways:gray_locometal_smokebox
+railways:green_locometal_smokebox
+railways:light_blue_locometal_smokebox
+railways:light_gray_locometal_smokebox
+railways:lime_locometal_smokebox
+railways:locometal_smokebox
+railways:magenta_locometal_smokebox
+railways:orange_locometal_smokebox
+railways:pink_locometal_smokebox
+railways:purple_locometal_smokebox
+railways:red_locometal_smokebox
+railways:white_locometal_smokebox
+railways:yellow_locometal_smokebox

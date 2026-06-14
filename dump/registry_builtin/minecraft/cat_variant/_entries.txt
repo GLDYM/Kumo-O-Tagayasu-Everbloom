@@ -1,0 +1,18 @@
+# Registry dump
+# Registry: minecraft:cat_variant
+# Minecraft: 1.21.1
+# Entries: 12
+# Generated: 2026-06-14T13:45:01.1524745+08:00
+
+copycats:copy_cat raw_id=11 class=net.minecraft.world.entity.animal.CatVariant
+minecraft:all_black raw_id=10 class=net.minecraft.world.entity.animal.CatVariant
+minecraft:black raw_id=1 class=net.minecraft.world.entity.animal.CatVariant
+minecraft:british_shorthair raw_id=4 class=net.minecraft.world.entity.animal.CatVariant
+minecraft:calico raw_id=5 class=net.minecraft.world.entity.animal.CatVariant
+minecraft:jellie raw_id=9 class=net.minecraft.world.entity.animal.CatVariant
+minecraft:persian raw_id=6 class=net.minecraft.world.entity.animal.CatVariant
+minecraft:ragdoll raw_id=7 class=net.minecraft.world.entity.animal.CatVariant
+minecraft:red raw_id=2 class=net.minecraft.world.entity.animal.CatVariant
+minecraft:siamese raw_id=3 class=net.minecraft.world.entity.animal.CatVariant
+minecraft:tabby raw_id=0 class=net.minecraft.world.entity.animal.CatVariant
+minecraft:white raw_id=8 class=net.minecraft.world.entity.animal.CatVariant

@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: epic:medium_ice_dungeon
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.4735061+08:00
+
+minecraft:frozen_peaks
+minecraft:grove
+minecraft:ice_spikes
+minecraft:jagged_peaks
+minecraft:snowy_beach
+minecraft:snowy_plains
+minecraft:snowy_slopes
+minecraft:snowy_taiga

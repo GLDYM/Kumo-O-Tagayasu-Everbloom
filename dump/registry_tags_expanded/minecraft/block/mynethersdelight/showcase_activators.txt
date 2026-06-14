@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: mynethersdelight:showcase_activators
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.6027719+08:00
+
+farmersdelight:brown_mushroom_colony
+farmersdelight:red_mushroom_colony
+minecraft:bone_block
+minecraft:brown_mushroom
+minecraft:crimson_fungus
+minecraft:nether_wart
+minecraft:red_mushroom
+minecraft:soul_sand
+minecraft:twisting_vines
+minecraft:warped_fungus
+minecraft:weeping_vines
+minecraft:wither_rose
+mynethersdelight:crimson_fungus_colony
+mynethersdelight:letios_compost
+mynethersdelight:resurgent_soil
+mynethersdelight:warped_fungus_colony

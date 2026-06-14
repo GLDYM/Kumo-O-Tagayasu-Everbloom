@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: delighto_flight:mushroom
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9274437+08:00
+
+delighto_flight:clear_cloudshroom
+delighto_flight:rainy_cloudshroom
+delighto_flight:thunder_cloudshroom
+minecraft:brown_mushroom
+minecraft:red_mushroom

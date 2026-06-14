@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:potion
+# Tag: supplementaries:tipped_spikes_finite_blacklist
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.2838472+08:00
+

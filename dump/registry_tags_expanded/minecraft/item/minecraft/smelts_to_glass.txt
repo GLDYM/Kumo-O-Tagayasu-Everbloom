@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:smelts_to_glass
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2383298+08:00
+
+minecraft:red_sand
+minecraft:sand

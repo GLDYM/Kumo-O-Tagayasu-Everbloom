@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:grain/corn
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.3303348+08:00
+
+corn_delight:corn
+immortalers_delight:evolutcorn
+immortalers_delight:evolutcorn_grains

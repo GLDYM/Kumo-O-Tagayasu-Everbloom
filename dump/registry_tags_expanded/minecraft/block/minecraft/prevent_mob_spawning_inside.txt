@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:prevent_mob_spawning_inside
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.4843984+08:00
+
+create:cart_assembler
+create:controller_rail
+minecraft:activator_rail
+minecraft:detector_rail
+minecraft:powered_rail
+minecraft:rail

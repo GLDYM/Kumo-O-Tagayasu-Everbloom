@@ -1,0 +1,21 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: kaleidoscope_cookery:satiated_shield_weakness
+# Entries: 14
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.8837067+08:00
+
+create:cuckoo_surprise
+minecraft:bad_respawn_point
+minecraft:explosion
+minecraft:fireworks
+minecraft:freeze
+minecraft:in_wall
+minecraft:indirect_magic
+minecraft:lightning_bolt
+minecraft:player_explosion
+minecraft:sonic_boom
+minecraft:wither
+minecraft:wither_skull
+supplementaries:bomb_explosion
+supplementaries:player_bomb_explosion

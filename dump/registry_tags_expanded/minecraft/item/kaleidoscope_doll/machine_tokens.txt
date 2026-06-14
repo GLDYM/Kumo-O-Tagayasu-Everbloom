@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_doll:machine_tokens
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.8955979+08:00
+
+minecraft:diamond
+minecraft:gold_ingot
+minecraft:iron_ingot

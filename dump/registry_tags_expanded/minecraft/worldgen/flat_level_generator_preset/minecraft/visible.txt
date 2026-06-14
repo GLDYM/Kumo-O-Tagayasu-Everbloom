@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/flat_level_generator_preset
+# Tag: minecraft:visible
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1591202+08:00
+
+minecraft:bottomless_pit
+minecraft:classic_flat
+minecraft:desert
+minecraft:overworld
+minecraft:redstone_ready
+minecraft:snowy_kingdom
+minecraft:the_void
+minecraft:tunnelers_dream
+minecraft:water_world

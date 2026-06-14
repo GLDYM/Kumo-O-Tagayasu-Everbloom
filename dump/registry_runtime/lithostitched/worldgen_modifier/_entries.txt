@@ -1,0 +1,8 @@
+# Registry dump
+# Registry: lithostitched:worldgen_modifier
+# Minecraft: 1.21.1
+# Entries: 2
+# Generated: 2026-06-14T13:47:24.1570444+08:00
+
+lithostitched:compile_raw_templates raw_id=0 class=dev.worldgen.lithostitched.worldgen.modifier.internal.CompileRawTemplatesModifier
+lithostitched:set_trial_chambers_pool_aliases raw_id=1 class=dev.worldgen.lithostitched.worldgen.modifier.SetPoolAliasesModifier

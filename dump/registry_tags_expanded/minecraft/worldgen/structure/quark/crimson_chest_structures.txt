@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: quark:crimson_chest_structures
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.2385006+08:00
+
+minecraft:bastion_remnant
+minecraft:ruined_portal
+minecraft:ruined_portal_desert
+minecraft:ruined_portal_jungle
+minecraft:ruined_portal_mountain
+minecraft:ruined_portal_nether
+minecraft:ruined_portal_ocean
+minecraft:ruined_portal_swamp

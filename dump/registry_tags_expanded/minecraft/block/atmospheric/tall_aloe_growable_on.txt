@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: atmospheric:tall_aloe_growable_on
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.4441007+08:00
+
+atmospheric:arid_sand
+minecraft:sand

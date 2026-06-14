@@ -25,7 +25,7 @@ ui_search = ""
 #是否与JEI或EMI同步搜索
 search_text_with_jei_emi = true
 #是否允许EMI获取维度网络内全部物品信息
-emi_allow_network_storage_info = false
+emi_allow_network_storage_info = true
 #是否允许网络接口将资源送入网络
 interface_can_receive_resource = true
 #是否允许网络接口从网络提取标记的资源

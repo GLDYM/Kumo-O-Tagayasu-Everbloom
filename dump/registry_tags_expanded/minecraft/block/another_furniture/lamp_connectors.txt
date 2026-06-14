@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: another_furniture:lamp_connectors
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.3877313+08:00
+
+another_furniture:black_lamp_connector
+another_furniture:blue_lamp_connector
+another_furniture:brown_lamp_connector
+another_furniture:cyan_lamp_connector
+another_furniture:gray_lamp_connector
+another_furniture:green_lamp_connector
+another_furniture:light_blue_lamp_connector
+another_furniture:light_gray_lamp_connector
+another_furniture:lime_lamp_connector
+another_furniture:magenta_lamp_connector
+another_furniture:orange_lamp_connector
+another_furniture:pink_lamp_connector
+another_furniture:purple_lamp_connector
+another_furniture:red_lamp_connector
+another_furniture:white_lamp_connector
+another_furniture:yellow_lamp_connector

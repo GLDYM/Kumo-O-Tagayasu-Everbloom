@@ -1,0 +1,20 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: farmersdelight:snacks
+# Entries: 13
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.6075325+08:00
+
+farmersdelight:bacon_sandwich
+farmersdelight:barbecue_stick
+farmersdelight:cabbage_rolls
+farmersdelight:chicken_sandwich
+farmersdelight:cod_roll
+farmersdelight:dumplings
+farmersdelight:egg_sandwich
+farmersdelight:hamburger
+farmersdelight:kelp_roll
+farmersdelight:kelp_roll_slice
+farmersdelight:mutton_wrap
+farmersdelight:salmon_roll
+farmersdelight:stuffed_potato

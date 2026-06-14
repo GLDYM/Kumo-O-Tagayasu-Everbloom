@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:cheese
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.732252+08:00
+
+bakeries:cheese_cube
+create_bic_bit:aged_cheese_wedge
+create_bic_bit:young_cheese_wedge
+tofucraft:soy_cheese
+tofucraft:soy_nether_cheese
+tofucraft:soy_soul_cheese
+trailandtales_delight:cheese_slice
+trailandtales_delight:cherry_cheese_slice
+tsuki:cheese
+vintagedelight:cheese_slice

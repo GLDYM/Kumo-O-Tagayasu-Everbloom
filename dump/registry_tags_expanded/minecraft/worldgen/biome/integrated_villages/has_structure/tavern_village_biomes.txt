@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: integrated_villages:has_structure/tavern_village_biomes
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.8819527+08:00
+
+minecraft:forest
+minecraft:grove
+minecraft:mangrove_swamp
+minecraft:snowy_taiga
+minecraft:taiga

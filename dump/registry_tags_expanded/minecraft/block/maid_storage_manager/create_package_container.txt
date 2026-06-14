@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: maid_storage_manager:create_package_container
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.2042006+08:00
+
+create:basin
+create:belt
+create:chute
+create:depot
+create:package_frogport
+create:packager
+create:smart_chute
+create:weighted_ejector

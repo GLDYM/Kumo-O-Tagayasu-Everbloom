@@ -1,0 +1,50 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:azalea_grows_on
+# Entries: 43
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.2702897+08:00
+
+atmospheric:arid_sand
+atmospheric:crustose
+atmospheric:red_arid_sand
+atmospheric:suspicious_arid_sand
+atmospheric:suspicious_red_arid_sand
+delighto_flight:weather_soil
+farmersdelight:rich_soil
+lootr:suspicious_sand
+minecraft:black_terracotta
+minecraft:blue_terracotta
+minecraft:brown_terracotta
+minecraft:coarse_dirt
+minecraft:cyan_terracotta
+minecraft:dirt
+minecraft:grass_block
+minecraft:gray_terracotta
+minecraft:green_terracotta
+minecraft:light_blue_terracotta
+minecraft:light_gray_terracotta
+minecraft:lime_terracotta
+minecraft:magenta_terracotta
+minecraft:moss_block
+minecraft:mud
+minecraft:muddy_mangrove_roots
+minecraft:mycelium
+minecraft:orange_terracotta
+minecraft:pink_terracotta
+minecraft:podzol
+minecraft:powder_snow
+minecraft:purple_terracotta
+minecraft:red_sand
+minecraft:red_terracotta
+minecraft:rooted_dirt
+minecraft:sand
+minecraft:snow_block
+minecraft:suspicious_sand
+minecraft:terracotta
+minecraft:white_terracotta
+minecraft:yellow_terracotta
+mynethersdelight:resurgent_soil
+mynethersdelight:resurgent_soil_farmland
+supplementaries:planter
+vintagedelight:lush_grass_block

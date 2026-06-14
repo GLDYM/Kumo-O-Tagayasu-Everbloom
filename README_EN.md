@@ -65,5 +65,5 @@ You are forbidden to do the following:
 
 ## Special Thanks
 
-- [伊落星涟 ArcHosheri](https://github.com/ArcHosheri)
+- [浅忆星名 ArcHosheri](https://github.com/ArcHosheri)
 

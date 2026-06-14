@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: epic:medium_sand_dungeon
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.4766652+08:00
+
+atmospheric:dunes
+atmospheric:flourishing_dunes
+atmospheric:petrified_dunes
+atmospheric:rocky_dunes
+atmospheric:scrubland
+atmospheric:snowy_scrubland
+atmospheric:spiny_thicket
+minecraft:desert

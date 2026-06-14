@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: quark:has_lower_fallen_tree_density
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.0729238+08:00
+
+minecraft:meadow
+minecraft:savanna
+minecraft:savanna_plateau
+minecraft:sparse_jungle
+minecraft:swamp
+minecraft:windswept_forest

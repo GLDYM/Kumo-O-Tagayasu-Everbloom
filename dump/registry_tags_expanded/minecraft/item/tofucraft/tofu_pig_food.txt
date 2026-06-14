@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: tofucraft:tofu_pig_food
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0730524+08:00
+
+tofucraft:leek
+tofucraft:natto

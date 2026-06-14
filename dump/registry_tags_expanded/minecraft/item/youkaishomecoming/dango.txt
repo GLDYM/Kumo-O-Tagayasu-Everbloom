@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: youkaishomecoming:dango
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.1997706+08:00
+
+youkaishomecoming:coffee_mochi
+youkaishomecoming:matcha_mochi
+youkaishomecoming:mochi
+youkaishomecoming:sakura_mochi
+youkaishomecoming:tsukimi_dango
+youkaishomecoming:yashouma_dango

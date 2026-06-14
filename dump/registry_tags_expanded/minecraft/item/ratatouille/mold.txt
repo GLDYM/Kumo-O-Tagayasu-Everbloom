@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: ratatouille:mold
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.9272953+08:00
+
+ratatouille:cake_mold
+ratatouille:chocolate_mold
+ratatouille:popsicle_mold

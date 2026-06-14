@@ -1,0 +1,17 @@
+# Registry dump
+# Registry: lithostitched:placement_condition_type
+# Minecraft: 1.21.1
+# Entries: 11
+# Generated: 2026-06-14T13:45:01.0880322+08:00
+
+lithostitched:all_of raw_id=2 class=com.mojang.serialization.MapCodec$2
+lithostitched:any_of raw_id=5 class=com.mojang.serialization.MapCodec$2
+lithostitched:grid raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:height_filter raw_id=3 class=com.mojang.serialization.Codec$3
+lithostitched:in_biome raw_id=9 class=com.mojang.serialization.MapCodec$2
+lithostitched:multiple_of raw_id=6 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:not raw_id=7 class=com.mojang.serialization.MapCodec$2
+lithostitched:offset raw_id=10 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:sample_density raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:sample_noise_router raw_id=8 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:true raw_id=0 class=com.mojang.serialization.MapCodec$2

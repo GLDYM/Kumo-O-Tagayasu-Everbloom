@@ -1,0 +1,29 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:bookshelves
+# Entries: 22
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.5944128+08:00
+
+atmospheric:aspen_bookshelf
+atmospheric:grimwood_bookshelf
+atmospheric:kousa_bookshelf
+atmospheric:laurel_bookshelf
+atmospheric:morado_bookshelf
+atmospheric:rosewood_bookshelf
+atmospheric:yucca_bookshelf
+irons_spellbooks:wisewood_bookshelf
+minecraft:bookshelf
+quark:acacia_bookshelf
+quark:ancient_bookshelf
+quark:azalea_bookshelf
+quark:bamboo_bookshelf
+quark:birch_bookshelf
+quark:blossom_bookshelf
+quark:cherry_bookshelf
+quark:crimson_bookshelf
+quark:dark_oak_bookshelf
+quark:jungle_bookshelf
+quark:mangrove_bookshelf
+quark:spruce_bookshelf
+quark:warped_bookshelf

@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/light_gray
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.8769753+08:00
+
+railways:light_gray_flat_riveted_locometal
+railways:light_gray_flat_slashed_locometal
+railways:light_gray_locometal_pillar
+railways:light_gray_locometal_smokebox
+railways:light_gray_plated_locometal
+railways:light_gray_riveted_locometal
+railways:light_gray_slashed_locometal

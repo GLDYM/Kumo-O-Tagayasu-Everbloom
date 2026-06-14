@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: maid_storage_manager:working_block/crafting_table
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.2134694+08:00
+
+minecraft:crafting_table

@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: blueprint:wooden_ladders
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4975032+08:00
+
+atmospheric:aspen_ladder
+atmospheric:grimwood_ladder
+atmospheric:kousa_ladder
+atmospheric:laurel_ladder
+atmospheric:morado_ladder
+atmospheric:rosewood_ladder
+atmospheric:yucca_ladder
+minecraft:ladder

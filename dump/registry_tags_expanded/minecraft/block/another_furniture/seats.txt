@@ -1,0 +1,77 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: another_furniture:seats
+# Entries: 70
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.391247+08:00
+
+another_furniture:acacia_bench
+another_furniture:acacia_chair
+another_furniture:bamboo_bench
+another_furniture:bamboo_chair
+another_furniture:birch_bench
+another_furniture:birch_chair
+another_furniture:black_sofa
+another_furniture:black_stool
+another_furniture:black_tall_stool
+another_furniture:blue_sofa
+another_furniture:blue_stool
+another_furniture:blue_tall_stool
+another_furniture:brown_sofa
+another_furniture:brown_stool
+another_furniture:brown_tall_stool
+another_furniture:cherry_bench
+another_furniture:cherry_chair
+another_furniture:crimson_bench
+another_furniture:crimson_chair
+another_furniture:cyan_sofa
+another_furniture:cyan_stool
+another_furniture:cyan_tall_stool
+another_furniture:dark_oak_bench
+another_furniture:dark_oak_chair
+another_furniture:gray_sofa
+another_furniture:gray_stool
+another_furniture:gray_tall_stool
+another_furniture:green_sofa
+another_furniture:green_stool
+another_furniture:green_tall_stool
+another_furniture:jungle_bench
+another_furniture:jungle_chair
+another_furniture:light_blue_sofa
+another_furniture:light_blue_stool
+another_furniture:light_blue_tall_stool
+another_furniture:light_gray_sofa
+another_furniture:light_gray_stool
+another_furniture:light_gray_tall_stool
+another_furniture:lime_sofa
+another_furniture:lime_stool
+another_furniture:lime_tall_stool
+another_furniture:magenta_sofa
+another_furniture:magenta_stool
+another_furniture:magenta_tall_stool
+another_furniture:mangrove_bench
+another_furniture:mangrove_chair
+another_furniture:oak_bench
+another_furniture:oak_chair
+another_furniture:orange_sofa
+another_furniture:orange_stool
+another_furniture:orange_tall_stool
+another_furniture:pink_sofa
+another_furniture:pink_stool
+another_furniture:pink_tall_stool
+another_furniture:purple_sofa
+another_furniture:purple_stool
+another_furniture:purple_tall_stool
+another_furniture:red_sofa
+another_furniture:red_stool
+another_furniture:red_tall_stool
+another_furniture:spruce_bench
+another_furniture:spruce_chair
+another_furniture:warped_bench
+another_furniture:warped_chair
+another_furniture:white_sofa
+another_furniture:white_stool
+another_furniture:white_tall_stool
+another_furniture:yellow_sofa
+another_furniture:yellow_stool
+another_furniture:yellow_tall_stool

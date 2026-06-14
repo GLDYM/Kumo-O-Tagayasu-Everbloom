@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: tofucraft:tofu_diamond_sword_enchantable
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0719602+08:00
+
+tofucraft:tofu_diamond_sword

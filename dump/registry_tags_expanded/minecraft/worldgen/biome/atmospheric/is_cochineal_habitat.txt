@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: atmospheric:is_cochineal_habitat
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.3042251+08:00
+
+atmospheric:scrubland
+atmospheric:snowy_scrubland
+atmospheric:spiny_thicket

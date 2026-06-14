@@ -1,0 +1,32 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: atmospheric:yucca_flower_placeable
+# Entries: 25
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.4471648+08:00
+
+atmospheric:arid_sand
+atmospheric:crustose
+atmospheric:red_arid_sand
+atmospheric:suspicious_arid_sand
+atmospheric:suspicious_red_arid_sand
+atmospheric:yucca_leaves
+delighto_flight:weather_soil
+farmersdelight:rich_soil
+lootr:suspicious_sand
+minecraft:cactus
+minecraft:coarse_dirt
+minecraft:dirt
+minecraft:grass_block
+minecraft:moss_block
+minecraft:mud
+minecraft:muddy_mangrove_roots
+minecraft:mycelium
+minecraft:podzol
+minecraft:red_sand
+minecraft:rooted_dirt
+minecraft:sand
+minecraft:suspicious_sand
+mynethersdelight:resurgent_soil
+mynethersdelight:resurgent_soil_farmland
+vintagedelight:lush_grass_block

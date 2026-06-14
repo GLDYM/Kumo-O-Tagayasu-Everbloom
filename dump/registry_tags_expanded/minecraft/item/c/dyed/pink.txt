@@ -1,0 +1,27 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:dyed/pink
+# Entries: 20
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.9986041+08:00
+
+handcrafted:pink_cushion
+handcrafted:pink_sheet
+minecraft:pink_banner
+minecraft:pink_bed
+minecraft:pink_candle
+minecraft:pink_carpet
+minecraft:pink_concrete
+minecraft:pink_concrete_powder
+minecraft:pink_glazed_terracotta
+minecraft:pink_shulker_box
+minecraft:pink_stained_glass
+minecraft:pink_stained_glass_pane
+minecraft:pink_terracotta
+minecraft:pink_wool
+supplementaries:awning_pink
+supplementaries:bunting_pink
+supplementaries:candle_holder_pink
+supplementaries:flag_pink
+supplementaries:present_pink
+supplementaries:trapped_present_pink

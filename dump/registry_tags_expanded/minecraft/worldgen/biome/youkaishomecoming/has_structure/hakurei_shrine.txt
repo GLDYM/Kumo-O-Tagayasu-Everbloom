@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: youkaishomecoming:has_structure/hakurei_shrine
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1315303+08:00
+
+minecraft:cherry_grove
+minecraft:flower_forest
+minecraft:meadow
+youkaishomecoming:animal_path
+youkaishomecoming:sakura_birch_forest
+youkaishomecoming:sakura_forest
+youkaishomecoming:sakura_taiga

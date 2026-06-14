@@ -1,0 +1,26 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:overworld_natural_logs
+# Entries: 19
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.4777513+08:00
+
+atmospheric:aspen_log
+atmospheric:grimwood_log
+atmospheric:kousa_log
+atmospheric:laurel_log
+atmospheric:morado_log
+atmospheric:rosewood_log
+atmospheric:watchful_aspen_log
+atmospheric:yucca_log
+crabbersdelight:palm_log
+minecraft:acacia_log
+minecraft:birch_log
+minecraft:cherry_log
+minecraft:dark_oak_log
+minecraft:jungle_log
+minecraft:mangrove_log
+minecraft:oak_log
+minecraft:spruce_log
+quark:azalea_log
+quark:blossom_log

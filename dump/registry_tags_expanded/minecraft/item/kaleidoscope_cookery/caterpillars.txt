@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_cookery:caterpillars
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.8644808+08:00
+
+kaleidoscope_cookery:caterpillar
+kaleidoscope_end:end_caterpillar
+kaleidoscope_nether:nether_caterpillar

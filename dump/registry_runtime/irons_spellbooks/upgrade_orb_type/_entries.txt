@@ -1,0 +1,22 @@
+# Registry dump
+# Registry: irons_spellbooks:upgrade_orb_type
+# Minecraft: 1.21.1
+# Entries: 16
+# Generated: 2026-06-14T13:47:24.1073704+08:00
+
+irons_spellbooks:blood_power raw_id=0 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+irons_spellbooks:cooldown raw_id=1 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+irons_spellbooks:ender_power raw_id=2 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+irons_spellbooks:evocation_power raw_id=3 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+irons_spellbooks:fire_power raw_id=4 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+irons_spellbooks:health raw_id=5 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+irons_spellbooks:holy_power raw_id=6 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+irons_spellbooks:ice_power raw_id=7 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+irons_spellbooks:lightning_power raw_id=8 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+irons_spellbooks:mana raw_id=9 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+irons_spellbooks:melee_damage raw_id=10 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+irons_spellbooks:melee_speed raw_id=11 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+irons_spellbooks:nature_power raw_id=12 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+irons_spellbooks:spell_resistance raw_id=13 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+iss_magicfromtheeast:spirit_power raw_id=14 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType
+iss_magicfromtheeast:symmetry_power raw_id=15 class=io.redspace.ironsspellbooks.item.armor.UpgradeOrbType

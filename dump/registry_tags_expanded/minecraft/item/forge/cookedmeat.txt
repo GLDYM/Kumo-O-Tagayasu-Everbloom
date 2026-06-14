@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: forge:cookedmeat
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.6306486+08:00
+
+immortalers_delight:cooked_sniffer_slice
+immortalers_delight:cooked_sniffer_steak

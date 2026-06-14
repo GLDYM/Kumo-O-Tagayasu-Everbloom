@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: dndecor:mineable/pickaxe/netherite_bolt
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9466698+08:00
+
+dndecor:netherite_cross_bolt
+dndecor:netherite_dash_bolt
+dndecor:netherite_dot_bolt
+dndecor:netherite_flat_bolt

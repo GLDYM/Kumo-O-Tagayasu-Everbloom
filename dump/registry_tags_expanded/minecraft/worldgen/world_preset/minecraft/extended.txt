@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/world_preset
+# Tag: minecraft:extended
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.3068947+08:00
+
+bits_n_bobs:ponderous_planes
+minecraft:amplified
+minecraft:debug_all_block_states
+minecraft:flat
+minecraft:large_biomes
+minecraft:normal
+minecraft:single_biome_surface

@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:villager_plantable_seeds
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2715101+08:00
+
+corn_delight:corn_seeds
+farmersdelight:cabbage_seeds
+farmersdelight:onion
+farmersdelight:tomato_seeds
+kaleidoscope_cookery:chili_seed
+kaleidoscope_cookery:lettuce_seed
+kaleidoscope_cookery:tomato_seed
+minecraft:beetroot_seeds
+minecraft:carrot
+minecraft:pitcher_pod
+minecraft:potato
+minecraft:torchflower_seeds
+minecraft:wheat_seeds
+supplementaries:flax_seeds
+tofucraft:seeds_chili
+tofucraft:seeds_soybeans

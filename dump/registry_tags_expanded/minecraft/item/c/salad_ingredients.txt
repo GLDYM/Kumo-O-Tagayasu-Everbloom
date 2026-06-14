@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:salad_ingredients
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.5785723+08:00
+
+tsuki:cabbage
+tsuki:sliced_cabbage
+tsuki:tomato

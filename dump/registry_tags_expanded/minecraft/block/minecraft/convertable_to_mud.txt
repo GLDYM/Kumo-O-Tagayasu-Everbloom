@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:convertable_to_mud
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.32806+08:00
+
+minecraft:coarse_dirt
+minecraft:dirt
+minecraft:rooted_dirt

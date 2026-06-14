@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:deployable_drink
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.9884985+08:00
+
+minecraft:milk_bucket
+minecraft:potion
+supplementaries:lumisene_bottle

@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: irons_spellbooks:lootable_focus
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.8301839+08:00
+
+irons_spellbooks:blood_vial
+irons_spellbooks:divine_pearl
+irons_spellbooks:frozen_bone
+irons_spellbooks:lightning_bottle
+iss_magicfromtheeast:arcane_relics
+iss_magicfromtheeast:bottle_of_souls
+iss_magicfromtheeast:yin_yang_core
+minecraft:emerald
+minecraft:ender_pearl
+minecraft:poisonous_potato
+tofucraft:zundaruby

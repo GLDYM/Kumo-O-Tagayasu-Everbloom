@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: integrated_villages:has_structure/kutcha_village_biomes
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.8747706+08:00
+
+minecraft:badlands
+minecraft:desert
+minecraft:eroded_badlands
+minecraft:wooded_badlands

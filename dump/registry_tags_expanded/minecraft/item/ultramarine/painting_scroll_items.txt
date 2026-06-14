@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: ultramarine:painting_scroll_items
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.1467701+08:00
+
+ultramarine:horizontal_calligraphy
+ultramarine:horizontal_landscape_painting
+ultramarine:horizontal_old_landscape_painting
+ultramarine:long_hanging_painting
+ultramarine:long_yellow_hanging_painting
+ultramarine:portrait
+ultramarine:sincere_calligraphy
+ultramarine:white_landscape_painting

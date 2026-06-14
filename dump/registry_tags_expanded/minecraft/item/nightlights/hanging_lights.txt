@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: nightlights:hanging_lights
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.3217026+08:00
+
+nightlights:hanging_lights_black
+nightlights:hanging_lights_blue
+nightlights:hanging_lights_brown
+nightlights:hanging_lights_cyan
+nightlights:hanging_lights_default
+nightlights:hanging_lights_gray
+nightlights:hanging_lights_green
+nightlights:hanging_lights_light_blue
+nightlights:hanging_lights_light_gray
+nightlights:hanging_lights_lime
+nightlights:hanging_lights_magenta
+nightlights:hanging_lights_orange
+nightlights:hanging_lights_pink
+nightlights:hanging_lights_purple
+nightlights:hanging_lights_red
+nightlights:hanging_lights_white
+nightlights:hanging_lights_yellow

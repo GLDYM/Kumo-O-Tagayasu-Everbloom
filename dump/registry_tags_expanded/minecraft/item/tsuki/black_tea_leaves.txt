@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: tsuki:black_tea_leaves
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0963243+08:00
+
+tsuki:black_tea_leaves

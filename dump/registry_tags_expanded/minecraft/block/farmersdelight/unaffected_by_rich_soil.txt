@@ -1,0 +1,48 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: farmersdelight:unaffected_by_rich_soil
+# Entries: 41
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0055808+08:00
+
+atmospheric:tall_yucca_flower
+corn_delight:wild_corn
+farmersdelight:brown_mushroom_colony
+farmersdelight:red_mushroom_colony
+farmersdelight:sandy_shrub
+farmersdelight:wild_beetroots
+farmersdelight:wild_cabbages
+farmersdelight:wild_carrots
+farmersdelight:wild_onions
+farmersdelight:wild_potatoes
+farmersdelight:wild_rice
+farmersdelight:wild_tomatoes
+minecraft:big_dripleaf
+minecraft:big_dripleaf_stem
+minecraft:crimson_nylium
+minecraft:fern
+minecraft:grass_block
+minecraft:lilac
+minecraft:moss_block
+minecraft:peony
+minecraft:pink_petals
+minecraft:pitcher_plant
+minecraft:rose_bush
+minecraft:short_grass
+minecraft:sunflower
+minecraft:twisting_vines
+minecraft:twisting_vines_plant
+minecraft:warped_nylium
+mynethersdelight:bullet_pepper
+mynethersdelight:crimson_fungus_colony
+mynethersdelight:warped_fungus_colony
+youkaishomecoming:wild_black_grape
+youkaishomecoming:wild_coffea
+youkaishomecoming:wild_cucumber
+youkaishomecoming:wild_mandrake
+youkaishomecoming:wild_red_grape
+youkaishomecoming:wild_redbean
+youkaishomecoming:wild_soybean
+youkaishomecoming:wild_tea
+youkaishomecoming:wild_udumbara
+youkaishomecoming:wild_white_grape

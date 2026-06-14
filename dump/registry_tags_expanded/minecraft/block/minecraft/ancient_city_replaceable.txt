@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:ancient_city_replaceable
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.2617063+08:00
+
+minecraft:cobbled_deepslate
+minecraft:cracked_deepslate_bricks
+minecraft:cracked_deepslate_tiles
+minecraft:deepslate
+minecraft:deepslate_brick_slab
+minecraft:deepslate_brick_stairs
+minecraft:deepslate_brick_wall
+minecraft:deepslate_bricks
+minecraft:deepslate_tile_slab
+minecraft:deepslate_tile_wall
+minecraft:deepslate_tiles
+minecraft:gray_wool

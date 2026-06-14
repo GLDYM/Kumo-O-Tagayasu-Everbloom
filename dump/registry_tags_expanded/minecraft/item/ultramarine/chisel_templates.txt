@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: ultramarine:chisel_templates
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.1421799+08:00
+
+ultramarine:architrave_template
+ultramarine:caihua_template
+ultramarine:carved_wood_template
+ultramarine:carved_wool_template
+ultramarine:fangxin_edge_template
+ultramarine:fangxin_template
+ultramarine:gutou_template
+ultramarine:rafter_end_template
+ultramarine:rafter_template
+ultramarine:zhaotou_template

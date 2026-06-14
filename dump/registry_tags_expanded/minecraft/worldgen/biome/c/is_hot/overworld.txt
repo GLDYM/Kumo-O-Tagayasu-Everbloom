@@ -1,0 +1,20 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: c:is_hot/overworld
+# Entries: 13
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.3871986+08:00
+
+minecraft:badlands
+minecraft:bamboo_jungle
+minecraft:desert
+minecraft:eroded_badlands
+minecraft:jungle
+minecraft:mushroom_fields
+minecraft:savanna
+minecraft:savanna_plateau
+minecraft:sparse_jungle
+minecraft:stony_peaks
+minecraft:warm_ocean
+minecraft:windswept_savanna
+minecraft:wooded_badlands

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: ccw:carton_milk
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.9233534+08:00
+
+ccw:calcium_rich_milk
+ccw:carton_milk

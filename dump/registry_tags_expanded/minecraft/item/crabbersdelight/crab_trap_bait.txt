@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: crabbersdelight:crab_trap_bait
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.9485125+08:00
+
+crabbersdelight:bucket_of_clam_chum
+crabbersdelight:bucket_of_clawster_chum
+crabbersdelight:bucket_of_crab_chum
+crabbersdelight:bucket_of_shrimp_chum
+minecraft:air
+minecraft:bucket
+minecraft:cod
+minecraft:pufferfish
+minecraft:salmon
+minecraft:tropical_fish

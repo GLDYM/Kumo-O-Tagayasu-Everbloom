@@ -1,0 +1,9 @@
+# Registry dump
+# Registry: l2tabs:tab
+# Minecraft: 1.21.1
+# Entries: 3
+# Generated: 2026-06-14T13:45:01.0780001+08:00
+
+l2tabs:attribute raw_id=1 class=dev.xkmc.l2tabs.tabs.core.TabToken
+l2tabs:curios raw_id=2 class=dev.xkmc.l2tabs.tabs.core.TabToken
+l2tabs:inventory raw_id=0 class=dev.xkmc.l2tabs.tabs.core.TabToken

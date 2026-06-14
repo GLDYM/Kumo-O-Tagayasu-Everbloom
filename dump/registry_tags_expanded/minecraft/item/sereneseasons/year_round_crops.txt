@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: sereneseasons:year_round_crops
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.9378359+08:00
+
+delighto_flight:thunder_fruit_seeds
+kaleidoscope_dim_wine:crimson_grape
+kaleidoscope_dim_wine:dreamfruit
+kaleidoscope_dim_wine:warped_grape

@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:jungle_logs
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1666043+08:00
+
+atmospheric:morado_log
+atmospheric:morado_wood
+atmospheric:rosewood_log
+atmospheric:yucca_log
+atmospheric:yucca_wood
+minecraft:jungle_log
+minecraft:jungle_wood
+minecraft:stripped_jungle_log
+minecraft:stripped_jungle_wood
+quark:blossom_log
+quark:blossom_wood

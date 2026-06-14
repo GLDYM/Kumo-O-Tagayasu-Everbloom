@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:raw_meat_delight
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.5438732+08:00
+
+farmersdelight:bacon
+farmersdelight:chicken_cuts
+farmersdelight:ham
+farmersdelight:minced_beef
+farmersdelight:mutton_chops

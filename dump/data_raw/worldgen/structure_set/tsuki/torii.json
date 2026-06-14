@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "salt": 123456789,
+    "separation": 8,
+    "spacing": 24,
+    "type": "minecraft:random_spread"
+  },
+  "structures": [
+    {
+      "structure": "tsuki:torii",
+      "weight": 1
+    }
+  ]
+}

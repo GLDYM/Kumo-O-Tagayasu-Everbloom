@@ -1,0 +1,133 @@
+{
+  "values": [
+    {
+      "id": "dndecor:white_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:orange_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:magenta_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:light_blue_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:yellow_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:lime_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:pink_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:gray_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:light_gray_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:cyan_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:purple_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:blue_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:brown_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:green_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:red_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:black_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:maroon_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:rose_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:coral_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:indigo_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:navy_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:slate_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:olive_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:amber_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:beige_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:teal_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:mint_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:aqua_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:verdant_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:forest_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:ginger_flywheel",
+      "required": false
+    },
+    {
+      "id": "dndecor:tan_flywheel",
+      "required": false
+    },
+    "create:flywheel"
+  ]
+}

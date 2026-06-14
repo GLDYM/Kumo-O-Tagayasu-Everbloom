@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: mynethersdelight:stuffed_hoglin_items
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.3066021+08:00
+
+mynethersdelight:plate_of_stuffed_hoglin
+mynethersdelight:plate_of_stuffed_hoglin_ham
+mynethersdelight:plate_of_stuffed_hoglin_snout
+mynethersdelight:roast_ear

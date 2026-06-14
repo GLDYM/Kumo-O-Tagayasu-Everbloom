@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: minecraft:cats_spawn_as_black
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.2007481+08:00
+
+minecraft:swamp_hut

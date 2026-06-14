@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:freeze_immune_wearables
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.137523+08:00
+
+irons_spellbooks:frostward_ring
+minecraft:leather_boots
+minecraft:leather_chestplate
+minecraft:leather_helmet
+minecraft:leather_horse_armor
+minecraft:leather_leggings

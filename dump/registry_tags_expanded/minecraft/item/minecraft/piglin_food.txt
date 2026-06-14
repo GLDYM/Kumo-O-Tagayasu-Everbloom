@@ -1,0 +1,20 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:piglin_food
+# Entries: 13
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1986429+08:00
+
+immortalers_delight:kwat_wheat_toast
+immortalers_delight:kwat_wheat_toast_slice
+immortalers_delight:piglin_odori_sake
+minecraft:cooked_porkchop
+minecraft:porkchop
+mynethersdelight:cooked_loin
+mynethersdelight:hoglin_loin
+mynethersdelight:hoglin_sausage
+mynethersdelight:plate_of_stuffed_hoglin
+mynethersdelight:plate_of_stuffed_hoglin_ham
+mynethersdelight:plate_of_stuffed_hoglin_snout
+mynethersdelight:roast_ear
+mynethersdelight:roasted_sausage

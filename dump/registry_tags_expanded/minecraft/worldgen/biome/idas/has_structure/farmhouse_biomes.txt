@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: idas:has_structure/farmhouse_biomes
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.670341+08:00
+
+minecraft:plains
+minecraft:sunflower_plains
+minecraft:taiga

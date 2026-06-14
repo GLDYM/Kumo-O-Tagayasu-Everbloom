@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: create_enchantment_industry:blaze_enchanter/super_enchanting_exclusive
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9774437+08:00
+
+minecraft:frost_walker
+minecraft:mending
+minecraft:soul_speed
+minecraft:swift_sneak
+minecraft:wind_burst
+supplementaries:stasis
+tofucraft:batch
+tofucraft:drain
+tofucraft:effect_protection
+touhou_little_maid:enders_ender
+tsuki:fresh_food
+tsuki:omnitool

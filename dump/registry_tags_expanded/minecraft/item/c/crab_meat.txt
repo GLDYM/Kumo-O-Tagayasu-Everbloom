@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:crab_meat
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.7870251+08:00
+
+quark:crab_leg

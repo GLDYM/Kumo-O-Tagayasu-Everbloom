@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: bakeries:upright_on_oven
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4816836+08:00
+
+bakeries:baguette
+bakeries:baguette_dough
+bakeries:ciabatta
+bakeries:ciabatta_dough
+bakeries:country_bread
+bakeries:country_bread_dough
+bakeries:mould_cheese_cocoa_toast
+bakeries:mould_cheese_cocoa_toast_dough
+bakeries:mould_toast
+bakeries:mould_toast_dough

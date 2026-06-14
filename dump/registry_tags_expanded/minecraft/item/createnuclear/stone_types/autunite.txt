@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: createnuclear:stone_types/autunite
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.1864564+08:00
+
+createnuclear:autunite
+createnuclear:autunite_pillar
+createnuclear:cut_autunite
+createnuclear:cut_autunite_brick_stairs
+createnuclear:cut_autunite_brick_wall
+createnuclear:cut_autunite_bricks
+createnuclear:cut_autunite_stairs
+createnuclear:cut_autunite_wall
+createnuclear:layered_autunite
+createnuclear:polished_cut_autunite
+createnuclear:polished_cut_autunite_stairs
+createnuclear:polished_cut_autunite_wall
+createnuclear:small_autunite_brick_stairs
+createnuclear:small_autunite_brick_wall
+createnuclear:small_autunite_bricks

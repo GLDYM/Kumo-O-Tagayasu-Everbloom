@@ -1,0 +1,31 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:soul_speed_blocks
+# Entries: 24
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.5233826+08:00
+
+minecraft:soul_sand
+minecraft:soul_soil
+mynethersdelight:letios_compost
+mynethersdelight:resurgent_soil
+mynethersdelight:resurgent_soil_farmland
+quark:chiseled_soul_sandstone
+quark:cut_soul_sandstone
+quark:cut_soul_sandstone_slab
+quark:cut_soul_sandstone_vertical_slab
+quark:smooth_soul_sandstone
+quark:smooth_soul_sandstone_slab
+quark:smooth_soul_sandstone_stairs
+quark:smooth_soul_sandstone_vertical_slab
+quark:soul_sandstone
+quark:soul_sandstone_bricks
+quark:soul_sandstone_bricks_slab
+quark:soul_sandstone_bricks_stairs
+quark:soul_sandstone_bricks_vertical_slab
+quark:soul_sandstone_bricks_wall
+quark:soul_sandstone_slab
+quark:soul_sandstone_stairs
+quark:soul_sandstone_vertical_slab
+quark:soul_sandstone_wall
+tofucraft:blocktofusoul

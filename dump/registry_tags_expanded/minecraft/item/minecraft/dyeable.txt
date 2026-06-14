@@ -1,0 +1,26 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:dyeable
+# Entries: 19
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0933532+08:00
+
+irons_spellbooks:netherite_mage_boots
+irons_spellbooks:netherite_mage_chestplate
+irons_spellbooks:netherite_mage_helmet
+irons_spellbooks:netherite_mage_leggings
+irons_spellbooks:wizard_boots
+irons_spellbooks:wizard_chestplate
+irons_spellbooks:wizard_hat
+irons_spellbooks:wizard_helmet
+irons_spellbooks:wizard_leggings
+minecraft:item_frame
+minecraft:leather_boots
+minecraft:leather_chestplate
+minecraft:leather_helmet
+minecraft:leather_horse_armor
+minecraft:leather_leggings
+minecraft:wolf_armor
+quark:backpack
+supplementaries:lunch_basket
+supplementaries:quiver

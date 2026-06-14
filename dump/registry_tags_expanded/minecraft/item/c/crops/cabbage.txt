@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:crops/cabbage
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.8142445+08:00
+
+farmersdelight:cabbage
+farmersdelight:cabbage_leaf
+tsuki:cabbage
+tsuki:sliced_cabbage

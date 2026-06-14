@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:dusts
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.9509189+08:00
+
+createnuclear:coal_dust
+createnuclear:uranium_powder
+minecraft:glowstone_dust
+minecraft:redstone
+supplementaries:ash

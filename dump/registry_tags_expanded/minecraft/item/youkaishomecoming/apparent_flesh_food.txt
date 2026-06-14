@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: youkaishomecoming:apparent_flesh_food
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.1786849+08:00
+
+youkaishomecoming:bowl_of_flesh_feast
+youkaishomecoming:canned_flesh
+youkaishomecoming:cooked_flesh
+youkaishomecoming:cooked_flesh_slice
+youkaishomecoming:flesh
+youkaishomecoming:flesh_roll
+youkaishomecoming:flesh_slice
+youkaishomecoming:flesh_stew

@@ -1,0 +1,11 @@
+# Registry dump
+# Registry: minecraft:worldgen/structure_placement
+# Minecraft: 1.21.1
+# Entries: 5
+# Generated: 2026-06-14T13:47:24.5334915+08:00
+
+integrated_api:advanced_random_spread raw_id=3 class=com.craisinlord.integrated_api.modinit.IAStructurePlacementType$$Lambda/0x0000023d1b12fa90
+integrated_api:stronghold raw_id=4 class=com.craisinlord.integrated_api.modinit.IAStructurePlacementType$$Lambda/0x0000023d1b12fca8
+minecraft:concentric_rings raw_id=1 class=net.minecraft.world.level.levelgen.structure.placement.StructurePlacementType$$Lambda/0x0000023d17ef11f0
+minecraft:random_spread raw_id=0 class=net.minecraft.world.level.levelgen.structure.placement.StructurePlacementType$$Lambda/0x0000023d17ef11f0
+supplementaries:random_spread_with_exclusion raw_id=2 class=net.mehvahdjukaar.supplementaries.reg.ModWorldgen$$Lambda/0x0000023d1b12f878

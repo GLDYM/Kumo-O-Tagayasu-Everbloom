@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: farmersdelight:drinks
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.5915613+08:00
+
+farmersdelight:apple_cider
+farmersdelight:hot_cocoa
+farmersdelight:melon_juice
+farmersdelight:milk_bottle

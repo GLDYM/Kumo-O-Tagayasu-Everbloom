@@ -1,0 +1,20 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:dough
+# Entries: 13
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.9258546+08:00
+
+bakeries:salted_dough
+bakeries:sweet_dough
+bakeries:whole_wheat_dough
+create:dough
+farmersdelight:wheat_dough
+immortalers_delight:kwat_wheat_dough
+kaleidoscope_cookery:raw_dough
+mynethersdelight:ghast_dough
+tofudelight:rice_dough
+tsuki:dough
+tsuki:dough_buckwheat
+tsuki:dough_rice
+vintagedelight:oat_dough

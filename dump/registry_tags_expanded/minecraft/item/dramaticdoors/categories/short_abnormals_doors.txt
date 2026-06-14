@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dramaticdoors:categories/short_abnormals_doors
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.3064713+08:00
+
+dramaticdoors:short_aspen_door
+dramaticdoors:short_grimwood_door
+dramaticdoors:short_kousa_door
+dramaticdoors:short_morado_door
+dramaticdoors:short_rosewood_door
+dramaticdoors:short_yucca_door

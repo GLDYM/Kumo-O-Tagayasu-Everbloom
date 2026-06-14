@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:doughs
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.9314165+08:00
+
+bakeries:salted_dough
+bakeries:sweet_dough
+bakeries:whole_wheat_dough

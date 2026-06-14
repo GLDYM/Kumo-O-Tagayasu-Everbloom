@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "quark:andesite_vertical_slab"
+    }
+  ],
+  "results": [
+    {
+      "id": "quark:polished_andesite_vertical_slab"
+    }
+  ]
+}

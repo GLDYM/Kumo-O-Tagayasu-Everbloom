@@ -1,0 +1,36 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:wooden_doors
+# Entries: 29
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2805486+08:00
+
+atmospheric:aspen_door
+atmospheric:grimwood_door
+atmospheric:kousa_door
+atmospheric:laurel_door
+atmospheric:morado_door
+atmospheric:rosewood_door
+atmospheric:yucca_door
+crabbersdelight:palm_door
+immortalers_delight:ancient_wood_door
+immortalers_delight:himekaido_door
+immortalers_delight:leisamboo_door
+immortalers_delight:pearlip_shell_door
+minecraft:acacia_door
+minecraft:bamboo_door
+minecraft:birch_door
+minecraft:cherry_door
+minecraft:crimson_door
+minecraft:dark_oak_door
+minecraft:jungle_door
+minecraft:mangrove_door
+minecraft:oak_door
+minecraft:spruce_door
+minecraft:warped_door
+mynethersdelight:powdery_door
+quark:ancient_door
+quark:azalea_door
+quark:blossom_door
+tofucraft:leek_green_door
+tofucraft:tofustem_door

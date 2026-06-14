@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: diagonalfences:non_diagonal_fences
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9294433+08:00
+
+copycats:copycat_fence
+create_connected:copycat_fence
+create_connected:wrapped_copycat_fence

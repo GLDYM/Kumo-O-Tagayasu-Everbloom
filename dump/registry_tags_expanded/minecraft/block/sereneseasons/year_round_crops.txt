@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: sereneseasons:year_round_crops
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.7197169+08:00
+
+delighto_flight:thunder_vine
+kaleidoscope_dim_wine:crimson_grapevine_plant
+kaleidoscope_dim_wine:crimson_grapevine_trellis
+kaleidoscope_dim_wine:dreamfruit_vine_plant
+kaleidoscope_dim_wine:warped_grapevine_plant
+kaleidoscope_dim_wine:warped_grapevine_trellis

@@ -1,0 +1,13 @@
+# Registry dump
+# Registry: lithostitched:load_predicate_type
+# Minecraft: 1.21.1
+# Entries: 7
+# Generated: 2026-06-14T13:45:01.0840007+08:00
+
+lithostitched:all_of raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:any_of raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:loader raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:mod_loaded raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:not raw_id=5 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:pack_format raw_id=6 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:true raw_id=2 class=com.mojang.serialization.MapCodec$2

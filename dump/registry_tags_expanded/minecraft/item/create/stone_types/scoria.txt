@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:stone_types/scoria
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.0316571+08:00
+
+bits_n_bobs:scoria_tile_stairs
+bits_n_bobs:scoria_tile_wall
+bits_n_bobs:scoria_tiles
+create:cut_scoria
+create:cut_scoria_brick_stairs
+create:cut_scoria_brick_wall
+create:cut_scoria_bricks
+create:cut_scoria_stairs
+create:cut_scoria_wall
+create:layered_scoria
+create:polished_cut_scoria
+create:polished_cut_scoria_stairs
+create:polished_cut_scoria_wall
+create:scoria
+create:scoria_pillar
+create:small_scoria_brick_stairs
+create:small_scoria_brick_wall
+create:small_scoria_bricks

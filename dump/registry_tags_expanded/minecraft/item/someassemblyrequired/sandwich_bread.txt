@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: someassemblyrequired:sandwich_bread
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.9484622+08:00
+
+someassemblyrequired:bread_slice
+someassemblyrequired:burger_bun_bottom
+someassemblyrequired:burger_bun_top
+someassemblyrequired:toasted_bread_slice

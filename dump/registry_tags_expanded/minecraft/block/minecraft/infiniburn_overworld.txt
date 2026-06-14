@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:infiniburn_overworld
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.4126108+08:00
+
+minecraft:magma_block
+minecraft:netherrack
+quark:blaze_lantern
+quark:charcoal_block
+quark:netherrack_bricks
+quark:netherrack_bricks_slab
+quark:netherrack_bricks_stairs
+quark:netherrack_bricks_vertical_slab
+quark:netherrack_bricks_wall
+tofucraft:seeds_soybeans_nether_block

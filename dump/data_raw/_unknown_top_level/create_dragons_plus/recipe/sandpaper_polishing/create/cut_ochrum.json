@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "create:cut_ochrum"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:polished_cut_ochrum"
+    }
+  ]
+}

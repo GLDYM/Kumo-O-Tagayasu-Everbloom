@@ -1,0 +1,34 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/cooked_meat
+# Entries: 27
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.0916307+08:00
+
+farmersdelight:beef_patty
+farmersdelight:cooked_bacon
+farmersdelight:cooked_chicken_cuts
+farmersdelight:cooked_mutton_chops
+immortalers_delight:cooked_sniffer_slice
+immortalers_delight:cooked_sniffer_steak
+kaleidoscope_cookery:cooked_cow_offal
+kaleidoscope_cookery:cooked_lamb_chops
+kaleidoscope_cookery:cooked_pork_belly
+kaleidoscope_nether:cooked_piglin_meat
+kaleidoscope_nether:roasted_ham
+minecraft:cooked_beef
+minecraft:cooked_chicken
+minecraft:cooked_cod
+minecraft:cooked_mutton
+minecraft:cooked_porkchop
+minecraft:cooked_rabbit
+minecraft:cooked_salmon
+mynethersdelight:cooked_loin
+mynethersdelight:roasted_sausage
+neapolitan:cooked_mint_chops
+tofudelight:cooked_soymeat
+tsuki:chikuwa
+tsuki:fishcake
+tsuki:kamaboko
+tsuki:satsumaage
+youkaishomecoming:roasted_lamprey_fillet

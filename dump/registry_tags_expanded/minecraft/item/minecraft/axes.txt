@@ -1,0 +1,30 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:axes
+# Entries: 23
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0392172+08:00
+
+create_sa:blazing_axe
+create_sa:brass_axe
+create_sa:copper_axe
+create_sa:experience_axe
+create_sa:rose_quartz_axe
+create_sa:zinc_axe
+l2complements:eternium_axe
+l2complements:poseidite_axe
+l2complements:sculkium_axe
+l2complements:shulkerate_axe
+l2complements:totemic_gold_axe
+minecraft:diamond_axe
+minecraft:golden_axe
+minecraft:iron_axe
+minecraft:netherite_axe
+minecraft:stone_axe
+minecraft:wooden_axe
+tofucraft:tofu_diamond_axe
+tofucraft:tofu_kinu_axe
+tofucraft:tofu_metal_axe
+tofucraft:tofu_momen_axe
+tofucraft:tofu_solid_axe
+tsuki:sakura_axe

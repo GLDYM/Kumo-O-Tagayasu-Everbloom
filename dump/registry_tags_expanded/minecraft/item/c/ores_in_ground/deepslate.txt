@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:ores_in_ground/deepslate
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.4744562+08:00
+
+create:deepslate_zinc_ore
+irons_spellbooks:deepslate_mithril_ore
+iss_magicfromtheeast:deepslate_jade_ore
+minecraft:deepslate_coal_ore
+minecraft:deepslate_copper_ore
+minecraft:deepslate_diamond_ore
+minecraft:deepslate_emerald_ore
+minecraft:deepslate_gold_ore
+minecraft:deepslate_iron_ore
+minecraft:deepslate_lapis_ore
+minecraft:deepslate_redstone_ore

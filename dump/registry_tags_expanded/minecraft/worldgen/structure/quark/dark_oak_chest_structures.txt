@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: quark:dark_oak_chest_structures
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.2395002+08:00
+
+minecraft:mansion
+minecraft:pillager_outpost

@@ -1,0 +1,30 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: l2weaponry:double_wield
+# Entries: 23
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.9520589+08:00
+
+l2weaponry:abyss_resonance
+l2weaponry:blade_of_illusion
+l2weaponry:claw_of_determination
+l2weaponry:diamond_claw
+l2weaponry:diamond_machete
+l2weaponry:eternium_claw
+l2weaponry:eternium_machete
+l2weaponry:gold_claw
+l2weaponry:gold_machete
+l2weaponry:iron_claw
+l2weaponry:iron_machete
+l2weaponry:netherite_claw
+l2weaponry:netherite_machete
+l2weaponry:poseidite_claw
+l2weaponry:poseidite_machete
+l2weaponry:sculkium_claw
+l2weaponry:sculkium_machete
+l2weaponry:shadow_shredder
+l2weaponry:shulkerate_claw
+l2weaponry:shulkerate_machete
+l2weaponry:totemic_gold_claw
+l2weaponry:totemic_gold_machete
+l2weaponry:vampire_desire

@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:fluid
+# Tag: tsuki:brewers_alcohol
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.368639+08:00
+
+tsuki:brandy
+tsuki:brandy_flowing
+tsuki:rum
+tsuki:rum_flowing
+tsuki:shouchu
+tsuki:shouchu_flowing
+tsuki:vodka
+tsuki:vodka_flowing
+tsuki:whiskey
+tsuki:whiskey_flowing

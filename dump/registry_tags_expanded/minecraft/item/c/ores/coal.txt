@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:ores/coal
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.4532596+08:00
+
+minecraft:coal_ore
+minecraft:deepslate_coal_ore

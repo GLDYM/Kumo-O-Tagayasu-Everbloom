@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "dndecor:cut_gabbro_slab"
+    }
+  ],
+  "results": [
+    {
+      "id": "dndecor:polished_cut_gabbro_slab"
+    }
+  ]
+}

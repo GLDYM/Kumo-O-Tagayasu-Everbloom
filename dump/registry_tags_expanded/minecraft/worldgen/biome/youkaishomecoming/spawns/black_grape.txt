@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: youkaishomecoming:spawns/black_grape
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1335393+08:00
+
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:snowy_taiga
+minecraft:taiga
+youkaishomecoming:sakura_taiga

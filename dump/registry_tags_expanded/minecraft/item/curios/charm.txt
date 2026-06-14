@@ -1,0 +1,26 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: curios:charm
+# Entries: 19
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.1977893+08:00
+
+artifacts:charm_of_sinking
+artifacts:chorus_totem
+artifacts:cloud_in_a_bottle
+artifacts:crystal_heart
+artifacts:obsidian_skull
+artifacts:universal_attractor
+beyonddimensions:net_feeder_item
+beyonddimensions:net_magnet_item
+beyonddimensions:net_restocker_item
+beyonddimensions:net_terminal_item
+beyonddimensions:xp_exchange_item
+l2complements:eternal_totem_of_dream
+l2complements:totem_of_dream
+l2complements:totem_of_the_sea
+tsuki:magatama_orange
+tsuki:magatama_pink
+tsuki:magatama_purple
+tsuki:magatama_red
+tsuki:magatama_white

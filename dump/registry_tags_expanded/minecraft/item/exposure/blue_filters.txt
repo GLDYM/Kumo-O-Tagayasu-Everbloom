@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: exposure:blue_filters
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.5694711+08:00
+
+minecraft:blue_stained_glass_pane

@@ -1,0 +1,7 @@
+# Registry dump
+# Registry: exposure:lens
+# Minecraft: 1.21.1
+# Entries: 1
+# Generated: 2026-06-14T13:47:24.0887478+08:00
+
+exposure:spyglass raw_id=0 class=io.github.mortuusars.exposure.data.Lens

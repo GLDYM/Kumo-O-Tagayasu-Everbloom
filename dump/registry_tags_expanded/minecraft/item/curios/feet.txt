@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: curios:feet
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2011252+08:00
+
+artifacts:aqua_dashers
+artifacts:bunny_hoppers
+artifacts:flippers
+artifacts:kitty_slippers
+artifacts:rooted_boots
+artifacts:running_shoes
+artifacts:snowshoes
+artifacts:steadfast_spikes
+artifacts:strider_shoes

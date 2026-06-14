@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: quark:pike_trophies
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.663545+08:00
+
+amendments:skull_candle
+amendments:skull_candle_soul
+amendments:skull_pile
+minecraft:creeper_head
+minecraft:skeleton_skull
+minecraft:zombie_head
+supplementaries:enderman_head

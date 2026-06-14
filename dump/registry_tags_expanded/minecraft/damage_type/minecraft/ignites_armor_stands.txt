@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: minecraft:ignites_armor_stands
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9082915+08:00
+
+minecraft:campfire
+minecraft:in_fire

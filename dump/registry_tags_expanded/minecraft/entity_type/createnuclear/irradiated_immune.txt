@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: createnuclear:irradiated_immune
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0598368+08:00
+
+createnuclear:irradiated_cat
+createnuclear:irradiated_chicken
+createnuclear:irradiated_wolf

@@ -1,0 +1,10 @@
+# Registry dump
+# Registry: l2core:menu_layout
+# Minecraft: 1.21.1
+# Entries: 4
+# Generated: 2026-06-14T13:47:24.1143813+08:00
+
+l2tabs:curios_3 raw_id=0 class=dev.xkmc.l2core.base.menu.base.MenuLayoutConfig
+l2tabs:curios_4 raw_id=1 class=dev.xkmc.l2core.base.menu.base.MenuLayoutConfig
+l2tabs:curios_5 raw_id=2 class=dev.xkmc.l2core.base.menu.base.MenuLayoutConfig
+l2tabs:curios_6 raw_id=3 class=dev.xkmc.l2core.base.menu.base.MenuLayoutConfig

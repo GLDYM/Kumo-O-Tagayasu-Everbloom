@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: tsuki:magatamas
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.1100219+08:00
+
+tsuki:magatama_blue
+tsuki:magatama_green
+tsuki:magatama_orange
+tsuki:magatama_pink
+tsuki:magatama_purple
+tsuki:magatama_red
+tsuki:magatama_white

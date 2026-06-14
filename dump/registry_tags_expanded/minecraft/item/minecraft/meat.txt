@@ -1,0 +1,38 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:meat
+# Entries: 31
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1822106+08:00
+
+farmersdelight:bacon
+farmersdelight:beef_patty
+farmersdelight:chicken_cuts
+farmersdelight:cooked_bacon
+farmersdelight:cooked_chicken_cuts
+farmersdelight:cooked_mutton_chops
+farmersdelight:dog_food
+farmersdelight:ham
+farmersdelight:minced_beef
+farmersdelight:mutton_chops
+farmersdelight:smoked_ham
+minecraft:beef
+minecraft:chicken
+minecraft:cooked_beef
+minecraft:cooked_chicken
+minecraft:cooked_mutton
+minecraft:cooked_porkchop
+minecraft:cooked_rabbit
+minecraft:mutton
+minecraft:porkchop
+minecraft:rabbit
+minecraft:rotten_flesh
+mynethersdelight:cooked_loin
+mynethersdelight:hoglin_loin
+mynethersdelight:hoglin_sausage
+mynethersdelight:minced_strider
+mynethersdelight:roast_ear
+mynethersdelight:roasted_sausage
+neapolitan:cooked_mint_chops
+neapolitan:mint_chops
+tofudelight:soy_chicken_piece

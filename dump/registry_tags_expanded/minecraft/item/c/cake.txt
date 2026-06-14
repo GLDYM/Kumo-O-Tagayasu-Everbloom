@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:cake
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.7292473+08:00
+
+atmospheric:yucca_gateau
+minecraft:cake
+neapolitan:adzuki_cake
+neapolitan:banana_cake
+neapolitan:chocolate_cake
+neapolitan:mint_cake
+neapolitan:strawberry_cake
+neapolitan:vanilla_cake
+tofucraft:tofucake
+tofucraft:zundatofucake

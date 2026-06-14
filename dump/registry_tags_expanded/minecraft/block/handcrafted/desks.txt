@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: handcrafted:desks
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0683287+08:00
+
+handcrafted:acacia_desk
+handcrafted:bamboo_desk
+handcrafted:birch_desk
+handcrafted:cherry_desk
+handcrafted:crimson_desk
+handcrafted:dark_oak_desk
+handcrafted:jungle_desk
+handcrafted:mangrove_desk
+handcrafted:oak_desk
+handcrafted:spruce_desk
+handcrafted:warped_desk

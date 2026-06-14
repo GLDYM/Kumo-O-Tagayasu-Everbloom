@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_nether:magma_cream_foods
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.9208216+08:00
+
+kaleidoscope_nether:magma_cream_pudding
+kaleidoscope_nether:magma_cream_soup

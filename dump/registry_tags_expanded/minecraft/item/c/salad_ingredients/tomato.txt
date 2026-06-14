@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:salad_ingredients/tomato
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.5864776+08:00
+
+tsuki:tomato

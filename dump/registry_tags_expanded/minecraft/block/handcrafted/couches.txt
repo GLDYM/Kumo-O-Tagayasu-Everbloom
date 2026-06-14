@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: handcrafted:couches
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0547737+08:00
+
+handcrafted:acacia_couch
+handcrafted:bamboo_couch
+handcrafted:birch_couch
+handcrafted:cherry_couch
+handcrafted:crimson_couch
+handcrafted:dark_oak_couch
+handcrafted:jungle_couch
+handcrafted:mangrove_couch
+handcrafted:oak_couch
+handcrafted:spruce_couch
+handcrafted:warped_couch

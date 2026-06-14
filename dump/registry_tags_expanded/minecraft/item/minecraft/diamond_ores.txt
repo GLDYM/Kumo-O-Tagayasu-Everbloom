@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:diamond_ores
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0888403+08:00
+
+minecraft:deepslate_diamond_ore
+minecraft:diamond_ore

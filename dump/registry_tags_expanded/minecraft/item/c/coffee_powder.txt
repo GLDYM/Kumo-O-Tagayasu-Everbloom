@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:coffee_powder
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.7596418+08:00
+
+bakeries:ground_coffee
+youkaishomecoming:coffee_powder

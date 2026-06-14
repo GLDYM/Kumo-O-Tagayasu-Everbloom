@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/processor_list
+# Tag: lithostitched:shipwreck_palettes
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1621327+08:00
+
+lithostitched:shipwreck_palette/dark_oak_and_jungle
+lithostitched:shipwreck_palette/dark_oak_and_spruce
+lithostitched:shipwreck_palette/jungle_and_spruce
+lithostitched:shipwreck_palette/oak_and_birch
+lithostitched:shipwreck_palette/oak_and_spruce
+lithostitched:shipwreck_palette/spruce_and_dark_oak
+lithostitched:shipwreck_palette/spruce_and_jungle
+lithostitched:shipwreck_palette/spruce_and_oak

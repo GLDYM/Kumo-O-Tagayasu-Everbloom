@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dramaticdoors:categories/tall_create_doors
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.4734529+08:00
+
+dramaticdoors:tall_create_andesite_door
+dramaticdoors:tall_create_brass_door
+dramaticdoors:tall_create_copper_door
+dramaticdoors:tall_create_framed_glass_door
+dramaticdoors:tall_create_train_door

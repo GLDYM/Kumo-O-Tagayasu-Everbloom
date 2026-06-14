@@ -1,0 +1,11 @@
+# Raw resource rule dump summary
+# Mod ID: registry_dumper_3000
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:41.5820296+08:00
+
+# Rule name: Worldgen configured_carver
+# Side: data/server
+# Source prefix: worldgen/configured_carver
+# Files written: 7
+# Stack files written (optional): 0
+# Path collisions observed: 0

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: eclipticseasons:crops/moist_humid
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9740271+08:00
+
+kaleidoscope_cookery:lettuce_crop
+kaleidoscope_cookery:rice_crop

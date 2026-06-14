@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "quark:shale_stairs"
+    }
+  ],
+  "results": [
+    {
+      "id": "quark:polished_shale_stairs"
+    }
+  ]
+}

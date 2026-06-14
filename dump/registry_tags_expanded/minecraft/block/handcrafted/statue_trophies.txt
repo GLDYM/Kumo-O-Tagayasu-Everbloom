@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: handcrafted:statue_trophies
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.0838808+08:00
+
+handcrafted:creeper_trophy
+handcrafted:evoker_trophy
+handcrafted:pillager_trophy
+handcrafted:skeleton_trophy
+handcrafted:vindicator_trophy
+handcrafted:witch_trophy

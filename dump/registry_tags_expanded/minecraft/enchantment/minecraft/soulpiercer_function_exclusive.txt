@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: minecraft:soulpiercer_function_exclusive
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0094947+08:00
+
+iss_magicfromtheeast:spiritual_focus
+iss_magicfromtheeast:wisely_will

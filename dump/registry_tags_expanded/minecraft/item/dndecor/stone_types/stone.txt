@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:stone_types/stone
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.3009605+08:00
+
+dndecor:cut_stone
+dndecor:cut_stone_brick_stairs
+dndecor:cut_stone_brick_wall
+dndecor:cut_stone_bricks
+dndecor:cut_stone_stairs
+dndecor:cut_stone_wall
+dndecor:layered_stone
+dndecor:polished_cut_stone
+dndecor:polished_cut_stone_stairs
+dndecor:polished_cut_stone_wall
+dndecor:small_stone_brick_stairs
+dndecor:small_stone_brick_wall
+dndecor:small_stone_bricks
+dndecor:stone_pillar
+minecraft:stone

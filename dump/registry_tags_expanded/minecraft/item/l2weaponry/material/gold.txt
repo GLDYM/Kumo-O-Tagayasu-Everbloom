@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: l2weaponry:material/gold
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.9759776+08:00
+
+l2weaponry:gold_battle_axe
+l2weaponry:gold_claw
+l2weaponry:gold_dagger
+l2weaponry:gold_hammer
+l2weaponry:gold_javelin
+l2weaponry:gold_machete
+l2weaponry:gold_nunchaku
+l2weaponry:gold_plate_shield
+l2weaponry:gold_round_shield
+l2weaponry:gold_scythe
+l2weaponry:gold_spear
+l2weaponry:gold_throwing_axe

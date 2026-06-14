@@ -1,0 +1,73 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: create:windmill_sails
+# Entries: 66
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.841873+08:00
+
+create:black_sail
+create:blue_sail
+create:brown_sail
+create:cyan_sail
+create:gray_sail
+create:green_sail
+create:light_blue_sail
+create:light_gray_sail
+create:lime_sail
+create:magenta_sail
+create:orange_sail
+create:pink_sail
+create:purple_sail
+create:red_sail
+create:sail_frame
+create:white_sail
+create:yellow_sail
+create_integrated_farming:fishing_net
+dndecor:black_velvet_block
+dndecor:blue_velvet_block
+dndecor:brown_velvet_block
+dndecor:cyan_velvet_block
+dndecor:gray_velvet_block
+dndecor:green_velvet_block
+dndecor:light_blue_velvet_block
+dndecor:light_gray_velvet_block
+dndecor:lime_velvet_block
+dndecor:magenta_velvet_block
+dndecor:orange_velvet_block
+dndecor:pink_velvet_block
+dndecor:purple_velvet_block
+dndecor:red_velvet_block
+dndecor:white_velvet_block
+dndecor:yellow_velvet_block
+interiors:black_cushion
+interiors:blue_cushion
+interiors:brown_cushion
+interiors:cyan_cushion
+interiors:gray_cushion
+interiors:green_cushion
+interiors:light_blue_cushion
+interiors:light_gray_cushion
+interiors:lime_cushion
+interiors:magenta_cushion
+interiors:orange_cushion
+interiors:pink_cushion
+interiors:purple_cushion
+interiors:red_cushion
+interiors:white_cushion
+interiors:yellow_cushion
+minecraft:black_wool
+minecraft:blue_wool
+minecraft:brown_wool
+minecraft:cyan_wool
+minecraft:gray_wool
+minecraft:green_wool
+minecraft:light_blue_wool
+minecraft:light_gray_wool
+minecraft:lime_wool
+minecraft:magenta_wool
+minecraft:orange_wool
+minecraft:pink_wool
+minecraft:purple_wool
+minecraft:red_wool
+minecraft:white_wool
+minecraft:yellow_wool

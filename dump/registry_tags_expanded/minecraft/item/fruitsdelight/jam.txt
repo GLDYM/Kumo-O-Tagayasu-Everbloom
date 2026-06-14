@@ -1,0 +1,29 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: fruitsdelight:jam
+# Entries: 22
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.7079734+08:00
+
+fruitsdelight:apple_jam
+fruitsdelight:bayberry_jam
+fruitsdelight:blueberry_jam
+fruitsdelight:chorus_jam
+fruitsdelight:cranberry_jam
+fruitsdelight:durian_jam
+fruitsdelight:fig_jam
+fruitsdelight:glowberry_jam
+fruitsdelight:hamimelon_jam
+fruitsdelight:hawberry_jam
+fruitsdelight:kiwi_jam
+fruitsdelight:lemon_jam
+fruitsdelight:lychee_jam
+fruitsdelight:mango_jam
+fruitsdelight:mangosteen_jam
+fruitsdelight:melon_jam
+fruitsdelight:orange_jam
+fruitsdelight:peach_jam
+fruitsdelight:pear_jam
+fruitsdelight:persimmon_jam
+fruitsdelight:pineapple_jam
+fruitsdelight:sweetberry_jam

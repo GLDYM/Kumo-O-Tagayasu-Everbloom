@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:non_solid_containers_decor
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2826993+08:00
+
+dndecor:black_container
+dndecor:blue_container
+dndecor:brown_container
+dndecor:container
+dndecor:cyan_container
+dndecor:gray_container
+dndecor:green_container
+dndecor:light_blue_container
+dndecor:light_gray_container
+dndecor:lime_container
+dndecor:magenta_container
+dndecor:orange_container
+dndecor:pink_container
+dndecor:purple_container
+dndecor:red_container
+dndecor:white_container
+dndecor:yellow_container

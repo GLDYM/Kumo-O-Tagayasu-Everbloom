@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: idas:ocean
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1736621+08:00
+
+idas:iceandfire/sirens_cove
+idas:sunken_ship/sunken_ship
+idas:sunken_ship/sunken_ship_ruins

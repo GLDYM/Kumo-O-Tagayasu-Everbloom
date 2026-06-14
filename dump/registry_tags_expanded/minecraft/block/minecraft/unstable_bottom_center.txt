@@ -1,0 +1,34 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:unstable_bottom_center
+# Entries: 27
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.5575887+08:00
+
+atmospheric:aspen_fence_gate
+atmospheric:grimwood_fence_gate
+atmospheric:kousa_fence_gate
+atmospheric:laurel_fence_gate
+atmospheric:morado_fence_gate
+atmospheric:rosewood_fence_gate
+atmospheric:yucca_fence_gate
+copycats:copycat_fence_gate
+crabbersdelight:palm_fence_gate
+create_connected:copycat_fence_gate
+create_connected:wrapped_copycat_fence_gate
+farmersdelight:rope_fence_gate
+minecraft:acacia_fence_gate
+minecraft:bamboo_fence_gate
+minecraft:birch_fence_gate
+minecraft:cherry_fence_gate
+minecraft:crimson_fence_gate
+minecraft:dark_oak_fence_gate
+minecraft:jungle_fence_gate
+minecraft:mangrove_fence_gate
+minecraft:oak_fence_gate
+minecraft:spruce_fence_gate
+minecraft:warped_fence_gate
+mynethersdelight:powdery_fence_gate
+tofucraft:leek_fence_gate
+tofucraft:leek_green_fence_gate
+tofucraft:tofustem_fence_gate

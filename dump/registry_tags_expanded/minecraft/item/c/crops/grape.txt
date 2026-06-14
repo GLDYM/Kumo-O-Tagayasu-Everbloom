@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:crops/grape
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.8599493+08:00
+
+tsuki:grape
+youkaishomecoming:black_grape
+youkaishomecoming:red_grape
+youkaishomecoming:white_grape

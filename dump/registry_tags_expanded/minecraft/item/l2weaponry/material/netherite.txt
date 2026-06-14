@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: l2weaponry:material/netherite
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.9853451+08:00
+
+l2weaponry:netherite_battle_axe
+l2weaponry:netherite_claw
+l2weaponry:netherite_dagger
+l2weaponry:netherite_hammer
+l2weaponry:netherite_javelin
+l2weaponry:netherite_machete
+l2weaponry:netherite_nunchaku
+l2weaponry:netherite_plate_shield
+l2weaponry:netherite_round_shield
+l2weaponry:netherite_scythe
+l2weaponry:netherite_spear
+l2weaponry:netherite_throwing_axe

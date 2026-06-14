@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: eclipticseasons:crops/dry_average
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9715146+08:00
+
+kaleidoscope_cookery:chili_crop
+kaleidoscope_cookery:tomato_crop
+kaleidoscope_dim_wine:crimson_grapevine_plant
+kaleidoscope_dim_wine:crimson_grapevine_trellis
+kaleidoscope_dim_wine:dreamfruit_vine
+kaleidoscope_dim_wine:dreamfruit_vine_plant
+kaleidoscope_dim_wine:hop_crop
+kaleidoscope_dim_wine:warped_grapevine_plant
+kaleidoscope_dim_wine:warped_grapevine_trellis

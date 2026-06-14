@@ -1,0 +1,27 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: sereneseasons:summer_crops
+# Entries: 20
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.9338138+08:00
+
+corn_delight:corn
+corn_delight:corn_seeds
+delighto_flight:lotus_seeds
+farmersdelight:rice
+farmersdelight:tomato_seeds
+fruitsdelight:bayberry_sapling
+fruitsdelight:durian_sapling
+fruitsdelight:hamimelon_seeds
+fruitsdelight:lemon_seeds
+fruitsdelight:lychee_sapling
+fruitsdelight:mango_sapling
+fruitsdelight:mangosteen_sapling
+fruitsdelight:pineapple_sapling
+kaleidoscope_cookery:chili_seed
+kaleidoscope_cookery:rice
+kaleidoscope_cookery:tomato_seed
+kaleidoscope_cookery:wild_rice
+kaleidoscope_dim_wine:hop_seed
+vintagedelight:cucumber_seeds
+vintagedelight:ghost_pepper_seeds

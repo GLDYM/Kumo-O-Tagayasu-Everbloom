@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: idas:has_structure/dig_site_biomes
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.6673353+08:00
+
+minecraft:birch_forest
+minecraft:forest
+minecraft:meadow
+minecraft:old_growth_birch_forest
+minecraft:plains
+minecraft:sunflower_plains

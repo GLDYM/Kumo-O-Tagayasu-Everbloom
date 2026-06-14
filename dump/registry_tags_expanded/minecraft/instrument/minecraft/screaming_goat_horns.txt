@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:instrument
+# Tag: minecraft:screaming_goat_horns
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.3877149+08:00
+
+minecraft:admire_goat_horn
+minecraft:call_goat_horn
+minecraft:dream_goat_horn
+minecraft:yearn_goat_horn

@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: createdeco:train_hulls
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9136172+08:00
+
+createdeco:andesite_hull
+createdeco:brass_hull
+createdeco:copper_hull
+createdeco:industrial_iron_hull
+createdeco:iron_hull
+createdeco:zinc_hull

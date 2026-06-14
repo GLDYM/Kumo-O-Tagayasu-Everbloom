@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:dark_metal_plating_decor
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2531818+08:00
+
+dndecor:black_dark_metal_plating
+dndecor:blue_dark_metal_plating
+dndecor:brown_dark_metal_plating
+dndecor:cyan_dark_metal_plating
+dndecor:dark_metal_plating
+dndecor:gray_dark_metal_plating
+dndecor:green_dark_metal_plating
+dndecor:light_blue_dark_metal_plating
+dndecor:light_gray_dark_metal_plating
+dndecor:lime_dark_metal_plating
+dndecor:magenta_dark_metal_plating
+dndecor:orange_dark_metal_plating
+dndecor:pink_dark_metal_plating
+dndecor:purple_dark_metal_plating
+dndecor:red_dark_metal_plating
+dndecor:white_dark_metal_plating
+dndecor:yellow_dark_metal_plating

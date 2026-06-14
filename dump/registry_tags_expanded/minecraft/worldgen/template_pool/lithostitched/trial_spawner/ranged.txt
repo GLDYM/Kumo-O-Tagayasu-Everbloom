@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/template_pool
+# Tag: lithostitched:trial_spawner/ranged
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.3009601+08:00
+
+minecraft:trial_chambers/spawner/ranged/poison_skeleton
+minecraft:trial_chambers/spawner/ranged/skeleton
+minecraft:trial_chambers/spawner/ranged/stray

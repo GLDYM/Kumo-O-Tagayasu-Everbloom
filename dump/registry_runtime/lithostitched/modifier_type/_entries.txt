@@ -1,0 +1,26 @@
+# Registry dump
+# Registry: lithostitched:modifier_type
+# Minecraft: 1.21.1
+# Entries: 20
+# Generated: 2026-06-14T13:47:24.1445002+08:00
+
+lithostitched:add_biome_spawns raw_id=16 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:add_features raw_id=18 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:add_processor_list_processors raw_id=17 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:add_structure_set_entries raw_id=13 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:add_structure_templates raw_id=11 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:add_surface_rule raw_id=8 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:add_template_pool_elements raw_id=7 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:internal/compile_raw_templates raw_id=19 class=com.mojang.serialization.MapCodec$2
+lithostitched:no_op raw_id=0 class=com.mojang.serialization.MapCodec$2
+lithostitched:remove_biome_spawns raw_id=14 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:remove_features raw_id=5 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:remove_structure_set_entries raw_id=9 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:replace_climate raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:replace_effects raw_id=12 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:set_pool_aliases raw_id=1 class=com.mojang.serialization.Codec$3
+lithostitched:set_pool_element_processors raw_id=6 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:set_structure_spawn_condition raw_id=10 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:stack_feature raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:wrap_density_function raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+lithostitched:wrap_noise_router raw_id=15 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

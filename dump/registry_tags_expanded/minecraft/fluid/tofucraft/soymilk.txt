@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:fluid
+# Tag: tofucraft:soymilk
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.3676318+08:00
+
+tofucraft:soymilk
+tofucraft:soymilk_flow
+tofucraft:soymilk_hell
+tofucraft:soymilk_hell_flow
+tofucraft:soymilk_soul
+tofucraft:soymilk_soul_flow

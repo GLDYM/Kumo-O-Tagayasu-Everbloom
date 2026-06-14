@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/cake
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.0654113+08:00
+
+neapolitan:adzuki_cake
+neapolitan:banana_cake
+neapolitan:chocolate_cake
+neapolitan:mint_cake
+neapolitan:strawberry_cake
+neapolitan:vanilla_cake

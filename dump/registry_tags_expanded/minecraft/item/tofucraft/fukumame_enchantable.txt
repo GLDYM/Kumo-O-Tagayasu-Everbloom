@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: tofucraft:fukumame_enchantable
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0639298+08:00
+
+tofucraft:fukumame
+tofucraft:nether_fukumame
+tofucraft:soul_fukumame

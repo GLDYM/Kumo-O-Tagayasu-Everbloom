@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: integrated_villages:collections/giant_trees
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.8343398+08:00
+
+minecraft:bamboo_jungle
+minecraft:jungle
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga

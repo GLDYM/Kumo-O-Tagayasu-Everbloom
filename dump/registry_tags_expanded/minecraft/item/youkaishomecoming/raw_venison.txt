@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: youkaishomecoming:raw_venison
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.2205233+08:00
+
+youkaishomecoming:raw_venison
+youkaishomecoming:raw_venison_slice

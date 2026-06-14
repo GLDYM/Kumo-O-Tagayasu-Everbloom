@@ -1,0 +1,26 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:wither_immune
+# Entries: 19
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.5732891+08:00
+
+irons_spellbooks:pocket_dimension_portal_frame
+irons_spellbooks:voidstone
+minecraft:barrier
+minecraft:bedrock
+minecraft:chain_command_block
+minecraft:command_block
+minecraft:end_gateway
+minecraft:end_portal
+minecraft:end_portal_frame
+minecraft:jigsaw
+minecraft:light
+minecraft:moving_piston
+minecraft:reinforced_deepslate
+minecraft:repeating_command_block
+minecraft:structure_block
+moonlight:spawn_box
+supplementaries:safe
+supplementaries:spring_launcher_arm
+tofucraft:tofu_bedrock

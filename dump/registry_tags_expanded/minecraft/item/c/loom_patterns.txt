@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:loom_patterns
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.3825027+08:00
+
+minecraft:creeper_banner_pattern
+minecraft:flow_banner_pattern
+minecraft:flower_banner_pattern
+minecraft:globe_banner_pattern
+minecraft:guster_banner_pattern
+minecraft:mojang_banner_pattern
+minecraft:piglin_banner_pattern
+minecraft:skull_banner_pattern

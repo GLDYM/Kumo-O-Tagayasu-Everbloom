@@ -1,0 +1,53 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:crops
+# Entries: 46
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.3362987+08:00
+
+corn_delight:corn_crop
+farmersdelight:budding_tomatoes
+farmersdelight:cabbages
+farmersdelight:onions
+farmersdelight:rice_panicles
+farmersdelight:tomatoes
+farmersdelight:tomatoes_on_rope
+kaleidoscope_cookery:chili_crop
+kaleidoscope_cookery:lettuce_crop
+kaleidoscope_cookery:rice_crop
+kaleidoscope_cookery:tomato_crop
+kaleidoscope_dim_wine:hop_crop
+minecraft:beetroots
+minecraft:carrots
+minecraft:melon_stem
+minecraft:pitcher_crop
+minecraft:potatoes
+minecraft:pumpkin_stem
+minecraft:torchflower_crop
+minecraft:wheat
+supplementaries:flax
+tofucraft:leek_crop
+tofucraft:rice
+tofucraft:soybean
+tofucraft:soybean_nether
+tofucraft:soybean_soul
+tsuki:buckwheat_crop
+tsuki:cabbage_crop
+tsuki:eggplant_crop
+tsuki:hops_crop
+tsuki:onion_crop
+tsuki:pepper_crop
+tsuki:radish_crop
+tsuki:rapeseed_crop
+tsuki:redbean_crop
+tsuki:rice_crop
+tsuki:rice_crop_root
+tsuki:taro_crop
+tsuki:tomato_crop
+tsuki:vanilla_crop
+tsuki:wild_pepper
+tsuki:wild_vanilla
+vintagedelight:cucumber_crop
+vintagedelight:ghost_pepper_crop
+vintagedelight:oat_crop
+vintagedelight:peanut_crop

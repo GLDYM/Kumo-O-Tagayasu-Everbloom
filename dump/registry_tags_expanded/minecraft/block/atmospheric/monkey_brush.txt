@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: atmospheric:monkey_brush
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.4320017+08:00
+
+atmospheric:hot_monkey_brush
+atmospheric:hot_wall_monkey_brush
+atmospheric:scalding_monkey_brush
+atmospheric:scalding_wall_monkey_brush
+atmospheric:warm_monkey_brush
+atmospheric:warm_wall_monkey_brush

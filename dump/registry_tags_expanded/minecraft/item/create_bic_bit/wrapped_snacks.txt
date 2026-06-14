@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create_bic_bit:wrapped_snacks
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.0541324+08:00
+
+create_bic_bit:wrapped_chocolate_glazed_stroopwafel
+create_bic_bit:wrapped_churros
+create_bic_bit:wrapped_coated_churros
+create_bic_bit:wrapped_fries
+create_bic_bit:wrapped_stroopwafel

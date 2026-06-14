@@ -1,0 +1,16 @@
+# Registry dump
+# Registry: explosiveenhancement:particle_types
+# Minecraft: 1.21.1
+# Entries: 10
+# Generated: 2026-06-14T13:45:01.0586535+08:00
+
+explosiveenhancement:blank_fireball raw_id=2 class=net.minecraft.core.particles.SimpleParticleType
+explosiveenhancement:blank_shockwave raw_id=7 class=net.minecraft.core.particles.SimpleParticleType
+explosiveenhancement:blastwave raw_id=0 class=net.minecraft.core.particles.SimpleParticleType
+explosiveenhancement:bubble raw_id=5 class=net.minecraft.core.particles.SimpleParticleType
+explosiveenhancement:fireball raw_id=1 class=net.minecraft.core.particles.SimpleParticleType
+explosiveenhancement:shockwave raw_id=6 class=net.minecraft.core.particles.SimpleParticleType
+explosiveenhancement:smoke raw_id=3 class=net.minecraft.core.particles.SimpleParticleType
+explosiveenhancement:sparks raw_id=4 class=net.minecraft.core.particles.SimpleParticleType
+explosiveenhancement:underwaterblastwave raw_id=8 class=net.minecraft.core.particles.SimpleParticleType
+explosiveenhancement:underwatersparks raw_id=9 class=net.minecraft.core.particles.SimpleParticleType

@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: tsuki:samurai_leggings
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.1215787+08:00
+
+tsuki:samurai_leggings_black
+tsuki:samurai_leggings_green
+tsuki:samurai_leggings_red

@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: neapolitan:has_feature/banana_plant/uncommon
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.0390961+08:00
+
+atmospheric:sparse_rainforest
+atmospheric:sparse_rainforest_basin
+minecraft:sparse_jungle

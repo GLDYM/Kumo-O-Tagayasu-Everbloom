@@ -1,0 +1,39 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: sereneseasons:summer_crops
+# Entries: 32
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.7145507+08:00
+
+corn_delight:corn_crop
+delighto_flight:lotus_bud
+delighto_flight:lotus_flower
+delighto_flight:lotus_rhizome
+farmersdelight:budding_tomatoes
+farmersdelight:rice
+farmersdelight:rice_panicles
+farmersdelight:tomatoes
+farmersdelight:tomatoes_on_rope
+fruitsdelight:bayberry_leaves
+fruitsdelight:bayberry_sapling
+fruitsdelight:durian_leaves
+fruitsdelight:durian_sapling
+fruitsdelight:hamimelon_stem
+fruitsdelight:lemon_tree
+fruitsdelight:lychee_leaves
+fruitsdelight:lychee_sapling
+fruitsdelight:mango_leaves
+fruitsdelight:mango_sapling
+fruitsdelight:mangosteen_leaves
+fruitsdelight:mangosteen_sapling
+fruitsdelight:pineapple
+kaleidoscope_cookery:chili_crop
+kaleidoscope_cookery:rice_crop
+kaleidoscope_cookery:tomato_crop
+kaleidoscope_dim_wine:hop_crop
+kaleidoscope_tavern:gold_grape_crop
+kaleidoscope_tavern:gold_grapevine_trellis
+kaleidoscope_tavern:grape_crop
+kaleidoscope_tavern:grapevine_trellis
+vintagedelight:cucumber_crop
+vintagedelight:ghost_pepper_crop

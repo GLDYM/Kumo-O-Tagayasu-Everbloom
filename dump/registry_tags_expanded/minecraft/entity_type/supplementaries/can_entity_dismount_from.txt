@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: supplementaries:can_entity_dismount_from
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1682554+08:00
+
+minecraft:boat
+minecraft:chest_boat
+minecraft:chest_minecart
+minecraft:command_block_minecart
+minecraft:furnace_minecart
+minecraft:hopper_minecart
+minecraft:minecart
+minecraft:spawner_minecart
+minecraft:tnt_minecart
+supplementaries:dispenser_minecart

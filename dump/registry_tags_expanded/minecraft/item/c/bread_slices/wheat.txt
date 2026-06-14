@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:bread_slices/wheat
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.6074582+08:00
+
+bakeries:country_bread_slice
+bakeries:sliced_cheese_cocoa_toast
+bakeries:sliced_toast
+immortalers_delight:kwat_wheat_toast_slice

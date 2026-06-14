@@ -1,0 +1,18 @@
+# Registry dump
+# Registry: irons_spellbooks:schools
+# Minecraft: 1.21.1
+# Entries: 12
+# Generated: 2026-06-14T13:47:24.1013592+08:00
+
+irons_spellbooks:blood raw_id=8 class=io.redspace.ironsspellbooks.api.spells.SchoolType
+irons_spellbooks:eldritch raw_id=11 class=io.redspace.ironsspellbooks.api.spells.SchoolType
+irons_spellbooks:ender raw_id=7 class=io.redspace.ironsspellbooks.api.spells.SchoolType
+irons_spellbooks:evocation raw_id=9 class=io.redspace.ironsspellbooks.api.spells.SchoolType
+irons_spellbooks:fire raw_id=3 class=io.redspace.ironsspellbooks.api.spells.SchoolType
+irons_spellbooks:holy raw_id=6 class=io.redspace.ironsspellbooks.api.spells.SchoolType
+irons_spellbooks:ice raw_id=4 class=io.redspace.ironsspellbooks.api.spells.SchoolType
+irons_spellbooks:lightning raw_id=5 class=io.redspace.ironsspellbooks.api.spells.SchoolType
+irons_spellbooks:nature raw_id=10 class=io.redspace.ironsspellbooks.api.spells.SchoolType
+iss_magicfromtheeast:dune raw_id=2 class=io.redspace.ironsspellbooks.api.spells.SchoolType
+iss_magicfromtheeast:spirit raw_id=1 class=io.redspace.ironsspellbooks.api.spells.SchoolType
+iss_magicfromtheeast:symmetry raw_id=0 class=io.redspace.ironsspellbooks.api.spells.SchoolType

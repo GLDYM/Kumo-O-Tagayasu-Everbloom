@@ -1,0 +1,8 @@
+# Registry dump
+# Registry: create:potato_projectile/block_hit_action
+# Minecraft: 1.21.1
+# Entries: 2
+# Generated: 2026-06-14T13:47:24.05222+08:00
+
+create:place_block_on_ground raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+create:plant_crop raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

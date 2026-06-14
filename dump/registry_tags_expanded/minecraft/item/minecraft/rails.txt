@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:rails
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2072266+08:00
+
+minecraft:activator_rail
+minecraft:detector_rail
+minecraft:powered_rail
+minecraft:rail

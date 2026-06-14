@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: maid_restaurant:braised_fish_ingredient
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0293994+08:00
+
+farmersdelight:cod_slice
+farmersdelight:salmon_slice
+minecraft:cod
+minecraft:salmon

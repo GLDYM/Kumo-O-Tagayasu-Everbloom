@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: kaleidoscope_cookery:cook_stool
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.1288183+08:00
+
+kaleidoscope_cookery:cook_stool_acacia
+kaleidoscope_cookery:cook_stool_bamboo
+kaleidoscope_cookery:cook_stool_birch
+kaleidoscope_cookery:cook_stool_cherry
+kaleidoscope_cookery:cook_stool_crimson
+kaleidoscope_cookery:cook_stool_dark_oak
+kaleidoscope_cookery:cook_stool_jungle
+kaleidoscope_cookery:cook_stool_mangrove
+kaleidoscope_cookery:cook_stool_oak
+kaleidoscope_cookery:cook_stool_spruce
+kaleidoscope_cookery:cook_stool_warped

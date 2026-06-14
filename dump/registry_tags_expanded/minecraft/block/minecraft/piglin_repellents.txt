@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:piglin_repellents
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.4797473+08:00
+
+amendments:skull_candle_soul
+amendments:skull_candle_soul_wall
+minecraft:soul_campfire
+minecraft:soul_fire
+minecraft:soul_lantern
+minecraft:soul_torch
+minecraft:soul_wall_torch
+mynethersdelight:bullet_pepper
+mynethersdelight:zoglin_trophy
+supplementaries:sconce_soul
+supplementaries:sconce_wall_soul
+tofucraft:soybean_soul

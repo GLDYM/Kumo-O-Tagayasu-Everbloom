@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: l2weaponry:material/shulkerate
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.987632+08:00
+
+l2weaponry:shulkerate_battle_axe
+l2weaponry:shulkerate_claw
+l2weaponry:shulkerate_dagger
+l2weaponry:shulkerate_hammer
+l2weaponry:shulkerate_javelin
+l2weaponry:shulkerate_machete
+l2weaponry:shulkerate_nunchaku
+l2weaponry:shulkerate_plate_shield
+l2weaponry:shulkerate_round_shield
+l2weaponry:shulkerate_scythe
+l2weaponry:shulkerate_spear
+l2weaponry:shulkerate_throwing_axe

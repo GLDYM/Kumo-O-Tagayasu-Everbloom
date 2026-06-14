@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: neapolitan:chimpanzee_ape_mode_items
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.3085999+08:00
+
+atmospheric:hot_monkey_brush
+atmospheric:scalding_monkey_brush
+atmospheric:warm_monkey_brush

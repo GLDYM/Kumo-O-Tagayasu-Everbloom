@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: supplementaries:blackboard_black
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.9585039+08:00
+
+immortalers_delight:moon_oil
+minecraft:black_dye
+minecraft:charcoal
+minecraft:coal
+tsuki:bamboo_charcoal

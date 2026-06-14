@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/berry
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.0607231+08:00
+
+atmospheric:currant
+create:chocolate_glazed_berries
+delighto_flight:cloud_berries
+fruitsdelight:blueberry
+fruitsdelight:cranberry
+minecraft:glow_berries
+minecraft:sweet_berries
+trailandtales_delight:golden_lantern_fruit
+trailandtales_delight:lantern_fruit
+vintagedelight:gearo_berry

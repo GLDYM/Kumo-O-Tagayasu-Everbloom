@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: c:is_dry/overworld
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.3704138+08:00
+
+minecraft:badlands
+minecraft:desert
+minecraft:eroded_badlands
+minecraft:savanna
+minecraft:savanna_plateau
+minecraft:windswept_savanna
+minecraft:wooded_badlands

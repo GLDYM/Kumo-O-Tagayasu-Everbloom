@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/dye_groups/flat_riveted
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.8980919+08:00
+
+railways:black_flat_riveted_locometal
+railways:blue_flat_riveted_locometal
+railways:brown_flat_riveted_locometal
+railways:cyan_flat_riveted_locometal
+railways:flat_riveted_locometal
+railways:gray_flat_riveted_locometal
+railways:green_flat_riveted_locometal
+railways:light_blue_flat_riveted_locometal
+railways:light_gray_flat_riveted_locometal
+railways:lime_flat_riveted_locometal
+railways:magenta_flat_riveted_locometal
+railways:orange_flat_riveted_locometal
+railways:pink_flat_riveted_locometal
+railways:purple_flat_riveted_locometal
+railways:red_flat_riveted_locometal
+railways:white_flat_riveted_locometal
+railways:yellow_flat_riveted_locometal

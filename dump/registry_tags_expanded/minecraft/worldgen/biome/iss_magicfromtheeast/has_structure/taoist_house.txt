@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: iss_magicfromtheeast:has_structure/taoist_house
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.89851+08:00
+
+minecraft:bamboo_jungle
+minecraft:sparse_jungle

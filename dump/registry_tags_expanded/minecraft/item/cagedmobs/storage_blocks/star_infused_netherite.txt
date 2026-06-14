@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: cagedmobs:storage_blocks/star_infused_netherite
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.9213431+08:00
+
+cagedmobs:star_infused_netherite_block

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/shulker_meat
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.1974414+08:00
+
+ends_delight:shulker_meat
+ends_delight:shulker_meat_slice

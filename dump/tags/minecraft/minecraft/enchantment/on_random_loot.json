@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "create_sa:chunk_eater",
+    "create_sa:above_the_clouds",
+    "create_sa:hellfire",
+    "create_sa:impact",
+    "create_sa:digging",
+    "create_sa:gravity_gun"
+  ]
+}

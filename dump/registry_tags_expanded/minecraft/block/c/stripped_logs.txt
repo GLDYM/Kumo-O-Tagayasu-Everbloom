@@ -1,0 +1,39 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:stripped_logs
+# Entries: 32
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.7713638+08:00
+
+atmospheric:stripped_aspen_log
+atmospheric:stripped_grimwood_log
+atmospheric:stripped_kousa_log
+atmospheric:stripped_laurel_log
+atmospheric:stripped_laurel_wood
+atmospheric:stripped_morado_log
+atmospheric:stripped_rosewood_log
+atmospheric:stripped_yucca_log
+crabbersdelight:stripped_palm_log
+immortalers_delight:stripped_ancient_wood
+immortalers_delight:stripped_ancient_wood_log
+immortalers_delight:stripped_himekaido_log
+immortalers_delight:stripped_himekaido_wood
+minecraft:stripped_acacia_log
+minecraft:stripped_bamboo_block
+minecraft:stripped_birch_log
+minecraft:stripped_cherry_log
+minecraft:stripped_crimson_stem
+minecraft:stripped_dark_oak_log
+minecraft:stripped_jungle_log
+minecraft:stripped_mangrove_log
+minecraft:stripped_oak_log
+minecraft:stripped_spruce_log
+minecraft:stripped_warped_stem
+quark:stripped_ancient_log
+quark:stripped_azalea_log
+quark:stripped_blossom_log
+tsuki:stripped_maple_log
+tsuki:stripped_sakura_log
+tsuki:stripped_ume_log
+vintagedelight:stripped_magic_vine
+vintagedelight:stripped_magic_vine_block

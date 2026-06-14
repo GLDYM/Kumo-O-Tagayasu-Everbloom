@@ -1,0 +1,27 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:dripstone_replaceable_blocks
+# Entries: 20
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.3552679+08:00
+
+create:asurine
+create:crimsite
+create:limestone
+create:ochrum
+create:scorchia
+create:scoria
+create:veridium
+createnuclear:autunite
+dndecor:dolomite
+dndecor:gabbro
+dndecor:weathered_limestone
+minecraft:andesite
+minecraft:deepslate
+minecraft:diorite
+minecraft:granite
+minecraft:stone
+minecraft:tuff
+quark:jasper
+quark:limestone
+quark:shale

@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: quark:prismarine_chest_structures
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.2473193+08:00
+
+minecraft:monument
+minecraft:ocean_ruin_cold
+minecraft:ocean_ruin_warm

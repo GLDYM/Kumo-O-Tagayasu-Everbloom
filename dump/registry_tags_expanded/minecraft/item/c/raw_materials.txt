@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:raw_materials
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.53244+08:00
+
+create:raw_zinc
+createnuclear:raw_lead
+createnuclear:raw_uranium
+irons_spellbooks:raw_mithril
+minecraft:raw_copper
+minecraft:raw_gold
+minecraft:raw_iron

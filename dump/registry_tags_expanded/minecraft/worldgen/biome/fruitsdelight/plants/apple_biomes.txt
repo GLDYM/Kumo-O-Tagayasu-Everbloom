@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: fruitsdelight:plants/apple_biomes
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.4940437+08:00
+
+minecraft:flower_forest
+minecraft:forest

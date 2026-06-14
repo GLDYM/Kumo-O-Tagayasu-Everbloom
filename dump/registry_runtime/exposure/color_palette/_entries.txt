@@ -1,0 +1,8 @@
+# Registry dump
+# Registry: exposure:color_palette
+# Minecraft: 1.21.1
+# Entries: 2
+# Generated: 2026-06-14T13:47:24.0818311+08:00
+
+exposure:map_colors raw_id=0 class=io.github.mortuusars.exposure.data.ColorPalette
+exposure:map_colors_plus raw_id=1 class=io.github.mortuusars.exposure.data.ColorPalette

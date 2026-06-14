@@ -1,0 +1,22 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: kaleidoscope_tavern:grass_stealth_plants
+# Entries: 15
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.1641001+08:00
+
+minecraft:crimson_roots
+minecraft:dead_bush
+minecraft:fern
+minecraft:large_fern
+minecraft:lilac
+minecraft:nether_sprouts
+minecraft:peony
+minecraft:pitcher_plant
+minecraft:rose_bush
+minecraft:short_grass
+minecraft:sugar_cane
+minecraft:sunflower
+minecraft:sweet_berry_bush
+minecraft:tall_grass
+minecraft:warped_roots

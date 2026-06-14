@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: sable:half_volume
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.6981876+08:00
+
+createdeco:andesite_catwalk_stairs
+createdeco:andesite_support
+createdeco:brass_catwalk_stairs
+createdeco:brass_support
+createdeco:copper_catwalk_stairs
+createdeco:copper_support
+createdeco:industrial_iron_catwalk_stairs
+createdeco:industrial_iron_support
+createdeco:iron_catwalk_stairs
+createdeco:iron_support
+createdeco:zinc_catwalk_stairs
+createdeco:zinc_support

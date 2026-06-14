@@ -1,0 +1,30 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:create/millstones
+# Entries: 23
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.7962092+08:00
+
+create:millstone
+dndecor:amethyst_millstone
+dndecor:asurine_millstone
+dndecor:basalt_millstone
+dndecor:blackstone_millstone
+dndecor:calcite_millstone
+dndecor:crimsite_millstone
+dndecor:deepslate_millstone
+dndecor:diorite_millstone
+dndecor:dolomite_millstone
+dndecor:dripstone_millstone
+dndecor:gabbro_millstone
+dndecor:granite_millstone
+dndecor:limestone_millstone
+dndecor:netherrack_millstone
+dndecor:ochrum_millstone
+dndecor:packed_mud_millstone
+dndecor:scorchia_millstone
+dndecor:scoria_millstone
+dndecor:stone_millstone
+dndecor:tuff_millstone
+dndecor:veridium_millstone
+dndecor:weathered_limestone_millstone

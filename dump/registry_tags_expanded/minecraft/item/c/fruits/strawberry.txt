@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:fruits/strawberry
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.294892+08:00
+

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:hoglin_food
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1486858+08:00
+
+minecraft:crimson_fungus
+mynethersdelight:bullet_pepper

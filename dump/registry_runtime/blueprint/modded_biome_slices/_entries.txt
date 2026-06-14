@@ -1,0 +1,14 @@
+# Registry dump
+# Registry: blueprint:modded_biome_slices
+# Minecraft: 1.21.1
+# Entries: 8
+# Generated: 2026-06-14T13:47:24.0027364+08:00
+
+atmospheric:aspen raw_id=0 class=com.teamabnormals.blueprint.common.world.modification.ModdedBiomeSlice
+atmospheric:dunes_and_scrubland raw_id=1 class=com.teamabnormals.blueprint.common.world.modification.ModdedBiomeSlice
+atmospheric:kousa raw_id=2 class=com.teamabnormals.blueprint.common.world.modification.ModdedBiomeSlice
+atmospheric:laurel raw_id=3 class=com.teamabnormals.blueprint.common.world.modification.ModdedBiomeSlice
+atmospheric:rainforest raw_id=5 class=com.teamabnormals.blueprint.common.world.modification.ModdedBiomeSlice
+atmospheric:spiny_thicket raw_id=6 class=com.teamabnormals.blueprint.common.world.modification.ModdedBiomeSlice
+blueprint:originals raw_id=4 class=com.teamabnormals.blueprint.common.world.modification.ModdedBiomeSlice
+neapolitan:strawberry raw_id=7 class=com.teamabnormals.blueprint.common.world.modification.ModdedBiomeSlice

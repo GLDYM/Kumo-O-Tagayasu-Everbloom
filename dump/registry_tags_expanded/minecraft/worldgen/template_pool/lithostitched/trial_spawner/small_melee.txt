@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/template_pool
+# Tag: lithostitched:trial_spawner/small_melee
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.3029582+08:00
+
+minecraft:trial_chambers/spawner/small_melee/baby_zombie
+minecraft:trial_chambers/spawner/small_melee/cave_spider
+minecraft:trial_chambers/spawner/small_melee/silverfish
+minecraft:trial_chambers/spawner/small_melee/slime

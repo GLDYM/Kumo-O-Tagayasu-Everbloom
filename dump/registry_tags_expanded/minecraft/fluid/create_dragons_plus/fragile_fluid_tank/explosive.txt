@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:fluid
+# Tag: create_dragons_plus:fragile_fluid_tank/explosive
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.3559615+08:00
+

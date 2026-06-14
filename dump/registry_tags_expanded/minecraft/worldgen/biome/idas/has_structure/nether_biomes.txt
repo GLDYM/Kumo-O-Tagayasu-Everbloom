@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: idas:has_structure/nether_biomes
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.6932973+08:00
+
+minecraft:basalt_deltas
+minecraft:crimson_forest
+minecraft:nether_wastes
+minecraft:soul_sand_valley
+minecraft:warped_forest

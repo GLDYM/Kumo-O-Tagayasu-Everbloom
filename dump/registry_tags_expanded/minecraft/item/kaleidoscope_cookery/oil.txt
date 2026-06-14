@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_cookery:oil
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.8790493+08:00
+
+kaleidoscope_cookery:oil

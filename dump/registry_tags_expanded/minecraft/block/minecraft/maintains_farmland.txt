@@ -1,0 +1,40 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:maintains_farmland
+# Entries: 33
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.4354037+08:00
+
+farmersdelight:budding_tomatoes
+farmersdelight:cabbages
+farmersdelight:onions
+farmersdelight:rice
+farmersdelight:tomatoes
+fruitsdelight:attached_hamimelon_stem
+fruitsdelight:hamimelon_stem
+immortalers_delight:alfalfa
+immortalers_delight:evolutcorn
+immortalers_delight:himekaido_shrub
+immortalers_delight:kwat_wheat
+immortalers_delight:leisamboo_stalk
+immortalers_delight:oxygrape
+immortalers_delight:warped_laurel_crop
+minecraft:attached_melon_stem
+minecraft:attached_pumpkin_stem
+minecraft:beetroots
+minecraft:carrots
+minecraft:melon_stem
+minecraft:pitcher_crop
+minecraft:potatoes
+minecraft:pumpkin_stem
+minecraft:torchflower
+minecraft:torchflower_crop
+minecraft:wheat
+supplementaries:flax
+tofucraft:soybean
+tofucraft:soybean_nether
+tofucraft:soybean_soul
+vintagedelight:cucumber_crop
+vintagedelight:ghost_pepper_crop
+vintagedelight:oat_crop
+vintagedelight:peanut_crop

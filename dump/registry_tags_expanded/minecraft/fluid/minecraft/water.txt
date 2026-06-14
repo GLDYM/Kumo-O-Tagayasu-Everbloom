@@ -1,0 +1,43 @@
+# Expanded runtime tag dump
+# Registry: minecraft:fluid
+# Tag: minecraft:water
+# Entries: 36
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.3661123+08:00
+
+minecraft:flowing_water
+minecraft:water
+tsuki:beer
+tsuki:beer_flowing
+tsuki:brandy
+tsuki:brandy_flowing
+tsuki:champagne
+tsuki:champagne_flowing
+tsuki:cocoa_liqueur
+tsuki:cocoa_liqueur_flowing
+tsuki:doburoku
+tsuki:doburoku_flowing
+tsuki:food_oil
+tsuki:food_oil_flowing
+tsuki:gin
+tsuki:gin_flowing
+tsuki:liqueur
+tsuki:liqueur_flowing
+tsuki:maple_syrup
+tsuki:maple_syrup_flowing
+tsuki:red_wine
+tsuki:red_wine_flowing
+tsuki:rum
+tsuki:rum_flowing
+tsuki:sake
+tsuki:sake_flowing
+tsuki:shouchu
+tsuki:shouchu_flowing
+tsuki:tequila
+tsuki:tequila_flowing
+tsuki:vodka
+tsuki:vodka_flowing
+tsuki:whiskey
+tsuki:whiskey_flowing
+tsuki:white_wine
+tsuki:white_wine_flowing

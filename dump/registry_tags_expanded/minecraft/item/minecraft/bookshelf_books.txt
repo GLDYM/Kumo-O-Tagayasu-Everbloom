@@ -1,0 +1,42 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:bookshelf_books
+# Entries: 35
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.050556+08:00
+
+exposure:album
+exposure:signed_album
+irons_spellbooks:archevoker_logbook_translated
+irons_spellbooks:archevoker_logbook_untranslated
+irons_spellbooks:blaze_spell_book
+irons_spellbooks:chained_book
+irons_spellbooks:chronicle
+irons_spellbooks:copper_spell_book
+irons_spellbooks:cursed_doll_spell_book
+irons_spellbooks:diamond_spell_book
+irons_spellbooks:dragonskin_spell_book
+irons_spellbooks:druidic_spell_book
+irons_spellbooks:evoker_spell_book
+irons_spellbooks:furled_map
+irons_spellbooks:furled_map_ancient
+irons_spellbooks:gold_spell_book
+irons_spellbooks:ice_spell_book
+irons_spellbooks:iron_spell_book
+irons_spellbooks:legendary_spell_book
+irons_spellbooks:necronomicon_spell_book
+irons_spellbooks:netherite_spell_book
+irons_spellbooks:rotten_spell_book
+irons_spellbooks:ruined_book
+irons_spellbooks:unchained_book
+irons_spellbooks:villager_spell_book
+irons_spellbooks:wimpy_spell_book
+iss_magicfromtheeast:ritual_orihon
+minecraft:book
+minecraft:enchanted_book
+minecraft:knowledge_book
+minecraft:writable_book
+minecraft:written_book
+patchouli:guide_book
+quark:ancient_tome
+tofucraft:tofu_crafters_book

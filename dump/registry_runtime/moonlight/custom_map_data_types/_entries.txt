@@ -1,0 +1,10 @@
+# Registry dump
+# Registry: moonlight:custom_map_data_types
+# Minecraft: 1.21.1
+# Entries: 4
+# Generated: 2026-06-14T13:47:24.560624+08:00
+
+supplementaries:antique raw_id=1 class=net.mehvahdjukaar.moonlight.api.map.CustomMapData$Type
+supplementaries:color_data raw_id=2 class=net.mehvahdjukaar.moonlight.api.map.CustomMapData$Type
+supplementaries:depth_lock raw_id=0 class=net.mehvahdjukaar.moonlight.api.map.CustomMapData$Type
+supplementaries:light_data raw_id=3 class=net.mehvahdjukaar.moonlight.api.map.CustomMapData$Type

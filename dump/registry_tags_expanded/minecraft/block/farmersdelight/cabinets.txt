@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: farmersdelight:cabinets
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9805549+08:00
+
+crabbersdelight:palm_cabinet
+farmersdelight:acacia_cabinet
+farmersdelight:bamboo_cabinet
+farmersdelight:birch_cabinet
+farmersdelight:cherry_cabinet
+farmersdelight:crimson_cabinet
+farmersdelight:dark_oak_cabinet
+farmersdelight:jungle_cabinet
+farmersdelight:mangrove_cabinet
+farmersdelight:oak_cabinet
+farmersdelight:spruce_cabinet
+farmersdelight:warped_cabinet
+mynethersdelight:blackstone_bricks_cabinet
+mynethersdelight:nether_bricks_cabinet
+mynethersdelight:powdery_cabinet
+mynethersdelight:red_nether_bricks_cabinet

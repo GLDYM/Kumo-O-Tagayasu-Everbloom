@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: ultramarine:polished_planks
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.1497689+08:00
+
+ultramarine:polished_acacia_plank
+ultramarine:polished_birch_plank
+ultramarine:polished_cherry_plank
+ultramarine:polished_crimson_plank
+ultramarine:polished_dark_oak_plank
+ultramarine:polished_ebony_plank
+ultramarine:polished_jungle_plank
+ultramarine:polished_mangrove_plank
+ultramarine:polished_oak_plank
+ultramarine:polished_rosewood_plank
+ultramarine:polished_spruce_plank
+ultramarine:polished_warped_plank

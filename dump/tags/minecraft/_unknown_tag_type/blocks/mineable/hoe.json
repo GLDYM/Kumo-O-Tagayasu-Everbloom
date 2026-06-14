@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "create_compressed:dough_block",
+    "create_compressed:pulp_block"
+  ]
+}

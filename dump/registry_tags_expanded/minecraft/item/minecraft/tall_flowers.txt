@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:tall_flowers
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2528745+08:00
+
+atmospheric:tall_yucca_flower
+farmersdelight:wild_rice
+minecraft:lilac
+minecraft:peony
+minecraft:pitcher_plant
+minecraft:rose_bush
+minecraft:sunflower

@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:arrows
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0392172+08:00
+
+minecraft:arrow
+minecraft:spectral_arrow
+minecraft:tipped_arrow
+neapolitan:bananarrow
+quark:torch_arrow
+supplementaries:rope_arrow
+tofucraft:zunda_arrow

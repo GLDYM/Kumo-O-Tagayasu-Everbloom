@@ -1,0 +1,60 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: supplementaries:adventure_map_destinations
+# Entries: 53
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.2564023+08:00
+
+atmospheric:village_scrubland
+idas:ancient_mines
+idas:ars_nouveau/archmages_tower
+idas:bazaar
+idas:collectors_museum
+idas:desert_pyramid
+idas:iceandfire/dread_citadel
+idas:labyrinth
+idas:nexus
+idas:pillager_fortress
+idas:ruins_of_the_deep
+idas:tinkers_citadel
+idas:tinkers_workshop
+idas:tree_of_wisdom
+idas:windswept_shrine
+integrated_villages:airship_village
+integrated_villages:cabin_village
+integrated_villages:clockwork_village
+integrated_villages:kutcha_village
+integrated_villages:marketstead_village
+integrated_villages:mediterranean_village
+integrated_villages:mossy_mounds
+integrated_villages:oasis_village
+integrated_villages:pirate_village
+integrated_villages:quark/minka_village
+integrated_villages:sunken_village
+integrated_villages:tavern_village
+minecraft:bastion_remnant
+minecraft:desert_pyramid
+minecraft:end_city
+minecraft:igloo
+minecraft:jungle_pyramid
+minecraft:mineshaft
+minecraft:mineshaft_mesa
+minecraft:ocean_ruin_cold
+minecraft:ocean_ruin_warm
+minecraft:pillager_outpost
+minecraft:ruined_portal
+minecraft:ruined_portal_desert
+minecraft:ruined_portal_jungle
+minecraft:ruined_portal_mountain
+minecraft:ruined_portal_nether
+minecraft:ruined_portal_ocean
+minecraft:ruined_portal_swamp
+minecraft:shipwreck
+minecraft:shipwreck_beached
+minecraft:swamp_hut
+minecraft:village_desert
+minecraft:village_plains
+minecraft:village_savanna
+minecraft:village_snowy
+minecraft:village_taiga
+supplementaries:galleon

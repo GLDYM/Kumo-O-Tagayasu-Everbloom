@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: c:is_shallow_ocean
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.4186852+08:00
+
+minecraft:cold_ocean
+minecraft:frozen_ocean
+minecraft:lukewarm_ocean
+minecraft:ocean
+minecraft:warm_ocean

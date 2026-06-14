@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "minecraft:tuff_wall"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:polished_tuff_wall"
+    }
+  ]
+}

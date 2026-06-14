@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: youkaishomecoming:spawns/tea
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1465764+08:00
+
+minecraft:cherry_grove
+minecraft:flower_forest
+minecraft:frozen_peaks
+minecraft:grove
+minecraft:jagged_peaks
+minecraft:meadow
+minecraft:snowy_slopes
+minecraft:stony_peaks

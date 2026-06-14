@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:has_structure/igloo
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.9344239+08:00
+
+minecraft:snowy_plains
+minecraft:snowy_slopes
+minecraft:snowy_taiga

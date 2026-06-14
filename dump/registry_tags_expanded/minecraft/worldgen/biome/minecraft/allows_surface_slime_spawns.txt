@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:allows_surface_slime_spawns
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.9135465+08:00
+
+minecraft:mangrove_swamp
+minecraft:swamp

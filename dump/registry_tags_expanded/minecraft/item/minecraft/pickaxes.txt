@@ -1,0 +1,31 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:pickaxes
+# Entries: 24
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1945176+08:00
+
+create_sa:blazing_pickaxe
+create_sa:brass_pickaxe
+create_sa:copper_pickaxe
+create_sa:experience_pickaxe
+create_sa:rose_quartz_pickaxe
+create_sa:zinc_pickaxe
+l2complements:eternium_pickaxe
+l2complements:poseidite_pickaxe
+l2complements:sculkium_pickaxe
+l2complements:shulkerate_pickaxe
+l2complements:totemic_gold_pickaxe
+minecraft:diamond_pickaxe
+minecraft:golden_pickaxe
+minecraft:iron_pickaxe
+minecraft:netherite_pickaxe
+minecraft:stone_pickaxe
+minecraft:wooden_pickaxe
+tofucraft:tofu_diamond_pickaxe
+tofucraft:tofu_kinu_pickaxe
+tofucraft:tofu_metal_pickaxe
+tofucraft:tofu_momen_pickaxe
+tofucraft:tofu_solid_pickaxe
+tsuki:mythic_pickaxe
+tsuki:sakura_pickaxe

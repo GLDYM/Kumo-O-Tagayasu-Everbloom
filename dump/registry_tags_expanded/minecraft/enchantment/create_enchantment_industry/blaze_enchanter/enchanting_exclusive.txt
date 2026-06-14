@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: create_enchantment_industry:blaze_enchanter/enchanting_exclusive
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9754775+08:00
+

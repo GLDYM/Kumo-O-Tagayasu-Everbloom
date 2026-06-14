@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:mushrooms
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.4014134+08:00
+
+delighto_flight:clear_cloudshroom
+delighto_flight:rainy_cloudshroom
+delighto_flight:thunder_cloudshroom
+minecraft:brown_mushroom
+minecraft:red_mushroom
+quark:glow_shroom
+tofucraft:zundatofu_mushroom
+tsuki:edodes
+tsuki:matsutake
+tsuki:shimeji

@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: minecraft:redirectable_projectile
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.1376763+08:00
+
+minecraft:breeze_wind_charge
+minecraft:fireball
+minecraft:wind_charge
+supplementaries:slimeball_projectile

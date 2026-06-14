@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:cooked_eggs
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.7658483+08:00
+
+farmersdelight:fried_egg
+kaleidoscope_cookery:fried_egg
+mynethersdelight:boiled_egg

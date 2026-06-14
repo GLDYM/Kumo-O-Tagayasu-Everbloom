@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: farmersdelight:flat_on_cutting_board
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.5975028+08:00
+
+minecraft:spyglass
+minecraft:trident
+supplementaries:quiver

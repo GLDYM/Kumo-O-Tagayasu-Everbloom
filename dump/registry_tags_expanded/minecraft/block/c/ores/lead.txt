@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:ores/lead
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.6358733+08:00
+
+createnuclear:deepslate_lead_ore
+createnuclear:lead_ore

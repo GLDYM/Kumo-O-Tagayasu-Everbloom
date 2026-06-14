@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: neoforge:is_environment
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9454064+08:00
+
+minecraft:cactus
+minecraft:cramming
+minecraft:drown
+minecraft:dry_out
+minecraft:falling_anvil
+minecraft:falling_block
+minecraft:falling_stalactite
+minecraft:fly_into_wall
+minecraft:freeze
+minecraft:hot_floor
+minecraft:in_fire
+minecraft:in_wall
+minecraft:lava
+minecraft:lightning_bolt
+minecraft:on_fire
+minecraft:stalagmite
+minecraft:starve
+minecraft:sweet_berry_bush

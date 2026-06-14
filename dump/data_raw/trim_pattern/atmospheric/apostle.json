@@ -1,0 +1,8 @@
+{
+  "asset_id": "atmospheric:apostle",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.atmospheric.apostle"
+  },
+  "template_item": "atmospheric:apostle_armor_trim_smithing_template"
+}

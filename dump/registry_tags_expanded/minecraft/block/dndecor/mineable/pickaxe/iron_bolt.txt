@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: dndecor:mineable/pickaxe/iron_bolt
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9452995+08:00
+
+dndecor:iron_cross_bolt
+dndecor:iron_dash_bolt
+dndecor:iron_dot_bolt
+dndecor:iron_flat_bolt

@@ -1,0 +1,19 @@
+# Registry dump
+# Registry: minecraft:worldgen/structure_pool_element
+# Minecraft: 1.21.1
+# Entries: 13
+# Generated: 2026-06-14T13:47:24.537024+08:00
+
+integrated_api:integrated_api_single_pool_element raw_id=9 class=com.craisinlord.integrated_api.modinit.IAStructurePieces$$Lambda/0x0000023d1b144fe8
+irons_spellbooks:individual_terrain_element raw_id=11 class=io.redspace.ironsspellbooks.registries.StructureElementRegistry$$Lambda/0x0000023d1b145420
+lithostitched:delegating raw_id=7 class=dev.worldgen.lithostitched.worldgen.poolelement.DelegatingPoolElement$$Lambda/0x0000023d18f636c8
+lithostitched:feature raw_id=5 class=dev.worldgen.lithostitched.worldgen.poolelement.LithostitchedFeaturePoolElement$$Lambda/0x0000023d18d24e70
+lithostitched:guaranteed raw_id=6 class=dev.worldgen.lithostitched.worldgen.poolelement.legacy.GuaranteedPoolElement$$Lambda/0x0000023d18f6a198
+lithostitched:limited raw_id=8 class=dev.worldgen.lithostitched.worldgen.poolelement.legacy.LimitedPoolElement$$Lambda/0x0000023d18f64c00
+minecraft:empty_pool_element raw_id=3 class=net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda/0x0000023d17fa3450
+minecraft:feature_pool_element raw_id=2 class=net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda/0x0000023d17fa3450
+minecraft:legacy_single_pool_element raw_id=4 class=net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda/0x0000023d17fa3450
+minecraft:list_pool_element raw_id=1 class=net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda/0x0000023d17fa3450
+minecraft:single_pool_element raw_id=0 class=net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda/0x0000023d17fa3450
+moonlight:spawn_box raw_id=10 class=net.mehvahdjukaar.moonlight.api.platform.RegHelper$$Lambda/0x0000023d1b145200
+touhou_little_maid_spell:no_terrain_pool_element raw_id=12 class=com.github.yimeng261.maidspell.worldgen.structure.MaidSpellPoolElementTypes$$Lambda/0x0000023d1b145638

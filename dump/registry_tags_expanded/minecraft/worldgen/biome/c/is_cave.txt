@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: c:is_cave
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.3443878+08:00
+
+minecraft:deep_dark
+minecraft:dripstone_caves
+minecraft:lush_caves

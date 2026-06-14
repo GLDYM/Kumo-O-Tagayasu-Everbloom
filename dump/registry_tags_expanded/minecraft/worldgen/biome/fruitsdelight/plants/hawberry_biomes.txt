@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: fruitsdelight:plants/hawberry_biomes
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.5066664+08:00
+
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:taiga

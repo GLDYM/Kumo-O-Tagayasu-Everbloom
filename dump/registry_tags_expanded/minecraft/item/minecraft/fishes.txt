@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:fishes
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.1303508+08:00
+
+minecraft:cod
+minecraft:cooked_cod
+minecraft:cooked_salmon
+minecraft:pufferfish
+minecraft:salmon
+minecraft:tropical_fish
+youkaishomecoming:raw_lamprey
+youkaishomecoming:raw_lamprey_fillet
+youkaishomecoming:roasted_lamprey_fillet

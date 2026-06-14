@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dramaticdoors:categories/tall_createdeco_doors
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.4754575+08:00
+
+dramaticdoors:tall_andesite_door
+dramaticdoors:tall_brass_door
+dramaticdoors:tall_copper_door
+dramaticdoors:tall_locked_andesite_door
+dramaticdoors:tall_locked_brass_door
+dramaticdoors:tall_locked_zinc_door
+dramaticdoors:tall_zinc_door

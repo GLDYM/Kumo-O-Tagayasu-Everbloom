@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: quark:seed_pouch_fertilizers
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.3623726+08:00
+
+minecraft:bone_meal

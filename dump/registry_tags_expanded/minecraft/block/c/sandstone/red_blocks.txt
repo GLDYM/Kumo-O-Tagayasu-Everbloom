@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:sandstone/red_blocks
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.665114+08:00
+
+atmospheric:chiseled_red_arid_sandstone
+atmospheric:cut_red_arid_sandstone
+atmospheric:red_arid_sandstone
+atmospheric:smooth_red_arid_sandstone
+minecraft:chiseled_red_sandstone
+minecraft:cut_red_sandstone
+minecraft:red_sandstone
+minecraft:smooth_red_sandstone

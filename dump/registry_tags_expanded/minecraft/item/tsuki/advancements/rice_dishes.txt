@@ -1,0 +1,45 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: tsuki:advancements/rice_dishes
+# Entries: 38
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0951902+08:00
+
+tsuki:brown_rice_cooked
+tsuki:curry_omurice
+tsuki:dried_brown_rice
+tsuki:dried_rice
+tsuki:fried_brown_rice
+tsuki:ochazuke
+tsuki:omurice
+tsuki:onigiri
+tsuki:onigiri_bamboo
+tsuki:onigiri_fish
+tsuki:onigiri_matsutake
+tsuki:onigiri_mushroom
+tsuki:onigiri_seaweed
+tsuki:onigiri_tempura
+tsuki:rice_bamboo
+tsuki:rice_beef
+tsuki:rice_beef_egg
+tsuki:rice_cooked
+tsuki:rice_curry
+tsuki:rice_curry_burger
+tsuki:rice_curry_cheese
+tsuki:rice_curry_cheese_burger
+tsuki:rice_curry_cheese_katsu
+tsuki:rice_curry_katsu
+tsuki:rice_egg
+tsuki:rice_fish
+tsuki:rice_fried
+tsuki:rice_matsutake
+tsuki:rice_mushroom
+tsuki:rice_natto
+tsuki:rice_natto_egg
+tsuki:rice_oyako
+tsuki:rice_oyako_fish
+tsuki:rice_pork
+tsuki:rice_pork_egg
+tsuki:rice_pork_fried
+tsuki:rice_redbean
+tsuki:vinegar_rice

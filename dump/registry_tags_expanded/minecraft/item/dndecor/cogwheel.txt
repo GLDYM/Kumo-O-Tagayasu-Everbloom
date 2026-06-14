@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:cogwheel
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2476275+08:00
+
+dndecor:black_cogwheel
+dndecor:blue_cogwheel
+dndecor:brown_cogwheel
+dndecor:cyan_cogwheel
+dndecor:dark_metal_cogwheel
+dndecor:gray_cogwheel
+dndecor:green_cogwheel
+dndecor:light_blue_cogwheel
+dndecor:light_gray_cogwheel
+dndecor:lime_cogwheel
+dndecor:magenta_cogwheel
+dndecor:orange_cogwheel
+dndecor:pink_cogwheel
+dndecor:purple_cogwheel
+dndecor:red_cogwheel
+dndecor:white_cogwheel
+dndecor:yellow_cogwheel

@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:allows_tropical_fish_spawns_at_any_height
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.9150535+08:00
+
+minecraft:lush_caves

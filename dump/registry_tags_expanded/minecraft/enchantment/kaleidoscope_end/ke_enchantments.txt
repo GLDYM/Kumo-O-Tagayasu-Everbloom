@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: kaleidoscope_end:ke_enchantments
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.9794483+08:00
+
+kaleidoscope_end:void_assault
+kaleidoscope_end:void_echo
+kaleidoscope_end:void_walker

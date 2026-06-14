@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "youkaishomecoming:tuff_vertical_slab"
+    }
+  ],
+  "results": [
+    {
+      "id": "youkaishomecoming:polished_tuff_vertical_slab"
+    }
+  ]
+}

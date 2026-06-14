@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: quark:underground_biome_replaceable
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.676792+08:00
+
+minecraft:andesite
+minecraft:deepslate
+minecraft:diorite
+minecraft:end_stone
+minecraft:granite
+minecraft:netherrack
+minecraft:stone
+minecraft:tuff
+quark:jasper
+quark:limestone
+quark:shale

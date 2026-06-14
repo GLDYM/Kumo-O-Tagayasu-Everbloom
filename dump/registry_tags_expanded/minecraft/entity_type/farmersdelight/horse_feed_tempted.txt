@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: farmersdelight:horse_feed_tempted
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.0638527+08:00
+
+minecraft:donkey
+minecraft:horse
+minecraft:mule

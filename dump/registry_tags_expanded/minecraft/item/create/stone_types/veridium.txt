@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:stone_types/veridium
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.034917+08:00
+
+bits_n_bobs:veridium_tile_stairs
+bits_n_bobs:veridium_tile_wall
+bits_n_bobs:veridium_tiles
+create:cut_veridium
+create:cut_veridium_brick_stairs
+create:cut_veridium_brick_wall
+create:cut_veridium_bricks
+create:cut_veridium_stairs
+create:cut_veridium_wall
+create:layered_veridium
+create:polished_cut_veridium
+create:polished_cut_veridium_stairs
+create:polished_cut_veridium_wall
+create:small_veridium_brick_stairs
+create:small_veridium_brick_wall
+create:small_veridium_bricks
+create:veridium
+create:veridium_pillar

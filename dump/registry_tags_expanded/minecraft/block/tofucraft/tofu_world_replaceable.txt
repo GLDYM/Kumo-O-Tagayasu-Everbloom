@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: tofucraft:tofu_world_replaceable
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.8165646+08:00
+
+tofucraft:soymilk
+tofucraft:tofu_terrain
+tofucraft:tofu_terrain_zunda
+tofucraft:tofuslate

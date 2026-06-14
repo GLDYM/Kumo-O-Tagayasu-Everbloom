@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:armors/helmets
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.5602608+08:00
+
+createnuclear:black_anti_radiation_helmet
+createnuclear:blue_anti_radiation_helmet
+createnuclear:brown_anti_radiation_helmet
+createnuclear:cyan_anti_radiation_helmet
+createnuclear:gray_anti_radiation_helmet
+createnuclear:green_anti_radiation_helmet
+createnuclear:light_blue_anti_radiation_helmet
+createnuclear:light_gray_anti_radiation_helmet
+createnuclear:lime_anti_radiation_helmet
+createnuclear:magenta_anti_radiation_helmet
+createnuclear:orange_anti_radiation_helmet
+createnuclear:pink_anti_radiation_helmet
+createnuclear:purple_anti_radiation_helmet
+createnuclear:red_anti_radiation_helmet
+createnuclear:white_anti_radiation_helmet
+createnuclear:yellow_anti_radiation_helmet
+quark:forgotten_hat

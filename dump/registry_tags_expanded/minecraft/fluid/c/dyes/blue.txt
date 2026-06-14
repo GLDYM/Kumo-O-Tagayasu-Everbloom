@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:fluid
+# Tag: c:dyes/blue
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.2193715+08:00
+
+create_dragons_plus:blue_dye
+create_dragons_plus:flowing_blue_dye

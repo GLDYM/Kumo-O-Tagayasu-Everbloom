@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: farmersdelight:planted_from_below
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9995558+08:00
+
+minecraft:cave_vines
+minecraft:cave_vines_plant

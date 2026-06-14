@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: iss_magicfromtheeast:armors/helmets
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.8483974+08:00
+
+iss_magicfromtheeast:jade_pagoda_helmet
+iss_magicfromtheeast:jiangshi_hat
+iss_magicfromtheeast:onmyoji_helmet
+iss_magicfromtheeast:taoist_helmet

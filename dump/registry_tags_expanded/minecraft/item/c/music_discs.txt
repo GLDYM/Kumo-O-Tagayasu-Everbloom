@@ -1,0 +1,40 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:music_discs
+# Entries: 33
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.40592+08:00
+
+create_connected:music_disc_elevator
+create_connected:music_disc_interlude
+minecraft:music_disc_11
+minecraft:music_disc_13
+minecraft:music_disc_5
+minecraft:music_disc_blocks
+minecraft:music_disc_cat
+minecraft:music_disc_chirp
+minecraft:music_disc_creator
+minecraft:music_disc_creator_music_box
+minecraft:music_disc_far
+minecraft:music_disc_mall
+minecraft:music_disc_mellohi
+minecraft:music_disc_otherside
+minecraft:music_disc_pigstep
+minecraft:music_disc_precipice
+minecraft:music_disc_relic
+minecraft:music_disc_stal
+minecraft:music_disc_strad
+minecraft:music_disc_wait
+minecraft:music_disc_ward
+neapolitan:music_disc_hullabaloo
+quark:music_disc_chatter
+quark:music_disc_clock
+quark:music_disc_crickets
+quark:music_disc_drips
+quark:music_disc_endermosh
+quark:music_disc_fire
+quark:music_disc_ocean
+quark:music_disc_rain
+quark:music_disc_wind
+supplementaries:music_disc_heave_ho
+tofucraft:music_disc_green_branch

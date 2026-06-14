@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:dyed_sheet_metal_decor
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2664904+08:00
+
+dndecor:black_sheet_metal
+dndecor:blue_sheet_metal
+dndecor:brown_sheet_metal
+dndecor:cyan_sheet_metal
+dndecor:gray_sheet_metal
+dndecor:green_sheet_metal
+dndecor:light_blue_sheet_metal
+dndecor:light_gray_sheet_metal
+dndecor:lime_sheet_metal
+dndecor:magenta_sheet_metal
+dndecor:orange_sheet_metal
+dndecor:pink_sheet_metal
+dndecor:purple_sheet_metal
+dndecor:red_sheet_metal
+dndecor:white_sheet_metal
+dndecor:yellow_sheet_metal

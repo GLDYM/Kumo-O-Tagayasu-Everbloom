@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: minecraft:always_kills_armor_stands
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.8907423+08:00
+
+minecraft:arrow
+minecraft:fireball
+minecraft:trident
+minecraft:wind_charge
+minecraft:wither_skull

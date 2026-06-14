@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: woodworks:wooden_boards
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.845565+08:00
+
+atmospheric:aspen_boards
+atmospheric:grimwood_boards
+atmospheric:kousa_boards
+atmospheric:laurel_boards
+atmospheric:morado_boards
+atmospheric:rosewood_boards
+atmospheric:yucca_boards

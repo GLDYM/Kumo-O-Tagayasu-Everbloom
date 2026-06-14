@@ -1,0 +1,31 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: supplementaries:cannon_boats
+# Entries: 24
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.9865859+08:00
+
+supplementaries:atmospheric/cannon_boat_aspen
+supplementaries:atmospheric/cannon_boat_grimwood
+supplementaries:atmospheric/cannon_boat_kousa
+supplementaries:atmospheric/cannon_boat_laurel
+supplementaries:atmospheric/cannon_boat_morado
+supplementaries:atmospheric/cannon_boat_rosewood
+supplementaries:atmospheric/cannon_boat_yucca
+supplementaries:cannon_boat_acacia
+supplementaries:cannon_boat_bamboo
+supplementaries:cannon_boat_birch
+supplementaries:cannon_boat_cherry
+supplementaries:cannon_boat_dark_oak
+supplementaries:cannon_boat_jungle
+supplementaries:cannon_boat_mangrove
+supplementaries:cannon_boat_oak
+supplementaries:cannon_boat_spruce
+supplementaries:crabbersdelight/cannon_boat_palm
+supplementaries:immortalers_delight/cannon_boat_ancient_wood
+supplementaries:immortalers_delight/cannon_boat_himekaido
+supplementaries:quark/cannon_boat_ancient
+supplementaries:quark/cannon_boat_azalea
+supplementaries:quark/cannon_boat_blossom
+supplementaries:tofucraft/cannon_boat_leek
+supplementaries:tofucraft/cannon_boat_leek_green

@@ -1,0 +1,7 @@
+# Registry dump
+# Registry: moonlight:world_saved_data_type
+# Minecraft: 1.21.1
+# Entries: 1
+# Generated: 2026-06-14T13:47:24.5703039+08:00
+
+supplementaries:globe_data raw_id=0 class=net.mehvahdjukaar.moonlight.api.misc.WorldSavedDataType

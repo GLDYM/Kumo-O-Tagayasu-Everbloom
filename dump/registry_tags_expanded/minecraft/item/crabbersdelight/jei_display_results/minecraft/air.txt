@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: crabbersdelight:jei_display_results/minecraft/air
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:35.9598742+08:00
+
+crabbersdelight:can
+crabbersdelight:clam
+crabbersdelight:clawster
+crabbersdelight:crab
+crabbersdelight:fish_bones
+crabbersdelight:shrimp
+minecraft:kelp
+minecraft:stick

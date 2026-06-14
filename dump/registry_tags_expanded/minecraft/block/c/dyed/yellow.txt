@@ -1,0 +1,28 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:dyed/yellow
+# Entries: 21
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.5405241+08:00
+
+handcrafted:yellow_cushion
+minecraft:yellow_banner
+minecraft:yellow_bed
+minecraft:yellow_candle
+minecraft:yellow_carpet
+minecraft:yellow_concrete
+minecraft:yellow_concrete_powder
+minecraft:yellow_glazed_terracotta
+minecraft:yellow_shulker_box
+minecraft:yellow_stained_glass
+minecraft:yellow_stained_glass_pane
+minecraft:yellow_terracotta
+minecraft:yellow_wall_banner
+minecraft:yellow_wool
+supplementaries:awning_yellow
+supplementaries:bunting_wall_yellow
+supplementaries:bunting_yellow
+supplementaries:candle_holder_yellow
+supplementaries:flag_yellow
+supplementaries:present_yellow
+supplementaries:trapped_present_yellow

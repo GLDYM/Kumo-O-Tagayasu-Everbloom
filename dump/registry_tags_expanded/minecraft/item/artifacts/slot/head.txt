@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: artifacts:slot/head
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.4593247+08:00
+
+artifacts:anglers_hat
+artifacts:cowboy_hat
+artifacts:novelty_drinking_hat
+artifacts:plastic_drinking_hat
+artifacts:superstitious_hat
+artifacts:villager_hat

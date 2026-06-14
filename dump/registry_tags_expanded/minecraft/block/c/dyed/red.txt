@@ -1,0 +1,28 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:dyed/red
+# Entries: 21
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.5385272+08:00
+
+handcrafted:red_cushion
+minecraft:red_banner
+minecraft:red_bed
+minecraft:red_candle
+minecraft:red_carpet
+minecraft:red_concrete
+minecraft:red_concrete_powder
+minecraft:red_glazed_terracotta
+minecraft:red_shulker_box
+minecraft:red_stained_glass
+minecraft:red_stained_glass_pane
+minecraft:red_terracotta
+minecraft:red_wall_banner
+minecraft:red_wool
+supplementaries:awning_red
+supplementaries:bunting_red
+supplementaries:bunting_wall_red
+supplementaries:candle_holder_red
+supplementaries:flag_red
+supplementaries:present_red
+supplementaries:trapped_present_red

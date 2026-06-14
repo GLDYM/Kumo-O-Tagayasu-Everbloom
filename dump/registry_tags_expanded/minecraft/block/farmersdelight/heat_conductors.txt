@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: farmersdelight:heat_conductors
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:32.9887128+08:00
+
+create:chute
+create:packager
+create:repackager
+create:smart_chute
+minecraft:hopper

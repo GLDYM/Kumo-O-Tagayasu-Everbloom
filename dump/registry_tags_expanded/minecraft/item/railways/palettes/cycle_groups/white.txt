@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/white
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.8869511+08:00
+
+railways:white_flat_riveted_locometal
+railways:white_flat_slashed_locometal
+railways:white_locometal_pillar
+railways:white_locometal_smokebox
+railways:white_plated_locometal
+railways:white_riveted_locometal
+railways:white_slashed_locometal

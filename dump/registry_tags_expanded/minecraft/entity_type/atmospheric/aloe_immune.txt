@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: atmospheric:aloe_immune
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.041979+08:00
+
+atmospheric:cochineal
+minecraft:bee
+minecraft:camel
+minecraft:husk

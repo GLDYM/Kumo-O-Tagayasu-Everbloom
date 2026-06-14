@@ -1,0 +1,8 @@
+# Registry dump
+# Registry: create:package_port_target_type
+# Minecraft: 1.21.1
+# Entries: 2
+# Generated: 2026-06-14T13:45:01.0446215+08:00
+
+create:chain_conveyor raw_id=0 class=com.simibubi.create.content.logistics.packagePort.PackagePortTarget$ChainConveyorFrogportTarget$Type
+create:train_station raw_id=1 class=com.simibubi.create.content.logistics.packagePort.PackagePortTarget$TrainStationFrogportTarget$Type

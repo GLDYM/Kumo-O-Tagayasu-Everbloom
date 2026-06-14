@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/orange
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.8821233+08:00
+
+railways:orange_flat_riveted_locometal
+railways:orange_flat_slashed_locometal
+railways:orange_locometal_pillar
+railways:orange_locometal_smokebox
+railways:orange_plated_locometal
+railways:orange_riveted_locometal
+railways:orange_slashed_locometal

@@ -1,0 +1,51 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:chest_armor
+# Entries: 44
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0628383+08:00
+
+create:cardboard_chestplate
+create:copper_backtank
+create:netherite_backtank
+create_sa:brass_chestplate
+create_sa:copper_chestplate
+create_sa:zinc_chestplate
+irons_spellbooks:archevoker_chestplate
+irons_spellbooks:cryomancer_chestplate
+irons_spellbooks:cultist_chestplate
+irons_spellbooks:electromancer_chestplate
+irons_spellbooks:infernal_sorcerer_chestplate
+irons_spellbooks:netherite_mage_chestplate
+irons_spellbooks:paladin_chestplate
+irons_spellbooks:plagued_chestplate
+irons_spellbooks:priest_chestplate
+irons_spellbooks:pumpkin_chestplate
+irons_spellbooks:pyromancer_chestplate
+irons_spellbooks:shadowwalker_chestplate
+irons_spellbooks:wandering_magician_chestplate
+irons_spellbooks:wizard_chestplate
+iss_magicfromtheeast:elemental_commander_chestplate
+iss_magicfromtheeast:jade_pagoda_chestplate
+iss_magicfromtheeast:onmyoji_chestplate
+iss_magicfromtheeast:taoist_chestplate
+l2complements:eternium_chestplate
+l2complements:poseidite_chestplate
+l2complements:sculkium_chestplate
+l2complements:shulkerate_chestplate
+l2complements:totemic_gold_chestplate
+minecraft:chainmail_chestplate
+minecraft:diamond_chestplate
+minecraft:golden_chestplate
+minecraft:iron_chestplate
+minecraft:leather_chestplate
+minecraft:netherite_chestplate
+tofucraft:tofu_diamond_chestplate
+tofucraft:tofu_kinu_chestplate
+tofucraft:tofu_metal_chestplate
+tofucraft:tofu_momen_chestplate
+tsuki:samurai_chestplate_black
+tsuki:samurai_chestplate_green
+tsuki:samurai_chestplate_red
+tsuki:soldier_chestplate_black
+tsuki:soldier_chestplate_gray

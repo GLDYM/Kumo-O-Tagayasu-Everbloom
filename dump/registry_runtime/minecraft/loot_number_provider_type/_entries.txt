@@ -1,0 +1,12 @@
+# Registry dump
+# Registry: minecraft:loot_number_provider_type
+# Minecraft: 1.21.1
+# Entries: 6
+# Generated: 2026-06-14T13:47:24.3681647+08:00
+
+minecraft:binomial raw_id=2 class=net.minecraft.world.level.storage.loot.providers.number.LootNumberProviderType
+minecraft:constant raw_id=0 class=net.minecraft.world.level.storage.loot.providers.number.LootNumberProviderType
+minecraft:enchantment_level raw_id=5 class=net.minecraft.world.level.storage.loot.providers.number.LootNumberProviderType
+minecraft:score raw_id=3 class=net.minecraft.world.level.storage.loot.providers.number.LootNumberProviderType
+minecraft:storage raw_id=4 class=net.minecraft.world.level.storage.loot.providers.number.LootNumberProviderType
+minecraft:uniform raw_id=1 class=net.minecraft.world.level.storage.loot.providers.number.LootNumberProviderType

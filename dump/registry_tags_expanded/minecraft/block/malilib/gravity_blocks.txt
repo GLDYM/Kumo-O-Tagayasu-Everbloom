@@ -1,0 +1,34 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: malilib:gravity_blocks
+# Entries: 27
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.2394509+08:00
+
+minecraft:anvil
+minecraft:black_concrete_powder
+minecraft:blue_concrete_powder
+minecraft:brown_concrete_powder
+minecraft:chipped_anvil
+minecraft:cyan_concrete_powder
+minecraft:damaged_anvil
+minecraft:dragon_egg
+minecraft:gravel
+minecraft:gray_concrete_powder
+minecraft:green_concrete_powder
+minecraft:light_blue_concrete_powder
+minecraft:light_gray_concrete_powder
+minecraft:lime_concrete_powder
+minecraft:magenta_concrete_powder
+minecraft:orange_concrete_powder
+minecraft:pink_concrete_powder
+minecraft:pointed_dripstone
+minecraft:purple_concrete_powder
+minecraft:red_concrete_powder
+minecraft:red_sand
+minecraft:sand
+minecraft:scaffolding
+minecraft:suspicious_gravel
+minecraft:suspicious_sand
+minecraft:white_concrete_powder
+minecraft:yellow_concrete_powder

@@ -1,0 +1,20 @@
+# Registry dump
+# Registry: minecraft:enchantment_location_based_effect_type
+# Minecraft: 1.21.1
+# Entries: 14
+# Generated: 2026-06-14T13:47:24.2695387+08:00
+
+minecraft:all_of raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:apply_mob_effect raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:attribute raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:damage_entity raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:damage_item raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:explode raw_id=5 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:ignite raw_id=6 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:play_sound raw_id=7 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:replace_block raw_id=8 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:replace_disk raw_id=9 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:run_function raw_id=10 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:set_block_properties raw_id=11 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:spawn_particles raw_id=12 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:summon_entity raw_id=13 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

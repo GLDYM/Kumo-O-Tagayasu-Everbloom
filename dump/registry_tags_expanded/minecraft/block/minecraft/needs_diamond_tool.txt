@@ -1,0 +1,29 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:needs_diamond_tool
+# Entries: 22
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.4611606+08:00
+
+cagedmobs:star_infused_netherite_block
+createnuclear:deepslate_uranium_ore
+createnuclear:enriched_soul_soil
+createnuclear:raw_uranium_block
+createnuclear:reactor_casing
+createnuclear:reactor_controller
+createnuclear:reactor_cooler
+createnuclear:reactor_core
+createnuclear:reactor_frame
+createnuclear:reactor_input
+createnuclear:reactor_output
+createnuclear:uranium_ore
+dramaticdoors:short_netherite_door
+dramaticdoors:tall_netherite_door
+minecraft:ancient_debris
+minecraft:crying_obsidian
+minecraft:netherite_block
+minecraft:obsidian
+minecraft:respawn_anchor
+supplementaries:netherite_door
+supplementaries:netherite_trapdoor
+supplementaries:safe

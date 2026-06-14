@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: integrated_villages:villages
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1874364+08:00
+
+integrated_villages:airship_village
+integrated_villages:cabin_village
+integrated_villages:clockwork_village
+integrated_villages:kutcha_village
+integrated_villages:marketstead_village
+integrated_villages:mediterranean_village
+integrated_villages:mossy_mounds
+integrated_villages:oasis_village
+integrated_villages:pirate_village
+integrated_villages:quark/minka_village
+integrated_villages:sunken_village
+integrated_villages:tavern_village

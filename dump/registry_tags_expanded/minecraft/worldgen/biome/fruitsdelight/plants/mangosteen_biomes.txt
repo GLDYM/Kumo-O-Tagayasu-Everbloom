@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: fruitsdelight:plants/mangosteen_biomes
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.5126209+08:00
+
+minecraft:bamboo_jungle
+minecraft:jungle
+minecraft:mangrove_swamp
+minecraft:swamp

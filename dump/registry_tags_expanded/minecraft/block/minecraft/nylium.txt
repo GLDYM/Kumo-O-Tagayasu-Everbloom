@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:nylium
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.471053+08:00
+
+minecraft:crimson_nylium
+minecraft:warped_nylium
+mynethersdelight:letios_compost
+mynethersdelight:resurgent_soil
+mynethersdelight:resurgent_soil_farmland

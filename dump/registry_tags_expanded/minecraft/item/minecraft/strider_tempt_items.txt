@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:strider_tempt_items
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2498715+08:00
+
+minecraft:warped_fungus
+minecraft:warped_fungus_on_a_stick
+mynethersdelight:bullet_pepper
+mynethersdelight:hot_cream_cone

@@ -1,0 +1,36 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: idas:common
+# Entries: 29
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:39.1703185+08:00
+
+idas:abandoned_vineyard
+idas:abandonedhouse
+idas:apothecary_abode
+idas:bearclaw_inn
+idas:beekeepers_house
+idas:botanist
+idas:brickhouse
+idas:castle
+idas:desert_ruins
+idas:dig_site/dig_site
+idas:dig_site/dig_site_desert
+idas:enchantingtower
+idas:farmhouse
+idas:fishermans_lodge
+idas:haunted_manor
+idas:hermits_hollow
+idas:hunters_cabin
+idas:mason_house
+idas:redhorn_guild
+idas:ruined_church
+idas:ruined_fort
+idas:ruined_well
+idas:the_log
+idas:treetop_tavern
+idas:tudor_pub
+idas:wacky_wares
+idas:winter_wagon
+idas:witches_treestump
+idas:wizard_tower

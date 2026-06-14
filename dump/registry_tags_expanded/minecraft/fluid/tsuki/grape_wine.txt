@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:fluid
+# Tag: tsuki:grape_wine
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:34.3706417+08:00
+
+tsuki:red_wine
+tsuki:red_wine_flowing
+tsuki:white_wine
+tsuki:white_wine_flowing

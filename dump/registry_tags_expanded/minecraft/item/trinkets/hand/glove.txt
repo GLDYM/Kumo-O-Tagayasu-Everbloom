@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: trinkets:hand/glove
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:38.0853859+08:00
+
+artifacts:digging_claws
+artifacts:feral_claws
+artifacts:fire_gauntlet
+artifacts:golden_hook
+artifacts:onion_ring
+artifacts:pickaxe_heater
+artifacts:pocket_piston
+artifacts:power_glove
+artifacts:vampiric_glove
+artifacts:withered_bracelet

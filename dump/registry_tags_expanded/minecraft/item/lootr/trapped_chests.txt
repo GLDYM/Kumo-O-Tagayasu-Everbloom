@@ -1,0 +1,25 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: lootr:trapped_chests
+# Entries: 18
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.0238825+08:00
+
+lootr:lootr_trapped_chest
+quark:trapped_lootr_acacia_chest
+quark:trapped_lootr_ancient_chest
+quark:trapped_lootr_azalea_chest
+quark:trapped_lootr_bamboo_chest
+quark:trapped_lootr_birch_chest
+quark:trapped_lootr_blossom_chest
+quark:trapped_lootr_cherry_chest
+quark:trapped_lootr_crimson_chest
+quark:trapped_lootr_dark_oak_chest
+quark:trapped_lootr_jungle_chest
+quark:trapped_lootr_mangrove_chest
+quark:trapped_lootr_nether_brick_chest
+quark:trapped_lootr_oak_chest
+quark:trapped_lootr_prismarine_chest
+quark:trapped_lootr_purpur_chest
+quark:trapped_lootr_spruce_chest
+quark:trapped_lootr_warped_chest

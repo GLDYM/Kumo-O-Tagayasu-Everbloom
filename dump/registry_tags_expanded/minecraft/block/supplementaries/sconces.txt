@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: supplementaries:sconces
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:33.7908695+08:00
+
+supplementaries:sconce
+supplementaries:sconce_green
+supplementaries:sconce_lever
+supplementaries:sconce_soul
+supplementaries:sconce_wall
+supplementaries:sconce_wall_green
+supplementaries:sconce_wall_soul

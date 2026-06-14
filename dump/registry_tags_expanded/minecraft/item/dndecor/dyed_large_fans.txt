@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: dndecor:dyed_large_fans
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:36.2629786+08:00
+
+dndecor:black_large_fan
+dndecor:blue_large_fan
+dndecor:brown_large_fan
+dndecor:cyan_large_fan
+dndecor:gray_large_fan
+dndecor:green_large_fan
+dndecor:light_blue_large_fan
+dndecor:light_gray_large_fan
+dndecor:lime_large_fan
+dndecor:magenta_large_fan
+dndecor:orange_large_fan
+dndecor:pink_large_fan
+dndecor:purple_large_fan
+dndecor:red_large_fan
+dndecor:white_large_fan
+dndecor:yellow_large_fan

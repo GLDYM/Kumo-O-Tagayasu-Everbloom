@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:sniffer_food
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-06-14T13:47:37.2383298+08:00
+
+minecraft:torchflower_seeds
