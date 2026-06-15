@@ -2,6 +2,7 @@ build/
 server/
 *.mrpack
 __pycache__/
+.temp
 
 forge-*-installer.jar
 mrpack-install-windows.exe
