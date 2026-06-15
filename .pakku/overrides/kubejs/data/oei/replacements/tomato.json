@@ -15,16 +15,29 @@
   },
   {
     "matchItems": [
+      "fruitsdelight:lemon_juice"
+    ],
+    "resultItems": "tsuki:lemon_juice"
+  },
+  {
+    "matchItems": [
       "tsuki:soybean"
     ],
-    "resultItems": "youkaisfeasts:soybean"
+    "resultItems": "youkaishomecoming:soybean"
   },
   {
     "matchItems": [
       "bakeries:matcha_powder",
       "tsuki:mocha"
     ],
-    "resultItems": "youkaisfeasts:matcha"
+    "resultItems": "youkaishomecoming:matcha"
+  },
+  {
+    "matchItems": [
+      "cuisinedelight:fried_egg",
+      "kaleidoscope_cookery:fried_egg"
+    ],
+    "resultItems": "farmersdelight:fried_egg"
   },
   {
     "matchItems": [
@@ -32,6 +45,12 @@
       "tsuki:tomato_seeds"
     ],
     "resultItems": "farmersdelight:tomato_seeds"
+  },
+  {
+    "matchItems": [
+      "tsuki:cabbage_seeds"
+    ],
+    "resultItems": "farmersdelight:cabbage_seeds"
   },
   {
     "matchItems": [
@@ -77,7 +96,7 @@
   },
   {
     "matchItems": [
-      "youkaisfeasts:red_grape",
+      "youkaishomecoming:red_grape",
       "tsuki:grape"
     ],
     "resultItems": "kaleidoscope_tavern:grape"
@@ -85,15 +104,27 @@
   {
     "matchItems": [
       "tsuki:grape_green",
-      "youkaisfeasts:white_grape"
+      "youkaishomecoming:white_grape"
     ],
     "resultItems": "kaleidoscope_tavern:green_grape"
   },
   {
     "matchItems": [
+      "fruitsdelight:orange"
+    ],
+    "resultItems": "atmospheric:orange"
+  },
+  {
+    "matchItems": [
+      "fruitsdelight:orange_juice"
+    ],
+    "resultItems": "tsuki:orange_juice"
+  },
+  {
+    "matchItems": [
       "tsuki:green_tea_leaves"
     ],
-    "resultItems": "youkaisfeasts:green_tea_leaves"
+    "resultItems": "youkaishomecoming:green_tea_leaves"
   },
   {
     "matchItems": [
@@ -104,21 +135,39 @@
   },
   {
     "matchItems": [
+      "bakeries:taro"
+    ],
+    "resultItems": "tsuki:taro"
+  },
+  {
+    "matchItems": [
       "fruitsdelight:pineapple"
     ],
     "resultItems": "pineapple_delight:pineapple"
   },
   {
     "matchItems": [
+      "fruitsdelight:pineapple_slice"
+    ],
+    "resultItems": "pineapple_delight:pineapple_side"
+  },
+  {
+    "matchItems": [
+      "immortalers_delight:fried_sniffer_egg"
+    ],
+    "resultItems": "trailandtales_delight:fried_sniffer_egg"
+  },
+  {
+    "matchItems": [
       "tsuki:red_bean"
     ],
-    "resultItems": "youkaisfeasts:redbean"
+    "resultItems": "youkaishomecoming:redbean"
   },
   {
     "matchItems": [
       "tsuki:tofu"
     ],
-    "resultItems": "youkaisfeasts:tofu"
+    "resultItems": "youkaishomecoming:tofu"
   },
   {
     "matchItems": [
@@ -136,7 +185,13 @@
     "matchItems": [
       "vintagedelight:cucumber"
     ],
-    "resultItems": "youkaisfeasts:cucumber"
+    "resultItems": "youkaishomecoming:cucumber"
+  },
+  {
+    "matchItems": [
+      "youkaishomecoming:cucumber_seeds"
+    ],
+    "resultItems": "vintagedelight:cucumber_seeds"
   },
   {
     "matchItems": [
@@ -144,6 +199,72 @@
       "vintagedelight:ghost_pepper"
     ],
     "resultItems": "kaleidoscope_cookery:red_chili"
+  },
+  {
+    "matchItems": [
+      "ends_delight:chorus_flower_tea"
+    ],
+    "resultItems": "kaleidoscope_end:chorus_flower_tea"
+  },
+  {
+    "matchItems": [
+      "ends_delight:dragon_tooth"
+    ],
+    "resultItems": "kaleidoscope_end:dragon_tooth"
+  },
+  {
+    "matchItems": [
+      "ends_delight:dragon_tooth_knife"
+    ],
+    "resultItems": "kaleidoscope_end:dragon_tooth_knife"
+  },
+  {
+    "matchItems": [
+      "ends_delight:end_stove"
+    ],
+    "resultItems": "kaleidoscope_end:end_stove"
+  },
+  {
+    "matchItems": [
+      "ends_delight:fried_dragon_egg"
+    ],
+    "resultItems": "kaleidoscope_end:fried_dragon_egg"
+  },
+  {
+    "matchItems": [
+      "ends_delight:liquid_dragon_egg"
+    ],
+    "resultItems": "kaleidoscope_end:dragon_egg_liquid"
+  },
+  {
+    "matchItems": [
+      "ends_delight:raw_dragon_meat"
+    ],
+    "resultItems": "kaleidoscope_end:raw_ender_dragon_meat"
+  },
+  {
+    "matchItems": [
+      "ends_delight:roasted_dragon_meat"
+    ],
+    "resultItems": "kaleidoscope_end:cooked_ender_dragon_meat"
+  },
+  {
+    "matchItems": [
+      "ends_delight:raw_ender_mite_meat"
+    ],
+    "resultItems": "kaleidoscope_end:raw_endermite_meat"
+  },
+  {
+    "matchItems": [
+      "ends_delight:dried_endermite_meat"
+    ],
+    "resultItems": "kaleidoscope_end:roasted_endermite_meat"
+  },
+  {
+    "matchItems": [
+      "create_bic_bit:sunflower_seeds"
+    ],
+    "resultItems": "tsuki:sunflower_seeds"
   },
   {
     "matchItems": [

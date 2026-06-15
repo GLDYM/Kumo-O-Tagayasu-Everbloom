@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "pineapple_delight:pineapple"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 6,
+        "id": "pineapple_delight:pineapple_side"
+      }
+    },
+    {
+      "item": {
+        "count": 1,
+        "id": "pineapple_delight:pineapple_crop"
+      }
+    },
+    {
+      "chance": 0.25,
+      "item": {
+        "count": 1,
+        "id": "fruitsdelight:pineapple_sapling"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

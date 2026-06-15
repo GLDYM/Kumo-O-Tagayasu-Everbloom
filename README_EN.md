@@ -29,10 +29,6 @@
 
 </div>
 
-## Introduction
-
-Born for server, Kumo O Tagayasu is a comprehensive modpack that fills in the missing materials, intended to give players a relaxing and enjoyable game experience.
-
 ## How to use
 
 Client: Download the release file and drop it into the launcher to install.
