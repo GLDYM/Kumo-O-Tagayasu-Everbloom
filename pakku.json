@@ -310,7 +310,8 @@
             "side": "BOTH"
         },
         "irisshaders": {
-            "side": "BOTH"
+            "side": "BOTH",
+            "update_strategy": "NONE"
         },
         "irons-spells-n-spellbooks": {
             "side": "BOTH"
