@@ -402,7 +402,32 @@
             "side": "CLIENT"
         },
         "reeses-sodium-options": {
+            "side": "CLIENT",
             "update_strategy": "LATEST"
+        },
+        "create-blocks-bogies": {
+            "side": "BOTH"
+        },
+        "vintage-delight-kots": {
+            "side": "BOTH"
+        },
+        "ftb-quests-lang-splitter": {
+            "side": "BOTH"
+        },
+        "modernfix": {
+            "side": "BOTH"
+        },
+        "model-gap-fix": {
+            "side": "CLIENT"
+        },
+        "ftb-chunks-forge": {
+            "side": "BOTH"
+        },
+        "ftbxaerocompat": {
+            "side": "CLIENT"
+        },
+        "dimension-viewer-kots": {
+            "side": "BOTH"
         }
     }
 }
