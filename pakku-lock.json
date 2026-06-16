@@ -11964,24 +11964,20 @@
             ]
         },
         {
-            "pakku_id": "XiDe65i7vYTM2jmZ",
+            "pakku_id": "N2ACiDdY32Yq0cv5",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "modernfix",
-                "modrinth": "modernfix"
+                "curseforge": "modernfix"
             },
             "name": {
-                "curseforge": "ModernFix",
-                "modrinth": "ModernFix"
+                "curseforge": "ModernFix"
             },
             "id": {
-                "curseforge": "790626",
-                "modrinth": "nmDcB62a"
+                "curseforge": "790626"
             },
             "files": [
                 {
-                    "type": "modrinth",
+                    "type": "curseforge",
                     "file_name": "modernfix-neoforge-5.27.14+mc1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
@@ -11990,37 +11986,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/KcU1Mn0I/modernfix-neoforge-5.27.14+mc1.21.1.jar",
-                    "id": "KcU1Mn0I",
-                    "parent_id": "nmDcB62a",
+                    "url": "https://edge.forgecdn.net/files/8255/560/modernfix-neoforge-5.27.14+mc1.21.1.jar",
+                    "id": "8255560",
+                    "parent_id": "790626",
                     "hashes": {
-                        "sha512": "89181e5cfc66eae3e71b111b349c513e9d229b32e8295759b06e41d2ed9225cf5580fdf1c744f74545a8d695dfb9e32a79f49388dd2347a27e387c15b181189b",
-                        "sha1": "b8cebae6ea55ed472d5fa55e428a894e296523f1"
+                        "sha1": "b8cebae6ea55ed472d5fa55e428a894e296523f1",
+                        "md5": "29a4f5a367e671d08c0c7e2ec75b2224"
                     },
                     "required_dependencies": [],
                     "size": 589839,
-                    "date_published": "2026-06-16T00:18:40.678523Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "modernfix-neoforge-5.27.12+mc1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8224/323/modernfix-neoforge-5.27.12+mc1.21.1.jar",
-                    "id": "8224323",
-                    "parent_id": "790626",
-                    "hashes": {
-                        "sha1": "eb7a14dd6024d694d56d38297be208cf3d91f1a9",
-                        "md5": "ef17edbc89685451aecb8fc5d9d2b32c"
-                    },
-                    "required_dependencies": [],
-                    "size": 589533,
-                    "date_published": "2026-06-09T23:54:43.927Z"
+                    "date_published": "2026-06-16T00:18:39.517Z"
                 }
             ]
         },
