@@ -3951,6 +3951,7 @@
                 "Vy12xXWcFO1oKyQL"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "create-blocks-bogies"
             },
@@ -8263,76 +8264,6 @@
                     ],
                     "size": 776635,
                     "date_published": "2026-06-01T09:33:33.656572Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "4WwP6IRq98JWog4S",
-            "pakku_links": [
-                "4K9kXYwwPGX4BUDz"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "fzzy-config",
-                "modrinth": "fzzy-config"
-            },
-            "name": {
-                "curseforge": "Fzzy Config",
-                "modrinth": "Fzzy Config"
-            },
-            "id": {
-                "curseforge": "1005914",
-                "modrinth": "hYykXjDp"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "fzzy_config-0.7.6+1.21+neoforge.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7568/897/fzzy_config-0.7.6+1.21+neoforge.jar",
-                    "id": "7568897",
-                    "parent_id": "1005914",
-                    "hashes": {
-                        "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1",
-                        "md5": "cd0823556e6d24046bd0f4ba74cd4981"
-                    },
-                    "required_dependencies": [
-                        "351264"
-                    ],
-                    "size": 2369895,
-                    "date_published": "2026-02-03T01:49:37.233Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "fzzy_config-0.7.6+1.21+neoforge.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/MAPG6cXE/fzzy_config-0.7.6+1.21+neoforge.jar",
-                    "id": "MAPG6cXE",
-                    "parent_id": "hYykXjDp",
-                    "hashes": {
-                        "sha512": "6071890aba7f2273c9fd508914acc7850de9d986423760f9ce416875ffa04eea2ad71a7a6f4d5f90f0625a672f6f54606778d11151b155f3fd98c223c61a4a6d",
-                        "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1"
-                    },
-                    "required_dependencies": [
-                        "ordsPcFz"
-                    ],
-                    "size": 2369895,
-                    "date_published": "2026-02-03T01:49:45.873692Z"
                 }
             ]
         },
@@ -14064,6 +13995,7 @@
                 "FC0RFinZh5aNtQo4"
             ],
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "reeses-sodium-options"
             },
@@ -15036,75 +14968,6 @@
                     "required_dependencies": [],
                     "size": 1974380,
                     "date_published": "2026-04-01T18:16:03.596092Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "xznwjounfDyapSNX",
-            "pakku_links": [
-                "4WwP6IRq98JWog4S"
-            ],
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "soaring-phantoms",
-                "modrinth": "soaring-phantoms"
-            },
-            "name": {
-                "curseforge": "Soaring Phantoms",
-                "modrinth": "Soaring Phantoms"
-            },
-            "id": {
-                "curseforge": "1022172",
-                "modrinth": "d4Rp6J8P"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "soaring_phantoms-1.2.2+1.21.1-neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7341/653/soaring_phantoms-1.2.2+1.21.1-neoforge.jar",
-                    "id": "7341653",
-                    "parent_id": "1022172",
-                    "hashes": {
-                        "sha1": "a7e37a462a26fcd49611a60fa5c96e09ef8d8bf8",
-                        "md5": "da65b8ad04e61d446b7c1384864551ce"
-                    },
-                    "required_dependencies": [
-                        "1005914"
-                    ],
-                    "size": 30927,
-                    "date_published": "2025-12-16T21:12:36.450Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "soaring_phantoms-1.2.2+1.21.1-neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/d4Rp6J8P/versions/tahkrknC/soaring_phantoms-1.2.2+1.21.1-neoforge.jar",
-                    "id": "tahkrknC",
-                    "parent_id": "d4Rp6J8P",
-                    "hashes": {
-                        "sha512": "980bd13789d05c0cf09e6c2dd43309eeca56922d1013b7a3a069128d296ec088d463af31cc26f7caee783e5fd2144bd11b7b1752be609984c6eaf2a562d3250a",
-                        "sha1": "a7e37a462a26fcd49611a60fa5c96e09ef8d8bf8"
-                    },
-                    "required_dependencies": [
-                        "hYykXjDp"
-                    ],
-                    "size": 30927,
-                    "date_published": "2025-12-16T21:12:36.285667Z"
                 }
             ]
         },
@@ -17205,6 +17068,7 @@
                 "exCP2y0syJVA9jKo"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "vintage-delight-kots"
             },
