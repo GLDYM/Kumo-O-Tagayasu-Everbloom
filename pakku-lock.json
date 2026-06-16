@@ -1265,6 +1265,67 @@
             ]
         },
         {
+            "pakku_id": "ANaxEwTkAlY8sYO3",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "biomespy",
+                "modrinth": "biomespy"
+            },
+            "name": {
+                "curseforge": "BiomeSpy",
+                "modrinth": "BiomeSpy"
+            },
+            "id": {
+                "curseforge": "1376024",
+                "modrinth": "OieZFwRr"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "biomespy-neoforge-1.21.1-1.3.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7488/72/biomespy-neoforge-1.21.1-1.3.3.jar",
+                    "id": "7488072",
+                    "parent_id": "1376024",
+                    "hashes": {
+                        "sha1": "079f612d2b3eed5502896c7cd691969f33b7ab1c",
+                        "md5": "7cbe40d5799f9ccea614ca397daf8d51"
+                    },
+                    "required_dependencies": [],
+                    "size": 38566,
+                    "date_published": "2026-01-19T11:46:11.050Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "biomespy-neoforge-1.21.1-1.3.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OieZFwRr/versions/5ARULl76/biomespy-neoforge-1.21.1-1.3.3.jar",
+                    "id": "5ARULl76",
+                    "parent_id": "OieZFwRr",
+                    "hashes": {
+                        "sha512": "ec5d3e5e33b13427167e83f07f65ab7545ace4fd9fb51292e42ae8bf7f2febced60964716bd8d3d7b6f52e3d8efb3be352d96381f39f78a774ecc557ee46b241",
+                        "sha1": "079f612d2b3eed5502896c7cd691969f33b7ab1c"
+                    },
+                    "required_dependencies": [],
+                    "size": 38566,
+                    "date_published": "2026-01-19T11:47:30.454136Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "zhFDnKsExM6T74ae",
             "type": "MOD",
             "side": "BOTH",
@@ -6109,6 +6170,7 @@
         {
             "pakku_id": "bvE1oS1h8fwbZpjQ",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "dimension-viewer-kots"
             },
@@ -7236,6 +7298,7 @@
                 "CIPyh8404K79xcNY"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "ftb-chunks-forge"
             },
@@ -7280,6 +7343,7 @@
                 "4xxbmg3jOTG8GnkU"
             ],
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "ftbxaerocompat"
             },
@@ -8691,6 +8755,67 @@
                     "required_dependencies": [],
                     "size": 925254,
                     "date_published": "2026-06-06T14:20:32.327Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "1H5O979rHWSJqvbY",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "immersive-melodies",
+                "modrinth": "immersive-melodies"
+            },
+            "name": {
+                "curseforge": "Immersive Melodies [Fabric/Forge]",
+                "modrinth": "Immersive Melodies"
+            },
+            "id": {
+                "curseforge": "904471",
+                "modrinth": "TaSmHw8V"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "immersive_melodies-neoforge-0.6.4+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8076/891/immersive_melodies-neoforge-0.6.4+1.21.1.jar",
+                    "id": "8076891",
+                    "parent_id": "904471",
+                    "hashes": {
+                        "sha1": "7c03c8f750bdcda75847e91d9eedde02ca6d1048",
+                        "md5": "03d6d811f7009d7bfb5fc838a779a7d4"
+                    },
+                    "required_dependencies": [],
+                    "size": 5521192,
+                    "date_published": "2026-05-12T07:30:02.377Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "immersive_melodies-neoforge-0.6.4+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/FRJWinhs/immersive_melodies-neoforge-0.6.4+1.21.1.jar",
+                    "id": "FRJWinhs",
+                    "parent_id": "TaSmHw8V",
+                    "hashes": {
+                        "sha512": "783fda607b23d4f164623e6fcb0fe6ce7005ed6af1b66f180d7e600136abc001f3c6f2199f52a234c2dbc1c4a39399ce46b81031586e26be540ffb7117223ea1",
+                        "sha1": "7c03c8f750bdcda75847e91d9eedde02ca6d1048"
+                    },
+                    "required_dependencies": [],
+                    "size": 5521192,
+                    "date_published": "2026-05-12T07:30:07.000847Z"
                 }
             ]
         },
@@ -11760,6 +11885,7 @@
         {
             "pakku_id": "tlzdAv0tS5A7zlAO",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "model-gap-fix"
             },
@@ -11897,6 +12023,7 @@
         {
             "pakku_id": "N2ACiDdY32Yq0cv5",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "modernfix"
             },
@@ -13916,6 +14043,7 @@
                 "twr8FVnsAPu2MX9M"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "ftb-quests-lang-splitter"
             },
@@ -15946,6 +16074,42 @@
                     ],
                     "size": 60833,
                     "date_published": "2026-04-21T19:51:52.317Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "UW4ogwDMA7ukZ5wZ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "structureoverlapless"
+            },
+            "name": {
+                "curseforge": "StructureOverlapless"
+            },
+            "id": {
+                "curseforge": "1451998"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "overlapless-1.21.1-1.2.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7722/759/overlapless-1.21.1-1.2.0.jar",
+                    "id": "7722759",
+                    "parent_id": "1451998",
+                    "hashes": {
+                        "sha1": "972d00883bde994b3adc05614acd0f251fdb86ce",
+                        "md5": "1f0b9dcff7704063fd7deebb799fa5f5"
+                    },
+                    "required_dependencies": [],
+                    "size": 16585,
+                    "date_published": "2026-03-07T05:21:34.600Z"
                 }
             ]
         },
