@@ -50,21 +50,6 @@
                 "stxck"
             ]
         },
-        "lets-do-vinery": {
-            "aliases": [
-                "vinery"
-            ]
-        },
-        "lets-do-meadow": {
-            "aliases": [
-                "meadow"
-            ]
-        },
-        "lets-do-beachparty": {
-            "aliases": [
-                "beachparty"
-            ]
-        },
         "time-in-a-bottle-universal": {
             "redistributable": true,
             "aliases": [
@@ -82,19 +67,10 @@
                 "arch"
             ]
         },
-        "open-parties-and-claims": {
-            "side": "BOTH",
-            "aliases": [
-                "opac"
-            ]
-        },
         "its-the-little-things": {
             "aliases": [
                 "itlt"
             ]
-        },
-        "when-dungeons-arise-seven-seas": {
-            "update_strategy": "NONE"
         },
         "3dskinlayers": {
             "redistributable": true
@@ -106,7 +82,6 @@
             "redistributable": true
         },
         "create-fast-schematiccannon": {
-            "update_strategy": "NONE",
             "redistributable": true
         },
         "entityculling": {
@@ -310,8 +285,8 @@
             "side": "BOTH"
         },
         "irisshaders": {
-            "side": "BOTH",
-            "update_strategy": "NONE"
+            "side": "CLIENT",
+            "update_strategy": "LATEST"
         },
         "irons-spells-n-spellbooks": {
             "side": "BOTH"
@@ -411,11 +386,11 @@
         },
         "sodium": {
             "side": "CLIENT",
-            "update_strategy": "NONE"
+            "update_strategy": "LATEST"
         },
         "sodium-extra": {
             "side": "CLIENT",
-            "update_strategy": "NONE"
+            "update_strategy": "LATEST"
         },
         "mechanical-millstone": {
             "side": "BOTH"
@@ -423,11 +398,11 @@
         "create-bitterballen": {
             "side": "BOTH"
         },
-        "reeses-sodium-options": {
-            "update_strategy": "NONE"
-        },
         "keymap-maintained": {
             "side": "CLIENT"
+        },
+        "reeses-sodium-options": {
+            "update_strategy": "LATEST"
         }
     }
 }
