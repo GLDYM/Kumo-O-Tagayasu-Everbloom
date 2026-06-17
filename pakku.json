@@ -428,6 +428,9 @@
         },
         "dimension-viewer-kots": {
             "side": "BOTH"
+        },
+        "we-do-copyright": {
+            "side": "CLIENT"
         }
     }
 }

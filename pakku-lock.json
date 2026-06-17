@@ -17531,6 +17531,67 @@
             ]
         },
         {
+            "pakku_id": "5yfHiotsuWxKYgAj",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "we-do-copyright",
+                "modrinth": "we-do-copyright"
+            },
+            "name": {
+                "curseforge": "We Do Copyright",
+                "modrinth": "We Do Copyright"
+            },
+            "id": {
+                "curseforge": "1254805",
+                "modrinth": "Omqm1rvx"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "wedocopyright-neoforge-1.21.1-0.0.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6555/886/wedocopyright-neoforge-1.21.1-0.0.6.jar",
+                    "id": "6555886",
+                    "parent_id": "1254805",
+                    "hashes": {
+                        "sha1": "6e14b85e835e732ad72e2aff034f853b77ae3ee2",
+                        "md5": "3d12a63fde1e686e6433fa5d3b6a864c"
+                    },
+                    "required_dependencies": [],
+                    "size": 24361,
+                    "date_published": "2025-05-22T15:23:05.493Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "wedocopyright-neoforge-1.21.1-0.0.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Omqm1rvx/versions/VrRSPwRe/wedocopyright-neoforge-1.21.1-0.0.6.jar",
+                    "id": "VrRSPwRe",
+                    "parent_id": "Omqm1rvx",
+                    "hashes": {
+                        "sha512": "6665b2dbd356e27a361f403b872c419ab64a41070bad121491e30da2eab1965741cce6754e2ba7771c12e78b910781fc9e787e6de174461f0e01b234a407fe6a",
+                        "sha1": "6e14b85e835e732ad72e2aff034f853b77ae3ee2"
+                    },
+                    "required_dependencies": [],
+                    "size": 24361,
+                    "date_published": "2025-05-22T15:22:05.876799Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "SNPrlpwl74QVbkk4",
             "pakku_links": [
                 "VOvevEyBnihiWBDS"
