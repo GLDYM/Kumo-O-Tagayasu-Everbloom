@@ -45,21 +45,16 @@ AGPL-v3-or-later. If you want to implement some special requirements, you need t
 
 Later parts of the license:
 
-You are allowed to do the following, but you need to keep the author, original work information and project address (TskimiSeiran & Polaris_Light, Kumo O Tagayasu):
+You are allowed to do the following, but you need to keep the author, original work information and project address (Polaris_Light & ArcHosheri, Kumo O Tagayasu):
 
-- Create multimedia works such as videos using this modpack and make money with this modpack without modifying the modpack or resourcepack.
-- Store, redistribute or open a not-pay-2-win server of the modpack or resourcepack without modifying the modpack or resourcepack.
-- Open a not-pay-2-win server of the modpack or resourcepack and accept sponsors.
-- Modify the modpack or resourcepack and distribute the modified modpack or resourcepack. You must publicly distribute the modified modpack or resourcepack and distribute it under the same license. I will not provide any help support for the modified modpack or resourcepack.
+- Create multimedia works such as videos using this modpack and make money with this modpack without modifying the modpack.
+- Store, redistribute or open a server of the modpack without modifying the modpack.
+- Modify the modpack and distribute the modified modpack. You must publicly distribute the modified modpack (including the server pack) and distribute it under the same license.
 
 
 You are forbidden to do the following:
 
-- Open a pay-2-win server of the modpack.
-- Sell this modpack and resourcepack.
-- Redistribute this modpack and resourcepack on Curseforge or Modrinth, which will get the benefits of the platform.
-
-## Special Thanks
-
-- [浅忆星名 ArcHosheri](https://github.com/ArcHosheri)
+- Modify the modpack and distribute it, or open a server of the modified modpack, but not under the same license.
+- Sell this modpack for profit.
+- Redistribute this modpack and resourcepack on other platforms, which will get the benefits of the platform.
 
