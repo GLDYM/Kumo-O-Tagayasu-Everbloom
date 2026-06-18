@@ -443,6 +443,9 @@
         },
         "enchantment-library-at-home-unofficial": {
             "side": "BOTH"
+        },
+        "vanillin": {
+            "side": "CLIENT"
         }
     }
 }
