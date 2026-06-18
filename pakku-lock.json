@@ -996,6 +996,67 @@
             ]
         },
         {
+            "pakku_id": "Mt6ajjBKOuTmm8Cb",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "better-modlist-neoforge",
+                "modrinth": "better-modlist"
+            },
+            "name": {
+                "curseforge": "Better Modlist",
+                "modrinth": "Better ModList"
+            },
+            "id": {
+                "curseforge": "1089803",
+                "modrinth": "sbpqhzIG"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "better_modlist-1.1.22.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7711/471/better_modlist-1.1.22.jar",
+                    "id": "7711471",
+                    "parent_id": "1089803",
+                    "hashes": {
+                        "sha1": "c5c49876cf0e036c631b0909fed6903d7e28cc45",
+                        "md5": "bf4fbf95b72b0c1726164669db6b3a1e"
+                    },
+                    "required_dependencies": [],
+                    "size": 805721,
+                    "date_published": "2026-03-04T20:01:41.077Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "better_modlist-1.1.22.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sbpqhzIG/versions/XlCN7NWa/better_modlist-1.1.22.jar",
+                    "id": "XlCN7NWa",
+                    "parent_id": "sbpqhzIG",
+                    "hashes": {
+                        "sha512": "99b39ffaaa04c0332602174c4b65445b3defdc6db1dc0a881b7c4bcd477734994d41d9a74bc5dc7066f8feeddc5075f62f926eb3ecabad135c7d381181ada1a9",
+                        "sha1": "c5c49876cf0e036c631b0909fed6903d7e28cc45"
+                    },
+                    "required_dependencies": [],
+                    "size": 805721,
+                    "date_published": "2026-03-04T20:01:43.217445Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "0Vu5Aoye3Cm1AwaB",
             "type": "MOD",
             "side": "CLIENT",
@@ -14751,6 +14812,72 @@
             ]
         },
         {
+            "pakku_id": "OrWhFR9C1122h15X",
+            "pakku_links": [
+                "VOvevEyBnihiWBDS"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "ruok",
+                "modrinth": "ruok"
+            },
+            "name": {
+                "curseforge": "RuOK",
+                "modrinth": "RuOK"
+            },
+            "id": {
+                "curseforge": "910904",
+                "modrinth": "aTsegPV0"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7621/820/ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.jar",
+                    "id": "7621820",
+                    "parent_id": "910904",
+                    "hashes": {
+                        "sha1": "39cc42ccf160c15555e6081493e8cca4985112bc",
+                        "md5": "1928053834a8d5ee6d1ba7e06d3876de"
+                    },
+                    "required_dependencies": [
+                        "348521"
+                    ],
+                    "size": 444850,
+                    "date_published": "2026-02-14T02:02:12.993Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/aTsegPV0/versions/YXNuzdhD/ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.jar",
+                    "id": "YXNuzdhD",
+                    "parent_id": "aTsegPV0",
+                    "hashes": {
+                        "sha512": "303d212150f67fa66ae116a75b55a60be6db2de064989146ca228d590834ba708d19714c50a2c5c89b101bb3f73dd9baa857db72885eb0d1513b11d0d86ac766",
+                        "sha1": "39cc42ccf160c15555e6081493e8cca4985112bc"
+                    },
+                    "required_dependencies": [],
+                    "size": 444850,
+                    "date_published": "2026-02-12T14:10:58.004406Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "PCkohHDqpYOrOTTG",
             "type": "MOD",
             "side": "BOTH",
@@ -17485,6 +17612,43 @@
                     "required_dependencies": [],
                     "size": 4931591,
                     "date_published": "2026-04-10T10:49:54.126410Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "v4JmPvpJgvrBH6LH",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "vanillin"
+            },
+            "name": {
+                "curseforge": "Vanillin"
+            },
+            "id": {
+                "curseforge": "965702"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "vanillin-neoforge-1.21.1-1.1.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6446/551/vanillin-neoforge-1.21.1-1.1.3.jar",
+                    "id": "6446551",
+                    "parent_id": "965702",
+                    "hashes": {
+                        "sha1": "fae8bb9f13cd9d086949b9aca85956bb6fa47f56",
+                        "md5": "cd4a8b1d475a28608ea0f78a602b1340"
+                    },
+                    "required_dependencies": [],
+                    "size": 870344,
+                    "date_published": "2025-04-21T04:25:34.820Z"
                 }
             ]
         },
