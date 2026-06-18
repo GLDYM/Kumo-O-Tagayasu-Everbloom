@@ -2,12 +2,18 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "builder"
-	group: ""
+	group: "7B06BDC499F7BB13"
+	icon: {
+		id: "ultramarine:large_blue_and_white_porcelain_vase"
+	}
 	id: "62D0845AFC5AA861"
-	order_index: 2
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
+			icon: {
+				id: "ultramarine:large_blue_and_white_porcelain_vase"
+			}
 			id: "43779E819BF3A6AD"
 			shape: "gear"
 			size: 3.0d
@@ -20,6 +26,9 @@
 		}
 		{
 			dependencies: ["43779E819BF3A6AD"]
+			icon: {
+				id: "another_furniture:pink_sofa"
+			}
 			id: "7A82823089777A66"
 			rewards: [
 				{
@@ -137,6 +146,9 @@
 		}
 		{
 			dependencies: ["43779E819BF3A6AD"]
+			icon: {
+				id: "beautify:hanging_pot"
+			}
 			id: "786A7E4038D8861A"
 			rewards: [
 				{
@@ -238,6 +250,9 @@
 		}
 		{
 			dependencies: ["43779E819BF3A6AD"]
+			icon: {
+				id: "createdeco:short_red_bricks"
+			}
 			id: "2B791924FEC9F89C"
 			rewards: [{
 				count: 16
@@ -258,6 +273,9 @@
 		}
 		{
 			dependencies: ["43779E819BF3A6AD"]
+			icon: {
+				id: "createprism:andesite_glass_casing"
+			}
 			id: "0AF4E293AC99133D"
 			rewards: [{
 				id: "3975185A08143A89"
@@ -277,6 +295,9 @@
 		}
 		{
 			dependencies: ["43779E819BF3A6AD"]
+			icon: {
+				id: "tsuki:kawara"
+			}
 			id: "48B5C9817AAB805E"
 			rewards: [{
 				id: "4C78DC2B907AF8BF"
@@ -318,6 +339,9 @@
 		}
 		{
 			dependencies: ["43779E819BF3A6AD"]
+			icon: {
+				id: "dramaticdoors:tall_cherry_door"
+			}
 			id: "4A8236B3F4896489"
 			rewards: [
 				{
@@ -347,6 +371,9 @@
 		}
 		{
 			dependencies: ["43779E819BF3A6AD"]
+			icon: {
+				id: "nightlights:mushroom_yellow"
+			}
 			id: "6173E8F5CA64472F"
 			rewards: [{
 				count: 4
@@ -367,6 +394,9 @@
 		}
 		{
 			dependencies: ["43779E819BF3A6AD"]
+			icon: {
+				id: "ultramarine:blue_and_white_porcelain_vase"
+			}
 			id: "3ADB1EA83AC6C6F5"
 			rewards: [{
 				count: 64
@@ -387,6 +417,9 @@
 		}
 		{
 			dependencies: ["43779E819BF3A6AD"]
+			icon: {
+				id: "waterframes:big_tv"
+			}
 			id: "1A65287EE0DC50D9"
 			rewards: [{
 				id: "4A88342FDEF385DC"
@@ -406,6 +439,9 @@
 		}
 		{
 			dependencies: ["43779E819BF3A6AD"]
+			icon: {
+				id: "railways:brass_wrapped_locometal"
+			}
 			id: "52E26074C74E2395"
 			rewards: [{
 				count: 4
@@ -427,7 +463,7 @@
 		{
 			dependencies: ["43779E819BF3A6AD"]
 			icon: {
-				id: "immersive_furniture:furniture"
+				id: "immersive_furniture:artisans_workstation"
 			}
 			id: "16369530ADEC5DC3"
 			rewards: [

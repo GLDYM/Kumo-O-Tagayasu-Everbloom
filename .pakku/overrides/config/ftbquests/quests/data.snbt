@@ -12,6 +12,12 @@
 	fallback_locale: ""
 	grid_scale: 0.5d
 	hide_excluded_quests: false
+	icon: {
+		components: {
+			"ftbquests:icon": "kots:textures/icon.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
 	lock_message: ""
 	loot_crate_no_drop: {
 		boss: 0
@@ -19,7 +25,7 @@
 		passive: 4000
 	}
 	pause_game: false
-	progression_mode: "linear"
+	progression_mode: "flexible"
 	show_lock_icons: true
 	verify_on_load: false
 	version: 13

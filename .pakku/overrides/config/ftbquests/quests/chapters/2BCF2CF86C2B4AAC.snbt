@@ -1,0 +1,160 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2BCF2CF86C2B4AAC"
+	group: "7B06BDC499F7BB13"
+	icon: {
+		id: "beyonddimensions:net_creater"
+	}
+	id: "2BCF2CF86C2B4AAC"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"beyonddimensions:long_data": 3590L
+					"beyonddimensions:time_line": 205680L
+				}
+				id: "beyonddimensions:unstable_space_time_fragment"
+			}
+			id: "09CCAB87A49EF0B1"
+			rewards: [{
+				id: "0DE8870BF4625027"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "542A5D70FF59C076"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["09CCAB87A49EF0B1"]
+			icon: {
+				id: "tsuki:magatama_white"
+			}
+			id: "6625201DD79B477F"
+			size: 2.0d
+			tasks: [{
+				id: "1117A71DCBE80D90"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["09CCAB87A49EF0B1"]
+			icon: {
+				id: "tsuki:magatama_purple"
+			}
+			id: "76222A45895DBEF7"
+			size: 2.0d
+			tasks: [{
+				id: "3DE4FB5E9E621B3F"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["09CCAB87A49EF0B1"]
+			icon: {
+				id: "tsuki:magatama_pink"
+			}
+			id: "299F2DDDFE0A05C3"
+			size: 2.0d
+			tasks: [{
+				id: "5A8D5B13348A6F61"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["09CCAB87A49EF0B1"]
+			icon: {
+				id: "majobroom:broom"
+			}
+			id: "5A96ACC5E3DC55C5"
+			size: 2.0d
+			tasks: [{
+				id: "6A358B9F2A3A2398"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["09CCAB87A49EF0B1"]
+			icon: {
+				components: {
+					"minecraft:unbreakable": { }
+				}
+				id: "irons_spellbooks:netherite_mage_helmet"
+			}
+			id: "4EE8AA8ECF91AD2C"
+			size: 2.0d
+			tasks: [{
+				id: "6AF8905741BEF347"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["09CCAB87A49EF0B1"]
+			icon: {
+				id: "createrailwaysnavigator:navigator"
+			}
+			id: "1435909F644559E4"
+			size: 2.0d
+			tasks: [{
+				id: "50873C309475BA0D"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"3EC718092B2DD9AD"
+				"09CCAB87A49EF0B1"
+			]
+			icon: {
+				id: "javd:portal_block"
+			}
+			id: "7C9C4273DE5BA099"
+			rewards: [{
+				id: "7F7BCC927FBEB338"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "1B68C36BF99EAEC5"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["09CCAB87A49EF0B1"]
+			icon: {
+				id: "beyonddimensions:net_creater"
+			}
+			id: "44A6D74DDF8E0DE8"
+			size: 2.0d
+			tasks: [{
+				id: "1477DEBD02ACE5A9"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+	]
+}

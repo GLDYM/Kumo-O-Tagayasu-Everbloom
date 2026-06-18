@@ -6714,6 +6714,43 @@
             ]
         },
         {
+            "pakku_id": "uz99gJpmtVQyqyab",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "enchantment-library-at-home-unofficial"
+            },
+            "name": {
+                "curseforge": "Enchantment Library at Home Unofficial"
+            },
+            "id": {
+                "curseforge": "1578297"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "enchlibathome-unofficial-1.1.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8263/817/enchlibathome-unofficial-1.1.0.jar",
+                    "id": "8263817",
+                    "parent_id": "1578297",
+                    "hashes": {
+                        "sha1": "d34766127c3ef6a088019ce12a7a0831a665bbbe",
+                        "md5": "69256039187006e512ee15245764a997"
+                    },
+                    "required_dependencies": [],
+                    "size": 252807,
+                    "date_published": "2026-06-17T05:31:57.003Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8AQ6RjKRAjCRKMym",
             "pakku_links": [
                 "exCP2y0syJVA9jKo"
@@ -8694,6 +8731,69 @@
                     "required_dependencies": [],
                     "size": 213853,
                     "date_published": "2025-04-14T22:15:45.515971Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "eJASAfvQof1V5nN9",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "immediatelyfast",
+                "modrinth": "immediatelyfast"
+            },
+            "name": {
+                "curseforge": "ImmediatelyFast",
+                "modrinth": "ImmediatelyFast"
+            },
+            "id": {
+                "curseforge": "686911",
+                "modrinth": "5ZwdcRci"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7537/795/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+                    "id": "7537795",
+                    "parent_id": "686911",
+                    "hashes": {
+                        "sha1": "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb",
+                        "md5": "567bb6d9155070ad858740af12450c63"
+                    },
+                    "required_dependencies": [],
+                    "size": 368598,
+                    "date_published": "2026-01-27T21:12:04.863Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/PhxY0iHw/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+                    "id": "PhxY0iHw",
+                    "parent_id": "5ZwdcRci",
+                    "hashes": {
+                        "sha512": "93fb2685547f1c7d95b558b3b24efd53551b8ab6978b52483d2924a03de044e992669f83e2ee73f9ad1308035b932de431f4f662a971f496c7fdc55195aebd7b",
+                        "sha1": "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb"
+                    },
+                    "required_dependencies": [],
+                    "size": 368598,
+                    "date_published": "2026-01-27T21:12:05.910461Z"
                 }
             ]
         },
@@ -10734,6 +10834,97 @@
             ]
         },
         {
+            "pakku_id": "8shvmcUcCV9rtb9F",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "language-amend",
+                "modrinth": "language-amend"
+            },
+            "name": {
+                "curseforge": "Language Amend",
+                "modrinth": "Language Amend"
+            },
+            "id": {
+                "curseforge": "1478308",
+                "modrinth": "BTMYWGIs"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lang_amend-1.0.0-mc1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.2-Snapshot",
+                        "1.21",
+                        "1.21.6-snapshot",
+                        "1.21.1-Snapshot",
+                        "1.21.8",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.5-Snapshot",
+                        "1.21.1",
+                        "1.21.6",
+                        "1.21.3",
+                        "1.21.7",
+                        "1.21-Snapshot",
+                        "1.21.4-Snapshot",
+                        "1.21.2",
+                        "1.21.9-snapshot",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11-snapshot",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7821/118/lang_amend-1.0.0-mc1.21.1-neoforge.jar",
+                    "id": "7821118",
+                    "parent_id": "1478308",
+                    "hashes": {
+                        "sha1": "016ddfce435703ef65397038143eae562c2edc86",
+                        "md5": "91f4656292d322296ffa50f58bf7dea0"
+                    },
+                    "required_dependencies": [],
+                    "size": 7726,
+                    "date_published": "2026-03-27T04:52:52.583Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "lang_amend-1.0.0-mc1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/BTMYWGIs/versions/UEe651db/lang_amend-1.0.0-mc1.21.1-neoforge.jar",
+                    "id": "UEe651db",
+                    "parent_id": "BTMYWGIs",
+                    "hashes": {
+                        "sha512": "fcceb76b2d8ee640b7524065d3e72eafdc242cfd0d3bd749a2f104311f63e00a0bb76f20dc2c8278e69df8bfdeb968981d3fbac3bc9ffbc53c21cc75851dee4a",
+                        "sha1": "15682365ea0e95ad2215bbfb9726e8cc1dc35301"
+                    },
+                    "required_dependencies": [],
+                    "size": 7736,
+                    "date_published": "2026-03-05T15:22:01.628011Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "TT4iULCPPJ2RCzT0",
             "pakku_links": [
                 "o9j6QXxI1Vu80Kw2"
@@ -11699,6 +11890,77 @@
                     ],
                     "size": 2503273,
                     "date_published": "2026-04-24T10:56:45.090Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "cBUjBnqNltqlqC0R",
+            "pakku_links": [
+                "Vy12xXWcFO1oKyQL",
+                "uXhX9Z8FPq6N3zNc"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "maidusehandcrank",
+                "modrinth": "maidusehandcrank"
+            },
+            "name": {
+                "curseforge": "MaidUseHandCrank",
+                "modrinth": "MaidUseHandCrank"
+            },
+            "id": {
+                "curseforge": "1347168",
+                "modrinth": "kVNtrRcL"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MaidUseHandCrank_1.6.2-neoforge_21.1.219-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8226/845/MaidUseHandCrank_1.6.2-neoforge_21.1.219-1.21.1.jar",
+                    "id": "8226845",
+                    "parent_id": "1347168",
+                    "hashes": {
+                        "sha1": "b6105222645e2946bb93186d133e8e03baa61e88",
+                        "md5": "72a641eaa2c76b0703eec5978a94c6bb"
+                    },
+                    "required_dependencies": [
+                        "328085",
+                        "355044"
+                    ],
+                    "size": 157169,
+                    "date_published": "2026-06-10T14:37:29.640Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MaidUseHandCrank_1.6.2-neoforge_21.1.219-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/kVNtrRcL/versions/Qu15bii2/MaidUseHandCrank_1.6.2-neoforge_21.1.219-1.21.1.jar",
+                    "id": "Qu15bii2",
+                    "parent_id": "kVNtrRcL",
+                    "hashes": {
+                        "sha512": "fe494ede9d041351f24ffb74ea30365ad0a7d5d3e93eaa855c7cdd90b0d079e530ae705f406e6b2cfc35d1d9f1e9c41c86036a0857318009b9e20ed229be172e",
+                        "sha1": "b6105222645e2946bb93186d133e8e03baa61e88"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc",
+                        "R0bDWFAW"
+                    ],
+                    "size": 157169,
+                    "date_published": "2026-06-10T14:36:11.247647Z"
                 }
             ]
         },
@@ -18049,6 +18311,85 @@
                     "required_dependencies": [],
                     "size": 203149,
                     "date_published": "2025-12-28T21:00:18.426451Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "WcCzzuniHbEEuCDh",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "quick-pack",
+                "modrinth": "quick-pack"
+            },
+            "name": {
+                "curseforge": "quick pack",
+                "modrinth": "quick pack"
+            },
+            "id": {
+                "curseforge": "1380888",
+                "modrinth": "pSISfJ4O"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "quick-pack-neoforge-1.3.2+1.21.8.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.8",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.1",
+                        "1.21.6",
+                        "1.21.3",
+                        "1.21.7",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7971/545/quick-pack-neoforge-1.3.2+1.21.8.jar",
+                    "id": "7971545",
+                    "parent_id": "1380888",
+                    "hashes": {
+                        "sha1": "ab5b3a0b0b02005f0a92966a9df59f18fae870e0",
+                        "md5": "c8b7c6f25fb3192c8532dee670ac84a5"
+                    },
+                    "required_dependencies": [],
+                    "size": 11507,
+                    "date_published": "2026-04-23T10:29:32.523Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "quick-pack-neoforge-1.3.2+1.21.8.jar",
+                    "mc_versions": [
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/pSISfJ4O/versions/A5J7bhL4/quick-pack-neoforge-1.3.2+1.21.8.jar",
+                    "id": "A5J7bhL4",
+                    "parent_id": "pSISfJ4O",
+                    "hashes": {
+                        "sha512": "f5476227000e7393fc1cd90f2afc74ba0a46941f4f443e547e337bcb928054501a54d80a18c2fa358df0e61c0d77e21b72434e24ac73cbd85f4d3163cb931c6c",
+                        "sha1": "ab5b3a0b0b02005f0a92966a9df59f18fae870e0"
+                    },
+                    "required_dependencies": [],
+                    "size": 11507,
+                    "date_published": "2026-04-23T10:29:32.240225Z"
                 }
             ]
         },

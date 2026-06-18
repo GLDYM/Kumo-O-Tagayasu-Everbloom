@@ -3,19 +3,29 @@
 	default_quest_shape: ""
 	filename: "kots"
 	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "kots:textures/icon.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
 	id: "4E613FC27F99E31B"
 	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
-			id: "0B601BCA41EB2F50"
-			rewards: [
-				{
-					id: "17EB9702B4363F8F"
-					type: "xp_levels"
-					xp_levels: 5
+			icon: {
+				components: {
+					"ftbquests:icon": "kots:textures/icon.png"
 				}
-			]
+				id: "ftbquests:custom_icon"
+			}
+			id: "0B601BCA41EB2F50"
+			rewards: [{
+				id: "17EB9702B4363F8F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			shape: "octagon"
 			size: 3.0d
 			tasks: [{
@@ -26,50 +36,26 @@
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"3EC718092B2DD9AD"
-				"0B601BCA41EB2F50"
-			]
-			id: "3F9AEF0173E0E139"
-			rewards: [{
-				id: "490021DC31EBE801"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			size: 3.0d
-			tasks: [
-				{
-					id: "3AA700F5E7BAF386"
-					item: { count: 1, id: "javd:portal_block" }
-					type: "item"
-				}
-				{
-					id: "39EE518257947B3C"
-					item: { count: 1, id: "jamd:nether_portal" }
-					type: "item"
-				}
-				{
-					id: "6E3DA9D5029AAA30"
-					item: { count: 1, id: "jamd:portal_block" }
-					type: "item"
-				}
-				{
-					id: "33BAB6CF83624E69"
-					item: { count: 1, id: "jamd:end_portal" }
-					type: "item"
-				}
-			]
-			x: 5.0d
-			y: 0.0d
-		}
-		{
 			dependencies: ["0B601BCA41EB2F50"]
+			icon: {
+				id: "create_power_loader:brass_chunk_loader"
+			}
 			id: "27694D4475BD7343"
-			rewards: [{
-				id: "0587A94499760C2D"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
+			rewards: [
+				{
+					id: "0587A94499760C2D"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "4B4266736DE2C8A3"
+					item: {
+						count: 1
+						id: "create_power_loader:brass_chunk_loader"
+					}
+					type: "item"
+				}
+			]
 			size: 3.0d
 			tasks: [{
 				id: "0A01F20FB4D3AF6F"
@@ -80,6 +66,10 @@
 		}
 		{
 			dependencies: ["0B601BCA41EB2F50"]
+			hide_until_deps_complete: false
+			icon: {
+				id: "l2complements:reinforced_warp_stone"
+			}
 			id: "78A51FD4EF36DBB8"
 			rewards: [{
 				id: "70E08BD8217553E8"
@@ -96,6 +86,9 @@
 		}
 		{
 			dependencies: ["0B601BCA41EB2F50"]
+			icon: {
+				id: "netmusic:music_cd"
+			}
 			id: "3CF891C9B8918248"
 			rewards: [
 				{
@@ -123,6 +116,9 @@
 		}
 		{
 			dependencies: ["0B601BCA41EB2F50"]
+			icon: {
+				id: "minecraft:birch_sign"
+			}
 			id: "169D11082217C28C"
 			rewards: [
 				{
@@ -150,6 +146,9 @@
 		}
 		{
 			dependencies: ["0B601BCA41EB2F50"]
+			icon: {
+				id: "tsuki:sakura_diamond"
+			}
 			id: "11F285DA4FAB8F4D"
 			size: 3.0d
 			tasks: [{
@@ -157,6 +156,20 @@
 				type: "checkmark"
 			}]
 			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0B601BCA41EB2F50"]
+			icon: {
+				id: "supplementaries:checker_block"
+			}
+			id: "64F74F8F019A67D5"
+			size: 3.0d
+			tasks: [{
+				id: "575BF8E245275BF3"
+				type: "checkmark"
+			}]
+			x: 5.5d
 			y: 0.0d
 		}
 	]

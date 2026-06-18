@@ -9,11 +9,29 @@
 	quests: [{
 		dependency_requirement: "one_completed"
 		id: "405DCF35DAB526A7"
-		rewards: [{
-			id: "6CC3041DFE474FA7"
-			type: "xp_levels"
-			xp_levels: 5
-		}]
+		rewards: [
+			{
+				id: "6CC3041DFE474FA7"
+				type: "xp_levels"
+				xp_levels: 5
+			}
+			{
+				id: "0D7CD1AE2DEC9AD4"
+				item: {
+					count: 1
+					id: "immortalers_delight:clear_water_vodka"
+				}
+				type: "item"
+			}
+			{
+				id: "1859F24D4197FAEC"
+				item: {
+					count: 1
+					id: "tsuki:mythery_mix"
+				}
+				type: "item"
+			}
+		]
 		size: 3.0d
 		tasks: [{
 			id: "49787755A644FF6D"

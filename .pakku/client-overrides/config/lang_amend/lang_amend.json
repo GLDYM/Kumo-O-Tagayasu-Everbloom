@@ -1,0 +1,5 @@
+{
+ "lzh": ["zh_tw", "zh_hk", "zh_cn"],
+ "zh_tw": ["zh_hk", "zh_cn"],
+ "zh_hk": ["zh_cn"]
+}
