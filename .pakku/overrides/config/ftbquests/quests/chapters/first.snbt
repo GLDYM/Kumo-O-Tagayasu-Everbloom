@@ -2,18 +2,24 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "first"
-	group: "3B8AF43E1258A852"
+	group: "7B06BDC499F7BB13"
+	icon: {
+		id: "danmaku_api:red_bubble_danmaku"
+	}
 	id: "3513B62C05496513"
 	order_index: 0
 	quest_links: [ ]
 	quests: [{
+		icon: {
+			id: "danmaku_api:red_bubble_danmaku"
+		}
 		id: "378D3CC29AE2D546"
 		rewards: [{
 			id: "73D9CEE568158EAC"
 			type: "xp_levels"
 			xp_levels: 5
 		}]
-		size: 3.0d
+		size: 5.0d
 		tasks: [{
 			id: "04668CF80B2DFF59"
 			type: "checkmark"

@@ -14,7 +14,6 @@
 	chapter.4D403121650ECA4F.title: "&aYokais from Gensokyo"
 	chapter.4E613FC27F99E31B.title: "&bZen of Kumo O Tagayasu"
 	chapter.62D0845AFC5AA861.title: "&bArchitect's Design Book"
-	chapter.6D7D8225B036C476.title: "&5Queen of Bumblezone"
 	chapter.6DB018F4F6E98490.title: "&5Forbidden Knowledge Seeker"
 	chapter.7E134D75B3BBB797.title: "&5Forgemaster of Divine Arms"
 	quest.000011C9AE0A0DDD.quest_desc: [
@@ -28,16 +27,6 @@
 		""
 		"Once bound, any player can access the network, regardless of membership."
 	]
-	quest.00CB074F6151ED67.quest_desc: [
-		"All l2backpacks containers can be configured with the Config Tool:"
-		""
-		"&aCategorize:&r “All categorize” pulls all newly obtained items into the container; “Stack categorize” only fills existing stacks, leaving empty slots free."
-		""
-		"Categorization supports recursion: if a trinket‑slot backpack contains a Crystal Box for cobblestone, and both are set to Stack Categorize, any new cobblestone goes straight into the box. Use this to build a wearable warehouse."
-		""
-		"&aDestroy:&r Fine‑tune behavior while categorizing. Overflow Destroy deletes new items when the container is full—best for boxes; Filter Destroy deletes items already present in the backpack—best for decor/special‑item pouches. “Destroy all” is rarely used."
-	]
-	quest.00CB074F6151ED67.title: "Categorize \\& destroy"
 	quest.00D3C0C803F2B634.quest_desc: ["New versions add different cookware for preparing various foods. Soup pots require stirring with a ladle."]
 	quest.00D3C0C803F2B634.title: "Cookware of Different Sizes"
 	quest.019A2FFFBB30A794.quest_desc: ["Fast and faster."]
@@ -49,16 +38,6 @@
 	]
 	quest.033391C05A008D51.title: "Prepare Batter"
 	quest.037508473C03F324.quest_desc: ["Ender Drawers share one storage space per item. Compared to opaque Void Chests, they're better for item transport."]
-	quest.048513B30AB7529F.quest_desc: [
-		"&o&3Rumor has it, if you master a special magic, you can turn objects into human form…&r"
-		""
-		"Press &a[R]&r to summon or dismiss the broom. &a[Space]&r ascends, &a[Left Ctrl]&r descends."
-		""
-		"Press &a[Y]&r could toggle settings, like spectator and speed."
-		""
-		"&bCompared to other flying tools, the broom is clunky for short trips but excellent for long-distance travel."
-	]
-	quest.048513B30AB7529F.title: "Majo's Broom"
 	quest.04C76712E7F764B3.quest_desc: ["Only gear with &e“Can be Imbued (0/1)”&f in its tooltip can be infused. (Scrolls on weapons become right‑click skills; infusing clothes adds a spell slot.)"]
 	quest.05F42BBC3C7B250D.quest_desc: ["Weave straws to make coarse cloth, which can be processed further."]
 	quest.05F42BBC3C7B250D.title: "Coarse Cloth"
@@ -78,13 +57,6 @@
 		"&aOne possible approach: after hitting with Black Fire Charge, finish with magic."
 	]
 	quest.092B2860A97504A4.quest_desc: ["Can produce XP particles, but requires further processing to convert into liquid XP."]
-	quest.0AA23737B8B3A3D6.quest_desc: [
-		"With the help of soul fragments of the Echo of Tyros,First Flamebearer, a corner of spacetime is torn open. But the rift is not yet large enough and still needs time to stabilize."
-		""
-		"[INFO]&b New mod added in 5.4.2, aimed at solving severe lag caused by large-scale storage in late game. Short-term players can skip it. The Building Staff can directly extract blocks from the network for placement."
-	]
-	quest.0AA23737B8B3A3D6.quest_subtitle: "Chapter Author: Polaris_Light"
-	quest.0AA23737B8B3A3D6.title: "&6Tear Open a Corner of Spacetime"
 	quest.0AF4E293AC99133D.quest_desc: [
 		"@createprism"
 		""
@@ -146,15 +118,6 @@
 	quest.0F942D9DF85807D3.quest_desc: ["Material trait: durability never decreases. Extremely high base stats."]
 	quest.0FD51F6F22CE57FB.quest_desc: ["Fill a salt pan with water and sun it until half-dry, then bottle the remaining brine inside to obtain bittern. Bittern is used to curdle tofu."]
 	quest.0FD51F6F22CE57FB.title: "Obtaining bittern"
-	quest.108C208E4E138613.quest_desc: [
-		"Similar to Ender Drawers in Functional Storage: This Ender Drawers for the same player and item share one storage space, but Ender Pouches can also pull items straight from your inventory."
-		""
-		"If you've placed an Ender Drawer for a given item in the world, it will help move matching items from your inventory back to your base."
-		""
-		"Downside: it only stores 64 stacks and isn't suited for true bulk storage."
-		""
-		"Craft the Ender Drawer in a crafting grid to clear its bound item."
-	]
 	quest.1094D423ABADF283.quest_desc: [
 		"For certain creatures, killing them with a knife grants extra drops."
 		""
@@ -183,24 +146,6 @@
 	quest.11F285DA4FAB8F4D.title: "About the Sign-In System"
 	quest.12CE02EB9F216ECC.quest_desc: ["You've probably found many spell scrolls. Most can be cast directly with right‑click &4(consuming the scroll!)&f. A better way is to inscribe them into a spellbook, so you can cast freely!"]
 	quest.12CE02EB9F216ECC.title: "Scrolls"
-	quest.12DEEAA54E86A717.quest_desc: [
-		"It's just a “normal” backpack—the start of nesting dolls…"
-		""
-		"&aOpen:&r Right‑click to open the backpack in any GUI, or right‑click from the hotbar; you can also equip it in the trinket slot and open it."
-		""
-		"&aClose:&r ESC goes back one layer; SHIFT + ESC closes all stacked GUIs."
-		""
-		"&aStore:&r Open the backpack GUI and insert items; click the backpack with an item inside the GUI; or hold the backpack and sneak‑left‑click a container to scoop its contents."
-		""
-		"&aExtract:&r Similar to storing, but sneak‑right‑click to deposit into a container."
-	]
-	quest.12DEEAA54E86A717.title: "“Normal Backpack”"
-	quest.131A12B1AF021401.quest_desc: [
-		"Bags for special items, akin to the vanilla shulker‑like sacks."
-		""
-		"Controls and logic are the same as the backpack."
-	]
-	quest.131A12B1AF021401.title: "Bag"
 	quest.13265541D3694F26.quest_desc: ["Has 12 slots."]
 	quest.138576A973067473.quest_desc: [
 		"A grown‑up's drink. Wild coffee generates in jungle biomes; harvest coffee cherries and slice them on a cutting board to get beans."
@@ -248,7 +193,6 @@
 		"Special Sign：[INFO][WARN][ERROR][TODO]"
 	]
 	quest.169D11082217C28C.title: "About Fonts"
-	quest.16A6DD06B9164B1A.quest_desc: ["Chests are good for lots of messy items and non‑stackables, but they cause more lag. These Chests could be mounted on moving contrptations like vanilla chests, but barrels are better."]
 	quest.16B6CB0A599E084B.quest_desc: [
 		"Shulker: ?"
 		""
@@ -323,8 +267,6 @@
 		""
 		"&7&nActually there's an icon here"
 	]
-	quest.212FA8E1B48400BD.quest_desc: ["Use Capacity Upgrades at the Smithing Table to expand backpacks and Crystal Box storage."]
-	quest.212FA8E1B48400BD.title: "Capacity Upgrade"
 	quest.22013D907091EAC6.quest_desc: ["You actually finished all the tasks in this chapter. Clearly, you really love maids."]
 	quest.22013D907091EAC6.title: "&eHidden: You actually finished it"
 	quest.226E5A37496355B1.quest_desc: ["To achieve greater speed, you need to master the power of the Sculk…"]
@@ -334,14 +276,6 @@
 	quest.22E8E6C3740EA876.quest_desc: ["Drawers excel at holding huge amounts of a single item. They're also great for filtering, sorting, and transporting items."]
 	quest.22E8E6C3740EA876.title: "Functional storage"
 	quest.22FF5BF2ADABF847.quest_desc: ["Burning conversion: Totem of Undying or meat."]
-	quest.231B143C6EF85DEC.quest_desc: [
-		"Over time, this rift gradually stabilizes. By modifying the rift, you can form a gateway to the other side, transmitting matter and energy across."
-		""
-		"After building a portal frame with expensive materials, the passage stabilizes and can transmit matter and energy to the opposite side."
-		""
-		"This spacetime rift can be used to store massive amounts of matter and energy, and can be accessed anytime by pressing &2[O]&r."
-	]
-	quest.231B143C6EF85DEC.title: "Create a Gateway"
 	quest.243B01C643B96CE3.quest_desc: [
 		"Agriculture in Africa is underdeveloped, all we need is Jinkela (Golden Fertilizer)!"
 		""
@@ -353,11 +287,6 @@
 	quest.24F89412A0CB51C9.quest_desc: ["In semi‑yokai or full yokai form, you can trade with Cirno to obtain this—an inexpensive way to fly."]
 	quest.24F89412A0CB51C9.title: "Transform, become baka!"
 	quest.25367802991C24B4.title: "&6Baguette King"
-	quest.26B02D6AD87EBFE3.quest_desc: [
-		"&bCrystalline Flower&r can only be planted on Glistering Honey Crystal or Amethyst blocks. Feed it items (usually flowers) or experience, or throw items to generate XP orbs, to make it grow and level up (leave enough space)."
-		""
-		"Insert a book and spend sufficient levels, and the &bCrystalline Flower&r can roll any enchant obtainable from the enchanting table, including treasure enchants. Use this to obtain Printer templates."
-	]
 	quest.2756DACDBEDA2D65.quest_desc: ["&bGrants Swiftness III and Speed II."]
 	quest.2756DACDBEDA2D65.title: "&5Majo's Boots"
 	quest.27694D4475BD7343.quest_desc: [
@@ -429,16 +358,6 @@
 		"Silken tofu can be crafted into tofu blocks; break those to get regular tofu."
 	]
 	quest.289E57DF483EC37F.title: "Tofu"
-	quest.29B240B3318659CD.quest_desc: [
-		"@the_bumblezone"
-		""
-		"&6The Bumblezone&r is one of the pack's few 'adventure' mods, providing abundant honey resources and solid endgame gear."
-		""
-		"Like Twilight Forest, Bumblezone progression relies heavily on advancements, so it's recommended to follow them in order."
-		""
-		"Throw an Ender Pearl into a beehive, or push yourself into one with a piston, to enter the Bumblezone."
-	]
-	quest.29B240B3318659CD.title: "&6The Bumblezone"
 	quest.29CD6AEDB27C6F3B.quest_desc: [
 		"Has a chance to appear in Ancient City loot chests."
 		""
@@ -574,13 +493,6 @@
 		"[INFO] Harvesting peanuts will get magic peanuts, which when grown transform the dirt below into fertile soil."
 	]
 	quest.30D32B907A3C1F53.title: "Rich Soil"
-	quest.31C58317C4B824B1.quest_desc: [
-		"&bPotion Candles&r, when lit, grant effects to nearby entities. Effects are determined by up to five potions inserted during crafting. Multi-effect setups can be refreshed by removing and reinserting potions."
-		""
-		"More bottles of the same potion extend duration; splash potions add +2 range; lingering potions double effect duration on entities."
-		""
-		"&bPotion Candles&r can provide a stable Resistance IV source, making &bResonant Feather&r acquisition easy."
-	]
 	quest.31E4A4EA0AEB5A5D.quest_desc: [
 		"There seem to be fragments on the other side, apparently dropped when the rift was broken, and they continue to increase over time."
 		""
@@ -671,12 +583,6 @@
 	]
 	quest.3F5D1EBC9926E424.quest_desc: ["Straws can be crafted into many useful things, one of which is organic compost—the precursor to rich soil."]
 	quest.3F5D1EBC9926E424.title: "Organic Compost"
-	quest.3F9AEF0173E0E139.quest_desc: [
-		"With these four blocks, you can reach the Void dimension or the Mining dimension. Build machines or mine there without damaging the Overworld."
-		""
-		"&e[WARN]&bIt's recommended to build all machines in the Void or Mining dimension to avoid lag from heavy rendering in the Overworld."
-	]
-	quest.3F9AEF0173E0E139.title: "Void \\& Mining"
 	quest.3FE1E7E6127BA18A.quest_desc: [
 		"To become a pastry chef, a mixer is essential."
 		""
@@ -853,24 +759,6 @@
 	quest.5164A50FADE97246.title: "Ancient Seeds"
 	quest.51D4F811BA4F635A.quest_desc: ["Clamp tofu between cobblestone, stone (or bedrock), etc. After a while, it becomes Stone Tofu Blocks, used for weapons, armor, and tools."]
 	quest.51D4F811BA4F635A.title: "Rock-hard tofu"
-	quest.51F7E58EACE3BE61.quest_desc: [
-		"After consuming &bEssence of the Bees&r, use a Structure Compass to locate the &6Sempiternal Sanctums&r."
-		""
-		"The &6Sempiternal Sanctums&r has six colors, each with distinct challenges and rewards. Challenge timers run at one-third real time."
-		""
-		"&4Red&r: 400s to defeat 100 mobs. Recommendation: Iron's Spellbook."
-		""
-		"&eYellow&r: Fly through 100 black rings within 270s. Recommendation: attempt after obtaining flight."
-		""
-		"&bBlue&r: Defeat 50 mobs underwater within 500s. Recommendation: Water Breathing potion or helmet, Boiled Pickerelweed, and diving goggles."
-		""
-		"&aGreen&r: Bat mudballs back 30 times within 300s; throwing your own is allowed. You can only hit while standing on the platform, and mudballs will knock off equipment. Bring plenty to deal damage. Green essence helps cultivate rare crops."
-		""
-		"&5Purple&r: Dodge spikes for 270s; flight is forbidden. Recommendation: use F5 (Kenadian: I used F5), bring enough food and digestion aids for fast healing."
-		""
-		"White: Kill 6 Cosmic Crystals within 500s with damage limits. Recommendation: Iron's Spell Chain Lightning."
-	]
-	quest.51F7E58EACE3BE61.title: "Enter the Sempiternal Sanctums"
 	quest.52E26074C74E2395.quest_desc: [
 		"@railways"
 		""
@@ -890,14 +778,6 @@
 	quest.5481330BCE335975.title: "Red Murderer"
 	quest.5502902A322A43A6.quest_desc: ["Pour cake batter into a mold, bake at 170°C in the oven, then place the mold on a table and right-click to unmold."]
 	quest.5502902A322A43A6.title: "Bake in Mold"
-	quest.550432EFAD824831.quest_desc: [
-		"For the same player, Dimensional Backpacks of the same color share a single space. If yours is lost, just craft another."
-		""
-		"A Dimensional Backpack binds to the first player who opens it. You can share the backpack so others can use your space."
-		""
-		"You can also put backpacks inside a Dimensional Backpack."
-	]
-	quest.550432EFAD824831.title: "Dimensional Backpack"
 	quest.552017E66367F202.title: "Legendary Ink!"
 	quest.554DD24BDBB01B3F.quest_desc: ["Hold Echo Shards in your off‑hand and a Tofu Horn in your main hand, then blow at a Tofu Spider to turn it into a Stinky Tofu Spider. Defeat it to obtain Sculk Tofu Bones, which can be used to forge higher‑performance gear."]
 	quest.556BC9C5DABA8F85.quest_desc: ["This modpack adds a recipe for empty soul spells, making it easy to store summoned maids."]
@@ -960,20 +840,8 @@
 		"If the usage condition is not met, equipping this item will instantly remove it from the necklace slot and teleport it to a nearby location. However, if you equip it while meeting the condition, it will continue to function normally even if your Ender Spell Power later decreases, and it will not teleport away."
 	]
 	quest.5A0C02536739C87C.quest_desc: ["Burning conversion: emeralds or emerald blocks."]
-	quest.5B919F3D0293697A.quest_desc: [
-		"Crystal Drawers store massive amounts of one item without NBT."
-		""
-		"Tier 1 holds 64 stacks. Capacity Upgrades add 64 stacks per upgrade."
-		""
-		"Crystal Drawers support the same interaction logic as backpacks."
-	]
 	quest.5C6D1E54C18D9718.quest_desc: ["10 slots"]
 	quest.5C9EE3F5BBE4BF4C.quest_desc: ["You have mastered the secrets of magic—let us celebrate the birth of a new king!"]
-	quest.5CDA3CEC0DBF1E80.quest_desc: [
-		"Barrels are great as storage mounted to moving contraptions."
-		""
-		"For truly large volumes, use Functional storage."
-	]
 	quest.5CECF64A1B7BECE5.quest_desc: ["These accessories are all combat-related, giving maids different effects."]
 	quest.5CECF64A1B7BECE5.title: "Fight! Fight!"
 	quest.5D1473E56B6358EE.quest_desc: ["&aIdea: Prismarine dust from crushing cages. Or soul‑bound sand → wash → quartz."]
@@ -1007,12 +875,6 @@
 	quest.6099E2DE1A3DE1C0.title: "Bread Knife"
 	quest.60D9140A16CBC68B.quest_desc: ["With the Illusion Moon Lamp, cultivating Udumbara becomes much easier."]
 	quest.60D9140A16CBC68B.title: "Eternal Moon"
-	quest.60DB0DB5F9E9EF00.quest_desc: [
-		"As the name implies, the Ender Backpack accesses your Ender Chest; it also behaves like a backpack and can pull items normally."
-		""
-		"You can nest a Space Backpack inside the Ender Backpack. An ideal warehouse is Ender Backpack → Space Backpack → Backpack → Box, storing up to 1 billion items and auto‑categorizing 31,104 item types."
-	]
-	quest.60DB0DB5F9E9EF00.title: "Ender Backpack"
 	quest.6173E8F5CA64472F.quest_desc: [
 		"@nightlights"
 		""
@@ -1059,18 +921,6 @@
 		""
 		"&aOne possible approach: use a Maid Altar to summon lightning."
 	]
-	quest.647F13AC6ECD737F.quest_desc: [
-		"&6Cell Maze&r isn't required for progression, but contains many items you'll need later."
-		""
-		"Use a Structure Compass to find the &6Cell Maze&r. Before entering, craft a &bFlower Headwear&r to resist Bee Aggression."
-		""
-		"Loot containers in the &6Cell Maze&r are &bHoney Cocoon&r. Silk Touch preserves contents; but &aif a honey cocoon is a loot chest&r, breaking it &aimmediately loses&r its items. Don't use honey cocoom as storage."
-		""
-		"Prioritize collecting &bStinger Spears&r, &bHoney Crystal Shards&r, and &bBumble Bee Armor&r from armor stands."
-		""
-		"&6Cell Maze&r is also a great source of flowers, especially rare ones with unknown biomes."
-	]
-	quest.647F13AC6ECD737F.title: "Enter the Cell Maze"
 	quest.65CC45EBB57D9EDD.quest_desc: ["These spellbooks are very easy to craft. If you're eager to cast, make them for temporary use. &4(There's no order to crafting these four books!)"]
 	quest.66206D4EC6B05931.quest_desc: ["&bGrants Resistance IV and Fire Resistance."]
 	quest.66206D4EC6B05931.title: "&5Majo's Cloth"
@@ -1119,16 +969,6 @@
 		""
 		"&bIn mid‑game when guns or the four special hats are hard to make, danmaku is a good damage option. But its damage counts as magic, not projectile."
 	]
-	quest.6A71B4B846B90820.quest_desc: [
-		"In the &6Cell Maze&r, find a compass pointing to the &6Throne Pillar&r. The &cBee Queen&r resides there — save the coordinates."
-		""
-		"Right-click the &cBee Queen&r with certain items to trade for various unique goods."
-		""
-		"Trading once unlocks the &cBee Queen&r questline; see Bumblezone advancements for tasks. Rewards include &bRoyal Jelly&r, and upon full completion, &bEssence of the Bees&r."
-		""
-		"&bRoyal Jelly&r is essential for Potion Candles, and &bEssence of the Bees&r is required for later steps. Only after consuming it can you find the compass to the &6Sempiternal Sanctums&r and enter."
-	]
-	quest.6A71B4B846B90820.title: "Find the Queen"
 	quest.6A7DED4ED6F4C277.quest_desc: [
 		"For a long time, it was considered the nemesis of automation."
 		""
@@ -1182,7 +1022,6 @@
 	]
 	quest.73B12332EAD062FB.quest_desc: ["Upgraded version: Summoning spells that end because the summoned creature’s natural duration expires will not trigger cooldown."]
 	quest.73F13137A6956D41.quest_desc: ["Simulates lightning inside the cage."]
-	quest.74E80AC643143436.quest_desc: ["The Switch Belt goes inside a Space Backpack for quick gear swaps. With an item in main hand, hold Left SHIFT to preview and press N to switch."]
 	quest.74F4308544701EC0.quest_desc: ["Keep pressing Stone Tofu Blocks to turn them into Steel Tofu Blocks. Steel tofu isn't edible, but it's a solid early‑game transitional gear material."]
 	quest.74F4308544701EC0.title: "Hardened Tofu"
 	quest.7503242768D82BBE.quest_desc: [
@@ -1330,7 +1169,6 @@
 	task.165886A0E02196B3.title: "Beautify!"
 	task.1663EAD77C179143.title: "Scrolls"
 	task.2281EDC413DE6526.title: "Unique Spellbook"
-	task.2480C26300415543.title: "Backpack"
 	task.25377FDFDB16EAA8.title: "&4Did you really read it all?"
 	task.26502DA7EC933B65.title: "Burning Conversion"
 	task.2899AAA5D4ECE8F1.title: "Youkai's Homecoming"

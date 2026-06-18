@@ -399,8 +399,8 @@
 			id: "5C0559550404B37C"
 			shape: "square"
 			tasks: [{
-				id: "49551B73D10C6832"
-				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				id: "0CD8B356BD836492"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(minecraft:logs))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -1330,17 +1330,6 @@
 			y: 31.0d
 		}
 		{
-			dependencies: ["377A792BA9C60871"]
-			id: "0CCB5FDBDFF28E83"
-			tasks: [{
-				id: "6027C766C0D50619"
-				item: { components: { "ftbquests:missing_item": "balancedflight:flight_anchor" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: -0.5d
-			y: 31.0d
-		}
-		{
 			dependencies: ["3CFA7DD8072CF1E2"]
 			id: "30CF637389CF9240"
 			tasks: [{
@@ -1350,44 +1339,6 @@
 			}]
 			x: -7.5d
 			y: 11.0d
-		}
-		{
-			dependencies: ["1D38E61DAE2F18F4"]
-			id: "5B1B32028F438DCD"
-			tasks: [
-				{
-					id: "46811ED1FF2168D6"
-					item: { count: 1, id: "create_things_and_misc:card_reader" }
-					type: "item"
-				}
-				{
-					id: "632D0F611E860B0A"
-					item: { count: 1, id: "create_things_and_misc:card_press" }
-					type: "item"
-				}
-				{
-					id: "631FD4BBD9E75BF2"
-					item: { count: 1, id: "create_things_and_misc:sprinkler" }
-					type: "item"
-				}
-				{
-					id: "3A71F55729DFA5AC"
-					item: { count: 1, id: "create_things_and_misc:brass_speaker" }
-					type: "item"
-				}
-				{
-					id: "507CB7B2B7B592D0"
-					item: { count: 1, id: "create_things_and_misc:empty_card" }
-					type: "item"
-				}
-				{
-					id: "1C1FE4F79A9304E2"
-					item: { count: 1, id: "create_things_and_misc:radar" }
-					type: "item"
-				}
-			]
-			x: -5.0d
-			y: 20.5d
 		}
 		{
 			dependencies: ["14D0CF503E4623CE"]
@@ -1586,20 +1537,6 @@
 			}]
 			x: 12.0d
 			y: 18.5d
-		}
-		{
-			dependencies: [
-				"3FBE7415DA61DA8B"
-				"715168C39F095016"
-			]
-			id: "0F1954FEFA067068"
-			tasks: [{
-				id: "54ECCAA9C4E40D46"
-				item: { components: { "ftbquests:missing_item": "balancedflight:ascended_flight_ring" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 13.0d
-			y: 13.5d
 		}
 		{
 			dependencies: ["77102693683E4D96"]
@@ -2071,18 +2008,11 @@
 		{
 			dependencies: ["38BD2B221B2A11E7"]
 			id: "4A7AD44434FED5B5"
-			tasks: [
-				{
-					id: "25C235A0F96123E7"
-					item: { count: 1, id: "createrailwaysnavigator:navigator" }
-					type: "item"
-				}
-				{
-					id: "3DB1C92A29B10AFC"
-					item: { count: 1, id: "createrailwaysnavigator:advanced_display_panel" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "3DB1C92A29B10AFC"
+				item: { count: 1, id: "createrailwaysnavigator:advanced_display_panel" }
+				type: "item"
+			}]
 			x: 14.5d
 			y: 24.5d
 		}

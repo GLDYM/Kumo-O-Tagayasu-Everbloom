@@ -431,6 +431,18 @@
         },
         "we-do-copyright": {
             "side": "CLIENT"
+        },
+        "language-amend": {
+            "side": "CLIENT"
+        },
+        "quick-pack": {
+            "side": "BOTH"
+        },
+        "immediatelyfast": {
+            "side": "BOTH"
+        },
+        "enchantment-library-at-home-unofficial": {
+            "side": "BOTH"
         }
     }
 }
