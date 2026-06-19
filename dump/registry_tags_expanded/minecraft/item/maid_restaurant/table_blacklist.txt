@@ -3,7 +3,7 @@
 # Tag: maid_restaurant:table_blacklist
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.0304006+08:00
+# Generated: 2026-06-18T20:43:43.0985796+08:00
 
 maid_restaurant:order_item
 maid_restaurant:order_menu

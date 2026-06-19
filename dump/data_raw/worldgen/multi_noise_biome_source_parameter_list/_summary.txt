@@ -1,7 +1,7 @@
 # Raw resource rule dump summary
 # Mod ID: registry_dumper_3000
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:44.4845725+08:00
+# Generated: 2026-06-18T20:43:51.7605146+08:00
 
 # Rule name: Worldgen multi_noise_biome_source_parameter_list
 # Side: data/server

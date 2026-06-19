@@ -3,7 +3,7 @@
 # Tag: minecraft:witch_resistant_to
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9424068+08:00
+# Generated: 2026-06-18T20:43:39.4955319+08:00
 
 immortalers_delight:moon_arrow
 minecraft:indirect_magic

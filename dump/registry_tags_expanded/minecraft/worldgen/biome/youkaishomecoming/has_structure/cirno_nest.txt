@@ -3,7 +3,7 @@
 # Tag: youkaishomecoming:has_structure/cirno_nest
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.1315303+08:00
+# Generated: 2026-06-18T20:43:45.3793997+08:00
 
 minecraft:deep_frozen_ocean
 minecraft:frozen_ocean

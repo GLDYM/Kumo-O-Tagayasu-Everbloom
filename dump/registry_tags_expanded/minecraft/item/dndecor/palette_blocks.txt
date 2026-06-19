@@ -3,7 +3,7 @@
 # Tag: dndecor:palette_blocks
 # Entries: 171
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2837019+08:00
+# Generated: 2026-06-18T20:43:42.237071+08:00
 
 dndecor:amethyst_pillar
 dndecor:basalt_pillar

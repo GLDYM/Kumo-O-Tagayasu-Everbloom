@@ -3,7 +3,7 @@
 # Tag: handcrafted:paintings
 # Entries: 28
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.2636818+08:00
+# Generated: 2026-06-18T20:43:44.459299+08:00
 
 handcrafted:ad_astra
 handcrafted:apple

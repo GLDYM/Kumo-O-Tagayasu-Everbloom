@@ -3,7 +3,7 @@
 # Tag: minecraft:on_random_loot
 # Entries: 57
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9992346+08:00
+# Generated: 2026-06-18T20:43:39.5620843+08:00
 
 create:capacity
 create:potato_recovery

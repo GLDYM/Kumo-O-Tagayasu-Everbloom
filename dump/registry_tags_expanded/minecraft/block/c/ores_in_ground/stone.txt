@@ -3,7 +3,7 @@
 # Tag: c:ores_in_ground/stone
 # Entries: 13
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.6480816+08:00
+# Generated: 2026-06-18T20:43:37.7701542+08:00
 
 create:zinc_ore
 createnuclear:lead_ore

@@ -3,7 +3,7 @@
 # Tag: tofucraft:statue_happy
 # Entries: 13
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.0674435+08:00
+# Generated: 2026-06-18T20:43:44.2130902+08:00
 
 tofucraft:edamame_templa
 tofucraft:goheimochi

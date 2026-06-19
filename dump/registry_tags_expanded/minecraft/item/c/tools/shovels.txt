@@ -3,7 +3,7 @@
 # Tag: c:tools/shovels
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.8597721+08:00
+# Generated: 2026-06-18T20:43:41.7245305+08:00
 
 tsuki:broom
 tsuki:sakura_shovel

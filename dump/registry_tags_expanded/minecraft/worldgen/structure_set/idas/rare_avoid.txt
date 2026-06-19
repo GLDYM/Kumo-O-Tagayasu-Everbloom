@@ -3,7 +3,7 @@
 # Tag: idas:rare_avoid
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.2842716+08:00
+# Generated: 2026-06-18T20:43:45.558417+08:00
 
 idas:idas_small
 idas:idas_underground

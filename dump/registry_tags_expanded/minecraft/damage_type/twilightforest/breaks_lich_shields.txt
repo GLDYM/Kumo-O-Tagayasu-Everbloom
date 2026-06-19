@@ -3,7 +3,7 @@
 # Tag: twilightforest:breaks_lich_shields
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9554363+08:00
+# Generated: 2026-06-18T20:43:39.5125537+08:00
 
 touhou_little_maid:danmaku
 touhou_little_maid:danmaku_ender_killer

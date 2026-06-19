@@ -3,7 +3,7 @@
 # Tag: l2complements:l2c_legendary
 # Entries: 20
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.9431714+08:00
+# Generated: 2026-06-18T20:43:42.9972663+08:00
 
 l2complements:blackstone_core
 l2complements:captured_shulker_bullet

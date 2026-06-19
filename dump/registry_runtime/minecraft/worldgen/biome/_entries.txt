@@ -2,7 +2,7 @@
 # Registry: minecraft:worldgen/biome
 # Minecraft: 1.21.1
 # Entries: 104
-# Generated: 2026-06-14T13:47:24.4631321+08:00
+# Generated: 2026-06-18T20:43:28.5119132+08:00
 
 atmospheric:aspen_parkland raw_id=1 class=net.minecraft.world.level.biome.Biome
 atmospheric:dunes raw_id=19 class=net.minecraft.world.level.biome.Biome

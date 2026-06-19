@@ -3,7 +3,7 @@
 # Tag: minecraft:no_knockback
 # Entries: 39
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9329545+08:00
+# Generated: 2026-06-18T20:43:39.4875076+08:00
 
 farmersdelight:stove_burn
 irons_spellbooks:blood_cauldron

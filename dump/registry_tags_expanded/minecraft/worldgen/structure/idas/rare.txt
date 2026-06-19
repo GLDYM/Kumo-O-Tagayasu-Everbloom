@@ -3,7 +3,7 @@
 # Tag: idas:rare
 # Entries: 14
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.1746597+08:00
+# Generated: 2026-06-18T20:43:45.4448931+08:00
 
 idas:ancient_mines
 idas:ars_nouveau/archmages_tower

@@ -2,7 +2,7 @@
 # Registry: someassemblyrequired:ingredients
 # Minecraft: 1.21.1
 # Entries: 68
-# Generated: 2026-06-14T13:47:24.6341413+08:00
+# Generated: 2026-06-18T20:43:28.715439+08:00
 
 someassemblyrequired:apple_slices raw_id=0 class=someassemblyrequired.ingredient.IngredientProperties
 someassemblyrequired:beetroot_soup raw_id=1 class=someassemblyrequired.ingredient.IngredientProperties

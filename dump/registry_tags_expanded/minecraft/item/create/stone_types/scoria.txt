@@ -3,7 +3,7 @@
 # Tag: create:stone_types/scoria
 # Entries: 18
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.0316571+08:00
+# Generated: 2026-06-18T20:43:41.9110078+08:00
 
 bits_n_bobs:scoria_tile_stairs
 bits_n_bobs:scoria_tile_wall

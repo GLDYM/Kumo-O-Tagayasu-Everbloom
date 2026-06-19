@@ -3,7 +3,7 @@
 # Tag: artifacts:slot/hands
 # Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.4572947+08:00
+# Generated: 2026-06-18T20:43:40.1276831+08:00
 
 artifacts:digging_claws
 artifacts:feral_claws

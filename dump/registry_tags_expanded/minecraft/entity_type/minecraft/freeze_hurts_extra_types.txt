@@ -3,7 +3,7 @@
 # Tag: minecraft:freeze_hurts_extra_types
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1155362+08:00
+# Generated: 2026-06-18T20:43:39.7658197+08:00
 
 minecraft:blaze
 minecraft:magma_cube

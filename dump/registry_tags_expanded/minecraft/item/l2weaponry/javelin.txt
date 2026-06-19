@@ -3,7 +3,7 @@
 # Tag: l2weaponry:javelin
 # Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.9565639+08:00
+# Generated: 2026-06-18T20:43:43.0203321+08:00
 
 l2weaponry:diamond_javelin
 l2weaponry:eternium_javelin

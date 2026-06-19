@@ -2,7 +2,7 @@
 # Registry: neoforge:global_loot_modifier_serializers
 # Minecraft: 1.21.1
 # Entries: 37
-# Generated: 2026-06-14T13:47:24.5994725+08:00
+# Generated: 2026-06-18T20:43:28.6697172+08:00
 
 artifacts:roll_loot_table raw_id=28 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 bagus_lib:loot_in_loot raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

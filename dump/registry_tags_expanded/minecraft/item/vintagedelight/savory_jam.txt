@@ -3,7 +3,7 @@
 # Tag: vintagedelight:savory_jam
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.1637257+08:00
+# Generated: 2026-06-18T20:43:44.3342407+08:00
 
 vintagedelight:pepper_jam_mason_jar
 vintagedelight:relish_mason_jar

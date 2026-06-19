@@ -3,6 +3,6 @@
 # Tag: createadditionallogistics:lazy_large_cogs
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.1584743+08:00
+# Generated: 2026-06-18T20:43:42.0636591+08:00
 
 createadditionallogistics:lazy_large_cogwheel

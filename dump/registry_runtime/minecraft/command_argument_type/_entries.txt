@@ -2,7 +2,7 @@
 # Registry: minecraft:command_argument_type
 # Minecraft: 1.21.1
 # Entries: 85
-# Generated: 2026-06-14T13:47:24.2386298+08:00
+# Generated: 2026-06-18T20:43:28.3064947+08:00
 
 bookshelf:font raw_id=64 class=net.darkhax.bookshelf.common.api.commands.args.SingletonArgumentInfo
 bookshelf:tag raw_id=65 class=net.darkhax.bookshelf.common.api.commands.args.ArgumentSerializer

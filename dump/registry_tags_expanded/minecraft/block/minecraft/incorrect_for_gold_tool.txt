@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:incorrect_for_gold_tool
-# Entries: 258
+# Entries: 277
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.3952536+08:00
+# Generated: 2026-06-18T20:43:38.8068098+08:00
 
 cagedmobs:hopping_mob_cage
 cagedmobs:mob_cage
@@ -90,6 +90,25 @@ dndecor:waxed_weathered_copper_floor
 dndecor:weathered_copper_floor
 dramaticdoors:short_netherite_door
 dramaticdoors:tall_netherite_door
+idealland_shrine:skyland_dull_runestone
+idealland_shrine:skyland_fall_runestone
+idealland_shrine:skyland_oow_runestone
+idealland_shrine:skyland_runestone_0
+idealland_shrine:skyland_runestone_1
+idealland_shrine:skyland_runestone_10
+idealland_shrine:skyland_runestone_11
+idealland_shrine:skyland_runestone_12
+idealland_shrine:skyland_runestone_13
+idealland_shrine:skyland_runestone_14
+idealland_shrine:skyland_runestone_15
+idealland_shrine:skyland_runestone_2
+idealland_shrine:skyland_runestone_3
+idealland_shrine:skyland_runestone_4
+idealland_shrine:skyland_runestone_5
+idealland_shrine:skyland_runestone_6
+idealland_shrine:skyland_runestone_7
+idealland_shrine:skyland_runestone_8
+idealland_shrine:skyland_runestone_9
 immortalers_delight:enchantal_cooler
 immortalers_delight:gelpitaya_crop
 irons_spellbooks:deepslate_mithril_ore

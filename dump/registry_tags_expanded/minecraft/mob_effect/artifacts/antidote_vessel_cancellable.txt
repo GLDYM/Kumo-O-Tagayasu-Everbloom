@@ -3,7 +3,7 @@
 # Tag: artifacts:antidote_vessel_cancellable
 # Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.2474151+08:00
+# Generated: 2026-06-18T20:43:44.4457575+08:00
 
 minecraft:blindness
 minecraft:hunger

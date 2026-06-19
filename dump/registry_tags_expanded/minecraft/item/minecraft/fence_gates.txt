@@ -3,7 +3,7 @@
 # Tag: minecraft:fence_gates
 # Entries: 25
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.1263496+08:00
+# Generated: 2026-06-18T20:43:43.1949301+08:00
 
 atmospheric:aspen_fence_gate
 atmospheric:grimwood_fence_gate

@@ -3,7 +3,7 @@
 # Tag: idas:has_structure/winter_wagon_biomes
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.7373406+08:00
+# Generated: 2026-06-18T20:43:44.9119254+08:00
 
 minecraft:grove
 minecraft:snowy_plains

@@ -3,7 +3,7 @@
 # Tag: c:foods/cooked_chicken
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.0815949+08:00
+# Generated: 2026-06-18T20:43:40.8737386+08:00
 
 farmersdelight:cooked_chicken_cuts
 minecraft:cooked_chicken

@@ -3,7 +3,7 @@
 # Tag: minecraft:chest_armor
 # Entries: 44
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.0628383+08:00
+# Generated: 2026-06-18T20:43:43.1483796+08:00
 
 create:cardboard_chestplate
 create:copper_backtank

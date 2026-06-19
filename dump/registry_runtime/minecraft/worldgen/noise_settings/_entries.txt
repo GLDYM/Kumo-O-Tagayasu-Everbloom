@@ -2,7 +2,7 @@
 # Registry: minecraft:worldgen/noise_settings
 # Minecraft: 1.21.1
 # Entries: 8
-# Generated: 2026-06-14T13:47:24.5113099+08:00
+# Generated: 2026-06-18T20:43:28.5762701+08:00
 
 minecraft:amplified raw_id=0 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings
 minecraft:caves raw_id=1 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings

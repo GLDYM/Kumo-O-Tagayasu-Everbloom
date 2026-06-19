@@ -3,7 +3,7 @@
 # Tag: irons_spellbooks:arcane_ingot_base
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.7997922+08:00
+# Generated: 2026-06-18T20:43:42.8701662+08:00
 
 minecraft:copper_ingot
 minecraft:gold_ingot

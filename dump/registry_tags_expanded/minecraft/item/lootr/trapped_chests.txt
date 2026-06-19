@@ -3,7 +3,7 @@
 # Tag: lootr:trapped_chests
 # Entries: 18
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.0238825+08:00
+# Generated: 2026-06-18T20:43:43.088546+08:00
 
 lootr:lootr_trapped_chest
 quark:trapped_lootr_acacia_chest

@@ -3,7 +3,7 @@
 # Tag: supplementaries:cannon_boats
 # Entries: 24
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.9865859+08:00
+# Generated: 2026-06-18T20:43:44.133326+08:00
 
 supplementaries:atmospheric/cannon_boat_aspen
 supplementaries:atmospheric/cannon_boat_grimwood

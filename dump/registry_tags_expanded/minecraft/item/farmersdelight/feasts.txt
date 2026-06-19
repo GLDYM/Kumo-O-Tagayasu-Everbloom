@@ -3,7 +3,7 @@
 # Tag: farmersdelight:feasts
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.5954918+08:00
+# Generated: 2026-06-18T20:43:42.6436909+08:00
 
 farmersdelight:gleaming_salad_block
 farmersdelight:honey_glazed_ham_block

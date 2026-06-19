@@ -3,7 +3,7 @@
 # Tag: minecraft:replaceable
 # Entries: 32
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4897061+08:00
+# Generated: 2026-06-18T20:43:38.9536302+08:00
 
 atmospheric:agave
 atmospheric:arid_sprouts

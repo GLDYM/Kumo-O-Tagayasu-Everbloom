@@ -3,7 +3,7 @@
 # Tag: createnuclear:anti_radiation_helmet_full_dye
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.1752607+08:00
+# Generated: 2026-06-18T20:43:42.0782374+08:00
 
 createnuclear:black_anti_radiation_helmet
 createnuclear:blue_anti_radiation_helmet

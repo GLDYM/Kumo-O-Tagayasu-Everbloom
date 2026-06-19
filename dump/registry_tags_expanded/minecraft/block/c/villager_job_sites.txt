@@ -3,7 +3,7 @@
 # Tag: c:villager_job_sites
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.7743665+08:00
+# Generated: 2026-06-18T20:43:37.9317376+08:00
 
 minecraft:barrel
 minecraft:blast_furnace

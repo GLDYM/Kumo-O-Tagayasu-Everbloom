@@ -3,7 +3,7 @@
 # Tag: c:crops/rice
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.9093669+08:00
+# Generated: 2026-06-18T20:43:40.6866119+08:00
 
 farmersdelight:rice
 kaleidoscope_cookery:rice

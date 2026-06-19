@@ -3,7 +3,7 @@
 # Tag: supplementaries:flint_metals
 # Entries: 21
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.7524161+08:00
+# Generated: 2026-06-18T20:43:39.2452658+08:00
 
 minecraft:ancient_debris
 minecraft:iron_block

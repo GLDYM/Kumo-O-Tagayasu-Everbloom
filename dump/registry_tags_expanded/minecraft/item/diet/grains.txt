@@ -3,7 +3,7 @@
 # Tag: diet:grains
 # Entries: 72
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2365789+08:00
+# Generated: 2026-06-18T20:43:42.153601+08:00
 
 fruitsdelight:blueberry_muffin
 fruitsdelight:bowl_of_pineapple_fried_rice

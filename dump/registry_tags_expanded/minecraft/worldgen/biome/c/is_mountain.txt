@@ -3,7 +3,7 @@
 # Tag: c:is_mountain
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.3944715+08:00
+# Generated: 2026-06-18T20:43:44.5643282+08:00
 
 minecraft:cherry_grove
 minecraft:frozen_peaks

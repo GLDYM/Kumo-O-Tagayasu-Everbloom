@@ -7865,6 +7865,81 @@
             ]
         },
         {
+            "pakku_id": "SgNsvlS8bmbBHaoj",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "zfastnoise",
+                "modrinth": "zfastnoise"
+            },
+            "name": {
+                "curseforge": "Fast Noise",
+                "modrinth": "Fast Noise"
+            },
+            "id": {
+                "curseforge": "1460602",
+                "modrinth": "OnlVIpq5"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "zfastnoise-1.0.11+2+1.21.1+neoforge.jar",
+                    "mc_versions": [
+                        "1.21.8",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.1",
+                        "1.21.6",
+                        "1.21.3",
+                        "1.21.7",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8235/165/zfastnoise-1.0.11+2+1.21.1+neoforge.jar",
+                    "id": "8235165",
+                    "parent_id": "1460602",
+                    "hashes": {
+                        "sha1": "dae85b11027bf996069a871c5fd08630b53c2db0",
+                        "md5": "0352e3aa51f5d75f70abcc24f8083f46"
+                    },
+                    "required_dependencies": [],
+                    "size": 27366,
+                    "date_published": "2026-06-12T04:40:52.450Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "zfastnoise-1.0.11+2+1.21.1+neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OnlVIpq5/versions/kWzQiCnV/zfastnoise-1.0.11+2+1.21.1+neoforge.jar",
+                    "id": "kWzQiCnV",
+                    "parent_id": "OnlVIpq5",
+                    "hashes": {
+                        "sha512": "b56f041aff3b2833fcb267f97539e924ab5b10aac0f227936ad44339fd429105feab8b61bb767fcbe717cda5377e28fa0a137a0975a071c48ea80d51c4759dd1",
+                        "sha1": "dae85b11027bf996069a871c5fd08630b53c2db0"
+                    },
+                    "required_dependencies": [],
+                    "size": 27366,
+                    "date_published": "2026-06-12T04:40:37.197804Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "enzbDo8FY10TXf4r",
             "type": "MOD",
             "side": "BOTH",
@@ -8792,6 +8867,42 @@
                     "required_dependencies": [],
                     "size": 213853,
                     "date_published": "2025-04-14T22:15:45.515971Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "xps7JqrMdeGIvSK0",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "idealland-shrine"
+            },
+            "name": {
+                "curseforge": "Idealland Shrine"
+            },
+            "id": {
+                "curseforge": "1579620"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Idealland-Shrine-1.0.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8272/522/Idealland-Shrine-1.0.0.jar",
+                    "id": "8272522",
+                    "parent_id": "1579620",
+                    "hashes": {
+                        "sha1": "630f0f6603440515a91d70c4b5450cfd1d1d5f3b",
+                        "md5": "4f3a1490491813c9269fe35138e8097a"
+                    },
+                    "required_dependencies": [],
+                    "size": 141787,
+                    "date_published": "2026-06-18T12:15:10.280Z"
                 }
             ]
         },

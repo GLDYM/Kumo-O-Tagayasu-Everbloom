@@ -3,6 +3,6 @@
 # Tag: kaleidoscope_end:end_stone_growable
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.1570884+08:00
+# Generated: 2026-06-18T20:43:38.4771255+08:00
 
 minecraft:end_stone

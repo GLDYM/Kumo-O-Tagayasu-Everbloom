@@ -3,7 +3,7 @@
 # Tag: l2weaponry:machete
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.957565+08:00
+# Generated: 2026-06-18T20:43:43.0203321+08:00
 
 l2weaponry:abyss_resonance
 l2weaponry:blade_of_illusion

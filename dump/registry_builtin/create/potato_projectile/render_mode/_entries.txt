@@ -2,7 +2,7 @@
 # Registry: create:potato_projectile/render_mode
 # Minecraft: 1.21.1
 # Entries: 4
-# Generated: 2026-06-14T13:45:01.0501364+08:00
+# Generated: 2026-06-18T20:40:59.0745093+08:00
 
 create:billboard raw_id=0 class=com.mojang.serialization.MapCodec$2
 create:stuck_to_entity raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

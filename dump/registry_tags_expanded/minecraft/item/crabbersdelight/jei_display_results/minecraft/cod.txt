@@ -3,7 +3,7 @@
 # Tag: crabbersdelight:jei_display_results/minecraft/cod
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.9608761+08:00
+# Generated: 2026-06-18T20:43:41.827766+08:00
 
 crabbersdelight:can
 crabbersdelight:crab

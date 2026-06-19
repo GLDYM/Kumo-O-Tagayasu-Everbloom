@@ -3,6 +3,6 @@
 # Tag: c:foods/dragon_fruit
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.1069188+08:00
+# Generated: 2026-06-18T20:43:40.90537+08:00
 
 atmospheric:dragon_fruit

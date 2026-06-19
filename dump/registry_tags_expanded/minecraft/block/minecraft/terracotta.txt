@@ -3,7 +3,7 @@
 # Tag: minecraft:terracotta
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.5500454+08:00
+# Generated: 2026-06-18T20:43:39.0119331+08:00
 
 minecraft:black_terracotta
 minecraft:blue_terracotta

@@ -3,7 +3,7 @@
 # Tag: c:foods/raw_beef
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.1695107+08:00
+# Generated: 2026-06-18T20:43:40.9707358+08:00
 
 farmersdelight:minced_beef
 kaleidoscope_cookery:raw_cow_offal

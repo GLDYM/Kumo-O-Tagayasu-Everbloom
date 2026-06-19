@@ -3,7 +3,7 @@
 # Tag: minecraft:bookshelf_books
 # Entries: 35
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.050556+08:00
+# Generated: 2026-06-18T20:43:43.1398463+08:00
 
 exposure:album
 exposure:signed_album

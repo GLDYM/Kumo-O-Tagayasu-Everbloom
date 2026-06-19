@@ -3,7 +3,7 @@
 # Tag: minecraft:impact_projectiles
 # Entries: 23
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1265798+08:00
+# Generated: 2026-06-18T20:43:39.7718447+08:00
 
 atmospheric:passion_fruit_seed
 l2complements:black_fire_charge

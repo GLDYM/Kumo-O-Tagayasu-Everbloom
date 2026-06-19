@@ -3,6 +3,6 @@
 # Tag: create_dragons_plus:dyes/minecraft/brown
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.1190129+08:00
+# Generated: 2026-06-18T20:43:42.0117903+08:00
 
 minecraft:brown_dye

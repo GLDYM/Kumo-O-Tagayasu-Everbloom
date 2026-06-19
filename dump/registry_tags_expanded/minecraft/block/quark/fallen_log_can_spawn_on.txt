@@ -3,7 +3,7 @@
 # Tag: quark:fallen_log_can_spawn_on
 # Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.644232+08:00
+# Generated: 2026-06-18T20:43:39.1154723+08:00
 
 atmospheric:crustose
 delighto_flight:weather_soil

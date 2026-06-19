@@ -3,7 +3,7 @@
 # Tag: minecraft:planks
 # Entries: 52
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.2016359+08:00
+# Generated: 2026-06-18T20:43:43.2606695+08:00
 
 atmospheric:aspen_planks
 atmospheric:grimwood_planks

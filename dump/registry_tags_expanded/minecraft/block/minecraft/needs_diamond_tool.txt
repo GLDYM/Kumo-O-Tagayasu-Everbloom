@@ -3,7 +3,7 @@
 # Tag: minecraft:needs_diamond_tool
 # Entries: 22
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4611606+08:00
+# Generated: 2026-06-18T20:43:38.8946988+08:00
 
 cagedmobs:star_infused_netherite_block
 createnuclear:deepslate_uranium_ore

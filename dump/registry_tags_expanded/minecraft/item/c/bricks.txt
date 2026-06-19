@@ -3,7 +3,7 @@
 # Tag: c:bricks
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.6084593+08:00
+# Generated: 2026-06-18T20:43:40.3133603+08:00
 
 minecraft:brick
 minecraft:nether_brick

@@ -2,7 +2,7 @@
 # Registry: minecraft:point_of_interest_type
 # Minecraft: 1.21.1
 # Entries: 50
-# Generated: 2026-06-14T13:45:01.311701+08:00
+# Generated: 2026-06-18T20:40:59.2673796+08:00
 
 bakeries:dough_crafting_table_poi raw_id=43 class=net.minecraft.world.entity.ai.village.poi.PoiType
 beautify:botanist_workbench_poi raw_id=25 class=net.minecraft.world.entity.ai.village.poi.PoiType

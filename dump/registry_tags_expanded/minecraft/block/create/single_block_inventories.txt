@@ -3,7 +3,7 @@
 # Tag: create:single_block_inventories
 # Entries: 30
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.8262629+08:00
+# Generated: 2026-06-18T20:43:38.0292731+08:00
 
 lootr:lootr_barrel
 minecraft:barrel

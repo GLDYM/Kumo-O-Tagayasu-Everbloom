@@ -3,7 +3,7 @@
 # Tag: immortalers_delight:tools/immortal_knives
 # Entries: 19
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.7920817+08:00
+# Generated: 2026-06-18T20:43:42.8531153+08:00
 
 immortalers_delight:ancient_blade
 immortalers_delight:bone_knife

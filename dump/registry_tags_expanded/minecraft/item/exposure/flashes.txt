@@ -3,6 +3,6 @@
 # Tag: exposure:flashes
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.5744921+08:00
+# Generated: 2026-06-18T20:43:42.6181138+08:00
 
 minecraft:redstone_lamp

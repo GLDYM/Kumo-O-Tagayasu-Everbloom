@@ -3,7 +3,7 @@
 # Tag: c:fences
 # Entries: 38
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.5745117+08:00
+# Generated: 2026-06-18T20:43:37.6884233+08:00
 
 atmospheric:aspen_fence
 atmospheric:grimwood_fence

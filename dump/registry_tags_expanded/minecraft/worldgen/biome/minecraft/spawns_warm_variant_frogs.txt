@@ -3,7 +3,7 @@
 # Tag: minecraft:spawns_warm_variant_frogs
 # Entries: 27
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.0195144+08:00
+# Generated: 2026-06-18T20:43:45.2524691+08:00
 
 atmospheric:dunes
 atmospheric:flourishing_dunes

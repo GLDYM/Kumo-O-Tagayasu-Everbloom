@@ -2,7 +2,7 @@
 # Registry: functionalstorage:functional_upgrade_behavior
 # Minecraft: 1.21.1
 # Entries: 10
-# Generated: 2026-06-14T13:45:01.0616538+08:00
+# Generated: 2026-06-18T20:40:59.0795072+08:00
 
 functionalstorage:and raw_id=9 class=com.mojang.serialization.MapCodec$2
 functionalstorage:collect_fluids raw_id=7 class=com.mojang.serialization.MapCodec$2

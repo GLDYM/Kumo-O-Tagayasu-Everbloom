@@ -3,7 +3,7 @@
 # Tag: youkaishomecoming:raw_flesh
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.216519+08:00
+# Generated: 2026-06-18T20:43:44.4140893+08:00
 
 youkaishomecoming:flesh
 youkaishomecoming:flesh_slice

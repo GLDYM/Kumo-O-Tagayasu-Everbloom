@@ -3,7 +3,7 @@
 # Tag: minecraft:parrots_spawnable_on
 # Entries: 173
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4787479+08:00
+# Generated: 2026-06-18T20:43:38.9280635+08:00
 
 atmospheric:aspen_leaves
 atmospheric:aspen_log

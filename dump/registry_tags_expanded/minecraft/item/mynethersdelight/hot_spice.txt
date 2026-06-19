@@ -3,7 +3,7 @@
 # Tag: mynethersdelight:hot_spice
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.3012486+08:00
+# Generated: 2026-06-18T20:43:43.4290017+08:00
 
 minecraft:blaze_powder
 mynethersdelight:bullet_pepper

@@ -3,7 +3,7 @@
 # Tag: atmospheric:spawns_arid_camels
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.309257+08:00
+# Generated: 2026-06-18T20:43:44.4978117+08:00
 
 atmospheric:dunes
 atmospheric:flourishing_dunes

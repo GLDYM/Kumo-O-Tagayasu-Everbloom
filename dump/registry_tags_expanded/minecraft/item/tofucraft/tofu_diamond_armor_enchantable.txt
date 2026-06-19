@@ -3,7 +3,7 @@
 # Tag: tofucraft:tofu_diamond_armor_enchantable
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.0684491+08:00
+# Generated: 2026-06-18T20:43:44.2150995+08:00
 
 tofucraft:tofu_diamond_boots
 tofucraft:tofu_diamond_chestplate

@@ -3,7 +3,7 @@
 # Tag: tofucraft:walkable_without_trigger
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1842895+08:00
+# Generated: 2026-06-18T20:43:39.859086+08:00
 
 minecraft:endermite
 minecraft:fox

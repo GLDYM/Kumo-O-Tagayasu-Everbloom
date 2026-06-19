@@ -3,7 +3,7 @@
 # Tag: minecraft:corals
 # Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.3327894+08:00
+# Generated: 2026-06-18T20:43:38.7160933+08:00
 
 minecraft:brain_coral
 minecraft:brain_coral_fan

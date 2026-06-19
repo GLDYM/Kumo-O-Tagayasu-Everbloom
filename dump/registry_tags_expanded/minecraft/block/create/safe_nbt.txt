@@ -3,7 +3,7 @@
 # Tag: create:safe_nbt
 # Entries: 331
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.8212364+08:00
+# Generated: 2026-06-18T20:43:38.0252678+08:00
 
 amendments:wall_lantern
 atmospheric:aspen_hanging_sign

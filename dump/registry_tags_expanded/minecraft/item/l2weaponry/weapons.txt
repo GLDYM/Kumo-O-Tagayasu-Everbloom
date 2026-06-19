@@ -3,7 +3,7 @@
 # Tag: l2weaponry:weapons
 # Entries: 109
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.0098207+08:00
+# Generated: 2026-06-18T20:43:43.0811996+08:00
 
 l2weaponry:abyss_echo
 l2weaponry:abyss_resonance

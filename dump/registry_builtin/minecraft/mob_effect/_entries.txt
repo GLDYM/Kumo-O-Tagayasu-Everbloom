@@ -2,7 +2,7 @@
 # Registry: minecraft:mob_effect
 # Minecraft: 1.21.1
 # Entries: 264
-# Generated: 2026-06-14T13:45:01.293983+08:00
+# Generated: 2026-06-18T20:40:59.2613845+08:00
 
 artifacts:magnetism raw_id=149 class=artifacts.effect.MagnetismMobEffect
 atmospheric:persistence raw_id=206 class=com.teamabnormals.atmospheric.common.effect.PersistenceEffect

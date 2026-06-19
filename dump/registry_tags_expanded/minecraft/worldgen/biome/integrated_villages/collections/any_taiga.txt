@@ -3,7 +3,7 @@
 # Tag: integrated_villages:collections/any_taiga
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.8191818+08:00
+# Generated: 2026-06-18T20:43:45.0246837+08:00
 
 minecraft:grove
 minecraft:old_growth_pine_taiga

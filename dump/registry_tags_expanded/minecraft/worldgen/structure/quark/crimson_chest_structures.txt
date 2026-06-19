@@ -3,7 +3,7 @@
 # Tag: quark:crimson_chest_structures
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.2385006+08:00
+# Generated: 2026-06-18T20:43:45.520164+08:00
 
 minecraft:bastion_remnant
 minecraft:ruined_portal

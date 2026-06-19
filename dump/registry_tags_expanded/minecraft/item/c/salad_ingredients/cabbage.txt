@@ -3,7 +3,7 @@
 # Tag: c:salad_ingredients/cabbage
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.5838735+08:00
+# Generated: 2026-06-18T20:43:41.4431032+08:00
 
 tsuki:cabbage
 tsuki:sliced_cabbage

@@ -3,7 +3,7 @@
 # Tag: boatload:large_boats
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.5033672+08:00
+# Generated: 2026-06-18T20:43:40.1784859+08:00
 
 atmospheric:large_aspen_boat
 atmospheric:large_grimwood_boat

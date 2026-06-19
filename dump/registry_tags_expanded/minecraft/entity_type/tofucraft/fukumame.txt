@@ -3,7 +3,7 @@
 # Tag: tofucraft:fukumame
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1832809+08:00
+# Generated: 2026-06-18T20:43:39.8575538+08:00
 
 tofucraft:fukumame
 tofucraft:nether_fukumame

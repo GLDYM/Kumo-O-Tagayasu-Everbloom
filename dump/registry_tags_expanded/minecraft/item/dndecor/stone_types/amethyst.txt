@@ -3,7 +3,7 @@
 # Tag: dndecor:stone_types/amethyst
 # Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.291788+08:00
+# Generated: 2026-06-18T20:43:42.2450985+08:00
 
 dndecor:amethyst_pillar
 dndecor:cut_amethyst

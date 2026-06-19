@@ -3,7 +3,7 @@
 # Tag: c:foods/food_poisoning
 # Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.1134026+08:00
+# Generated: 2026-06-18T20:43:40.9083829+08:00
 
 farmersdelight:chicken_cuts
 farmersdelight:nether_salad

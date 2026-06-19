@@ -3,7 +3,7 @@
 # Tag: displaydelight:support_exceptions
 # Entries: 567
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.9329637+08:00
+# Generated: 2026-06-18T20:43:38.1283129+08:00
 
 amendments:carpet_stairs
 atmospheric:arid_sandstone_stairs

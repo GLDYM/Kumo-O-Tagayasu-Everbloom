@@ -3,7 +3,7 @@
 # Tag: touhou_little_maid_spell:has_structure/enchantress_footsteps_outpost
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.1105687+08:00
+# Generated: 2026-06-18T20:43:45.3410785+08:00
 
 minecraft:cherry_grove
 minecraft:desert

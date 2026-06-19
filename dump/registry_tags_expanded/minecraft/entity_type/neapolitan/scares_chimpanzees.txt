@@ -3,7 +3,7 @@
 # Tag: neapolitan:scares_chimpanzees
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1540561+08:00
+# Generated: 2026-06-18T20:43:39.79508+08:00
 
 minecraft:dragon_fireball
 minecraft:evoker_fangs

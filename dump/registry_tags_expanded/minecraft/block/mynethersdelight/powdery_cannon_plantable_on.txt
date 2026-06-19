@@ -3,7 +3,7 @@
 # Tag: mynethersdelight:powdery_cannon_plantable_on
 # Entries: 55
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.5997691+08:00
+# Generated: 2026-06-18T20:43:39.0795196+08:00
 
 atmospheric:arid_sand
 atmospheric:crustose

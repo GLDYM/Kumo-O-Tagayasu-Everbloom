@@ -3,7 +3,7 @@
 # Tag: minecraft:has_structure/ruined_portal_standard
 # Entries: 32
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.9596934+08:00
+# Generated: 2026-06-18T20:43:45.1946674+08:00
 
 atmospheric:aspen_parkland
 atmospheric:grimwoods

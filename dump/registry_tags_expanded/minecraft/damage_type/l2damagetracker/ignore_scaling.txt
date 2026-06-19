@@ -3,7 +3,7 @@
 # Tag: l2damagetracker:ignore_scaling
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.886223+08:00
+# Generated: 2026-06-18T20:43:39.4247972+08:00
 
 l2complements:bleed
 l2complements:life_sync

@@ -3,7 +3,7 @@
 # Tag: minecraft:is_hill
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.9961766+08:00
+# Generated: 2026-06-18T20:43:45.2284811+08:00
 
 minecraft:windswept_forest
 minecraft:windswept_gravelly_hills

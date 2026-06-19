@@ -2,7 +2,7 @@
 # Registry: neoforge:holder_set_type
 # Minecraft: 1.21.1
 # Entries: 6
-# Generated: 2026-06-14T13:47:24.600469+08:00
+# Generated: 2026-06-18T20:43:28.6742243+08:00
 
 kubejs:namespace raw_id=5 class=dev.latvian.mods.kubejs.holder.KubeJSHolderSets$2
 kubejs:regex raw_id=4 class=dev.latvian.mods.kubejs.holder.KubeJSHolderSets$1

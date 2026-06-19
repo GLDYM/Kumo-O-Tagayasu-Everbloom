@@ -3,7 +3,7 @@
 # Tag: create_enchantment_industry:blaze_enchanter/enchanting
 # Entries: 53
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9739683+08:00
+# Generated: 2026-06-18T20:43:39.5228949+08:00
 
 create:capacity
 create:potato_recovery

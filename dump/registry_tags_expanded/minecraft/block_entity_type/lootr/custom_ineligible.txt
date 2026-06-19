@@ -3,5 +3,5 @@
 # Tag: lootr:custom_ineligible
 # Entries: 0
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.8556064+08:00
+# Generated: 2026-06-18T20:43:39.362166+08:00
 

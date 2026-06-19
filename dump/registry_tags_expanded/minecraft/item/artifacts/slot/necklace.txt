@@ -3,7 +3,7 @@
 # Tag: artifacts:slot/necklace
 # Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.4607005+08:00
+# Generated: 2026-06-18T20:43:40.1311835+08:00
 
 artifacts:charm_of_shrinking
 artifacts:charm_of_sinking

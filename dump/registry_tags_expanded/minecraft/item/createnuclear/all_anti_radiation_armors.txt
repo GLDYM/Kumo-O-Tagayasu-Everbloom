@@ -3,7 +3,7 @@
 # Tag: createnuclear:all_anti_radiation_armors
 # Entries: 49
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.1644791+08:00
+# Generated: 2026-06-18T20:43:42.0714422+08:00
 
 createnuclear:anti_radiation_boots
 createnuclear:black_anti_radiation_chestplate

@@ -3,7 +3,7 @@
 # Tag: quark:vertical_slabs
 # Entries: 122
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.6797966+08:00
+# Generated: 2026-06-18T20:43:39.1446694+08:00
 
 quark:acacia_vertical_slab
 quark:ancient_planks_vertical_slab

@@ -3,7 +3,7 @@
 # Tag: quark:counts_as_weapon_for_gold_tools_have_fortune
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.3353782+08:00
+# Generated: 2026-06-18T20:43:43.4781712+08:00
 
 farmersdelight:golden_knife
 minecraft:golden_sword

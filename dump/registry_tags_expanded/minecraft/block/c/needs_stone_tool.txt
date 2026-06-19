@@ -3,7 +3,7 @@
 # Tag: c:needs_stone_tool
 # Entries: 64
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.6093551+08:00
+# Generated: 2026-06-18T20:43:37.7315472+08:00
 
 quark:black_framed_glass
 quark:black_framed_glass_pane

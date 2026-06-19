@@ -2,7 +2,7 @@
 # Registry: tofucraft:tofunian_profession
 # Minecraft: 1.21.1
 # Entries: 5
-# Generated: 2026-06-14T13:47:24.642977+08:00
+# Generated: 2026-06-18T20:43:28.7259754+08:00
 
 tofucraft:engineer raw_id=4 class=baguchan.tofucraft.api.TofunianProfession
 tofucraft:farmer raw_id=2 class=baguchan.tofucraft.api.TofunianProfession

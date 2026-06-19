@@ -3,7 +3,7 @@
 # Tag: idas:has_structure/sirens_cove_biomes
 # Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.7162656+08:00
+# Generated: 2026-06-18T20:43:44.8832928+08:00
 
 minecraft:cold_ocean
 minecraft:deep_cold_ocean

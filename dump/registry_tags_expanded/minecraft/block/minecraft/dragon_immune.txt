@@ -3,7 +3,7 @@
 # Tag: minecraft:dragon_immune
 # Entries: 43
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.3522715+08:00
+# Generated: 2026-06-18T20:43:38.7471476+08:00
 
 minecraft:barrier
 minecraft:bedrock

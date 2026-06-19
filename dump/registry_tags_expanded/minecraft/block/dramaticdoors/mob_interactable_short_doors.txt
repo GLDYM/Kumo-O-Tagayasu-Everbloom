@@ -3,7 +3,7 @@
 # Tag: dramaticdoors:mob_interactable_short_doors
 # Entries: 35
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.9604706+08:00
+# Generated: 2026-06-18T20:43:38.1651602+08:00
 
 dramaticdoors:short_acacia_door
 dramaticdoors:short_andesite_door

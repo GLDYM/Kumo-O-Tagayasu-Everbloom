@@ -3,7 +3,7 @@
 # Tag: minecraft:candles
 # Entries: 18
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.311374+08:00
+# Generated: 2026-06-18T20:43:38.6933012+08:00
 
 amendments:skull_candle
 minecraft:black_candle

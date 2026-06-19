@@ -3,7 +3,7 @@
 # Tag: c:foods/cooked_fish
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.0871249+08:00
+# Generated: 2026-06-18T20:43:40.8842858+08:00
 
 crabbersdelight:cooked_pufferfish_slice
 crabbersdelight:cooked_tropical_fish

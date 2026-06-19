@@ -3,7 +3,7 @@
 # Tag: minecraft:cow_food
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.0728743+08:00
+# Generated: 2026-06-18T20:43:43.1558747+08:00
 
 corn_delight:corn
 corn_delight:corn_seeds

@@ -3,7 +3,7 @@
 # Tag: c:dyed/light_gray
 # Entries: 21
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.5303328+08:00
+# Generated: 2026-06-18T20:43:37.6251137+08:00
 
 handcrafted:light_gray_cushion
 minecraft:light_gray_banner

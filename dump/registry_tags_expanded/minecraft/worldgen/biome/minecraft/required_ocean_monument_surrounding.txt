@@ -3,7 +3,7 @@
 # Tag: minecraft:required_ocean_monument_surrounding
 # Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.0132763+08:00
+# Generated: 2026-06-18T20:43:45.2474612+08:00
 
 minecraft:cold_ocean
 minecraft:deep_cold_ocean

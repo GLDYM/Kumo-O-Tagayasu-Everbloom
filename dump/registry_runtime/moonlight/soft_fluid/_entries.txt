@@ -2,7 +2,7 @@
 # Registry: moonlight:soft_fluid
 # Minecraft: 1.21.1
 # Entries: 320
-# Generated: 2026-06-14T13:47:24.5637534+08:00
+# Generated: 2026-06-18T20:43:28.6482901+08:00
 
 amendments:dye raw_id=14 class=net.mehvahdjukaar.moonlight.api.fluids.SoftFluid
 bakeries:salt_water raw_id=318 class=net.mehvahdjukaar.moonlight.api.fluids.SoftFluid

@@ -3,6 +3,6 @@
 # Tag: youkaishomecoming:drops_creeper_head
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1883113+08:00
+# Generated: 2026-06-18T20:43:39.8630937+08:00
 
 minecraft:creeper

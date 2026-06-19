@@ -3,7 +3,7 @@
 # Tag: c:buckets
 # Entries: 33
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.6146228+08:00
+# Generated: 2026-06-18T20:43:40.3187744+08:00
 
 atmospheric:tetra_bucket
 create:chocolate_bucket

@@ -3,7 +3,7 @@
 # Tag: minecraft:is_meat
 # Entries: 39
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.1630773+08:00
+# Generated: 2026-06-18T20:43:43.216867+08:00
 
 farmersdelight:bacon
 farmersdelight:chicken_cuts

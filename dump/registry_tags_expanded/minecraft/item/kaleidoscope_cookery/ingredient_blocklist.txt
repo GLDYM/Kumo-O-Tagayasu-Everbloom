@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_cookery:ingredient_blocklist
 # Entries: 524
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.8720141+08:00
+# Generated: 2026-06-18T20:43:42.9496052+08:00
 
 another_furniture:furniture_hammer
 bakeries:bread_knife

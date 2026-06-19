@@ -2,7 +2,7 @@
 # Registry: neoforge:fluid_ingredient_type
 # Minecraft: 1.21.1
 # Entries: 9
-# Generated: 2026-06-14T13:45:01.5356614+08:00
+# Generated: 2026-06-18T20:40:59.3493941+08:00
 
 kubejs:namespace raw_id=8 class=net.neoforged.neoforge.fluids.crafting.FluidIngredientType
 kubejs:regex raw_id=7 class=net.neoforged.neoforge.fluids.crafting.FluidIngredientType

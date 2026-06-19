@@ -2,7 +2,7 @@
 # Registry: minecraft:trim_material
 # Minecraft: 1.21.1
 # Entries: 20
-# Generated: 2026-06-14T13:47:24.4485214+08:00
+# Generated: 2026-06-18T20:43:28.4937218+08:00
 
 atmospheric:carmine raw_id=1 class=net.minecraft.world.item.armortrim.TrimMaterial
 crabbersdelight:pearl raw_id=10 class=net.minecraft.world.item.armortrim.TrimMaterial

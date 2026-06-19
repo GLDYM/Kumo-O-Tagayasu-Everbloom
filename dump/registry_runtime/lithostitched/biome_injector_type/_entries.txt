@@ -2,7 +2,7 @@
 # Registry: lithostitched:biome_injector_type
 # Minecraft: 1.21.1
 # Entries: 5
-# Generated: 2026-06-14T13:47:24.1344495+08:00
+# Generated: 2026-06-18T20:43:28.2508629+08:00
 
 lithostitched:add_points raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 lithostitched:dispatch_alternate_layout raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

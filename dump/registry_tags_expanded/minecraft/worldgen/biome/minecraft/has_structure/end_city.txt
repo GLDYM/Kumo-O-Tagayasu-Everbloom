@@ -3,7 +3,7 @@
 # Tag: minecraft:has_structure/end_city
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.9284288+08:00
+# Generated: 2026-06-18T20:43:45.1633923+08:00
 
 minecraft:end_highlands
 minecraft:end_midlands

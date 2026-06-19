@@ -3,7 +3,7 @@
 # Tag: neapolitan:has_feature/banana_plant/rare
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.0365842+08:00
+# Generated: 2026-06-18T20:43:45.2680529+08:00
 
 minecraft:beach
 minecraft:stony_shore

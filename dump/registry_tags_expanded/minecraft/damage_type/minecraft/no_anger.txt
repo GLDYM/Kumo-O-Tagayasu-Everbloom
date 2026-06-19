@@ -3,7 +3,7 @@
 # Tag: minecraft:no_anger
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9289333+08:00
+# Generated: 2026-06-18T20:43:39.4855126+08:00
 
 l2weaponry:mob_attack-bypass_armor-bypass_magic-no_anger
 l2weaponry:mob_attack-bypass_armor-no_anger

@@ -2,7 +2,7 @@
 # Registry: moonlight:villager_trades
 # Minecraft: 1.21.1
 # Entries: 9
-# Generated: 2026-06-14T13:47:24.5672969+08:00
+# Generated: 2026-06-18T20:43:28.6502899+08:00
 
 moonlight:no_op raw_id=7 class=com.mojang.serialization.MapCodec$2
 moonlight:remove_all_non_data raw_id=6 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

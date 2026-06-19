@@ -3,7 +3,7 @@
 # Tag: ratatouille:eggs
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.9255096+08:00
+# Generated: 2026-06-18T20:43:44.0594827+08:00
 
 farmersdelight:fried_egg
 minecraft:egg

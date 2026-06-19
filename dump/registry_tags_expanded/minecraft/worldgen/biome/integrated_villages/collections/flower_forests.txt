@@ -3,7 +3,7 @@
 # Tag: integrated_villages:collections/flower_forests
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.8323398+08:00
+# Generated: 2026-06-18T20:43:45.0417253+08:00
 
 minecraft:cherry_grove
 minecraft:flower_forest

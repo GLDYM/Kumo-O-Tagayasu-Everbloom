@@ -2,7 +2,7 @@
 # Registry: moonlight:map_marker
 # Minecraft: 1.21.1
 # Entries: 32
-# Generated: 2026-06-14T13:47:24.5626226+08:00
+# Generated: 2026-06-18T20:43:28.6452826+08:00
 
 moonlight:generic_structure raw_id=16 class=net.mehvahdjukaar.moonlight.api.map.decoration.MLJsonMapDecorationType
 supplementaries:ancient_city raw_id=0 class=net.mehvahdjukaar.moonlight.api.map.decoration.MLJsonMapDecorationType

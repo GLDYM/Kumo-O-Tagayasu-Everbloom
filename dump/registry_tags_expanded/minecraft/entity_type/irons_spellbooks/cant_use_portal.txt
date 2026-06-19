@@ -3,7 +3,7 @@
 # Tag: irons_spellbooks:cant_use_portal
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.0781301+08:00
+# Generated: 2026-06-18T20:43:39.7023725+08:00
 
 irons_spellbooks:dead_king
 irons_spellbooks:dead_king_corpse

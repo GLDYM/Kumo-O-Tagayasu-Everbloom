@@ -3,7 +3,7 @@
 # Tag: minecraft:has_structure/ruined_portal_mountain
 # Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.9541589+08:00
+# Generated: 2026-06-18T20:43:45.1885763+08:00
 
 minecraft:badlands
 minecraft:cherry_grove

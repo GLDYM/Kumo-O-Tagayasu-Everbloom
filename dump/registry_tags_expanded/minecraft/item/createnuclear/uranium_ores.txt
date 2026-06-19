@@ -3,7 +3,7 @@
 # Tag: createnuclear:uranium_ores
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.1884752+08:00
+# Generated: 2026-06-18T20:43:42.0856757+08:00
 
 createnuclear:deepslate_uranium_ore
 createnuclear:uranium_ore

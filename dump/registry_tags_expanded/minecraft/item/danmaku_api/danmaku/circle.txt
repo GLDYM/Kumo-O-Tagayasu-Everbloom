@@ -3,7 +3,7 @@
 # Tag: danmaku_api:danmaku/circle
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2173436+08:00
+# Generated: 2026-06-18T20:43:42.1249454+08:00
 
 danmaku_api:black_circle_danmaku
 danmaku_api:blue_circle_danmaku

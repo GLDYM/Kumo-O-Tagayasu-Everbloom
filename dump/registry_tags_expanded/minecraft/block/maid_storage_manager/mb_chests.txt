@@ -3,7 +3,7 @@
 # Tag: maid_storage_manager:mb_chests
 # Entries: 61
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.2074697+08:00
+# Generated: 2026-06-18T20:43:38.555932+08:00
 
 atmospheric:aspen_chest
 atmospheric:grimwood_chest

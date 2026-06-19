@@ -2,7 +2,7 @@
 # Registry: minecraft:worldgen/flat_level_generator_preset
 # Minecraft: 1.21.1
 # Entries: 9
-# Generated: 2026-06-14T13:47:24.493227+08:00
+# Generated: 2026-06-18T20:43:28.5542123+08:00
 
 minecraft:bottomless_pit raw_id=0 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
 minecraft:classic_flat raw_id=1 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset

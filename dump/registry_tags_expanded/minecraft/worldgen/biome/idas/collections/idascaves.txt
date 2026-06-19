@@ -3,7 +3,7 @@
 # Tag: idas:collections/idascaves
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.5555426+08:00
+# Generated: 2026-06-18T20:43:44.7509012+08:00
 
 minecraft:deep_dark
 minecraft:dripstone_caves

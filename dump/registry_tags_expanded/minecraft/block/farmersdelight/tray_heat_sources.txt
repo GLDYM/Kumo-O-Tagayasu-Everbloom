@@ -3,7 +3,7 @@
 # Tag: farmersdelight:tray_heat_sources
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.0045778+08:00
+# Generated: 2026-06-18T20:43:38.2312886+08:00
 
 create:blaze_burner
 create:lit_blaze_burner

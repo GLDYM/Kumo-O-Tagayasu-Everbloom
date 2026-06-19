@@ -2,7 +2,7 @@
 # Registry: minecraft:enchantment
 # Minecraft: 1.21.1
 # Entries: 126
-# Generated: 2026-06-14T13:47:24.2620115+08:00
+# Generated: 2026-06-18T20:43:28.3251845+08:00
 
 create:capacity raw_id=9 class=net.minecraft.world.item.enchantment.Enchantment
 create:potato_recovery raw_id=80 class=net.minecraft.world.item.enchantment.Enchantment

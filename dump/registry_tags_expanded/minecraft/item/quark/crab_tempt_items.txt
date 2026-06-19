@@ -3,7 +3,7 @@
 # Tag: quark:crab_tempt_items
 # Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.3369896+08:00
+# Generated: 2026-06-18T20:43:43.4811701+08:00
 
 minecraft:chicken
 minecraft:cod

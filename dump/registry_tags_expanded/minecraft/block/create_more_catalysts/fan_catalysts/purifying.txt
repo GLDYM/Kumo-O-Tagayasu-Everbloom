@@ -3,6 +3,6 @@
 # Tag: create_more_catalysts:fan_catalysts/purifying
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.8706776+08:00
+# Generated: 2026-06-18T20:43:38.0861603+08:00
 
 create_connected:fan_purifying_catalyst

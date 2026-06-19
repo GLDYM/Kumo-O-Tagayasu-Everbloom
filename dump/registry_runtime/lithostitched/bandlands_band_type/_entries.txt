@@ -2,7 +2,7 @@
 # Registry: lithostitched:bandlands_band_type
 # Minecraft: 1.21.1
 # Entries: 3
-# Generated: 2026-06-14T13:47:24.1294398+08:00
+# Generated: 2026-06-18T20:43:28.2495966+08:00
 
 lithostitched:base raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 lithostitched:repeating raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

@@ -3,7 +3,7 @@
 # Tag: minecraft:pressure_plates
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.2026366+08:00
+# Generated: 2026-06-18T20:43:43.2667777+08:00
 
 immortalers_delight:ancient_wood_pressure_plate
 immortalers_delight:himekaido_pressure_plate

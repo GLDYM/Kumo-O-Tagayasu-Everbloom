@@ -3,7 +3,7 @@
 # Tag: minecraft:shipwreck
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.2241809+08:00
+# Generated: 2026-06-18T20:43:45.4981015+08:00
 
 minecraft:shipwreck
 minecraft:shipwreck_beached

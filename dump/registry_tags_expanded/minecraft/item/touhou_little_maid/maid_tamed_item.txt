@@ -3,7 +3,7 @@
 # Tag: touhou_little_maid:maid_tamed_item
 # Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.0796032+08:00
+# Generated: 2026-06-18T20:43:44.2272519+08:00
 
 atmospheric:yucca_gateau
 minecraft:cake

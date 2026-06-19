@@ -3,7 +3,7 @@
 # Tag: handcrafted:trim_materials
 # Entries: 23
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.7721015+08:00
+# Generated: 2026-06-18T20:43:42.8174459+08:00
 
 minecraft:acacia_planks
 minecraft:andesite

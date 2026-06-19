@@ -3,7 +3,7 @@
 # Tag: youkaisfeasts:wine
 # Entries: 24
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.1756763+08:00
+# Generated: 2026-06-18T20:43:44.3543252+08:00
 
 kaleidoscope_dim_wine:abyssal_porter
 kaleidoscope_dim_wine:black_bone_lafite

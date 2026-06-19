@@ -3,7 +3,7 @@
 # Tag: create:vertical_plants/fragile
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.8396532+08:00
+# Generated: 2026-06-18T20:43:38.0464381+08:00
 
 mynethersdelight:bullet_pepper
 mynethersdelight:powdery_cane

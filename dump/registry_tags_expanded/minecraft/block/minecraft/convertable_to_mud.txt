@@ -3,7 +3,7 @@
 # Tag: minecraft:convertable_to_mud
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.32806+08:00
+# Generated: 2026-06-18T20:43:38.7088486+08:00
 
 minecraft:coarse_dirt
 minecraft:dirt

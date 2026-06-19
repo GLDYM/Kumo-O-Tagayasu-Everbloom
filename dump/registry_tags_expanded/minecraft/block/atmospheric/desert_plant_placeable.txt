@@ -3,7 +3,7 @@
 # Tag: atmospheric:desert_plant_placeable
 # Entries: 23
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.4164502+08:00
+# Generated: 2026-06-18T20:43:37.5092972+08:00
 
 atmospheric:arid_sand
 atmospheric:crustose

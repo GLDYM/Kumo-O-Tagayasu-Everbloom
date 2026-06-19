@@ -3,7 +3,7 @@
 # Tag: create:passive_boiler_heaters
 # Entries: 30
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.8154278+08:00
+# Generated: 2026-06-18T20:43:38.0114996+08:00
 
 brewinandchewin:fiery_fondue_pot
 brewinandchewin:heating_cask

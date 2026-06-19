@@ -3,7 +3,7 @@
 # Tag: minecraft:candle_cakes
 # Entries: 170
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.3093686+08:00
+# Generated: 2026-06-18T20:43:38.6927968+08:00
 
 minecraft:black_candle_cake
 minecraft:blue_candle_cake

@@ -3,7 +3,7 @@
 # Tag: neoforge:is_physical
 # Entries: 20
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9477088+08:00
+# Generated: 2026-06-18T20:43:39.5085539+08:00
 
 minecraft:arrow
 minecraft:cactus

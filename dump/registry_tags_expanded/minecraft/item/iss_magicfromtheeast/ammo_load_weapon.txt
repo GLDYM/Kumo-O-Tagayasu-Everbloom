@@ -3,6 +3,6 @@
 # Tag: iss_magicfromtheeast:ammo_load_weapon
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.8423402+08:00
+# Generated: 2026-06-18T20:43:42.9173595+08:00
 
 iss_magicfromtheeast:repeating_crossbow

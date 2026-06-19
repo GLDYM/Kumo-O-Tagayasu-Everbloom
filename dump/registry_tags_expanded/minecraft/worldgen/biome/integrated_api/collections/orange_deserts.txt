@@ -3,5 +3,5 @@
 # Tag: integrated_api:collections/orange_deserts
 # Entries: 0
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.786517+08:00
+# Generated: 2026-06-18T20:43:44.9684344+08:00
 

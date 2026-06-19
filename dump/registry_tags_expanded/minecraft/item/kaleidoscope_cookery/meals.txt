@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_cookery:meals
 # Entries: 93
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.8780428+08:00
+# Generated: 2026-06-18T20:43:42.958157+08:00
 
 kaleidoscope_cookery:bamboo_tube_rice
 kaleidoscope_cookery:baozi

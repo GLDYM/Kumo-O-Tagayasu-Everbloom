@@ -3,7 +3,7 @@
 # Tag: artifacts:campsite_chests
 # Entries: 14
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.4026204+08:00
+# Generated: 2026-06-18T20:43:37.4915528+08:00
 
 minecraft:chest
 quark:acacia_chest

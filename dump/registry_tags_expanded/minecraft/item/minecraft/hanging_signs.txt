@@ -3,7 +3,7 @@
 # Tag: minecraft:hanging_signs
 # Entries: 46
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.1430314+08:00
+# Generated: 2026-06-18T20:43:43.210619+08:00
 
 atmospheric:aspen_hanging_sign
 atmospheric:grimwood_hanging_sign

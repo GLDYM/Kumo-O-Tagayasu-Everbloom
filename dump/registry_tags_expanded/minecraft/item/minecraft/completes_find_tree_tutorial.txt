@@ -3,7 +3,7 @@
 # Tag: minecraft:completes_find_tree_tutorial
 # Entries: 164
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.0703583+08:00
+# Generated: 2026-06-18T20:43:43.1548676+08:00
 
 atmospheric:aspen_leaves
 atmospheric:aspen_log

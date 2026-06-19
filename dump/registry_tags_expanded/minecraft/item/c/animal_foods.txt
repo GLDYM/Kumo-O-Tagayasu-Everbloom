@@ -3,7 +3,7 @@
 # Tag: c:animal_foods
 # Entries: 155
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.5527389+08:00
+# Generated: 2026-06-18T20:43:40.2241007+08:00
 
 atmospheric:aloe_kernels
 atmospheric:currant

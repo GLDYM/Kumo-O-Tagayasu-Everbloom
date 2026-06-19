@@ -2,7 +2,7 @@
 # Registry: minecraft:chat_type
 # Minecraft: 1.21.1
 # Entries: 7
-# Generated: 2026-06-14T13:47:24.2344288+08:00
+# Generated: 2026-06-18T20:43:28.3054956+08:00
 
 minecraft:chat raw_id=0 class=net.minecraft.network.chat.ChatType
 minecraft:emote_command raw_id=1 class=net.minecraft.network.chat.ChatType

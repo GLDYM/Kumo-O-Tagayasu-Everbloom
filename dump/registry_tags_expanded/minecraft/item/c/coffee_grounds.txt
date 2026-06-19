@@ -3,6 +3,6 @@
 # Tag: c:coffee_grounds
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.7586439+08:00
+# Generated: 2026-06-18T20:43:40.4874087+08:00
 
 bakeries:ground_coffee

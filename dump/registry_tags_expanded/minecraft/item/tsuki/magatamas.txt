@@ -3,7 +3,7 @@
 # Tag: tsuki:magatamas
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.1100219+08:00
+# Generated: 2026-06-18T20:43:44.2750494+08:00
 
 tsuki:magatama_blue
 tsuki:magatama_green

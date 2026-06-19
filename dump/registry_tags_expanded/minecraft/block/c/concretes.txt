@@ -3,7 +3,7 @@
 # Tag: c:concretes
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.5087179+08:00
+# Generated: 2026-06-18T20:43:37.60799+08:00
 
 minecraft:black_concrete
 minecraft:blue_concrete

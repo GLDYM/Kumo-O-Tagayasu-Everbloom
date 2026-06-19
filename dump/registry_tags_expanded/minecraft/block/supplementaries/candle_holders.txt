@@ -3,7 +3,7 @@
 # Tag: supplementaries:candle_holders
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.7376851+08:00
+# Generated: 2026-06-18T20:43:39.2285379+08:00
 
 supplementaries:candle_holder
 supplementaries:candle_holder_black

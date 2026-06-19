@@ -3,7 +3,7 @@
 # Tag: c:sandstone/red_slabs
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.6661818+08:00
+# Generated: 2026-06-18T20:43:37.7902427+08:00
 
 atmospheric:cut_red_arid_sandstone_slab
 atmospheric:red_arid_sandstone_slab

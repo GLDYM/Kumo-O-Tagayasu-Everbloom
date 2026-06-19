@@ -3,7 +3,7 @@
 # Tag: c:foods/milk
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.156471+08:00
+# Generated: 2026-06-18T20:43:40.9421139+08:00
 
 bakeries:bottle_milk
 ccw:calcium_rich_milk

@@ -3,7 +3,7 @@
 # Tag: minecraft:geode_invalid_blocks
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.3802851+08:00
+# Generated: 2026-06-18T20:43:38.7862366+08:00
 
 minecraft:bedrock
 minecraft:blue_ice

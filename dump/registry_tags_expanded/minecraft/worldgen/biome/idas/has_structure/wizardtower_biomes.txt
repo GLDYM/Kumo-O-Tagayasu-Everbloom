@@ -3,7 +3,7 @@
 # Tag: idas:has_structure/wizardtower_biomes
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.7403473+08:00
+# Generated: 2026-06-18T20:43:44.92147+08:00
 
 minecraft:birch_forest
 minecraft:dark_forest

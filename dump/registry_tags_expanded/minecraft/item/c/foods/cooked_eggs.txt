@@ -3,7 +3,7 @@
 # Tag: c:foods/cooked_eggs
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.0861224+08:00
+# Generated: 2026-06-18T20:43:40.880758+08:00
 
 farmersdelight:fried_egg
 kaleidoscope_cookery:fried_egg

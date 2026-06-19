@@ -3,7 +3,7 @@
 # Tag: iss_magicfromtheeast:bypass_reversal_healing
 # Entries: 13
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.8796948+08:00
+# Generated: 2026-06-18T20:43:39.4077003+08:00
 
 irons_spellbooks:blood_cauldron
 irons_spellbooks:heartstop

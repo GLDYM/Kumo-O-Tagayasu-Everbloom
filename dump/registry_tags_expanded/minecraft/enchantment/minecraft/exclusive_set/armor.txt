@@ -3,7 +3,7 @@
 # Tag: minecraft:exclusive_set/armor
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9854637+08:00
+# Generated: 2026-06-18T20:43:39.543029+08:00
 
 minecraft:blast_protection
 minecraft:fire_protection

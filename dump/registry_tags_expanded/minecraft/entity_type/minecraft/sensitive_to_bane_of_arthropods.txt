@@ -3,7 +3,7 @@
 # Tag: minecraft:sensitive_to_bane_of_arthropods
 # Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.139678+08:00
+# Generated: 2026-06-18T20:43:39.7783892+08:00
 
 atmospheric:cochineal
 minecraft:bee

@@ -3,7 +3,7 @@
 # Tag: c:foods/cooked_mutton
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.0953487+08:00
+# Generated: 2026-06-18T20:43:40.8923152+08:00
 
 farmersdelight:cooked_mutton_chops
 kaleidoscope_cookery:cooked_lamb_chops

@@ -2,7 +2,7 @@
 # Registry: create:fan_processing_type
 # Minecraft: 1.21.1
 # Entries: 24
-# Generated: 2026-06-14T13:47:24.0391834+08:00
+# Generated: 2026-06-18T20:43:28.1756198+08:00
 
 create:blasting raw_id=1 class=com.simibubi.create.content.kinetics.fan.processing.AllFanProcessingTypes$BlastingType
 create:haunting raw_id=2 class=com.simibubi.create.content.kinetics.fan.processing.AllFanProcessingTypes$HauntingType

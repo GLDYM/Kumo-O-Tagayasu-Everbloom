@@ -3,7 +3,7 @@
 # Tag: c:skulls
 # Entries: 18
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.6795351+08:00
+# Generated: 2026-06-18T20:43:37.8079756+08:00
 
 minecraft:creeper_head
 minecraft:creeper_wall_head

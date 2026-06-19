@@ -3,7 +3,7 @@
 # Tag: railways:oilburner_stack
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.8587101+08:00
+# Generated: 2026-06-18T20:43:43.9660763+08:00
 
 railways:smokestack_oilburner
 railways:smokestack_oilburner_brass

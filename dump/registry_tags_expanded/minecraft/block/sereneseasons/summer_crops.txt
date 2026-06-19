@@ -3,7 +3,7 @@
 # Tag: sereneseasons:summer_crops
 # Entries: 32
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.7145507+08:00
+# Generated: 2026-06-18T20:43:39.1922813+08:00
 
 corn_delight:corn_crop
 delighto_flight:lotus_bud

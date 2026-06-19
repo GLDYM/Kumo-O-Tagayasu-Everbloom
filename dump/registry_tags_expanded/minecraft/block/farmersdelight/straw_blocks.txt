@@ -3,7 +3,7 @@
 # Tag: farmersdelight:straw_blocks
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.0015567+08:00
+# Generated: 2026-06-18T20:43:38.2302872+08:00
 
 farmersdelight:canvas_rug
 farmersdelight:full_tatami_mat

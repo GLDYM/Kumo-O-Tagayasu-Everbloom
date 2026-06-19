@@ -3,7 +3,7 @@
 # Tag: crabbersdelight:palm_logs
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.9677983+08:00
+# Generated: 2026-06-18T20:43:41.8350038+08:00
 
 crabbersdelight:palm_log
 crabbersdelight:palm_wood

@@ -2,7 +2,7 @@
 # Registry: neoforge:attachment_types
 # Minecraft: 1.21.1
 # Entries: 43
-# Generated: 2026-06-14T13:45:01.5176029+08:00
+# Generated: 2026-06-18T20:40:59.3423808+08:00
 
 artifacts:ability_toggles raw_id=34 class=net.neoforged.neoforge.attachment.AttachmentType
 artifacts:swim_data raw_id=33 class=net.neoforged.neoforge.attachment.AttachmentType

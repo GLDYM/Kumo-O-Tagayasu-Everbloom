@@ -3,7 +3,7 @@
 # Tag: minecraft:lapis_ores
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4241532+08:00
+# Generated: 2026-06-18T20:43:38.829875+08:00
 
 minecraft:deepslate_lapis_ore
 minecraft:lapis_ore

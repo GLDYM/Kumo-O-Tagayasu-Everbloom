@@ -3,7 +3,7 @@
 # Tag: minecraft:enchantable/equippable
 # Entries: 188
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.1061067+08:00
+# Generated: 2026-06-18T20:43:43.174332+08:00
 
 corn_delight:cob_pipe
 create:cardboard_boots

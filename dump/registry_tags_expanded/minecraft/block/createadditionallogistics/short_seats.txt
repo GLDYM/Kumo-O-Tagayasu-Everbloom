@@ -3,7 +3,7 @@
 # Tag: createadditionallogistics:short_seats
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.8917604+08:00
+# Generated: 2026-06-18T20:43:38.1005027+08:00
 
 createadditionallogistics:black_short_seat
 createadditionallogistics:blue_short_seat

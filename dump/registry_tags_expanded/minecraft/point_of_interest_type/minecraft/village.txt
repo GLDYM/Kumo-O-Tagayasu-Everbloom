@@ -3,7 +3,7 @@
 # Tag: minecraft:village
 # Entries: 24
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.2752454+08:00
+# Generated: 2026-06-18T20:43:44.4688546+08:00
 
 bakeries:dough_crafting_table_poi
 beautify:botanist_workbench_poi

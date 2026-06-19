@@ -3,7 +3,7 @@
 # Tag: minecraft:goat_horns
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.3841787+08:00
+# Generated: 2026-06-18T20:43:40.0618768+08:00
 
 minecraft:admire_goat_horn
 minecraft:call_goat_horn

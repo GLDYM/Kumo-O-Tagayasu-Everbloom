@@ -3,7 +3,7 @@
 # Tag: idas:collections/idasend_voids
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.5690935+08:00
+# Generated: 2026-06-18T20:43:44.7569456+08:00
 
 minecraft:end_barrens
 minecraft:small_end_islands

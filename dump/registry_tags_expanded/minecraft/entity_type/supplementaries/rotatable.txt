@@ -3,7 +3,7 @@
 # Tag: supplementaries:rotatable
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1787749+08:00
+# Generated: 2026-06-18T20:43:39.8409962+08:00
 
 dummmmmmy:target_dummy
 minecraft:armor_stand

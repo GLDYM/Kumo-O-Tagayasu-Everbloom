@@ -3,7 +3,7 @@
 # Tag: copycats:copycat_slab
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.9372915+08:00
+# Generated: 2026-06-18T20:43:41.8144347+08:00
 
 copycats:copycat_slab
 create_connected:copycat_slab

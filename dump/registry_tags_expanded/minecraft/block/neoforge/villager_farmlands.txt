@@ -3,7 +3,7 @@
 # Tag: neoforge:villager_farmlands
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.6319083+08:00
+# Generated: 2026-06-18T20:43:39.1069536+08:00
 
 farmersdelight:rich_soil_farmland
 minecraft:farmland

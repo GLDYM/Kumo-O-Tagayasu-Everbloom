@@ -2,7 +2,7 @@
 # Registry: minecraft:wolf_variant
 # Minecraft: 1.21.1
 # Entries: 14
-# Generated: 2026-06-14T13:47:24.4591018+08:00
+# Generated: 2026-06-18T20:43:28.5079039+08:00
 
 atmospheric:bush raw_id=2 class=net.minecraft.world.entity.animal.WolfVariant
 atmospheric:cream raw_id=4 class=net.minecraft.world.entity.animal.WolfVariant

@@ -3,7 +3,7 @@
 # Tag: supplementaries:jar_catchable
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1767694+08:00
+# Generated: 2026-06-18T20:43:39.8349769+08:00
 
 minecraft:allay
 minecraft:bee

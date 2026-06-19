@@ -3,7 +3,7 @@
 # Tag: railways:palettes/dye_groups/copper_wrapped_slashed
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.8970848+08:00
+# Generated: 2026-06-18T20:43:44.0188692+08:00
 
 railways:black_copper_wrapped_locometal
 railways:blue_copper_wrapped_locometal

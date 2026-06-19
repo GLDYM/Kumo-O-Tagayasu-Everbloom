@@ -3,7 +3,7 @@
 # Tag: minecraft:all_hanging_signs
 # Entries: 86
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.2575379+08:00
+# Generated: 2026-06-18T20:43:38.6179377+08:00
 
 atmospheric:aspen_hanging_sign
 atmospheric:aspen_wall_hanging_sign

@@ -2,7 +2,7 @@
 # Registry: minecraft:loot_condition_type
 # Minecraft: 1.21.1
 # Entries: 42
-# Generated: 2026-06-14T13:45:01.2609252+08:00
+# Generated: 2026-06-18T20:40:59.2493801+08:00
 
 artifacts:artifact_rarity_adjusted_chance raw_id=29 class=net.minecraft.world.level.storage.loot.predicates.LootItemConditionType
 artifacts:config_value raw_id=32 class=net.minecraft.world.level.storage.loot.predicates.LootItemConditionType

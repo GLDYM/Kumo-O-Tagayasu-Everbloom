@@ -3,7 +3,7 @@
 # Tag: minecraft:coral_plants
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.3317872+08:00
+# Generated: 2026-06-18T20:43:38.7150819+08:00
 
 minecraft:brain_coral
 minecraft:bubble_coral

@@ -3,7 +3,7 @@
 # Tag: minecraft:slabs
 # Entries: 312
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.2353178+08:00
+# Generated: 2026-06-18T20:43:43.2997013+08:00
 
 atmospheric:arid_sandstone_slab
 atmospheric:aspen_slab

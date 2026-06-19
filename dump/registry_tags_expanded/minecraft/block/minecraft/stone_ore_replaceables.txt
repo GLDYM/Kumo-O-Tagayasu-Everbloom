@@ -3,7 +3,7 @@
 # Tag: minecraft:stone_ore_replaceables
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.5354882+08:00
+# Generated: 2026-06-18T20:43:39.0059283+08:00
 
 minecraft:andesite
 minecraft:diorite

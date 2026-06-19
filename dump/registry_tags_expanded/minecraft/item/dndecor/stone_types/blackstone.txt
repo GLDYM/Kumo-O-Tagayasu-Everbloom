@@ -3,7 +3,7 @@
 # Tag: dndecor:stone_types/blackstone
 # Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2952927+08:00
+# Generated: 2026-06-18T20:43:42.2526103+08:00
 
 dndecor:blackstone_pillar
 dndecor:cut_blackstone

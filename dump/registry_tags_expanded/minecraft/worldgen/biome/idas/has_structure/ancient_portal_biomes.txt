@@ -3,7 +3,7 @@
 # Tag: idas:has_structure/ancient_portal_biomes
 # Entries: 46
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.6354741+08:00
+# Generated: 2026-06-18T20:43:44.8183365+08:00
 
 atmospheric:grimwoods
 atmospheric:laurel_forest

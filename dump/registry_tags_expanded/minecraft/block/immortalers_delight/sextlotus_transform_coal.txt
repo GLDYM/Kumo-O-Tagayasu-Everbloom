@@ -3,7 +3,7 @@
 # Tag: immortalers_delight:sextlotus_transform_coal
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.1054719+08:00
+# Generated: 2026-06-18T20:43:38.4133915+08:00
 
 farmersdelight:rich_soil
 farmersdelight:rich_soil_farmland

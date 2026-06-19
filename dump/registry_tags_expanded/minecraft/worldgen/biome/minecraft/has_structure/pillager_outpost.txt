@@ -3,7 +3,7 @@
 # Tag: minecraft:has_structure/pillager_outpost
 # Entries: 13
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.9481602+08:00
+# Generated: 2026-06-18T20:43:45.1850659+08:00
 
 atmospheric:scrubland
 minecraft:cherry_grove

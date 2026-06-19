@@ -2,7 +2,7 @@
 # Registry: ccw:sugar
 # Minecraft: 1.21.1
 # Entries: 75
-# Generated: 2026-06-14T13:45:01.0244526+08:00
+# Generated: 2026-06-18T20:40:59.0565064+08:00
 
 ccw:bayberry raw_id=51 class=com.lnatit.ccw.item.sugaring.Sugar
 ccw:binding raw_id=21 class=com.lnatit.ccw.item.sugaring.Sugar

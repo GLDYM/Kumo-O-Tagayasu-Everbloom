@@ -2,7 +2,7 @@
 # Registry: minecraft:block_type
 # Minecraft: 1.21.1
 # Entries: 241
-# Generated: 2026-06-14T13:47:24.2314334+08:00
+# Generated: 2026-06-18T20:43:28.3034836+08:00
 
 minecraft:air raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 minecraft:amethyst raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

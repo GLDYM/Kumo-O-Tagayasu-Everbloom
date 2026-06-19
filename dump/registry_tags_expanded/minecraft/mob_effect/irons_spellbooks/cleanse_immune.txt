@@ -3,5 +3,5 @@
 # Tag: irons_spellbooks:cleanse_immune
 # Entries: 0
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.2524154+08:00
+# Generated: 2026-06-18T20:43:44.4532915+08:00
 

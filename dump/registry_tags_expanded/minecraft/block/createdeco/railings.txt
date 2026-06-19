@@ -3,7 +3,7 @@
 # Tag: createdeco:railings
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.9085873+08:00
+# Generated: 2026-06-18T20:43:38.1115346+08:00
 
 createdeco:andesite_catwalk_railing
 createdeco:brass_catwalk_railing

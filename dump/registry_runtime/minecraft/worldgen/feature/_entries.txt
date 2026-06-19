@@ -2,7 +2,7 @@
 # Registry: minecraft:worldgen/feature
 # Minecraft: 1.21.1
 # Entries: 133
-# Generated: 2026-06-14T13:47:24.4887816+08:00
+# Generated: 2026-06-18T20:43:28.5462014+08:00
 
 artifacts:campsite raw_id=97 class=artifacts.world.CampsiteFeature
 artifacts:suspicious_chest raw_id=98 class=artifacts.world.SuspiciousChestFeature
@@ -39,16 +39,16 @@ farmersdelight:wild_crop raw_id=91 class=vectorwing.farmersdelight.common.world.
 farmersdelight:wild_rice raw_id=90 class=vectorwing.farmersdelight.common.world.feature.WildRiceFeature
 immortalers_delight:oxygrape raw_id=104 class=com.renyigesai.immortalers_delight.world.feature.OxygrapeFeature
 irons_spellbooks:exposed_air_feature raw_id=131 class=io.redspace.ironsspellbooks.worldgen.features.ExposedAirFeature
-lithostitched:composite raw_id=75 class=dev.worldgen.lithostitched.worldgen.feature.CompositeFeature
-lithostitched:dungeon raw_id=71 class=dev.worldgen.lithostitched.worldgen.feature.DungeonFeature
-lithostitched:large_dripstone raw_id=68 class=dev.worldgen.lithostitched.worldgen.feature.LargeDripstoneFeature
-lithostitched:ore raw_id=72 class=dev.worldgen.lithostitched.worldgen.feature.OreFeature
-lithostitched:placed raw_id=69 class=dev.worldgen.lithostitched.worldgen.feature.SimplePlacedFeature
-lithostitched:select raw_id=70 class=dev.worldgen.lithostitched.worldgen.feature.SelectFeature
-lithostitched:structure_template raw_id=77 class=dev.worldgen.lithostitched.worldgen.feature.StructureTemplateFeature
-lithostitched:vines raw_id=74 class=dev.worldgen.lithostitched.worldgen.feature.VinesFeature
-lithostitched:weighted_selector raw_id=76 class=dev.worldgen.lithostitched.worldgen.feature.WeightedSelectorFeature
-lithostitched:well raw_id=73 class=dev.worldgen.lithostitched.worldgen.feature.WellFeature
+lithostitched:composite raw_id=77 class=dev.worldgen.lithostitched.worldgen.feature.CompositeFeature
+lithostitched:dungeon raw_id=73 class=dev.worldgen.lithostitched.worldgen.feature.DungeonFeature
+lithostitched:large_dripstone raw_id=70 class=dev.worldgen.lithostitched.worldgen.feature.LargeDripstoneFeature
+lithostitched:ore raw_id=74 class=dev.worldgen.lithostitched.worldgen.feature.OreFeature
+lithostitched:placed raw_id=71 class=dev.worldgen.lithostitched.worldgen.feature.SimplePlacedFeature
+lithostitched:select raw_id=72 class=dev.worldgen.lithostitched.worldgen.feature.SelectFeature
+lithostitched:structure_template raw_id=69 class=dev.worldgen.lithostitched.worldgen.feature.StructureTemplateFeature
+lithostitched:vines raw_id=76 class=dev.worldgen.lithostitched.worldgen.feature.VinesFeature
+lithostitched:weighted_selector raw_id=68 class=dev.worldgen.lithostitched.worldgen.feature.WeightedSelectorFeature
+lithostitched:well raw_id=75 class=dev.worldgen.lithostitched.worldgen.feature.WellFeature
 minecraft:bamboo raw_id=42 class=net.minecraft.world.level.levelgen.feature.BambooFeature
 minecraft:basalt_columns raw_id=47 class=net.minecraft.world.level.levelgen.feature.BasaltColumnsFeature
 minecraft:basalt_pillar raw_id=52 class=net.minecraft.world.level.levelgen.feature.BasaltPillarFeature

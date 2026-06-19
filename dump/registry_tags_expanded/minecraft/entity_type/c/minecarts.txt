@@ -3,7 +3,7 @@
 # Tag: c:minecarts
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.0533159+08:00
+# Generated: 2026-06-18T20:43:39.6364252+08:00
 
 minecraft:chest_minecart
 minecraft:command_block_minecart

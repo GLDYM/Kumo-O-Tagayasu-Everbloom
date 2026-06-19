@@ -3,7 +3,7 @@
 # Tag: brewinandchewin:beer
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1955341+08:00
+# Generated: 2026-06-18T20:43:39.8686115+08:00
 
 brewinandchewin:beer
 brewinandchewin:flowing_beer

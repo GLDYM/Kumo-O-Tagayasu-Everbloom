@@ -3,7 +3,7 @@
 # Tag: minecraft:redstone_ores
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4876966+08:00
+# Generated: 2026-06-18T20:43:38.9501131+08:00
 
 minecraft:deepslate_redstone_ore
 minecraft:redstone_ore

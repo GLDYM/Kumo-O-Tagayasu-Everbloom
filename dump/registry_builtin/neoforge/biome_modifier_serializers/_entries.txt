@@ -2,7 +2,7 @@
 # Registry: neoforge:biome_modifier_serializers
 # Minecraft: 1.21.1
 # Entries: 18
-# Generated: 2026-06-14T13:45:01.521628+08:00
+# Generated: 2026-06-18T20:40:59.3443807+08:00
 
 architectury:none_biome_mod_codec raw_id=16 class=com.mojang.serialization.MapCodec$2
 crabbersdelight:conditional_spawn raw_id=17 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

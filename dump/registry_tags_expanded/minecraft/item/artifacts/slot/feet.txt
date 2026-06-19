@@ -3,7 +3,7 @@
 # Tag: artifacts:slot/feet
 # Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.4552686+08:00
+# Generated: 2026-06-18T20:43:40.12568+08:00
 
 artifacts:aqua_dashers
 artifacts:bunny_hoppers

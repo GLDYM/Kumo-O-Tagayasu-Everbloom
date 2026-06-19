@@ -3,7 +3,7 @@
 # Tag: forge:rawmeats
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.677305+08:00
+# Generated: 2026-06-18T20:43:42.752407+08:00
 
 immortalers_delight:raw_sniffer_slice
 immortalers_delight:raw_sniffer_steak

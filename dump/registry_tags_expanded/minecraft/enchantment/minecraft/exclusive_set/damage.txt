@@ -3,7 +3,7 @@
 # Tag: minecraft:exclusive_set/damage
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9904826+08:00
+# Generated: 2026-06-18T20:43:39.5550739+08:00
 
 minecraft:bane_of_arthropods
 minecraft:breach

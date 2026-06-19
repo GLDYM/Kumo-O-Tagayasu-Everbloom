@@ -3,7 +3,7 @@
 # Tag: blueprint:wooden_beehives
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.4622171+08:00
+# Generated: 2026-06-18T20:43:37.538411+08:00
 
 atmospheric:aspen_beehive
 atmospheric:grimwood_beehive

@@ -3,7 +3,7 @@
 # Tag: quark:birch_chest_structures
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.2341474+08:00
+# Generated: 2026-06-18T20:43:45.509136+08:00
 
 minecraft:desert_pyramid
 minecraft:village_desert

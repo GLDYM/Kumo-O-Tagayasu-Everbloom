@@ -3,7 +3,7 @@
 # Tag: minecraft:bypasses_resistance
 # Entries: 31
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9031708+08:00
+# Generated: 2026-06-18T20:43:39.453104+08:00
 
 brewinandchewin:cardiac_arrest
 danmaku_api:abyssal_danmaku

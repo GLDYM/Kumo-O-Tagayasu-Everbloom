@@ -3,7 +3,7 @@
 # Tag: minecraft:piglin_loved
 # Entries: 76
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.1996357+08:00
+# Generated: 2026-06-18T20:43:43.2556583+08:00
 
 artifacts:antidote_vessel
 artifacts:cross_necklace

@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_cookery:sittable
 # Entries: 23
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.1400446+08:00
+# Generated: 2026-06-18T20:43:38.4635661+08:00
 
 kaleidoscope_cookery:chair_acacia
 kaleidoscope_cookery:chair_bamboo

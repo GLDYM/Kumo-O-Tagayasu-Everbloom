@@ -3,7 +3,7 @@
 # Tag: youkaishomecoming:flesh_food
 # Entries: 13
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.2017681+08:00
+# Generated: 2026-06-18T20:43:44.3864439+08:00
 
 youkaishomecoming:bowl_of_flesh_feast
 youkaishomecoming:canned_flesh

@@ -3,6 +3,6 @@
 # Tag: c:crops/lychee
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.8764448+08:00
+# Generated: 2026-06-18T20:43:40.6331864+08:00
 
 fruitsdelight:lychee

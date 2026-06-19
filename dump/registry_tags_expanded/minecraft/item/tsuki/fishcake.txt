@@ -3,7 +3,7 @@
 # Tag: tsuki:fishcake
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.0993218+08:00
+# Generated: 2026-06-18T20:43:44.2645065+08:00
 
 tsuki:chikuwa
 tsuki:fishcake

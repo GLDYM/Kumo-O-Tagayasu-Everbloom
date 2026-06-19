@@ -3,7 +3,7 @@
 # Tag: forge:crops/cabbage
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.6417757+08:00
+# Generated: 2026-06-18T20:43:42.7031076+08:00
 
 farmersdelight:cabbage
 farmersdelight:cabbage_leaf

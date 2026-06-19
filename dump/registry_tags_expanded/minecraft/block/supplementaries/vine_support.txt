@@ -3,7 +3,7 @@
 # Tag: supplementaries:vine_support
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.8016988+08:00
+# Generated: 2026-06-18T20:43:39.2788163+08:00
 
 createnuclear:enriching_campfire
 minecraft:campfire

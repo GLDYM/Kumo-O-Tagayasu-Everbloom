@@ -3,7 +3,7 @@
 # Tag: c:ores_in_ground/deepslate
 # Entries: 13
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.6448939+08:00
+# Generated: 2026-06-18T20:43:37.7691551+08:00
 
 create:deepslate_zinc_ore
 createnuclear:deepslate_lead_ore

@@ -3,7 +3,7 @@
 # Tag: c:tools/spear
 # Entries: 33
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.8627783+08:00
+# Generated: 2026-06-18T20:43:41.7255305+08:00
 
 l2weaponry:abyss_shock
 l2weaponry:barbaric_hallow

@@ -3,7 +3,7 @@
 # Tag: c:foods/raw_salmon
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.1864013+08:00
+# Generated: 2026-06-18T20:43:40.997898+08:00
 
 farmersdelight:salmon_slice
 minecraft:salmon

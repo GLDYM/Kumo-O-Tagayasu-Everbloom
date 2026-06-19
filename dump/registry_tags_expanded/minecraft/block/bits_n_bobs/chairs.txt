@@ -3,7 +3,7 @@
 # Tag: bits_n_bobs:chairs
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.4516705+08:00
+# Generated: 2026-06-18T20:43:37.5283849+08:00
 
 bits_n_bobs:black_chair
 bits_n_bobs:blue_chair

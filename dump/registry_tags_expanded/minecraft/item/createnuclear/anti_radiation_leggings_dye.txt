@@ -3,7 +3,7 @@
 # Tag: createnuclear:anti_radiation_leggings_dye
 # Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.1768769+08:00
+# Generated: 2026-06-18T20:43:42.0792437+08:00
 
 createnuclear:black_anti_radiation_leggings
 createnuclear:blue_anti_radiation_leggings

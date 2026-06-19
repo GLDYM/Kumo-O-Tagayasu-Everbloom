@@ -3,7 +3,7 @@
 # Tag: supplementaries:way_signs
 # Entries: 33
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.0562683+08:00
+# Generated: 2026-06-18T20:43:44.2045676+08:00
 
 supplementaries:atmospheric/way_sign_aspen
 supplementaries:atmospheric/way_sign_grimwood

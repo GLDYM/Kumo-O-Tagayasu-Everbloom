@@ -3,7 +3,7 @@
 # Tag: supplementaries:can_use_cannon_boats
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1722508+08:00
+# Generated: 2026-06-18T20:43:39.8252097+08:00
 
 immortalers_delight:scavenger
 minecraft:evoker

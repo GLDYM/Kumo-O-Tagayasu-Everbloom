@@ -3,7 +3,7 @@
 # Tag: irons_spellbooks:armors/leggings
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.805295+08:00
+# Generated: 2026-06-18T20:43:42.8797076+08:00
 
 irons_spellbooks:archevoker_leggings
 irons_spellbooks:cryomancer_leggings

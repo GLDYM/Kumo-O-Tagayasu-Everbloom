@@ -2,7 +2,7 @@
 # Registry: minecraft:worldgen/processor_list
 # Minecraft: 1.21.1
 # Entries: 151
-# Generated: 2026-06-14T13:47:24.5215387+08:00
+# Generated: 2026-06-18T20:43:28.5893026+08:00
 
 atmospheric:arid_garden raw_id=9 class=net.minecraft.world.level.levelgen.structure.templatesystem.StructureProcessorList
 atmospheric:arid_garden_sand_archaeology raw_id=10 class=net.minecraft.world.level.levelgen.structure.templatesystem.StructureProcessorList

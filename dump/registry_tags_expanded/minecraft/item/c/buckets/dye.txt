@@ -3,7 +3,7 @@
 # Tag: c:buckets/dye
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.6179418+08:00
+# Generated: 2026-06-18T20:43:40.32551+08:00
 
 create_dragons_plus:black_dye_bucket
 create_dragons_plus:blue_dye_bucket

@@ -3,7 +3,7 @@
 # Tag: minecraft:mineable/shear
 # Entries: 52
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4495021+08:00
+# Generated: 2026-06-18T20:43:38.8839574+08:00
 
 supplementaries:awning
 supplementaries:awning_black

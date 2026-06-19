@@ -3,7 +3,7 @@
 # Tag: c:entity_speed_enhancements
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9669388+08:00
+# Generated: 2026-06-18T20:43:39.5198943+08:00
 
 minecraft:depth_strider
 minecraft:soul_speed

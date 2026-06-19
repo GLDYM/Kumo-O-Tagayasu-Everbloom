@@ -3,7 +3,7 @@
 # Tag: origins:ignore_diet
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.3237039+08:00
+# Generated: 2026-06-18T20:43:43.4620668+08:00
 
 brewinandchewin:beer
 brewinandchewin:bloody_mary

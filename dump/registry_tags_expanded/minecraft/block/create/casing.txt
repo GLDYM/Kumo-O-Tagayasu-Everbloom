@@ -3,7 +3,7 @@
 # Tag: create:casing
 # Entries: 18
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.7921595+08:00
+# Generated: 2026-06-18T20:43:37.9632964+08:00
 
 create:andesite_casing
 create:brass_casing

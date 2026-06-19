@@ -3,7 +3,7 @@
 # Tag: dndecor:stone_types/stone
 # Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.3009605+08:00
+# Generated: 2026-06-18T20:43:42.2720556+08:00
 
 dndecor:cut_stone
 dndecor:cut_stone_brick_stairs

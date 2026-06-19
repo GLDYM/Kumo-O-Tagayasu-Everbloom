@@ -2,7 +2,7 @@
 # Registry: minecraft:worldgen/structure_set
 # Minecraft: 1.21.1
 # Entries: 75
-# Generated: 2026-06-14T13:47:24.5425372+08:00
+# Generated: 2026-06-18T20:43:28.6193685+08:00
 
 atmospheric:arid_gardens raw_id=3 class=net.minecraft.world.level.levelgen.structure.StructureSet
 atmospheric:kousa_sanctums raw_id=40 class=net.minecraft.world.level.levelgen.structure.StructureSet

@@ -2,7 +2,7 @@
 # Registry: minecraft:activity
 # Minecraft: 1.21.1
 # Entries: 34
-# Generated: 2026-06-14T13:45:01.0920303+08:00
+# Generated: 2026-06-18T20:40:59.0985073+08:00
 
 minecraft:admire_item raw_id=12 class=net.minecraft.world.entity.schedule.Activity
 minecraft:avoid raw_id=13 class=net.minecraft.world.entity.schedule.Activity

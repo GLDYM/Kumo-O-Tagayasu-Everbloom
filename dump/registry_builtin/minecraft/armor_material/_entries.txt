@@ -2,7 +2,7 @@
 # Registry: minecraft:armor_material
 # Minecraft: 1.21.1
 # Entries: 57
-# Generated: 2026-06-14T13:45:01.0940288+08:00
+# Generated: 2026-06-18T20:40:59.0995061+08:00
 
 create:cardboard raw_id=55 class=net.minecraft.world.item.ArmorMaterial
 create:copper raw_id=54 class=net.minecraft.world.item.ArmorMaterial

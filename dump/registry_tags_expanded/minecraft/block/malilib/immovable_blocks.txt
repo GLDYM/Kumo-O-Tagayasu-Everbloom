@@ -3,7 +3,7 @@
 # Tag: malilib:immovable_blocks
 # Entries: 125
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.2414538+08:00
+# Generated: 2026-06-18T20:43:38.5900582+08:00
 
 minecraft:acacia_hanging_sign
 minecraft:acacia_sign

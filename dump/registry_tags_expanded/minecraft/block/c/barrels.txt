@@ -3,7 +3,7 @@
 # Tag: c:barrels
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.4796054+08:00
+# Generated: 2026-06-18T20:43:37.5687142+08:00
 
 lootr:lootr_barrel
 minecraft:barrel

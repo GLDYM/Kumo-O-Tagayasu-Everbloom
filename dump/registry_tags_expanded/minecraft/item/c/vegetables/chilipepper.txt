@@ -3,7 +3,7 @@
 # Tag: c:vegetables/chilipepper
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.8800075+08:00
+# Generated: 2026-06-18T20:43:41.7498131+08:00
 
 kaleidoscope_cookery:green_chili
 kaleidoscope_cookery:red_chili

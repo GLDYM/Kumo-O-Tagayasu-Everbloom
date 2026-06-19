@@ -3,7 +3,7 @@
 # Tag: c:buds
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.4864222+08:00
+# Generated: 2026-06-18T20:43:37.5822507+08:00
 
 minecraft:large_amethyst_bud
 minecraft:medium_amethyst_bud

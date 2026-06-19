@@ -3,7 +3,7 @@
 # Tag: minecraft:azalea_grows_on
 # Entries: 43
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.2702897+08:00
+# Generated: 2026-06-18T20:43:38.6344748+08:00
 
 atmospheric:arid_sand
 atmospheric:crustose

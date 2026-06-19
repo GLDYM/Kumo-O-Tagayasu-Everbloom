@@ -3,7 +3,7 @@
 # Tag: minecraft:extended
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.3068947+08:00
+# Generated: 2026-06-18T20:43:45.5794233+08:00
 
 bits_n_bobs:ponderous_planes
 minecraft:amplified

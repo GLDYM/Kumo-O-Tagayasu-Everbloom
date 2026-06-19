@@ -3,7 +3,7 @@
 # Tag: danmaku_api:danmaku/spark
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2205226+08:00
+# Generated: 2026-06-18T20:43:42.1364987+08:00
 
 danmaku_api:black_spark_danmaku
 danmaku_api:blue_spark_danmaku

@@ -3,7 +3,7 @@
 # Tag: l2weaponry:throwable
 # Entries: 32
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.0088201+08:00
+# Generated: 2026-06-18T20:43:43.0791935+08:00
 
 l2weaponry:abyss_shock
 l2weaponry:barbaric_hallow

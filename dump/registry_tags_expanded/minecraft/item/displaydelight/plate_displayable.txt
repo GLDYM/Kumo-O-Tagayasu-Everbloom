@@ -3,7 +3,7 @@
 # Tag: displaydelight:plate_displayable
 # Entries: 42
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.243594+08:00
+# Generated: 2026-06-18T20:43:42.1596127+08:00
 
 brewinandchewin:ham_and_cheese_sandwich
 corn_delight:classic_corn_dog

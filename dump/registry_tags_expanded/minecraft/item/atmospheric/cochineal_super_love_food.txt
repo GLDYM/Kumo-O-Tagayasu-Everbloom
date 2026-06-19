@@ -3,6 +3,6 @@
 # Tag: atmospheric:cochineal_super_love_food
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.4656922+08:00
+# Generated: 2026-06-18T20:43:40.1392153+08:00
 
 atmospheric:golden_dragon_fruit

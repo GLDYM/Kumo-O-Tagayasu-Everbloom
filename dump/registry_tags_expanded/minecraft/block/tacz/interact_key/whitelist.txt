@@ -3,6 +3,6 @@
 # Tag: tacz:interact_key/whitelist
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.8120432+08:00
+# Generated: 2026-06-18T20:43:39.3000307+08:00
 
 touhou_little_maid:maid_beacon

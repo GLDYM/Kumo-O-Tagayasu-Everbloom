@@ -2,7 +2,7 @@
 # Registry: minecraft:item_sub_predicate_type
 # Minecraft: 1.21.1
 # Entries: 20
-# Generated: 2026-06-14T13:47:24.359633+08:00
+# Generated: 2026-06-18T20:43:28.4151226+08:00
 
 bookshelf:namespace raw_id=17 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
 exposure:frame raw_id=16 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type

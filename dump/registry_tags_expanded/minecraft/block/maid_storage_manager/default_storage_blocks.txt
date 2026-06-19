@@ -3,7 +3,7 @@
 # Tag: maid_storage_manager:default_storage_blocks
 # Entries: 155
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.2064601+08:00
+# Generated: 2026-06-18T20:43:38.5524167+08:00
 
 atmospheric:aspen_chest
 atmospheric:grimwood_chest

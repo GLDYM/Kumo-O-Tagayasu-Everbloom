@@ -3,7 +3,7 @@
 # Tag: minecraft:infiniburn_end
 # Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4040685+08:00
+# Generated: 2026-06-18T20:43:38.8233563+08:00
 
 minecraft:bedrock
 minecraft:magma_block

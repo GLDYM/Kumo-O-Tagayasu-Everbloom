@@ -3,7 +3,7 @@
 # Tag: nightlights:fairy_lights
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.3197015+08:00
+# Generated: 2026-06-18T20:43:43.4585473+08:00
 
 nightlights:fairy_lights_black
 nightlights:fairy_lights_blue

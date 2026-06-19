@@ -3,7 +3,7 @@
 # Tag: createdeco:cage_lamps
 # Entries: 24
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.8973754+08:00
+# Generated: 2026-06-18T20:43:38.1024998+08:00
 
 createdeco:blue_andesite_lamp
 createdeco:blue_brass_lamp

@@ -2,7 +2,7 @@
 # Mod ID: registry_dumper_3000
 # Minecraft: 1.21.1
 # Loader: CLIENT
-# Generated: 2026-06-14T13:47:45.9655781+08:00
+# Generated: 2026-06-18T20:43:53.4484265+08:00
 
 [config]
 config_version=1.0.0

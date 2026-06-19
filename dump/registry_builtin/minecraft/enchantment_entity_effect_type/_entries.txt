@@ -2,7 +2,7 @@
 # Registry: minecraft:enchantment_entity_effect_type
 # Minecraft: 1.21.1
 # Entries: 16
-# Generated: 2026-06-14T13:45:01.1735992+08:00
+# Generated: 2026-06-18T20:40:59.1590047+08:00
 
 iss_magicfromtheeast:ghostly_cold raw_id=14 class=com.mojang.serialization.MapCodec$2
 iss_magicfromtheeast:soul_flame raw_id=13 class=com.mojang.serialization.MapCodec$2

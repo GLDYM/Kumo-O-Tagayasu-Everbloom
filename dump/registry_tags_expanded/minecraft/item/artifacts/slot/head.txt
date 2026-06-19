@@ -3,7 +3,7 @@
 # Tag: artifacts:slot/head
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.4593247+08:00
+# Generated: 2026-06-18T20:43:40.1296771+08:00
 
 artifacts:anglers_hat
 artifacts:cowboy_hat

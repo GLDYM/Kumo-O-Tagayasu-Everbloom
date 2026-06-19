@@ -2,7 +2,7 @@
 # Registry: minecraft:recipe_type
 # Minecraft: 1.21.1
 # Entries: 93
-# Generated: 2026-06-14T13:47:24.4198976+08:00
+# Generated: 2026-06-18T20:43:28.4663491+08:00
 
 amendments:cauldron_crafting raw_id=34 class=net.mehvahdjukaar.moonlight.api.platform.RegHelper$1
 bakeries:blender raw_id=86 class=com.renyigesai.bakeries.common.recipe.BlenderRecipe$Type

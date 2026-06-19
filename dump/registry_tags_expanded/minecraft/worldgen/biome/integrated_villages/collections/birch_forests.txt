@@ -3,7 +3,7 @@
 # Tag: integrated_villages:collections/birch_forests
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.823179+08:00
+# Generated: 2026-06-18T20:43:45.0307269+08:00
 
 minecraft:birch_forest
 minecraft:old_growth_birch_forest

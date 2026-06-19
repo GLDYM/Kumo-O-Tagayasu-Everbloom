@@ -3,7 +3,7 @@
 # Tag: c:glass_panes/colorless
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.5906758+08:00
+# Generated: 2026-06-18T20:43:37.7134996+08:00
 
 atmospheric:arid_glass_pane
 create:framed_glass_pane

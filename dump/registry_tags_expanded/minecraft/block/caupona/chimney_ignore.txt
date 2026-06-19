@@ -3,7 +3,7 @@
 # Tag: caupona:chimney_ignore
 # Entries: 86
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.783479+08:00
+# Generated: 2026-06-18T20:43:37.9402841+08:00
 
 dramaticdoors:short_acacia_door
 dramaticdoors:short_andesite_door

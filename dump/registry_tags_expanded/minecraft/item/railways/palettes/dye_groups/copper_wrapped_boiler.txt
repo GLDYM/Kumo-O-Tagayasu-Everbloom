@@ -3,7 +3,7 @@
 # Tag: railways:palettes/dye_groups/copper_wrapped_boiler
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.8955554+08:00
+# Generated: 2026-06-18T20:43:44.0178628+08:00
 
 railways:black_copper_wrapped_locometal_boiler
 railways:blue_copper_wrapped_locometal_boiler

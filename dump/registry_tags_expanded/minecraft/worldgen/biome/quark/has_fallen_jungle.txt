@@ -3,7 +3,7 @@
 # Tag: quark:has_fallen_jungle
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.0607195+08:00
+# Generated: 2026-06-18T20:43:45.2881509+08:00
 
 minecraft:jungle
 minecraft:sparse_jungle

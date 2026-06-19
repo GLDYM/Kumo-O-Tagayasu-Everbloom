@@ -3,7 +3,7 @@
 # Tag: supplementaries:un_rotatable
 # Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.7996896+08:00
+# Generated: 2026-06-18T20:43:39.2788163+08:00
 
 create:belt
 create:track

@@ -2,7 +2,7 @@
 # Registry: obscure_tooltips:item_filter_type
 # Minecraft: 1.21.1
 # Entries: 11
-# Generated: 2026-06-14T13:45:01.5547133+08:00
+# Generated: 2026-06-18T20:40:59.3603922+08:00
 
 obscure_tooltips:all_of raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 obscure_tooltips:always raw_id=0 class=com.mojang.serialization.MapCodec$2

@@ -3,7 +3,7 @@
 # Tag: minecraft:frog_food
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1185486+08:00
+# Generated: 2026-06-18T20:43:39.7678373+08:00
 
 minecraft:magma_cube
 minecraft:slime

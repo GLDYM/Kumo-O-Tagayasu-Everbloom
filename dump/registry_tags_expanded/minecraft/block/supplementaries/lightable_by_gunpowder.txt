@@ -3,7 +3,7 @@
 # Tag: supplementaries:lightable_by_gunpowder
 # Entries: 212
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.7657822+08:00
+# Generated: 2026-06-18T20:43:39.2532208+08:00
 
 amendments:skull_candle
 amendments:skull_candle_soul

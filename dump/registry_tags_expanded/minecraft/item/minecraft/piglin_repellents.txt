@@ -3,7 +3,7 @@
 # Tag: minecraft:piglin_repellents
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.2006363+08:00
+# Generated: 2026-06-18T20:43:43.2563127+08:00
 
 minecraft:soul_campfire
 minecraft:soul_lantern

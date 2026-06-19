@@ -3,7 +3,7 @@
 # Tag: supplementaries:awnings
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.7237179+08:00
+# Generated: 2026-06-18T20:43:39.2004175+08:00
 
 supplementaries:awning
 supplementaries:awning_black

@@ -3,7 +3,7 @@
 # Tag: c:foods/magma_cube
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.1534844+08:00
+# Generated: 2026-06-18T20:43:40.9398113+08:00
 
 mynethersdelight:burnt_roll
 mynethersdelight:magma_cake_block

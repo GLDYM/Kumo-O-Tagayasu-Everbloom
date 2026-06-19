@@ -3,6 +3,6 @@
 # Tag: idas:applies_mining_fatigue
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.167321+08:00
+# Generated: 2026-06-18T20:43:45.4397085+08:00
 
 idas:labyrinth

@@ -3,7 +3,7 @@
 # Tag: handcrafted:plates
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.0803747+08:00
+# Generated: 2026-06-18T20:43:38.3592855+08:00
 
 handcrafted:blue_plate
 handcrafted:terracotta_plate

@@ -3,7 +3,7 @@
 # Tag: minecraft:combination_step_sound_blocks
 # Entries: 59
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.3230382+08:00
+# Generated: 2026-06-18T20:43:38.7038385+08:00
 
 create:black_table_cloth
 create:blue_table_cloth

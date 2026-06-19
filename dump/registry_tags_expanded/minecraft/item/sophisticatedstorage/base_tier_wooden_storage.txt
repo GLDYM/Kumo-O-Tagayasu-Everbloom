@@ -3,7 +3,7 @@
 # Tag: sophisticatedstorage:base_tier_wooden_storage
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.9539027+08:00
+# Generated: 2026-06-18T20:43:44.0931114+08:00
 
 sophisticatedstorage:barrel
 sophisticatedstorage:chest

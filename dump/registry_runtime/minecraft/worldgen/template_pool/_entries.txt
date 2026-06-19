@@ -2,7 +2,7 @@
 # Registry: minecraft:worldgen/template_pool
 # Minecraft: 1.21.1
 # Entries: 1028
-# Generated: 2026-06-14T13:47:24.549075+08:00
+# Generated: 2026-06-18T20:43:28.6243808+08:00
 
 atmospheric:arid_garden/arid_garden raw_id=63 class=net.minecraft.world.level.levelgen.structure.pools.StructureTemplatePool
 atmospheric:arid_garden/decor raw_id=64 class=net.minecraft.world.level.levelgen.structure.pools.StructureTemplatePool

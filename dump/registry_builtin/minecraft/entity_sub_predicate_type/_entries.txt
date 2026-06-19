@@ -2,7 +2,7 @@
 # Registry: minecraft:entity_sub_predicate_type
 # Minecraft: 1.21.1
 # Entries: 22
-# Generated: 2026-06-14T13:45:01.1816282+08:00
+# Generated: 2026-06-18T20:40:59.1660041+08:00
 
 exposure:tamed raw_id=21 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 minecraft:axolotl raw_id=5 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

@@ -3,7 +3,7 @@
 # Tag: handcrafted:fancy_beds
 # Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.7567682+08:00
+# Generated: 2026-06-18T20:43:42.8091649+08:00
 
 handcrafted:acacia_fancy_bed
 handcrafted:bamboo_fancy_bed

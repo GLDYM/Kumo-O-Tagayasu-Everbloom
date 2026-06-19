@@ -3,7 +3,7 @@
 # Tag: l2weaponry:claw
 # Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.9505437+08:00
+# Generated: 2026-06-18T20:43:43.0072975+08:00
 
 l2weaponry:claw_of_determination
 l2weaponry:diamond_claw

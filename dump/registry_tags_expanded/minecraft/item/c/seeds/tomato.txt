@@ -3,7 +3,7 @@
 # Tag: c:seeds/tomato
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.6545848+08:00
+# Generated: 2026-06-18T20:43:41.5195546+08:00
 
 kaleidoscope_cookery:tomato_seed
 tsuki:tomato_seeds

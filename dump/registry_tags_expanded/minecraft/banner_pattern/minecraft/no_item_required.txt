@@ -3,7 +3,7 @@
 # Tag: minecraft:no_item_required
 # Entries: 34
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.2954926+08:00
+# Generated: 2026-06-18T20:43:37.3568714+08:00
 
 minecraft:border
 minecraft:bricks

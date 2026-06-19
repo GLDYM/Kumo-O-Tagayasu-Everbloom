@@ -2,7 +2,7 @@
 # Registry: minecraft:worldgen/structure
 # Minecraft: 1.21.1
 # Entries: 183
-# Generated: 2026-06-14T13:47:24.5284531+08:00
+# Generated: 2026-06-18T20:43:28.6003218+08:00
 
 atmospheric:arid_garden raw_id=16 class=net.minecraft.world.level.levelgen.structure.structures.JigsawStructure
 atmospheric:kousa_sanctum raw_id=78 class=net.minecraft.world.level.levelgen.structure.structures.JigsawStructure

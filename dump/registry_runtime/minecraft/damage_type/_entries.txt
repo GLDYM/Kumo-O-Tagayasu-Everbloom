@@ -2,7 +2,7 @@
 # Registry: minecraft:damage_type
 # Minecraft: 1.21.1
 # Entries: 164
-# Generated: 2026-06-14T13:47:24.2481545+08:00
+# Generated: 2026-06-18T20:43:28.3115232+08:00
 
 amendments:boiling raw_id=10 class=net.minecraft.world.damagesource.DamageType
 atmospheric:aloe_leaves raw_id=1 class=net.minecraft.world.damagesource.DamageType

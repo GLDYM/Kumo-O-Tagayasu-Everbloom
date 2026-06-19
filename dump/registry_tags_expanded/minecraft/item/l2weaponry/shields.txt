@@ -3,7 +3,7 @@
 # Tag: l2weaponry:shields
 # Entries: 18
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.004301+08:00
+# Generated: 2026-06-18T20:43:43.0761991+08:00
 
 l2weaponry:diamond_plate_shield
 l2weaponry:diamond_round_shield

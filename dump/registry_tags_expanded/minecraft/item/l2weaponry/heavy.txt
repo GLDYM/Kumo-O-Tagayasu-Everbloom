@@ -3,7 +3,7 @@
 # Tag: l2weaponry:heavy
 # Entries: 66
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.9540542+08:00
+# Generated: 2026-06-18T20:43:43.0193368+08:00
 
 create_sa:blazing_axe
 create_sa:brass_axe

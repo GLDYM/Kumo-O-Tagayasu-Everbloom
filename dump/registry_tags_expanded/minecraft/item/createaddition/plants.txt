@@ -3,7 +3,7 @@
 # Tag: createaddition:plants
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.1504581+08:00
+# Generated: 2026-06-18T20:43:42.0547144+08:00
 
 farmersdelight:brown_mushroom_colony
 farmersdelight:red_mushroom_colony

@@ -3,7 +3,7 @@
 # Tag: blueprint:wooden_trapped_chests
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.4995041+08:00
+# Generated: 2026-06-18T20:43:40.1704533+08:00
 
 atmospheric:trapped_aspen_chest
 atmospheric:trapped_grimwood_chest

@@ -3,7 +3,7 @@
 # Tag: handcrafted:trims
 # Entries: 46
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.0864044+08:00
+# Generated: 2026-06-18T20:43:38.3763372+08:00
 
 handcrafted:acacia_corner_trim
 handcrafted:acacia_pillar_trim

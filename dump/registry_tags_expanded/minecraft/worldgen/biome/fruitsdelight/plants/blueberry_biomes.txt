@@ -3,7 +3,7 @@
 # Tag: fruitsdelight:plants/blueberry_biomes
 # Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.4975628+08:00
+# Generated: 2026-06-18T20:43:44.683448+08:00
 
 minecraft:grove
 minecraft:mangrove_swamp

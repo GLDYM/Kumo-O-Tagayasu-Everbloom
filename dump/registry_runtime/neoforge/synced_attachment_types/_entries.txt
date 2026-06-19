@@ -2,7 +2,7 @@
 # Registry: neoforge:synced_attachment_types
 # Minecraft: 1.21.1
 # Entries: 6
-# Generated: 2026-06-14T13:47:24.6095146+08:00
+# Generated: 2026-06-18T20:43:28.6832514+08:00
 
 maid_restaurant:block_selection raw_id=4 class=net.neoforged.neoforge.attachment.AttachmentType
 maid_restaurant:cook_request_handler raw_id=0 class=net.neoforged.neoforge.attachment.AttachmentType

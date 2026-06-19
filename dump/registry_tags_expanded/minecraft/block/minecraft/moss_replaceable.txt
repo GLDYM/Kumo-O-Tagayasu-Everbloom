@@ -3,7 +3,7 @@
 # Tag: minecraft:moss_replaceable
 # Entries: 37
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4576511+08:00
+# Generated: 2026-06-18T20:43:38.892474+08:00
 
 atmospheric:crustose
 create:asurine

@@ -3,7 +3,7 @@
 # Tag: immortalers_delight:boat_needs/ancient_chest_boat_need_1
 # Entries: 103
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.7851972+08:00
+# Generated: 2026-06-18T20:43:42.8335361+08:00
 
 atmospheric:aspen_log
 atmospheric:aspen_wood

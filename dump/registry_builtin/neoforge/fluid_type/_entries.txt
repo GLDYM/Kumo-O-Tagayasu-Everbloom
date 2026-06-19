@@ -2,7 +2,7 @@
 # Registry: neoforge:fluid_type
 # Minecraft: 1.21.1
 # Entries: 263
-# Generated: 2026-06-14T13:45:01.5406753+08:00
+# Generated: 2026-06-18T20:40:59.3513869+08:00
 
 bakeries:salt_water raw_id=261 class=com.renyigesai.bakeries.common.blocks.fluid.BakeriesFluidType
 beyonddimensions:xp_fluid raw_id=144 class=net.neoforged.neoforge.fluids.FluidType

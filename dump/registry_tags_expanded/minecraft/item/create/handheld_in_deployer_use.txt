@@ -3,7 +3,7 @@
 # Tag: create:handheld_in_deployer_use
 # Entries: 294
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.9920065+08:00
+# Generated: 2026-06-18T20:43:41.8485571+08:00
 
 another_furniture:furniture_hammer
 bakeries:bread_knife

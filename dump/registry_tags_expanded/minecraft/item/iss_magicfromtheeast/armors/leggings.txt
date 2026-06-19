@@ -3,7 +3,7 @@
 # Tag: iss_magicfromtheeast:armors/leggings
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.8504069+08:00
+# Generated: 2026-06-18T20:43:42.9224072+08:00
 
 iss_magicfromtheeast:jade_pagoda_leggings
 iss_magicfromtheeast:onmyoji_leggings

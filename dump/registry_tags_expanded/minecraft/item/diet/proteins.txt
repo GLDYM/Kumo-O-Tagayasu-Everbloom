@@ -3,7 +3,7 @@
 # Tag: diet:proteins
 # Entries: 93
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2375778+08:00
+# Generated: 2026-06-18T20:43:42.155611+08:00
 
 fruitsdelight:fig_chicken_stew
 fruitsdelight:lychee_chicken

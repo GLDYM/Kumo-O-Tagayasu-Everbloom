@@ -2,7 +2,7 @@
 # Registry: minecraft:loot_function_type
 # Minecraft: 1.21.1
 # Entries: 62
-# Generated: 2026-06-14T13:45:01.2669224+08:00
+# Generated: 2026-06-18T20:40:59.2503868+08:00
 
 artifacts:replace_with_loot_table raw_id=55 class=net.minecraft.world.level.storage.loot.functions.LootItemFunctionType
 brewinandchewin:copy_drink raw_id=45 class=net.minecraft.world.level.storage.loot.functions.LootItemFunctionType

@@ -3,7 +3,7 @@
 # Tag: createadditionallogistics:basic_shafts
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.8827288+08:00
+# Generated: 2026-06-18T20:43:38.0965068+08:00
 
 create:shaft
 createadditionallogistics:andesite_encased_lazy_shaft

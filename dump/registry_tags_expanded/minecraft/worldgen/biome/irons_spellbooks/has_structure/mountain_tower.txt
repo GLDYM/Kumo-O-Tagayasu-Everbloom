@@ -3,7 +3,7 @@
 # Tag: irons_spellbooks:has_structure/mountain_tower
 # Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.8911191+08:00
+# Generated: 2026-06-18T20:43:45.1168794+08:00
 
 minecraft:cherry_grove
 minecraft:frozen_peaks

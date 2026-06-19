@@ -3,7 +3,7 @@
 # Tag: fruitsdelight:plants/fig_biomes
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.503354+08:00
+# Generated: 2026-06-18T20:43:44.688461+08:00
 
 minecraft:flower_forest
 minecraft:forest

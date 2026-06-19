@@ -3,7 +3,7 @@
 # Tag: c:ores_in_ground/deepslate
 # Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.4744562+08:00
+# Generated: 2026-06-18T20:43:41.3501694+08:00
 
 create:deepslate_zinc_ore
 irons_spellbooks:deepslate_mithril_ore

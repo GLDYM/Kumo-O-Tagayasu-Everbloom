@@ -2,7 +2,7 @@
 # Registry: explosiveenhancement:particle_types
 # Minecraft: 1.21.1
 # Entries: 10
-# Generated: 2026-06-14T13:47:24.0788282+08:00
+# Generated: 2026-06-18T20:43:28.2167767+08:00
 
 explosiveenhancement:blank_fireball raw_id=2 class=net.minecraft.core.particles.SimpleParticleType
 explosiveenhancement:blank_shockwave raw_id=7 class=net.minecraft.core.particles.SimpleParticleType

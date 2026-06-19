@@ -3,7 +3,7 @@
 # Tag: minecraft:stone_pressure_plates
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.539508+08:00
+# Generated: 2026-06-18T20:43:39.0089338+08:00
 
 copycats:copycat_stone_pressure_plate
 minecraft:polished_blackstone_pressure_plate

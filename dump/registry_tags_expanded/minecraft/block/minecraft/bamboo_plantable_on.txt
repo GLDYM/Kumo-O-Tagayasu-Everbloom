@@ -3,7 +3,7 @@
 # Tag: minecraft:bamboo_plantable_on
 # Entries: 29
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.2778708+08:00
+# Generated: 2026-06-18T20:43:38.6436295+08:00
 
 atmospheric:arid_sand
 atmospheric:crustose

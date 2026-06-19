@@ -3,7 +3,7 @@
 # Tag: c:tools/ranged_weapon
 # Entries: 25
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.8451374+08:00
+# Generated: 2026-06-18T20:43:41.7177007+08:00
 
 irons_spellbooks:autoloader_crossbow
 l2weaponry:barbaric_hallow

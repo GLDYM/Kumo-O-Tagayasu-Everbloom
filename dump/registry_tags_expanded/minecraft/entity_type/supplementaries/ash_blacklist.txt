@@ -3,7 +3,7 @@
 # Tag: supplementaries:ash_blacklist
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1632199+08:00
+# Generated: 2026-06-18T20:43:39.8093922+08:00
 
 minecraft:iron_golem
 minecraft:magma_cube

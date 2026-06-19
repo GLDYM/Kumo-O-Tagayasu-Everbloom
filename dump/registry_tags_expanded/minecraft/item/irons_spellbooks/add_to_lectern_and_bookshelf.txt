@@ -3,7 +3,7 @@
 # Tag: irons_spellbooks:add_to_lectern_and_bookshelf
 # Entries: 22
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.7987868+08:00
+# Generated: 2026-06-18T20:43:42.8671671+08:00
 
 irons_spellbooks:archevoker_logbook_translated
 irons_spellbooks:archevoker_logbook_untranslated

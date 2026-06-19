@@ -2,7 +2,7 @@
 # Registry: minecraft:data_component_type
 # Minecraft: 1.21.1
 # Entries: 576
-# Generated: 2026-06-14T13:45:01.1650461+08:00
+# Generated: 2026-06-18T20:40:59.1540082+08:00
 
 artifacts:abilities raw_id=357 class=net.minecraft.core.component.DataComponentType$Builder$SimpleType
 artifacts:ability_lore raw_id=361 class=net.minecraft.core.component.DataComponentType$Builder$SimpleType

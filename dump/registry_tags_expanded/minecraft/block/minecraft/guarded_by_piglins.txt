@@ -3,7 +3,7 @@
 # Tag: minecraft:guarded_by_piglins
 # Entries: 139
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.3864533+08:00
+# Generated: 2026-06-18T20:43:38.7927453+08:00
 
 atmospheric:aspen_chest
 atmospheric:golden_dragon_fruit_crate

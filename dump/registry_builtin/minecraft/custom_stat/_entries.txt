@@ -2,7 +2,7 @@
 # Registry: minecraft:custom_stat
 # Minecraft: 1.21.1
 # Entries: 90
-# Generated: 2026-06-14T13:45:01.1640533+08:00
+# Generated: 2026-06-18T20:40:59.1520067+08:00
 
 ccw:interact_with_sugar_refinery raw_id=75 class=net.minecraft.resources.ResourceLocation
 ccw:open_drawer_table raw_id=76 class=net.minecraft.resources.ResourceLocation

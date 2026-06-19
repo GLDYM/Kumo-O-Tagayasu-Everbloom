@@ -3,7 +3,7 @@
 # Tag: danmaku_api:danmaku/bubble
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.213556+08:00
+# Generated: 2026-06-18T20:43:42.1190462+08:00
 
 danmaku_api:black_bubble_danmaku
 danmaku_api:blue_bubble_danmaku

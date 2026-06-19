@@ -3,7 +3,7 @@
 # Tag: integrated_villages:has_structure/mediterranean_village_biomes
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.875937+08:00
+# Generated: 2026-06-18T20:43:45.1006651+08:00
 
 minecraft:savanna
 minecraft:savanna_plateau

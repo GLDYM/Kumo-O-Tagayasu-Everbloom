@@ -3,7 +3,7 @@
 # Tag: integrated_villages:villages
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.1874364+08:00
+# Generated: 2026-06-18T20:43:45.4539459+08:00
 
 integrated_villages:airship_village
 integrated_villages:cabin_village

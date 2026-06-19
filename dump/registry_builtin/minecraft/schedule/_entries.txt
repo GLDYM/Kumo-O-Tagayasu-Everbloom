@@ -2,7 +2,7 @@
 # Registry: minecraft:schedule
 # Minecraft: 1.21.1
 # Entries: 8
-# Generated: 2026-06-14T13:45:01.3598267+08:00
+# Generated: 2026-06-18T20:40:59.2773817+08:00
 
 minecraft:empty raw_id=0 class=net.minecraft.world.entity.schedule.Schedule
 minecraft:simple raw_id=1 class=net.minecraft.world.entity.schedule.Schedule

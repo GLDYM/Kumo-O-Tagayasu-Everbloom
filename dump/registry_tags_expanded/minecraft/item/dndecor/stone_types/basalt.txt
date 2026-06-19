@@ -3,7 +3,7 @@
 # Tag: dndecor:stone_types/basalt
 # Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2937877+08:00
+# Generated: 2026-06-18T20:43:42.2481032+08:00
 
 dndecor:basalt_pillar
 dndecor:cut_basalt

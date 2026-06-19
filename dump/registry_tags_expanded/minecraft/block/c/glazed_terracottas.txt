@@ -3,7 +3,7 @@
 # Tag: c:glazed_terracottas
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.5916732+08:00
+# Generated: 2026-06-18T20:43:37.7150167+08:00
 
 minecraft:black_glazed_terracotta
 minecraft:blue_glazed_terracotta

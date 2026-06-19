@@ -3,7 +3,7 @@
 # Tag: brewinandchewin:horror_lasagna_meats
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.5439833+08:00
+# Generated: 2026-06-18T20:43:40.2184167+08:00
 
 mynethersdelight:hoglin_loin
 mynethersdelight:hoglin_sausage

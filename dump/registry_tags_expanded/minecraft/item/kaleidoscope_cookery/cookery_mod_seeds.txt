@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_cookery:cookery_mod_seeds
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.8659911+08:00
+# Generated: 2026-06-18T20:43:42.9430946+08:00
 
 kaleidoscope_cookery:chili_seed
 kaleidoscope_cookery:lettuce_seed

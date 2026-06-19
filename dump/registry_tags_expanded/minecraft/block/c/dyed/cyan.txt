@@ -3,7 +3,7 @@
 # Tag: c:dyed/cyan
 # Entries: 21
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.5207862+08:00
+# Generated: 2026-06-18T20:43:37.6190089+08:00
 
 handcrafted:cyan_cushion
 minecraft:cyan_banner

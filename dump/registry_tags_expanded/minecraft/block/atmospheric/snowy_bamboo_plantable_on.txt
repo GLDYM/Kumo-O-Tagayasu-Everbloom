@@ -3,7 +3,7 @@
 # Tag: atmospheric:snowy_bamboo_plantable_on
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.4431007+08:00
+# Generated: 2026-06-18T20:43:37.5213328+08:00
 
 atmospheric:snowy_bamboo
 atmospheric:snowy_bamboo_sapling

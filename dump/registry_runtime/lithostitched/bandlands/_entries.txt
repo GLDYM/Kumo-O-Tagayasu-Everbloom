@@ -2,5 +2,5 @@
 # Registry: lithostitched:bandlands
 # Minecraft: 1.21.1
 # Entries: 0
-# Generated: 2026-06-14T13:47:24.1274334+08:00
+# Generated: 2026-06-18T20:43:28.2495966+08:00
 

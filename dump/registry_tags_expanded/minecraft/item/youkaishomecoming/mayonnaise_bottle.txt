@@ -3,6 +3,6 @@
 # Tag: youkaishomecoming:mayonnaise_bottle
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.2063039+08:00
+# Generated: 2026-06-18T20:43:44.3924885+08:00
 
 youkaishomecoming:mayonnaise_bottle
