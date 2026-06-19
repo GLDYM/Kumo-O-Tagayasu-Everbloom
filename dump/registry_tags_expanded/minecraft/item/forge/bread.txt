@@ -3,7 +3,7 @@
 # Tag: forge:bread
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.6182619+08:00
+# Generated: 2026-06-18T20:43:42.6647282+08:00
 
 immortalers_delight:evolutcorn_bread
 immortalers_delight:kwat_wheat_toast

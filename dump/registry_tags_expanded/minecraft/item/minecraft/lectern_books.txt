@@ -3,7 +3,7 @@
 # Tag: minecraft:lectern_books
 # Entries: 28
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.1696113+08:00
+# Generated: 2026-06-18T20:43:43.2189244+08:00
 
 createrailwaysnavigator:navigator
 exposure:album

@@ -3,7 +3,7 @@
 # Tag: youkaishomecoming:youkai_biomes
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.1500856+08:00
+# Generated: 2026-06-18T20:43:45.4124934+08:00
 
 youkaishomecoming:animal_path
 youkaishomecoming:sakura_birch_forest

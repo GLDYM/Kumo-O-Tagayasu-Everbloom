@@ -3,6 +3,6 @@
 # Tag: c:fruits/litchi
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.2754895+08:00
+# Generated: 2026-06-18T20:43:41.1293581+08:00
 
 fruitsdelight:lychee

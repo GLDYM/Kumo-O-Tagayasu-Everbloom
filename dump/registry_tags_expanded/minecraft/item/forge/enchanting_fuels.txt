@@ -3,7 +3,7 @@
 # Tag: forge:enchanting_fuels
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.6570411+08:00
+# Generated: 2026-06-18T20:43:42.7196633+08:00
 
 minecraft:experience_bottle
 minecraft:lapis_lazuli

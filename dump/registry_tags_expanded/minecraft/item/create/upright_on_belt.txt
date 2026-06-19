@@ -3,7 +3,7 @@
 # Tag: create:upright_on_belt
 # Entries: 149
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.0440677+08:00
+# Generated: 2026-06-18T20:43:41.9190179+08:00
 
 amendments:dye_bottle
 atmospheric:aloe_gel_bottle

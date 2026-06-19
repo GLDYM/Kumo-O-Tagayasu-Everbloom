@@ -3,7 +3,7 @@
 # Tag: crabbersdelight:jei_display_results/minecraft/air
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.9598742+08:00
+# Generated: 2026-06-18T20:43:41.8252524+08:00
 
 crabbersdelight:can
 crabbersdelight:clam

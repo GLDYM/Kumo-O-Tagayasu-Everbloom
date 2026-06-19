@@ -3,7 +3,7 @@
 # Tag: abnormals_delight:drops_yucca_gateau_slice
 # Entries: 18
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.3654467+08:00
+# Generated: 2026-06-18T20:43:37.4371299+08:00
 
 atmospheric:black_candle_yucca_gateau
 atmospheric:blue_candle_yucca_gateau

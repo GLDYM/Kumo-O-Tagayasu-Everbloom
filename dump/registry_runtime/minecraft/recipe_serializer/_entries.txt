@@ -2,7 +2,7 @@
 # Registry: minecraft:recipe_serializer
 # Minecraft: 1.21.1
 # Entries: 191
-# Generated: 2026-06-14T13:47:24.4168961+08:00
+# Generated: 2026-06-18T20:43:28.4653493+08:00
 
 amendments:cauldron_crafting raw_id=101 class=net.mehvahdjukaar.amendments.common.recipe.CauldronRecipe$Serializer
 amendments:dye_bottle raw_id=100 class=net.minecraft.world.item.crafting.SimpleCraftingRecipeSerializer

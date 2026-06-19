@@ -3,7 +3,7 @@
 # Tag: minecraft:skeletons
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1452054+08:00
+# Generated: 2026-06-18T20:43:39.7813893+08:00
 
 minecraft:bogged
 minecraft:skeleton

@@ -3,7 +3,7 @@
 # Tag: create:fan_processing_catalysts/haunting
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.8018428+08:00
+# Generated: 2026-06-18T20:43:37.9833788+08:00
 
 create:lit_blaze_burner
 create_connected:fan_haunting_catalyst

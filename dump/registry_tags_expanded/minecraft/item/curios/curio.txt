@@ -3,6 +3,6 @@
 # Tag: curios:curio
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.1991177+08:00
+# Generated: 2026-06-18T20:43:42.0964523+08:00
 
 artifacts:whoopee_cushion

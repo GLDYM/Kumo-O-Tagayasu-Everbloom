@@ -3,7 +3,7 @@
 # Tag: integrated_villages:has_structure/cabin_village_biomes
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.8727702+08:00
+# Generated: 2026-06-18T20:43:45.0976464+08:00
 
 minecraft:dark_forest
 minecraft:grove

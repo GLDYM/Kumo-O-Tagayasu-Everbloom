@@ -2,7 +2,7 @@
 # Registry: neoforge:biome_modifier
 # Minecraft: 1.21.1
 # Entries: 115
-# Generated: 2026-06-14T13:47:24.5853988+08:00
+# Generated: 2026-06-18T20:43:28.6555455+08:00
 
 artifacts:add_campsite raw_id=2 class=net.neoforged.neoforge.common.world.BiomeModifiers$AddFeaturesBiomeModifier
 atmospheric:add_feature/wooded_badlands_vegetation raw_id=13 class=net.neoforged.neoforge.common.world.BiomeModifiers$AddFeaturesBiomeModifier

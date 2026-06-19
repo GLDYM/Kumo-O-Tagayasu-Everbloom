@@ -2,7 +2,7 @@
 # Registry: minecraft:villager_profession
 # Minecraft: 1.21.1
 # Entries: 24
-# Generated: 2026-06-14T13:45:01.4275072+08:00
+# Generated: 2026-06-18T20:40:59.2913806+08:00
 
 bakeries:pistrinamaster raw_id=21 class=net.minecraft.world.entity.npc.VillagerProfession
 beautify:botanist raw_id=17 class=net.minecraft.world.entity.npc.VillagerProfession

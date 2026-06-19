@@ -3,7 +3,7 @@
 # Tag: atmospheric:cactus_immune
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.0429871+08:00
+# Generated: 2026-06-18T20:43:39.6172404+08:00
 
 atmospheric:cochineal
 minecraft:camel

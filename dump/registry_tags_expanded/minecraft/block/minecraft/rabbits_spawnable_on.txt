@@ -3,7 +3,7 @@
 # Tag: minecraft:rabbits_spawnable_on
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.485399+08:00
+# Generated: 2026-06-18T20:43:38.9481099+08:00
 
 atmospheric:arid_sand
 atmospheric:crustose

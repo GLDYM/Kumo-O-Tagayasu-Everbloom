@@ -3,7 +3,7 @@
 # Tag: functionalstorage:fluid_drawer
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.7280278+08:00
+# Generated: 2026-06-18T20:43:42.7882989+08:00
 
 functionalstorage:fluid_1
 functionalstorage:fluid_2

@@ -3,7 +3,7 @@
 # Tag: minecraft:mushroom_grow_block
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4596509+08:00
+# Generated: 2026-06-18T20:43:38.8934807+08:00
 
 delighto_flight:weather_soil
 farmersdelight:organic_compost

@@ -2,7 +2,7 @@
 # Registry: minecraft:attribute
 # Minecraft: 1.21.1
 # Entries: 118
-# Generated: 2026-06-14T13:45:01.0990593+08:00
+# Generated: 2026-06-18T20:40:59.1005097+08:00
 
 artifacts:generic.attack_burning_duration raw_id=81 class=net.minecraft.world.entity.ai.attributes.RangedAttribute
 artifacts:generic.drinking_speed raw_id=82 class=net.minecraft.world.entity.ai.attributes.RangedAttribute

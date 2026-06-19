@@ -3,7 +3,7 @@
 # Tag: tofucraft:repairable_tofu
 # Entries: 27
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.0664448+08:00
+# Generated: 2026-06-18T20:43:44.2115844+08:00
 
 tofucraft:tofu_diamond_axe
 tofucraft:tofu_diamond_boots

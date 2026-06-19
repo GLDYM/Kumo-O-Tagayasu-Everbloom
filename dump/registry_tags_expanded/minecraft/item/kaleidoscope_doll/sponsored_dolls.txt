@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_doll:sponsored_dolls
 # Entries: 615
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.9001491+08:00
+# Generated: 2026-06-18T20:43:42.9716829+08:00
 
 kaleidoscope_doll:doll_100
 kaleidoscope_doll:doll_101

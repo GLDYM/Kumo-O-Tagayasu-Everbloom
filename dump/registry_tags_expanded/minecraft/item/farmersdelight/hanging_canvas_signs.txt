@@ -3,7 +3,7 @@
 # Tag: farmersdelight:hanging_canvas_signs
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.5995014+08:00
+# Generated: 2026-06-18T20:43:42.6457115+08:00
 
 farmersdelight:black_hanging_canvas_sign
 farmersdelight:blue_hanging_canvas_sign

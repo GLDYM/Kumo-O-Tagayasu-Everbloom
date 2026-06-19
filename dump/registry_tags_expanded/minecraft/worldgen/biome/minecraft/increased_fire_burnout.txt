@@ -3,7 +3,7 @@
 # Tag: minecraft:increased_fire_burnout
 # Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.9860662+08:00
+# Generated: 2026-06-18T20:43:45.2219675+08:00
 
 atmospheric:rainforest
 minecraft:bamboo_jungle

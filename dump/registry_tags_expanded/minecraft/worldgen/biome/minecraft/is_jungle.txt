@@ -3,7 +3,7 @@
 # Tag: minecraft:is_jungle
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.9976831+08:00
+# Generated: 2026-06-18T20:43:45.2294823+08:00
 
 atmospheric:rainforest
 atmospheric:rainforest_basin

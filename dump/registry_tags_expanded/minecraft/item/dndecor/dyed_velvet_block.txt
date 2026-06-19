@@ -3,7 +3,7 @@
 # Tag: dndecor:dyed_velvet_block
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2701389+08:00
+# Generated: 2026-06-18T20:43:42.2188057+08:00
 
 dndecor:black_velvet_block
 dndecor:blue_velvet_block

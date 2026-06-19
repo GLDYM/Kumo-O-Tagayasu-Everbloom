@@ -2,7 +2,7 @@
 # Registry: create:potato_projectile/type
 # Minecraft: 1.21.1
 # Entries: 42
-# Generated: 2026-06-14T13:47:24.068793+08:00
+# Generated: 2026-06-18T20:43:28.2087508+08:00
 
 create:apple raw_id=0 class=com.simibubi.create.api.equipment.potatoCannon.PotatoCannonProjectileType
 create:baked_potato raw_id=1 class=com.simibubi.create.api.equipment.potatoCannon.PotatoCannonProjectileType

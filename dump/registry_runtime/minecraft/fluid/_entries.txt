@@ -2,7 +2,7 @@
 # Registry: minecraft:fluid
 # Minecraft: 1.21.1
 # Entries: 507
-# Generated: 2026-06-14T13:47:24.2881166+08:00
+# Generated: 2026-06-18T20:43:28.3394113+08:00
 
 bakeries:flowing_salt_water raw_id=504 class=com.renyigesai.bakeries.common.blocks.fluid.SaltWaterFluid$Flowing
 bakeries:salt_water raw_id=503 class=com.renyigesai.bakeries.common.blocks.fluid.SaltWaterFluid$Source

@@ -3,7 +3,7 @@
 # Tag: minecraft:ocean_ruin
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.213879+08:00
+# Generated: 2026-06-18T20:43:45.4900711+08:00
 
 minecraft:ocean_ruin_cold
 minecraft:ocean_ruin_warm

@@ -2,7 +2,7 @@
 # Registry: create:display_source
 # Minecraft: 1.21.1
 # Entries: 43
-# Generated: 2026-06-14T13:47:24.0291609+08:00
+# Generated: 2026-06-18T20:43:28.1701088+08:00
 
 create:accumulate_items raw_id=35 class=com.simibubi.create.content.redstone.displayLink.source.AccumulatedItemCountDisplaySource
 create:boiler raw_id=23 class=com.simibubi.create.content.redstone.displayLink.source.BoilerDisplaySource

@@ -2,7 +2,7 @@
 # Registry: neoforge:ingredient_serializer
 # Minecraft: 1.21.1
 # Entries: 25
-# Generated: 2026-06-14T13:45:01.5466839+08:00
+# Generated: 2026-06-18T20:40:59.3553896+08:00
 
 bookshelf:all raw_id=9 class=net.neoforged.neoforge.common.crafting.IngredientType
 bookshelf:block_tag raw_id=12 class=net.neoforged.neoforge.common.crafting.IngredientType

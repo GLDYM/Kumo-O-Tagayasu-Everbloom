@@ -3,7 +3,7 @@
 # Tag: c:foods/berry
 # Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.0607231+08:00
+# Generated: 2026-06-18T20:43:40.8417941+08:00
 
 atmospheric:currant
 create:chocolate_glazed_berries

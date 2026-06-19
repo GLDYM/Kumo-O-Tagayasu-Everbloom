@@ -3,7 +3,7 @@
 # Tag: minecraft:wall_signs
 # Entries: 42
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.5677776+08:00
+# Generated: 2026-06-18T20:43:39.0315296+08:00
 
 atmospheric:aspen_wall_sign
 atmospheric:grimwood_wall_sign

@@ -2,7 +2,7 @@
 # Registry: irons_spellbooks:spells
 # Minecraft: 1.21.1
 # Entries: 131
-# Generated: 2026-06-14T13:45:01.068973+08:00
+# Generated: 2026-06-18T20:40:59.083508+08:00
 
 irons_spellbooks:abyssal_shroud raw_id=124 class=io.redspace.ironsspellbooks.spells.eldritch.AbyssalShroudSpell
 irons_spellbooks:acid_orb raw_id=111 class=io.redspace.ironsspellbooks.spells.nature.AcidOrbSpell

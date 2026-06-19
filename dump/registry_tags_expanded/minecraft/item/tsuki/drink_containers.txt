@@ -3,7 +3,7 @@
 # Tag: tsuki:drink_containers
 # Entries: 19
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.0973341+08:00
+# Generated: 2026-06-18T20:43:44.2621815+08:00
 
 tsuki:beer_bottle
 tsuki:brandy_bottle

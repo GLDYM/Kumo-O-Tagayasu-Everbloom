@@ -3,7 +3,7 @@
 # Tag: vintagedelight:sweet_jam
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.1695256+08:00
+# Generated: 2026-06-18T20:43:44.3432704+08:00
 
 vintagedelight:apple_sauce_mason_jar
 vintagedelight:gearo_berry_mason_jar

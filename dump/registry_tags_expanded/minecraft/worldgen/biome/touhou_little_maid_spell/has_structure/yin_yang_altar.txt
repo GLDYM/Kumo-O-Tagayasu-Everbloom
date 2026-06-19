@@ -3,7 +3,7 @@
 # Tag: touhou_little_maid_spell:has_structure/yin_yang_altar
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.1198923+08:00
+# Generated: 2026-06-18T20:43:45.3604344+08:00
 
 minecraft:dark_forest
 minecraft:swamp

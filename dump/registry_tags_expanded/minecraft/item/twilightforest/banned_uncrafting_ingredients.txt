@@ -3,7 +3,7 @@
 # Tag: twilightforest:banned_uncrafting_ingredients
 # Entries: 22
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.1386737+08:00
+# Generated: 2026-06-18T20:43:44.3069224+08:00
 
 l2complements:blackstone_core
 l2complements:captured_shulker_bullet

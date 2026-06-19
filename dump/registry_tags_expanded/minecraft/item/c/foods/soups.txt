@@ -3,6 +3,6 @@
 # Tag: c:foods/soups
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.2004387+08:00
+# Generated: 2026-06-18T20:43:41.0295051+08:00
 
 corn_delight:corn_soup

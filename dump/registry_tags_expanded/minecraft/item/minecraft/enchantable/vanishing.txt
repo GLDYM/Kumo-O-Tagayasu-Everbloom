@@ -3,7 +3,7 @@
 # Tag: minecraft:enchantable/vanishing
 # Entries: 523
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.1238161+08:00
+# Generated: 2026-06-18T20:43:43.1908992+08:00
 
 bakeries:bread_knife
 bakeries:eternal_baguette

@@ -2,7 +2,7 @@
 # Registry: minecraft:painting_variant
 # Minecraft: 1.21.1
 # Entries: 134
-# Generated: 2026-06-14T13:47:24.3882669+08:00
+# Generated: 2026-06-18T20:43:28.4484765+08:00
 
 atmospheric:canyon raw_id=21 class=net.minecraft.world.entity.decoration.PaintingVariant
 atmospheric:fateful_outing raw_id=38 class=net.minecraft.world.entity.decoration.PaintingVariant

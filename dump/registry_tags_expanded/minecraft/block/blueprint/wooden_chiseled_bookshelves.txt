@@ -3,7 +3,7 @@
 # Tag: blueprint:wooden_chiseled_bookshelves
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.4653572+08:00
+# Generated: 2026-06-18T20:43:37.5449295+08:00
 
 atmospheric:chiseled_aspen_bookshelf
 atmospheric:chiseled_grimwood_bookshelf

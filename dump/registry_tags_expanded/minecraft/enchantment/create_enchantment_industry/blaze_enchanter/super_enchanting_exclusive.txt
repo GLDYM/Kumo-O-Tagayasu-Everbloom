@@ -3,7 +3,7 @@
 # Tag: create_enchantment_industry:blaze_enchanter/super_enchanting_exclusive
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9774437+08:00
+# Generated: 2026-06-18T20:43:39.5249178+08:00
 
 minecraft:frost_walker
 minecraft:mending

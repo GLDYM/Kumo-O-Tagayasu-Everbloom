@@ -3,7 +3,7 @@
 # Tag: create:deployable_drink
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.9884985+08:00
+# Generated: 2026-06-18T20:43:41.8465529+08:00
 
 minecraft:milk_bucket
 minecraft:potion

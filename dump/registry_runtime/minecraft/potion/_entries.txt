@@ -2,7 +2,7 @@
 # Registry: minecraft:potion
 # Minecraft: 1.21.1
 # Entries: 96
-# Generated: 2026-06-14T13:47:24.4073544+08:00
+# Generated: 2026-06-18T20:43:28.4643447+08:00
 
 atmospheric:relief raw_id=82 class=net.minecraft.world.item.alchemy.Potion
 atmospheric:relief_long raw_id=84 class=net.minecraft.world.item.alchemy.Potion

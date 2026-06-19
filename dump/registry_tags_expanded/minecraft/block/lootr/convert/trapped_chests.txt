@@ -3,7 +3,7 @@
 # Tag: lootr:convert/trapped_chests
 # Entries: 26
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.191173+08:00
+# Generated: 2026-06-18T20:43:38.523936+08:00
 
 atmospheric:trapped_aspen_chest
 atmospheric:trapped_grimwood_chest

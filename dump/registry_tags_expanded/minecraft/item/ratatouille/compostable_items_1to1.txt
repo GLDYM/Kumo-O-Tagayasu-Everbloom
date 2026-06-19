@@ -3,7 +3,7 @@
 # Tag: ratatouille:compostable_items_1to1
 # Entries: 167
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.9195099+08:00
+# Generated: 2026-06-18T20:43:44.0487293+08:00
 
 atmospheric:aloe_leaves
 atmospheric:blood_orange

@@ -3,7 +3,7 @@
 # Tag: epic:large_sand_dungeon
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.4715042+08:00
+# Generated: 2026-06-18T20:43:44.6421337+08:00
 
 atmospheric:dunes
 atmospheric:flourishing_dunes

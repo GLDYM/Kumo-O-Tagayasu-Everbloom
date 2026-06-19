@@ -2,7 +2,7 @@
 # Registry: irons_spellbooks:schools
 # Minecraft: 1.21.1
 # Entries: 12
-# Generated: 2026-06-14T13:47:24.1013592+08:00
+# Generated: 2026-06-18T20:43:28.2415475+08:00
 
 irons_spellbooks:blood raw_id=8 class=io.redspace.ironsspellbooks.api.spells.SchoolType
 irons_spellbooks:eldritch raw_id=11 class=io.redspace.ironsspellbooks.api.spells.SchoolType

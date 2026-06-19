@@ -3,7 +3,7 @@
 # Tag: another_furniture:above_bypasses_seat_check
 # Entries: 101
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.3752295+08:00
+# Generated: 2026-06-18T20:43:37.4491748+08:00
 
 another_furniture:acacia_shutter
 another_furniture:bamboo_shutter

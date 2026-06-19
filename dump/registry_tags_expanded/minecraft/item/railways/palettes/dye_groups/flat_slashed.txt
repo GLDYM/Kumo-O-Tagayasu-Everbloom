@@ -3,7 +3,7 @@
 # Tag: railways:palettes/dye_groups/flat_slashed
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.9002466+08:00
+# Generated: 2026-06-18T20:43:44.0218695+08:00
 
 railways:black_flat_slashed_locometal
 railways:blue_flat_slashed_locometal

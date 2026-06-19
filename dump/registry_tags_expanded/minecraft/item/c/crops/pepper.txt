@@ -3,7 +3,7 @@
 # Tag: c:crops/pepper
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.8955271+08:00
+# Generated: 2026-06-18T20:43:40.6585196+08:00
 
 mynethersdelight:bullet_pepper
 tofucraft:chili

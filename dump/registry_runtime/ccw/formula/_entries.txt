@@ -2,7 +2,7 @@
 # Registry: ccw:formula
 # Minecraft: 1.21.1
 # Entries: 159
-# Generated: 2026-06-14T13:47:24.0171725+08:00
+# Generated: 2026-06-18T20:43:28.1572265+08:00
 
 ccw:bayberry_bold raw_id=0 class=com.lnatit.ccw.data.Formula
 ccw:bayberry_original raw_id=1 class=com.lnatit.ccw.data.Formula

@@ -3,7 +3,7 @@
 # Tag: c:foods/roasted_dragon_meat
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.1913938+08:00
+# Generated: 2026-06-18T20:43:41.0104363+08:00
 
 ends_delight:roasted_dragon_meat
 ends_delight:roasted_dragon_meat_cuts

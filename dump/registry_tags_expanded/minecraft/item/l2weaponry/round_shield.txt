@@ -3,7 +3,7 @@
 # Tag: l2weaponry:round_shield
 # Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.001056+08:00
+# Generated: 2026-06-18T20:43:43.0741862+08:00
 
 l2weaponry:diamond_round_shield
 l2weaponry:eternium_round_shield

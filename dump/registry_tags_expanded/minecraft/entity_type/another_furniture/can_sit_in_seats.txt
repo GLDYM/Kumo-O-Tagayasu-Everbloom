@@ -3,7 +3,7 @@
 # Tag: another_furniture:can_sit_in_seats
 # Entries: 19
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.0399732+08:00
+# Generated: 2026-06-18T20:43:39.6092158+08:00
 
 minecraft:camel
 minecraft:cat

@@ -3,6 +3,6 @@
 # Tag: quark:soul_bead_target
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.2503182+08:00
+# Generated: 2026-06-18T20:43:45.5422363+08:00
 
 minecraft:fortress

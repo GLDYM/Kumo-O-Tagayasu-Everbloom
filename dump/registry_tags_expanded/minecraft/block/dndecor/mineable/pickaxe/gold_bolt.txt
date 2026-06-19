@@ -3,7 +3,7 @@
 # Tag: dndecor:mineable/pickaxe/gold_bolt
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.942176+08:00
+# Generated: 2026-06-18T20:43:38.1394965+08:00
 
 dndecor:gold_cross_bolt
 dndecor:gold_dash_bolt

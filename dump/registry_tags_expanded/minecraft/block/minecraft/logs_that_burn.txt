@@ -3,7 +3,7 @@
 # Tag: minecraft:logs_that_burn
 # Entries: 109
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4286654+08:00
+# Generated: 2026-06-18T20:43:38.8369076+08:00
 
 atmospheric:aspen_log
 atmospheric:aspen_wood

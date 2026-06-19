@@ -2,7 +2,7 @@
 # Registry: minecraft:worldgen/configured_carver
 # Minecraft: 1.21.1
 # Entries: 7
-# Generated: 2026-06-14T13:47:24.478215+08:00
+# Generated: 2026-06-18T20:43:28.5310614+08:00
 
 minecraft:canyon raw_id=0 class=net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver
 minecraft:cave raw_id=1 class=net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver

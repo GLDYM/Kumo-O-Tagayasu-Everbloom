@@ -3,7 +3,7 @@
 # Tag: immortalers_delight:straw
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.7880774+08:00
+# Generated: 2026-06-18T20:43:42.844076+08:00
 
 farmersdelight:straw
 immortalers_delight:ancient_fiber

@@ -3,7 +3,7 @@
 # Tag: minecraft:needs_iron_tool
 # Entries: 41
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4631999+08:00
+# Generated: 2026-06-18T20:43:38.8976967+08:00
 
 create:brass_block
 create:deepslate_zinc_ore

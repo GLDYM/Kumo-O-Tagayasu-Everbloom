@@ -2,7 +2,7 @@
 # Registry: create:mounted_item_storage_type
 # Minecraft: 1.21.1
 # Entries: 14
-# Generated: 2026-06-14T13:45:01.0431086+08:00
+# Generated: 2026-06-18T20:40:59.0685096+08:00
 
 beyonddimensions:net_interface_item raw_id=4 class=com.wintercogs.beyonddimensions.integration.module.create.contraption.NetInterfaceMountedStorageType
 create:chest raw_id=11 class=com.simibubi.create.api.contraption.storage.item.chest.ChestMountedStorageType

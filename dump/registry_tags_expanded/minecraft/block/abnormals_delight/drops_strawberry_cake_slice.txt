@@ -3,7 +3,7 @@
 # Tag: abnormals_delight:drops_strawberry_cake_slice
 # Entries: 18
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.3595809+08:00
+# Generated: 2026-06-18T20:43:37.4356095+08:00
 
 neapolitan:black_strawberry_candle_cake
 neapolitan:blue_strawberry_candle_cake

@@ -3,7 +3,7 @@
 # Tag: c:no_default_monsters
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.4632111+08:00
+# Generated: 2026-06-18T20:43:44.6295717+08:00
 
 minecraft:deep_dark
 minecraft:mushroom_fields

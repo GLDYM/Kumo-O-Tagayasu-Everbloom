@@ -3,7 +3,7 @@
 # Tag: c:foods/raw_meat
 # Entries: 37
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.1815642+08:00
+# Generated: 2026-06-18T20:43:40.9872944+08:00
 
 create_bic_bit:raw_herring
 farmersdelight:bacon

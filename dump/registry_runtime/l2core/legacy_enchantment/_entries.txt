@@ -2,7 +2,7 @@
 # Registry: l2core:legacy_enchantment
 # Minecraft: 1.21.1
 # Entries: 31
-# Generated: 2026-06-14T13:47:24.11238+08:00
+# Generated: 2026-06-18T20:43:28.2450348+08:00
 
 l2complements:cubic_chunk_eater raw_id=29 class=dev.xkmc.l2complements.content.enchantment.digging.RangeDiggingEnchantment
 l2complements:cubic_mining raw_id=22 class=dev.xkmc.l2complements.content.enchantment.digging.RangeDiggingEnchantment

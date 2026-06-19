@@ -3,7 +3,7 @@
 # Tag: forge:sugar
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.69759+08:00
+# Generated: 2026-06-18T20:43:42.7617286+08:00
 
 immortalers_delight:evolutcorn_hard_candy
 minecraft:sugar

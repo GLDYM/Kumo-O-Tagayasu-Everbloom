@@ -3,7 +3,7 @@
 # Tag: minecraft:not_scary_for_pufferfish
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1330981+08:00
+# Generated: 2026-06-18T20:43:39.7743597+08:00
 
 atmospheric:tetra
 minecraft:cod

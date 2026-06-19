@@ -3,7 +3,7 @@
 # Tag: minecraft:freeze_immune_entity_types
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1175496+08:00
+# Generated: 2026-06-18T20:43:39.7668296+08:00
 
 minecraft:polar_bear
 minecraft:snow_golem

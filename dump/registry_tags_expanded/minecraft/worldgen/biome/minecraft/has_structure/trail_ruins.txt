@@ -3,7 +3,7 @@
 # Tag: minecraft:has_structure/trail_ruins
 # Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.97149+08:00
+# Generated: 2026-06-18T20:43:45.2103791+08:00
 
 atmospheric:aspen_parkland
 atmospheric:kousa_jungle

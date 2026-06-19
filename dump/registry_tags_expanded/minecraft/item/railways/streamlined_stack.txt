@@ -3,7 +3,7 @@
 # Tag: railways:streamlined_stack
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.9157418+08:00
+# Generated: 2026-06-18T20:43:44.0405771+08:00
 
 railways:smokestack_streamlined
 railways:smokestack_streamlined_brass

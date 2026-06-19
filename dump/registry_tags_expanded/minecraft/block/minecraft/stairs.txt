@@ -3,7 +3,7 @@
 # Tag: minecraft:stairs
 # Entries: 398
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.5259517+08:00
+# Generated: 2026-06-18T20:43:38.9964109+08:00
 
 amendments:carpet_stairs
 atmospheric:arid_sandstone_stairs

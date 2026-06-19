@@ -3,7 +3,7 @@
 # Tag: minecraft:spawns_white_rabbits
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.022523+08:00
+# Generated: 2026-06-18T20:43:45.2534687+08:00
 
 atmospheric:kousa_jungle
 atmospheric:snowy_scrubland

@@ -3,6 +3,6 @@
 # Tag: tofucraft:has_structure/zunda_tofu_village
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.099394+08:00
+# Generated: 2026-06-18T20:43:45.3271589+08:00
 
 tofucraft:zunda_forest

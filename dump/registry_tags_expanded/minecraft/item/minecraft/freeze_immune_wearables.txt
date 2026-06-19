@@ -3,7 +3,7 @@
 # Tag: minecraft:freeze_immune_wearables
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.137523+08:00
+# Generated: 2026-06-18T20:43:43.2052762+08:00
 
 irons_spellbooks:frostward_ring
 minecraft:leather_boots

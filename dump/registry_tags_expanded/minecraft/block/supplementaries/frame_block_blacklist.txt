@@ -3,7 +3,7 @@
 # Tag: supplementaries:frame_block_blacklist
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.754418+08:00
+# Generated: 2026-06-18T20:43:39.2472675+08:00
 
 minecraft:bedrock
 supplementaries:daub_brace

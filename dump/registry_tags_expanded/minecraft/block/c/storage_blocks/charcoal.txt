@@ -3,6 +3,6 @@
 # Tag: c:storage_blocks/charcoal
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.7053116+08:00
+# Generated: 2026-06-18T20:43:37.8250348+08:00
 
 quark:charcoal_block

@@ -3,7 +3,7 @@
 # Tag: iss_magicfromtheeast:armors/helmets
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.8483974+08:00
+# Generated: 2026-06-18T20:43:42.92036+08:00
 
 iss_magicfromtheeast:jade_pagoda_helmet
 iss_magicfromtheeast:jiangshi_hat

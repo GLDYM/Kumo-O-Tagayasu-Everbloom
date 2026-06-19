@@ -3,7 +3,7 @@
 # Tag: create:contraption_controlled
 # Entries: 61
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.9839777+08:00
+# Generated: 2026-06-18T20:43:41.8445502+08:00
 
 copycats:copycat_door
 copycats:copycat_folding_door

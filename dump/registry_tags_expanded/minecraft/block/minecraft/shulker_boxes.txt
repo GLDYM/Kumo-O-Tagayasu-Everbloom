@@ -3,7 +3,7 @@
 # Tag: minecraft:shulker_boxes
 # Entries: 18
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.5004895+08:00
+# Generated: 2026-06-18T20:43:38.9646293+08:00
 
 lootr:lootr_shulker
 minecraft:black_shulker_box

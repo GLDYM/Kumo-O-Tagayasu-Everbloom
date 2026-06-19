@@ -3,7 +3,7 @@
 # Tag: c:bread_slices
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.606464+08:00
+# Generated: 2026-06-18T20:43:40.3043547+08:00
 
 bakeries:country_bread_slice
 bakeries:sliced_cheese_cocoa_toast

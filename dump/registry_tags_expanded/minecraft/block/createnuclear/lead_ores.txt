@@ -3,7 +3,7 @@
 # Tag: createnuclear:lead_ores
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.9229222+08:00
+# Generated: 2026-06-18T20:43:38.1188851+08:00
 
 createnuclear:deepslate_lead_ore
 createnuclear:lead_ore

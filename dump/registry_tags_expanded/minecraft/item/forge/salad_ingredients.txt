@@ -3,7 +3,7 @@
 # Tag: forge:salad_ingredients
 # Entries: 25
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.6813043+08:00
+# Generated: 2026-06-18T20:43:42.7546968+08:00
 
 atmospheric:aloe_leaves
 bakeries:tomato

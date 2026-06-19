@@ -3,7 +3,7 @@
 # Tag: create:girdable_tracks
 # Entries: 61
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.8098857+08:00
+# Generated: 2026-06-18T20:43:37.9979577+08:00
 
 create:track
 railways:generic_crossing

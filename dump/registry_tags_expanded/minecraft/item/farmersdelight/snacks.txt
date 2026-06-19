@@ -3,7 +3,7 @@
 # Tag: farmersdelight:snacks
 # Entries: 13
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.6075325+08:00
+# Generated: 2026-06-18T20:43:42.6542441+08:00
 
 farmersdelight:bacon_sandwich
 farmersdelight:barbecue_stick

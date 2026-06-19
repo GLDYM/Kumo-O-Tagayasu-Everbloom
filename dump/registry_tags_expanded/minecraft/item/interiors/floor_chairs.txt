@@ -3,7 +3,7 @@
 # Tag: interiors:floor_chairs
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.7972744+08:00
+# Generated: 2026-06-18T20:43:42.8596292+08:00
 
 interiors:black_floor_chair
 interiors:blue_floor_chair

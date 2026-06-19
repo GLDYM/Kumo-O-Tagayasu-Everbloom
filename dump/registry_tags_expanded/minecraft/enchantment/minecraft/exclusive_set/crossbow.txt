@@ -3,7 +3,7 @@
 # Tag: minecraft:exclusive_set/crossbow
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9899779+08:00
+# Generated: 2026-06-18T20:43:39.5520531+08:00
 
 minecraft:multishot
 minecraft:piercing

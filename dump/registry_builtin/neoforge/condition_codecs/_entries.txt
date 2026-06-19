@@ -2,7 +2,7 @@
 # Registry: neoforge:condition_codecs
 # Minecraft: 1.21.1
 # Entries: 38
-# Generated: 2026-06-14T13:45:01.5236297+08:00
+# Generated: 2026-06-18T20:40:59.3463873+08:00
 
 amendments:flag raw_id=27 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 artifacts:config_value raw_id=30 class=com.mojang.serialization.MapCodec$2

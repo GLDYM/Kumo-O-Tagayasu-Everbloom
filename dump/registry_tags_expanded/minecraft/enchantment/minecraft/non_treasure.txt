@@ -3,7 +3,7 @@
 # Tag: minecraft:non_treasure
 # Entries: 53
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9962306+08:00
+# Generated: 2026-06-18T20:43:39.5610781+08:00
 
 create:capacity
 create:potato_recovery

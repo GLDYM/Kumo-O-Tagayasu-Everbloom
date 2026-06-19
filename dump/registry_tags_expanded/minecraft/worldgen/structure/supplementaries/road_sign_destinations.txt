@@ -3,7 +3,7 @@
 # Tag: supplementaries:road_sign_destinations
 # Entries: 28
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.2584098+08:00
+# Generated: 2026-06-18T20:43:45.5477564+08:00
 
 atmospheric:village_scrubland
 idas:bazaar

@@ -3,7 +3,7 @@
 # Tag: dramaticdoors:categories/short_quark_doors
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.4223733+08:00
+# Generated: 2026-06-18T20:43:42.3942011+08:00
 
 dramaticdoors:short_bamboo_door
 dramaticdoors:short_quark_ancient_door

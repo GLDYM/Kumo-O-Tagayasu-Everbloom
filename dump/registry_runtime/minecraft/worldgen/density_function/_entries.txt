@@ -2,7 +2,7 @@
 # Registry: minecraft:worldgen/density_function
 # Minecraft: 1.21.1
 # Entries: 48
-# Generated: 2026-06-14T13:47:24.4842574+08:00
+# Generated: 2026-06-18T20:43:28.541086+08:00
 
 lithostitched:region/overworld raw_id=31 class=net.minecraft.world.level.levelgen.DensityFunctions$Ap2
 lithostitched:region/shift_x raw_id=32 class=net.minecraft.world.level.levelgen.DensityFunctions$Marker

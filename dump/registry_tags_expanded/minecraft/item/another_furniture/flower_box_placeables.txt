@@ -3,7 +3,7 @@
 # Tag: another_furniture:flower_box_placeables
 # Entries: 160
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.4339335+08:00
+# Generated: 2026-06-18T20:43:40.1119042+08:00
 
 atmospheric:aspen_leaves
 atmospheric:aspen_sapling

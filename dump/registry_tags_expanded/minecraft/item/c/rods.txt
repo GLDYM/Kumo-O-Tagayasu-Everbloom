@@ -3,7 +3,7 @@
 # Tag: c:rods
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.5706397+08:00
+# Generated: 2026-06-18T20:43:41.4334986+08:00
 
 createnuclear:graphite_rod
 createnuclear:uranium_rod

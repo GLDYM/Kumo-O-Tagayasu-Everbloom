@@ -3,7 +3,7 @@
 # Tag: lootr:interact_whitelist_blocks
 # Entries: 42
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.194175+08:00
+# Generated: 2026-06-18T20:43:38.5266314+08:00
 
 lootr:decorated_pot
 lootr:lootr_barrel

@@ -3,7 +3,7 @@
 # Tag: createadditionallogistics:tall_seats
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.1614736+08:00
+# Generated: 2026-06-18T20:43:42.065929+08:00
 
 createadditionallogistics:black_tall_seat
 createadditionallogistics:blue_tall_seat

@@ -3,7 +3,7 @@
 # Tag: minecraft:wooden_trapdoors
 # Entries: 31
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.2882182+08:00
+# Generated: 2026-06-18T20:43:43.3991248+08:00
 
 atmospheric:aspen_trapdoor
 atmospheric:grimwood_trapdoor

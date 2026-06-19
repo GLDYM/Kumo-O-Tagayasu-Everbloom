@@ -3,7 +3,7 @@
 # Tag: minecraft:overworld_carver_replaceables
 # Entries: 69
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.476745+08:00
+# Generated: 2026-06-18T20:43:38.918903+08:00
 
 atmospheric:arid_sand
 atmospheric:arid_sandstone

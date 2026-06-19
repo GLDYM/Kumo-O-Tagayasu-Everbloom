@@ -3,6 +3,6 @@
 # Tag: c:end_stones
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.0329798+08:00
+# Generated: 2026-06-18T20:43:40.7956564+08:00
 
 minecraft:end_stone

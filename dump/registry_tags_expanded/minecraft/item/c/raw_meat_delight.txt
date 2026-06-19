@@ -3,7 +3,7 @@
 # Tag: c:raw_meat_delight
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.5438732+08:00
+# Generated: 2026-06-18T20:43:41.4149135+08:00
 
 farmersdelight:bacon
 farmersdelight:chicken_cuts

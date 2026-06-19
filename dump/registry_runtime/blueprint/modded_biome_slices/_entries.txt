@@ -2,7 +2,7 @@
 # Registry: blueprint:modded_biome_slices
 # Minecraft: 1.21.1
 # Entries: 8
-# Generated: 2026-06-14T13:47:24.0027364+08:00
+# Generated: 2026-06-18T20:43:28.1517092+08:00
 
 atmospheric:aspen raw_id=0 class=com.teamabnormals.blueprint.common.world.modification.ModdedBiomeSlice
 atmospheric:dunes_and_scrubland raw_id=1 class=com.teamabnormals.blueprint.common.world.modification.ModdedBiomeSlice

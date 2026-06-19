@@ -3,6 +3,6 @@
 # Tag: artifacts:creepers
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.0409729+08:00
+# Generated: 2026-06-18T20:43:39.6112066+08:00
 
 minecraft:creeper

@@ -3,7 +3,7 @@
 # Tag: fruitsdelight:vanilla/birch
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.5237976+08:00
+# Generated: 2026-06-18T20:43:44.7207198+08:00
 
 minecraft:birch_forest
 minecraft:old_growth_birch_forest

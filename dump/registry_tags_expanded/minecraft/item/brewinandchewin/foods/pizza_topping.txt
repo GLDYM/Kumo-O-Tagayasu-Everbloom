@@ -3,7 +3,7 @@
 # Tag: brewinandchewin:foods/pizza_topping
 # Entries: 20
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.535947+08:00
+# Generated: 2026-06-18T20:43:40.2164144+08:00
 
 farmersdelight:beef_patty
 farmersdelight:cabbage_leaf

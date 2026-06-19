@@ -3,5 +3,5 @@
 # Tag: integrated_villages:collections/windswept_deserts
 # Entries: 0
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.8707734+08:00
+# Generated: 2026-06-18T20:43:45.0956519+08:00
 

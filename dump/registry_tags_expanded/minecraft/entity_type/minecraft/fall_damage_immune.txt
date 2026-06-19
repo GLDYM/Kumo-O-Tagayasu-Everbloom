@@ -3,7 +3,7 @@
 # Tag: minecraft:fall_damage_immune
 # Entries: 23
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1140327+08:00
+# Generated: 2026-06-18T20:43:39.7648216+08:00
 
 createnuclear:irradiated_cat
 createnuclear:irradiated_chicken

@@ -3,7 +3,7 @@
 # Tag: c:hidden_from_recipe_viewers
 # Entries: 146
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.3458772+08:00
+# Generated: 2026-06-18T20:43:41.2140746+08:00
 
 danmaku_api:black_ball_danmaku
 danmaku_api:black_bubble_danmaku

@@ -3,7 +3,7 @@
 # Tag: minecraft:climbable
 # Entries: 92
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.3200356+08:00
+# Generated: 2026-06-18T20:43:38.6983191+08:00
 
 atmospheric:aspen_ladder
 atmospheric:grimwood_ladder

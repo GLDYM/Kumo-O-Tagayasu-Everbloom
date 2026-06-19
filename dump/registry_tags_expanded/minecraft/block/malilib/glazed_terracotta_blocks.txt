@@ -3,7 +3,7 @@
 # Tag: malilib:glazed_terracotta_blocks
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.2359215+08:00
+# Generated: 2026-06-18T20:43:38.5875512+08:00
 
 minecraft:black_glazed_terracotta
 minecraft:blue_glazed_terracotta

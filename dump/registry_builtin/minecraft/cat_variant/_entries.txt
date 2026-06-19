@@ -2,7 +2,7 @@
 # Registry: minecraft:cat_variant
 # Minecraft: 1.21.1
 # Entries: 12
-# Generated: 2026-06-14T13:45:01.1524745+08:00
+# Generated: 2026-06-18T20:40:59.1470118+08:00
 
 copycats:copy_cat raw_id=11 class=net.minecraft.world.entity.animal.CatVariant
 minecraft:all_black raw_id=10 class=net.minecraft.world.entity.animal.CatVariant

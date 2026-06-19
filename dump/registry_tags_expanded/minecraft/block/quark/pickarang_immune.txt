@@ -3,7 +3,7 @@
 # Tag: quark:pickarang_immune
 # Entries: 48
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.6625448+08:00
+# Generated: 2026-06-18T20:43:39.1277504+08:00
 
 lootr:decorated_pot
 lootr:lootr_barrel

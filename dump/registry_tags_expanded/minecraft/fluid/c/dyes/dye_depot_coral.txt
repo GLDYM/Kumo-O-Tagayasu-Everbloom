@@ -3,5 +3,5 @@
 # Tag: c:dyes/dye_depot_coral
 # Entries: 0
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.2323975+08:00
+# Generated: 2026-06-18T20:43:39.9198305+08:00
 

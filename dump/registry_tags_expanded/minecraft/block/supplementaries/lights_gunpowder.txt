@@ -3,7 +3,7 @@
 # Tag: supplementaries:lights_gunpowder
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.7690311+08:00
+# Generated: 2026-06-18T20:43:39.2542282+08:00
 
 createnuclear:enriching_fire
 minecraft:fire

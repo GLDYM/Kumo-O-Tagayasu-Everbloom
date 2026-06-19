@@ -3,7 +3,7 @@
 # Tag: l2weaponry:material/gold
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.9759776+08:00
+# Generated: 2026-06-18T20:43:43.0431948+08:00
 
 l2weaponry:gold_battle_axe
 l2weaponry:gold_claw

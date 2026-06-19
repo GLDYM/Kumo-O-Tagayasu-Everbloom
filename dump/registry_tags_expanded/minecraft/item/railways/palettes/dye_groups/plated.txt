@@ -3,7 +3,7 @@
 # Tag: railways:palettes/dye_groups/plated
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.9081179+08:00
+# Generated: 2026-06-18T20:43:44.0323979+08:00
 
 railways:black_plated_locometal
 railways:blue_plated_locometal

@@ -3,7 +3,7 @@
 # Tag: supplementaries:adventure_map_destinations
 # Entries: 53
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.2564023+08:00
+# Generated: 2026-06-18T20:43:45.5467559+08:00
 
 atmospheric:village_scrubland
 idas:ancient_mines

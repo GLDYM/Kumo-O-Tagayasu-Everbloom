@@ -3,7 +3,7 @@
 # Tag: minecraft:flower_pots
 # Entries: 100
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.3727097+08:00
+# Generated: 2026-06-18T20:43:38.7722036+08:00
 
 atmospheric:potted_agave
 atmospheric:potted_aloe_vera

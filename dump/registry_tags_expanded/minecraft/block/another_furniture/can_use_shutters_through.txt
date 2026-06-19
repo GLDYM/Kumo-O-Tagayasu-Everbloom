@@ -3,7 +3,7 @@
 # Tag: another_furniture:can_use_shutters_through
 # Entries: 155
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.3776194+08:00
+# Generated: 2026-06-18T20:43:37.4532169+08:00
 
 atmospheric:arid_glass
 atmospheric:arid_glass_pane

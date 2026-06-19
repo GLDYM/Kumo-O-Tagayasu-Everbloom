@@ -2,7 +2,7 @@
 # Registry: neoforge:structure_modifier_serializers
 # Minecraft: 1.21.1
 # Entries: 4
-# Generated: 2026-06-14T13:45:01.5496876+08:00
+# Generated: 2026-06-18T20:40:59.3563897+08:00
 
 neoforge:add_spawns raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 neoforge:clear_spawns raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

@@ -3,7 +3,7 @@
 # Tag: minecraft:boats
 # Entries: 70
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.0495515+08:00
+# Generated: 2026-06-18T20:43:43.1368471+08:00
 
 atmospheric:aspen_boat
 atmospheric:aspen_chest_boat

@@ -3,7 +3,7 @@
 # Tag: minecraft:wooden_buttons
 # Entries: 30
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.2785456+08:00
+# Generated: 2026-06-18T20:43:43.3875703+08:00
 
 atmospheric:aspen_button
 atmospheric:grimwood_button

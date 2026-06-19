@@ -3,7 +3,7 @@
 # Tag: dndecor:stone_types/dolomite
 # Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2963017+08:00
+# Generated: 2026-06-18T20:43:42.254852+08:00
 
 dndecor:cut_dolomite
 dndecor:cut_dolomite_brick_stairs

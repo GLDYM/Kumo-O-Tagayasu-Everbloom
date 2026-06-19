@@ -3,7 +3,7 @@
 # Tag: create:packages
 # Entries: 18
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.9952677+08:00
+# Generated: 2026-06-18T20:43:41.8530797+08:00
 
 create:cardboard_package_10x12
 create:cardboard_package_10x8

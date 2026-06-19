@@ -3,7 +3,7 @@
 # Tag: integrated_api:collections/beaches
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.7554014+08:00
+# Generated: 2026-06-18T20:43:44.9402129+08:00
 
 minecraft:beach
 minecraft:snowy_beach

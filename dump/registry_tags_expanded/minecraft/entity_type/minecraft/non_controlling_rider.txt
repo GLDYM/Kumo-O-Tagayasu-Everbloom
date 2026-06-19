@@ -3,7 +3,7 @@
 # Tag: minecraft:non_controlling_rider
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1320887+08:00
+# Generated: 2026-06-18T20:43:39.7743597+08:00
 
 minecraft:magma_cube
 minecraft:slime

@@ -3,7 +3,7 @@
 # Tag: c:pumpkins
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.6530866+08:00
+# Generated: 2026-06-18T20:43:37.7731568+08:00
 
 minecraft:carved_pumpkin
 minecraft:jack_o_lantern

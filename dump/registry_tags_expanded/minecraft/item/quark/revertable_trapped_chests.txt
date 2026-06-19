@@ -3,7 +3,7 @@
 # Tag: quark:revertable_trapped_chests
 # Entries: 14
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.3603723+08:00
+# Generated: 2026-06-18T20:43:43.4992461+08:00
 
 quark:trapped_acacia_chest
 quark:trapped_ancient_chest

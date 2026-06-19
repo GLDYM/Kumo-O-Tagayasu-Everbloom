@@ -3,7 +3,7 @@
 # Tag: irons_spellbooks:infernal_allies
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.0791275+08:00
+# Generated: 2026-06-18T20:43:39.7081158+08:00
 
 irons_spellbooks:citadel_keeper
 irons_spellbooks:cursed_armor_stand

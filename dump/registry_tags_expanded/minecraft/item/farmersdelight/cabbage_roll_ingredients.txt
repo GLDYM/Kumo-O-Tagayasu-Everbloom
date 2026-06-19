@@ -3,7 +3,7 @@
 # Tag: farmersdelight:cabbage_roll_ingredients
 # Entries: 39
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.5845404+08:00
+# Generated: 2026-06-18T20:43:42.6361734+08:00
 
 create_bic_bit:raw_herring
 farmersdelight:bacon

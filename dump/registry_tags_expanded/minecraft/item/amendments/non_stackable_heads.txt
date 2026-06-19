@@ -3,7 +3,7 @@
 # Tag: amendments:non_stackable_heads
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.4255804+08:00
+# Generated: 2026-06-18T20:43:40.0987257+08:00
 
 minecraft:dragon_head
 supplementaries:enderman_head

@@ -3,7 +3,7 @@
 # Tag: youkaishomecoming:farmland_coffea
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.8470835+08:00
+# Generated: 2026-06-18T20:43:39.352388+08:00
 
 minecraft:mud
 minecraft:podzol

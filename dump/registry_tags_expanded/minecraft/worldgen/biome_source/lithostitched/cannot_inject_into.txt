@@ -3,7 +3,7 @@
 # Tag: lithostitched:cannot_inject_into
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.1536028+08:00
+# Generated: 2026-06-18T20:43:45.415523+08:00
 
 minecraft:checkerboard
 minecraft:fixed

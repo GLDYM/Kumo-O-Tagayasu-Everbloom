@@ -2,7 +2,7 @@
 # Registry: minecraft:stat_type
 # Minecraft: 1.21.1
 # Entries: 9
-# Generated: 2026-06-14T13:47:24.4430024+08:00
+# Generated: 2026-06-18T20:43:28.4846839+08:00
 
 minecraft:broken raw_id=3 class=net.minecraft.stats.StatType
 minecraft:crafted raw_id=1 class=net.minecraft.stats.StatType

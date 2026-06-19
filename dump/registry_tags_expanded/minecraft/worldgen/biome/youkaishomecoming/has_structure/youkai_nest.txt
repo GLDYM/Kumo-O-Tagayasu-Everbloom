@@ -3,7 +3,7 @@
 # Tag: youkaishomecoming:has_structure/youkai_nest
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.1325334+08:00
+# Generated: 2026-06-18T20:43:45.3814004+08:00
 
 atmospheric:grimwoods
 atmospheric:laurel_forest

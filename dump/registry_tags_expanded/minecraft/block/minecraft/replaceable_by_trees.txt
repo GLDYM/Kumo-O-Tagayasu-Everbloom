@@ -3,7 +3,7 @@
 # Tag: minecraft:replaceable_by_trees
 # Entries: 77
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4912146+08:00
+# Generated: 2026-06-18T20:43:38.9571708+08:00
 
 atmospheric:aspen_leaves
 atmospheric:currant_leaves

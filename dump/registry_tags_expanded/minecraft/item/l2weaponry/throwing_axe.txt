@@ -3,7 +3,7 @@
 # Tag: l2weaponry:throwing_axe
 # Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.0098207+08:00
+# Generated: 2026-06-18T20:43:43.0801937+08:00
 
 l2weaponry:barbaric_hallow
 l2weaponry:diamond_throwing_axe

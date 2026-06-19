@@ -3,7 +3,7 @@
 # Tag: neoforge:is_technical
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9512297+08:00
+# Generated: 2026-06-18T20:43:39.5095543+08:00
 
 minecraft:generic_kill
 minecraft:out_of_world

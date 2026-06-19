@@ -3,7 +3,7 @@
 # Tag: c:barrels/wooden
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.482122+08:00
+# Generated: 2026-06-18T20:43:37.5732189+08:00
 
 minecraft:barrel
 sophisticatedstorage:barrel

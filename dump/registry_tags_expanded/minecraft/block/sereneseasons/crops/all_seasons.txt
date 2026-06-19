@@ -3,7 +3,7 @@
 # Tag: sereneseasons:crops/all_seasons
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.7115509+08:00
+# Generated: 2026-06-18T20:43:39.1867622+08:00
 
 kaleidoscope_dim_wine:crimson_grapevine_plant
 kaleidoscope_dim_wine:crimson_grapevine_trellis

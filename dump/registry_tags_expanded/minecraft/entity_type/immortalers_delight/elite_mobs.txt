@@ -3,7 +3,7 @@
 # Tag: immortalers_delight:elite_mobs
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.0708795+08:00
+# Generated: 2026-06-18T20:43:39.6842881+08:00
 
 immortalers_delight:strange_armour_stand
 minecraft:elder_guardian

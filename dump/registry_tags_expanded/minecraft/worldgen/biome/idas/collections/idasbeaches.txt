@@ -3,7 +3,7 @@
 # Tag: idas:collections/idasbeaches
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.5498954+08:00
+# Generated: 2026-06-18T20:43:44.7478949+08:00
 
 minecraft:beach
 minecraft:snowy_beach

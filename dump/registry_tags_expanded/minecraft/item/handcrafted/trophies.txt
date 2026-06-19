@@ -3,7 +3,7 @@
 # Tag: handcrafted:trophies
 # Entries: 19
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.7756111+08:00
+# Generated: 2026-06-18T20:43:42.8194453+08:00
 
 handcrafted:bear_trophy
 handcrafted:blaze_trophy

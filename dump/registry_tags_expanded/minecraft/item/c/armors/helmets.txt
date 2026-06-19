@@ -3,7 +3,7 @@
 # Tag: c:armors/helmets
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.5602608+08:00
+# Generated: 2026-06-18T20:43:40.2334137+08:00
 
 createnuclear:black_anti_radiation_helmet
 createnuclear:blue_anti_radiation_helmet

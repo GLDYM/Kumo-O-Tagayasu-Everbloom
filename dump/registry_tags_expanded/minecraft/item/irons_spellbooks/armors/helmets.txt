@@ -3,7 +3,7 @@
 # Tag: irons_spellbooks:armors/helmets
 # Entries: 14
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.8037863+08:00
+# Generated: 2026-06-18T20:43:42.878705+08:00
 
 irons_spellbooks:archevoker_helmet
 irons_spellbooks:cryomancer_helmet

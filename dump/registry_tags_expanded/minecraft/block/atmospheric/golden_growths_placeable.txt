@@ -3,7 +3,7 @@
 # Tag: atmospheric:golden_growths_placeable
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.4184526+08:00
+# Generated: 2026-06-18T20:43:37.5112992+08:00
 
 atmospheric:crustose
 atmospheric:crustose_log

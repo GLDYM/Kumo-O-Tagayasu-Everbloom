@@ -3,7 +3,7 @@
 # Tag: another_furniture:flower_boxes
 # Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.4364568+08:00
+# Generated: 2026-06-18T20:43:40.1132395+08:00
 
 another_furniture:acacia_flower_box
 another_furniture:bamboo_flower_box

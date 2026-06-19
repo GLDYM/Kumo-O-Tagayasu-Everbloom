@@ -3,7 +3,7 @@
 # Tag: amendments:sets_on_fire
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.4255804+08:00
+# Generated: 2026-06-18T20:43:40.0997225+08:00
 
 minecraft:soul_torch
 minecraft:torch

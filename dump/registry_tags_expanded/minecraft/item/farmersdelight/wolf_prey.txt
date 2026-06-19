@@ -3,7 +3,7 @@
 # Tag: farmersdelight:wolf_prey
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.6150613+08:00
+# Generated: 2026-06-18T20:43:42.6592577+08:00
 
 immortalers_delight:dipped_rotten_flesh
 immortalers_delight:raw_sniffer_slice

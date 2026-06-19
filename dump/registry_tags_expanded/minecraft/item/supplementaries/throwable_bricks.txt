@@ -3,7 +3,7 @@
 # Tag: supplementaries:throwable_bricks
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.0484476+08:00
+# Generated: 2026-06-18T20:43:44.1964357+08:00
 
 minecraft:brick
 minecraft:nether_brick

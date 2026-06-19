@@ -3,7 +3,7 @@
 # Tag: another_furniture:benches
 # Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.4274693+08:00
+# Generated: 2026-06-18T20:43:40.1033152+08:00
 
 another_furniture:acacia_bench
 another_furniture:bamboo_bench

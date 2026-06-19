@@ -3,7 +3,7 @@
 # Tag: neoforge:needs_netherite_tool
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.6228629+08:00
+# Generated: 2026-06-18T20:43:39.1035817+08:00
 
 irons_spellbooks:deepslate_mithril_ore
 irons_spellbooks:mithril_ore

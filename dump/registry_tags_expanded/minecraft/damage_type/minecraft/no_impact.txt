@@ -3,7 +3,7 @@
 # Tag: minecraft:no_impact
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9304406+08:00
+# Generated: 2026-06-18T20:43:39.4855126+08:00
 
 danmaku_api:abyssal_danmaku
 danmaku_api:danmaku

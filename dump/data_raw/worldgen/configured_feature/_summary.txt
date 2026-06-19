@@ -1,7 +1,7 @@
 # Raw resource rule dump summary
 # Mod ID: registry_dumper_3000
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:40.830349+08:00
+# Generated: 2026-06-18T20:43:47.5726342+08:00
 
 # Rule name: Worldgen configured_feature
 # Side: data/server

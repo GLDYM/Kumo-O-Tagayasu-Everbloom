@@ -3,7 +3,7 @@
 # Tag: minecraft:mob_interactable_doors
 # Entries: 53
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4520119+08:00
+# Generated: 2026-06-18T20:43:38.8879699+08:00
 
 atmospheric:aspen_door
 atmospheric:grimwood_door

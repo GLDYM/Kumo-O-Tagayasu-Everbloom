@@ -3,7 +3,7 @@
 # Tag: minecraft:ice
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.3894484+08:00
+# Generated: 2026-06-18T20:43:38.7962628+08:00
 
 minecraft:blue_ice
 minecraft:frosted_ice

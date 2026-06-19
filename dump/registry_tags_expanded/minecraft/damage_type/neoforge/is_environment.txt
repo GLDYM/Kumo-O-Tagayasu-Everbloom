@@ -3,7 +3,7 @@
 # Tag: neoforge:is_environment
 # Entries: 18
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9454064+08:00
+# Generated: 2026-06-18T20:43:39.5015321+08:00
 
 minecraft:cactus
 minecraft:cramming

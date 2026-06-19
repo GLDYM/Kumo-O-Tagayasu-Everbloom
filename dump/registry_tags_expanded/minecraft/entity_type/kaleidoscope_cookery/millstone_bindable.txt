@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_cookery:millstone_bindable
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.0839683+08:00
+# Generated: 2026-06-18T20:43:39.7236499+08:00
 
 minecraft:cow
 minecraft:donkey

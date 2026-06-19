@@ -2,7 +2,7 @@
 # Registry: minecraft:sound_event
 # Minecraft: 1.21.1
 # Entries: 2347
-# Generated: 2026-06-14T13:47:24.4369657+08:00
+# Generated: 2026-06-18T20:43:28.48037+08:00
 
 amendments:explosion.fireball raw_id=1961 class=net.minecraft.sounds.SoundEvent
 another_furniture:block.chair.tuck raw_id=1994 class=net.minecraft.sounds.SoundEvent

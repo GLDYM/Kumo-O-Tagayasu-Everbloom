@@ -2,7 +2,7 @@
 # Registry: lithostitched:fast_noise_config
 # Minecraft: 1.21.1
 # Entries: 3
-# Generated: 2026-06-14T13:47:24.1395014+08:00
+# Generated: 2026-06-18T20:43:28.2518631+08:00
 
 lithostitched:region/overworld raw_id=0 class=dev.worldgen.lithostitched.impl.worldgen.fastnoise.CellularNoiseType
 lithostitched:region/the_end raw_id=1 class=dev.worldgen.lithostitched.impl.worldgen.fastnoise.CellularNoiseType

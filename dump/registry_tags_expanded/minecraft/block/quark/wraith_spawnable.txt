@@ -3,7 +3,7 @@
 # Tag: quark:wraith_spawnable
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.6827923+08:00
+# Generated: 2026-06-18T20:43:39.149697+08:00
 
 minecraft:soul_sand
 minecraft:soul_soil

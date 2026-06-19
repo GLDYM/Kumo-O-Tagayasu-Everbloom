@@ -3,7 +3,7 @@
 # Tag: idas:small
 # Entries: 33
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.1756598+08:00
+# Generated: 2026-06-18T20:43:45.4458932+08:00
 
 idas:ancient_statue/ancient_statue_desert
 idas:ancient_statue/ancient_statue_jungle

@@ -3,7 +3,7 @@
 # Tag: minecraft:foxes_spawnable_on
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.3752214+08:00
+# Generated: 2026-06-18T20:43:38.7812179+08:00
 
 minecraft:coarse_dirt
 minecraft:grass_block

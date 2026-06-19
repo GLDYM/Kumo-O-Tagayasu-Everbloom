@@ -2,7 +2,7 @@
 # Registry: create:arm_interaction_point_type
 # Minecraft: 1.21.1
 # Entries: 40
-# Generated: 2026-06-14T13:47:24.0221796+08:00
+# Generated: 2026-06-18T20:43:28.1673086+08:00
 
 create:basin raw_id=1 class=com.simibubi.create.content.kinetics.mechanicalArm.AllArmInteractionPointTypes$BasinType
 create:belt raw_id=2 class=com.simibubi.create.content.kinetics.mechanicalArm.AllArmInteractionPointTypes$BeltType

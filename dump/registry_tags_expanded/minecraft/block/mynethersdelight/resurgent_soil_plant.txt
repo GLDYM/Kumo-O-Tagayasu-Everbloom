@@ -3,7 +3,7 @@
 # Tag: mynethersdelight:resurgent_soil_plant
 # Entries: 372
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.6017672+08:00
+# Generated: 2026-06-18T20:43:39.0825216+08:00
 
 atmospheric:agave
 atmospheric:aloe_bundle

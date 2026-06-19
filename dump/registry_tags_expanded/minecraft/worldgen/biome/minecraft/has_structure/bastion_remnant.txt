@@ -3,7 +3,7 @@
 # Tag: minecraft:has_structure/bastion_remnant
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.9178105+08:00
+# Generated: 2026-06-18T20:43:45.1603863+08:00
 
 minecraft:crimson_forest
 minecraft:nether_wastes

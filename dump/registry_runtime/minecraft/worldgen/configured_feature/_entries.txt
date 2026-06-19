@@ -2,7 +2,7 @@
 # Registry: minecraft:worldgen/configured_feature
 # Minecraft: 1.21.1
 # Entries: 468
-# Generated: 2026-06-14T13:47:24.4817421+08:00
+# Generated: 2026-06-18T20:43:28.5370845+08:00
 
 artifacts:campsite raw_id=36 class=net.minecraft.world.level.levelgen.feature.ConfiguredFeature
 artifacts:minimalist_campsite raw_id=179 class=net.minecraft.world.level.levelgen.feature.ConfiguredFeature

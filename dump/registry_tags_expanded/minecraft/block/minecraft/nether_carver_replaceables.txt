@@ -3,7 +3,7 @@
 # Tag: minecraft:nether_carver_replaceables
 # Entries: 35
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4665479+08:00
+# Generated: 2026-06-18T20:43:38.9067304+08:00
 
 atmospheric:crustose
 delighto_flight:weather_soil

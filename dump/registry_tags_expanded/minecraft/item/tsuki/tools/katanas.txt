@@ -3,7 +3,7 @@
 # Tag: tsuki:tools/katanas
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.1304673+08:00
+# Generated: 2026-06-18T20:43:44.2981676+08:00
 
 tsuki:katana
 tsuki:kodachi

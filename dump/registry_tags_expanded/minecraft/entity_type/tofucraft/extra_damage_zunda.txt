@@ -3,7 +3,7 @@
 # Tag: tofucraft:extra_damage_zunda
 # Entries: 22
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1817719+08:00
+# Generated: 2026-06-18T20:43:39.8540436+08:00
 
 irons_spellbooks:necromancer
 iss_magicfromtheeast:jiangshi

@@ -3,7 +3,7 @@
 # Tag: minecraft:wooden_stairs
 # Entries: 34
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.286215+08:00
+# Generated: 2026-06-18T20:43:43.3961227+08:00
 
 atmospheric:aspen_stairs
 atmospheric:grimwood_stairs

@@ -3,7 +3,7 @@
 # Tag: c:ores/sakura_diamond
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.4714373+08:00
+# Generated: 2026-06-18T20:43:41.3481679+08:00
 
 tsuki:deepslate_sakura_diamond_ore
 tsuki:sakura_diamond_ore

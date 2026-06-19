@@ -3,6 +3,6 @@
 # Tag: c:nuggets/steel
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.4297042+08:00
+# Generated: 2026-06-18T20:43:41.3265454+08:00
 
 createnuclear:steel_nugget

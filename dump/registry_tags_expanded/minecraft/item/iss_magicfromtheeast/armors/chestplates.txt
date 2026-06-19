@@ -3,7 +3,7 @@
 # Tag: iss_magicfromtheeast:armors/chestplates
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.8463831+08:00
+# Generated: 2026-06-18T20:43:42.9193546+08:00
 
 iss_magicfromtheeast:elemental_commander_chestplate
 iss_magicfromtheeast:jade_pagoda_chestplate

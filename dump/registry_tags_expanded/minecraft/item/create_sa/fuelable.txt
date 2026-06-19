@@ -3,7 +3,7 @@
 # Tag: create_sa:fuelable
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.1464499+08:00
+# Generated: 2026-06-18T20:43:42.0461862+08:00
 
 create_sa:andesite_exoskeleton_chestplate
 create_sa:andesite_jetpack_chestplate

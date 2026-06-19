@@ -3,7 +3,7 @@
 # Tag: atmospheric:aloe_placeable
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.4091381+08:00
+# Generated: 2026-06-18T20:43:37.4992701+08:00
 
 atmospheric:arid_sand
 atmospheric:red_arid_sand

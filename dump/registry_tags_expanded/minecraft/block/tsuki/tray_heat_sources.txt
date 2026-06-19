@@ -3,7 +3,7 @@
 # Tag: tsuki:tray_heat_sources
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.8395553+08:00
+# Generated: 2026-06-18T20:43:39.3378184+08:00
 
 create:blaze_burner
 create:lit_blaze_burner

@@ -3,7 +3,7 @@
 # Tag: minecraft:bee_home
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.2737492+08:00
+# Generated: 2026-06-18T20:43:44.4678558+08:00
 
 blueprint:beehive
 minecraft:bee_nest

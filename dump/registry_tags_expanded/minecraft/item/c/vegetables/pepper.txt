@@ -3,7 +3,7 @@
 # Tag: c:vegetables/pepper
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.8952378+08:00
+# Generated: 2026-06-18T20:43:41.7613561+08:00
 
 kaleidoscope_cookery:green_chili
 kaleidoscope_cookery:red_chili

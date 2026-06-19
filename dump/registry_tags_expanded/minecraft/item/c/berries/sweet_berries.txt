@@ -3,6 +3,6 @@
 # Tag: c:berries/sweet_berries
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.5891446+08:00
+# Generated: 2026-06-18T20:43:40.2669697+08:00
 
 minecraft:sweet_berries

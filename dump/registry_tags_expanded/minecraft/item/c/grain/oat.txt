@@ -3,7 +3,7 @@
 # Tag: c:grain/oat
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.3313348+08:00
+# Generated: 2026-06-18T20:43:41.1934927+08:00
 
 vintagedelight:oat
 vintagedelight:raw_oats

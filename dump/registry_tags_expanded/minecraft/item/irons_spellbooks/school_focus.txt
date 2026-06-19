@@ -3,7 +3,7 @@
 # Tag: irons_spellbooks:school_focus
 # Entries: 13
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.8341843+08:00
+# Generated: 2026-06-18T20:43:42.9058253+08:00
 
 irons_spellbooks:blood_vial
 irons_spellbooks:divine_pearl

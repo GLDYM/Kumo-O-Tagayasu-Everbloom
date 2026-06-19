@@ -3,7 +3,7 @@
 # Tag: l2weaponry:scythe
 # Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.0033013+08:00
+# Generated: 2026-06-18T20:43:43.0751937+08:00
 
 l2weaponry:death_scythe
 l2weaponry:diamond_scythe

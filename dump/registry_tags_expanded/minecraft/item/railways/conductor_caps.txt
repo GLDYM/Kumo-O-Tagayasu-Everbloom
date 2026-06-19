@@ -3,7 +3,7 @@
 # Tag: railways:conductor_caps
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.8072335+08:00
+# Generated: 2026-06-18T20:43:43.896932+08:00
 
 railways:black_conductor_cap
 railways:blue_conductor_cap

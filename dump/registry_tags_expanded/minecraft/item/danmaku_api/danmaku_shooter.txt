@@ -3,7 +3,7 @@
 # Tag: danmaku_api:danmaku_shooter
 # Entries: 154
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2245251+08:00
+# Generated: 2026-06-18T20:43:42.1404983+08:00
 
 danmaku_api:black_ball_danmaku
 danmaku_api:black_bubble_danmaku

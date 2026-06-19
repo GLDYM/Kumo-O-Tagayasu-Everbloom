@@ -3,6 +3,6 @@
 # Tag: forge:cake
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.6212579+08:00
+# Generated: 2026-06-18T20:43:42.6732606+08:00
 
 immortalers_delight:scarlet_devils_cake

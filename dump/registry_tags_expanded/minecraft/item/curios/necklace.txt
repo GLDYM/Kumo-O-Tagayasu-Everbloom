@@ -3,7 +3,7 @@
 # Tag: curios:necklace
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2041282+08:00
+# Generated: 2026-06-18T20:43:42.1094765+08:00
 
 artifacts:charm_of_shrinking
 artifacts:charm_of_sinking

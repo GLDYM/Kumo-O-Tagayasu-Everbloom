@@ -3,7 +3,7 @@
 # Tag: mynethersdelight:stove_fire_fuel
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.3032386+08:00
+# Generated: 2026-06-18T20:43:43.4320153+08:00
 
 minecraft:blaze_powder
 minecraft:blaze_rod

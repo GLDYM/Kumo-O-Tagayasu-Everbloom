@@ -3,7 +3,7 @@
 # Tag: idas:has_structure/redhorn_guild_biomes
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.7102272+08:00
+# Generated: 2026-06-18T20:43:44.8812931+08:00
 
 minecraft:forest
 minecraft:old_growth_pine_taiga

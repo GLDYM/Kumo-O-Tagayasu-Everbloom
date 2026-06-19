@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_cookery:bucket_container
 # Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.862481+08:00
+# Generated: 2026-06-18T20:43:42.9400745+08:00
 
 minecraft:axolotl_bucket
 minecraft:cod_bucket

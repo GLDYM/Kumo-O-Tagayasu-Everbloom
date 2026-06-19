@@ -2,7 +2,7 @@
 # Registry: atmospheric:tetra_variant
 # Minecraft: 1.21.1
 # Entries: 10
-# Generated: 2026-06-14T13:47:23.9934836+08:00
+# Generated: 2026-06-18T20:43:28.1455608+08:00
 
 atmospheric:beacon raw_id=0 class=com.teamabnormals.atmospheric.common.entity.TetraVariant
 atmospheric:cardinal raw_id=1 class=com.teamabnormals.atmospheric.common.entity.TetraVariant

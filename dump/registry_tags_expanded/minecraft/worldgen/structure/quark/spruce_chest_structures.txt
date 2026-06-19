@@ -3,7 +3,7 @@
 # Tag: quark:spruce_chest_structures
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.2513206+08:00
+# Generated: 2026-06-18T20:43:45.5447486+08:00
 
 minecraft:igloo
 minecraft:village_snowy

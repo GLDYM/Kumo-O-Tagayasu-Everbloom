@@ -2,7 +2,7 @@
 # Registry: create:display_target
 # Minecraft: 1.21.1
 # Entries: 12
-# Generated: 2026-06-14T13:47:24.0361783+08:00
+# Generated: 2026-06-18T20:43:28.1711099+08:00
 
 bits_n_bobs:nixie_board raw_id=5 class=com.kipti.bnb.content.nixie.foundation.GenericNixieDisplayTarget
 create:display_board raw_id=10 class=com.simibubi.create.content.redstone.displayLink.target.DisplayBoardTarget

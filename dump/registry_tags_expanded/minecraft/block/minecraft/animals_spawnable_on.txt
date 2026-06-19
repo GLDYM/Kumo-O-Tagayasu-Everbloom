@@ -3,7 +3,7 @@
 # Tag: minecraft:animals_spawnable_on
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.2637047+08:00
+# Generated: 2026-06-18T20:43:38.6232613+08:00
 
 atmospheric:arid_sand
 atmospheric:crustose

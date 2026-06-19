@@ -3,7 +3,7 @@
 # Tag: railways:palettes/cycle_groups/gray
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.870808+08:00
+# Generated: 2026-06-18T20:43:43.9846536+08:00
 
 railways:gray_flat_riveted_locometal
 railways:gray_flat_slashed_locometal

@@ -3,7 +3,7 @@
 # Tag: vinery:large_bottle
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.1562119+08:00
+# Generated: 2026-06-18T20:43:44.3265859+08:00
 
 kaleidoscope_dim_wine:magma_royal_salute
 kaleidoscope_tavern:brandy

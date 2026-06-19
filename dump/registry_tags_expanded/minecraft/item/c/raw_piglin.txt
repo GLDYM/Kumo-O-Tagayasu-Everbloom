@@ -3,6 +3,6 @@
 # Tag: c:raw_piglin
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.5529063+08:00
+# Generated: 2026-06-18T20:43:41.4239817+08:00
 
 kaleidoscope_nether:raw_piglin_meat

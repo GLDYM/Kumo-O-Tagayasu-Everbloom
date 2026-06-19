@@ -3,7 +3,7 @@
 # Tag: irons_spellbooks:armors/boots
 # Entries: 13
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.8007858+08:00
+# Generated: 2026-06-18T20:43:42.8746999+08:00
 
 irons_spellbooks:archevoker_boots
 irons_spellbooks:cryomancer_boots

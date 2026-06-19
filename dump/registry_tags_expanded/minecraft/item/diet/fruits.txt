@@ -3,7 +3,7 @@
 # Tag: diet:fruits
 # Entries: 90
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2354681+08:00
+# Generated: 2026-06-18T20:43:42.150586+08:00
 
 fruitsdelight:apple_jam
 fruitsdelight:baked_durian

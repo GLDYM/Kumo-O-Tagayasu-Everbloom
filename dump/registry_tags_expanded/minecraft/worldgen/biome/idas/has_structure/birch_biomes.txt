@@ -3,7 +3,7 @@
 # Tag: idas:has_structure/birch_biomes
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.6514617+08:00
+# Generated: 2026-06-18T20:43:44.8247056+08:00
 
 minecraft:birch_forest
 minecraft:old_growth_birch_forest

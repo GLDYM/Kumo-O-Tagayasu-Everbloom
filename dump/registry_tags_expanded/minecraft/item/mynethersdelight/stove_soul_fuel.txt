@@ -3,7 +3,7 @@
 # Tag: mynethersdelight:stove_soul_fuel
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.3055914+08:00
+# Generated: 2026-06-18T20:43:43.4355442+08:00
 
 minecraft:soul_sand
 minecraft:soul_soil

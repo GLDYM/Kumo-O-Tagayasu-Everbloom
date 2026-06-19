@@ -3,7 +3,7 @@
 # Tag: fruitsdelight:vanilla/taiga_cold
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.5333288+08:00
+# Generated: 2026-06-18T20:43:44.7388106+08:00
 
 minecraft:grove
 minecraft:snowy_plains

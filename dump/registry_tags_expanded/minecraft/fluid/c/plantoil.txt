@@ -3,7 +3,7 @@
 # Tag: c:plantoil
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.3320197+08:00
+# Generated: 2026-06-18T20:43:40.0195549+08:00
 
 tsuki:food_oil
 tsuki:food_oil_flowing

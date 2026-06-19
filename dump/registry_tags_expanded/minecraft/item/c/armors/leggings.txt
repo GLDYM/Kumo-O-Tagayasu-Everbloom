@@ -3,7 +3,7 @@
 # Tag: c:armors/leggings
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.5627732+08:00
+# Generated: 2026-06-18T20:43:40.2334137+08:00
 
 createnuclear:black_anti_radiation_leggings
 createnuclear:blue_anti_radiation_leggings

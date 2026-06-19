@@ -3,7 +3,7 @@
 # Tag: minecraft:wooden_fences
 # Entries: 33
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.5815627+08:00
+# Generated: 2026-06-18T20:43:39.0558637+08:00
 
 atmospheric:aspen_fence
 atmospheric:grimwood_fence

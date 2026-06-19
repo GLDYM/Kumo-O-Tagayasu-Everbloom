@@ -3,7 +3,7 @@
 # Tag: quark:oak_chest_structures
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.2463188+08:00
+# Generated: 2026-06-18T20:43:45.5337149+08:00
 
 minecraft:stronghold
 minecraft:village_plains

@@ -3,7 +3,7 @@
 # Tag: quark:has_warm_blossom_trees
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.0789535+08:00
+# Generated: 2026-06-18T20:43:45.2983196+08:00
 
 minecraft:savanna
 minecraft:savanna_plateau

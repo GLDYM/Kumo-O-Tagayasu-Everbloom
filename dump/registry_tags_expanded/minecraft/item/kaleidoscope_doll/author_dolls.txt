@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_doll:author_dolls
 # Entries: 14
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.8895844+08:00
+# Generated: 2026-06-18T20:43:42.9661707+08:00
 
 kaleidoscope_doll:doll_0
 kaleidoscope_doll:doll_1

@@ -2,7 +2,7 @@
 # Registry: minecraft:sensor_type
 # Minecraft: 1.21.1
 # Entries: 57
-# Generated: 2026-06-14T13:45:01.3628249+08:00
+# Generated: 2026-06-18T20:40:59.2783825+08:00
 
 bagus_lib:smart_nearest_living_entity_sensor raw_id=26 class=net.minecraft.world.entity.ai.sensing.SensorType
 delighto_flight:aerolope_temptations raw_id=52 class=net.minecraft.world.entity.ai.sensing.SensorType

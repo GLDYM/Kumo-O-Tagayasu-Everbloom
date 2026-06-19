@@ -3,7 +3,7 @@
 # Tag: c:sandstone/blocks
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.6641197+08:00
+# Generated: 2026-06-18T20:43:37.7882447+08:00
 
 atmospheric:arid_sandstone
 atmospheric:chiseled_arid_sandstone

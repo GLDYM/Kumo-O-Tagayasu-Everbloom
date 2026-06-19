@@ -3,7 +3,7 @@
 # Tag: minecraft:tooltip_order
 # Entries: 47
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.0120118+08:00
+# Generated: 2026-06-18T20:43:39.5751164+08:00
 
 minecraft:aqua_affinity
 minecraft:bane_of_arthropods

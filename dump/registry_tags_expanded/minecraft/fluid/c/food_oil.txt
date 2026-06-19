@@ -3,7 +3,7 @@
 # Tag: c:food_oil
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.3027575+08:00
+# Generated: 2026-06-18T20:43:39.9934809+08:00
 
 tsuki:food_oil
 tsuki:food_oil_flowing

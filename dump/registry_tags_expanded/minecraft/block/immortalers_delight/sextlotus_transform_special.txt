@@ -3,7 +3,7 @@
 # Tag: immortalers_delight:sextlotus_transform_special
 # Entries: 22
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.1114868+08:00
+# Generated: 2026-06-18T20:43:38.4234193+08:00
 
 minecraft:brain_coral
 minecraft:brain_coral_block

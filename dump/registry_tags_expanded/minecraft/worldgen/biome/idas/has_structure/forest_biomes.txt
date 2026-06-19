@@ -3,7 +3,7 @@
 # Tag: idas:has_structure/forest_biomes
 # Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.6755152+08:00
+# Generated: 2026-06-18T20:43:44.8676295+08:00
 
 atmospheric:grimwoods
 atmospheric:laurel_forest

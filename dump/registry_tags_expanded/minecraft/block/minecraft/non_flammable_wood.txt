@@ -3,7 +3,7 @@
 # Tag: minecraft:non_flammable_wood
 # Entries: 22
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.468548+08:00
+# Generated: 2026-06-18T20:43:38.9097323+08:00
 
 another_furniture:crimson_bench
 another_furniture:crimson_chair

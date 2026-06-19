@@ -3,7 +3,7 @@
 # Tag: forge:grain/corn
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.6650449+08:00
+# Generated: 2026-06-18T20:43:42.7350245+08:00
 
 immortalers_delight:evolutcorn
 immortalers_delight:evolutcorn_grains

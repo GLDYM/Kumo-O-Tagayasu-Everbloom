@@ -3,7 +3,7 @@
 # Tag: minecraft:wither_summon_base_blocks
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.575556+08:00
+# Generated: 2026-06-18T20:43:39.04634+08:00
 
 minecraft:soul_sand
 minecraft:soul_soil

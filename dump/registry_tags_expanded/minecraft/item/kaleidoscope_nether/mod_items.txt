@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_nether:mod_items
 # Entries: 92
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.9218158+08:00
+# Generated: 2026-06-18T20:43:42.9827154+08:00
 
 kaleidoscope_nether:black_apple_salad
 kaleidoscope_nether:blaze_heart

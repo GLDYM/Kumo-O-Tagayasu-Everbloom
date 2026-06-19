@@ -3,7 +3,7 @@
 # Tag: supplementaries:map_tint_generic
 # Entries: 54
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.7740315+08:00
+# Generated: 2026-06-18T20:43:39.2562263+08:00
 
 atmospheric:aspen_leaves
 atmospheric:currant_leaves

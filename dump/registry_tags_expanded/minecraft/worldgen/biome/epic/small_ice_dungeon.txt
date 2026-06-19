@@ -3,7 +3,7 @@
 # Tag: epic:small_ice_dungeon
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.4776656+08:00
+# Generated: 2026-06-18T20:43:44.6528397+08:00
 
 minecraft:frozen_peaks
 minecraft:grove

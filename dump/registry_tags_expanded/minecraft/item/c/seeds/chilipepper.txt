@@ -3,7 +3,7 @@
 # Tag: c:seeds/chilipepper
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.6186885+08:00
+# Generated: 2026-06-18T20:43:41.4725249+08:00
 
 kaleidoscope_cookery:chili_seed
 vintagedelight:ghost_pepper_seeds

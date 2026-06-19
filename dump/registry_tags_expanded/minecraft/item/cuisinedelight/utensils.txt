@@ -3,7 +3,7 @@
 # Tag: cuisinedelight:utensils
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.1904829+08:00
+# Generated: 2026-06-18T20:43:42.0866774+08:00
 
 cuisinedelight:plate
 cuisinedelight:spatula

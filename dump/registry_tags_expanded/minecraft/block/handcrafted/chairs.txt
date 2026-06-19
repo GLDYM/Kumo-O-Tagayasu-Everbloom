@@ -3,7 +3,7 @@
 # Tag: handcrafted:chairs
 # Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.0512591+08:00
+# Generated: 2026-06-18T20:43:38.3203336+08:00
 
 handcrafted:acacia_chair
 handcrafted:bamboo_chair

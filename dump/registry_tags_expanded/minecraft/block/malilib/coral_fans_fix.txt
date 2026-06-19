@@ -3,7 +3,7 @@
 # Tag: malilib:coral_fans_fix
 # Entries: 20
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.2298706+08:00
+# Generated: 2026-06-18T20:43:38.584546+08:00
 
 minecraft:brain_coral_fan
 minecraft:brain_coral_wall_fan

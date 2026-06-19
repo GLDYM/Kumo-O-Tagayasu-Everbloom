@@ -3,7 +3,7 @@
 # Tag: minecraft:inside_step_sound_blocks
 # Entries: 56
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4171298+08:00
+# Generated: 2026-06-18T20:43:38.8268748+08:00
 
 create:andesite_table_cloth
 create:brass_table_cloth

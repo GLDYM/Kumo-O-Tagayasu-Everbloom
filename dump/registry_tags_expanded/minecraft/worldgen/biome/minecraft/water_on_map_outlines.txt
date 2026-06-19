@@ -3,7 +3,7 @@
 # Tag: minecraft:water_on_map_outlines
 # Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.0255271+08:00
+# Generated: 2026-06-18T20:43:45.2559872+08:00
 
 atmospheric:rainforest_basin
 atmospheric:sparse_rainforest_basin

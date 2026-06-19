@@ -2,7 +2,7 @@
 # Registry: minecraft:enchantment_value_effect_type
 # Minecraft: 1.21.1
 # Entries: 6
-# Generated: 2026-06-14T13:45:01.1806325+08:00
+# Generated: 2026-06-18T20:40:59.1650055+08:00
 
 l2complements:limit raw_id=5 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 minecraft:add raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

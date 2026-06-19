@@ -3,7 +3,7 @@
 # Tag: danmaku_api:custom_spell
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2082245+08:00
+# Generated: 2026-06-18T20:43:42.1125052+08:00
 
 danmaku_api:custom_spell_homing
 danmaku_api:custom_spell_ring

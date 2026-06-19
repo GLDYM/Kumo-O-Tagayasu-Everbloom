@@ -3,7 +3,7 @@
 # Tag: c:glass_blocks/colorless
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.5840564+08:00
+# Generated: 2026-06-18T20:43:37.7084994+08:00
 
 atmospheric:arid_glass
 create:framed_glass

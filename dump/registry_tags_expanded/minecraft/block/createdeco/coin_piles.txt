@@ -3,7 +3,7 @@
 # Tag: createdeco:coin_piles
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.9018927+08:00
+# Generated: 2026-06-18T20:43:38.1075275+08:00
 
 createdeco:brass_coinstack
 createdeco:copper_coinstack

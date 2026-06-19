@@ -3,7 +3,7 @@
 # Tag: tsuki:has_structure/torii
 # Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.127521+08:00
+# Generated: 2026-06-18T20:43:45.3731211+08:00
 
 minecraft:birch_forest
 minecraft:cherry_grove

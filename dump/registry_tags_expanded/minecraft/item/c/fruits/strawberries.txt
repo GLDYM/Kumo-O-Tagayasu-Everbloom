@@ -3,5 +3,5 @@
 # Tag: c:fruits/strawberries
 # Entries: 0
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.2928992+08:00
+# Generated: 2026-06-18T20:43:41.1544739+08:00
 

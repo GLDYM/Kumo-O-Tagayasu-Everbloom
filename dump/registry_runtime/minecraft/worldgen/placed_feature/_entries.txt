@@ -2,7 +2,7 @@
 # Registry: minecraft:worldgen/placed_feature
 # Minecraft: 1.21.1
 # Entries: 489
-# Generated: 2026-06-14T13:47:24.5133746+08:00
+# Generated: 2026-06-18T20:43:28.5792681+08:00
 
 artifacts:underground_campsite raw_id=468 class=net.minecraft.world.level.levelgen.placement.PlacedFeature
 artifacts:underground_minimalist_campsite raw_id=469 class=net.minecraft.world.level.levelgen.placement.PlacedFeature

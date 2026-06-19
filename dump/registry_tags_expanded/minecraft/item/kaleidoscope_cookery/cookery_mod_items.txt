@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_cookery:cookery_mod_items
 # Entries: 190
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.8654854+08:00
+# Generated: 2026-06-18T20:43:42.9415853+08:00
 
 kaleidoscope_cookery:apple_platter
 kaleidoscope_cookery:bamboo_tube_rice

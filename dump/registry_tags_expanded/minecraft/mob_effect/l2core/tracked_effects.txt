@@ -3,7 +3,7 @@
 # Tag: l2core:tracked_effects
 # Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.2586855+08:00
+# Generated: 2026-06-18T20:43:44.4563+08:00
 
 fruitsdelight:alienating
 fruitsdelight:heal_aura

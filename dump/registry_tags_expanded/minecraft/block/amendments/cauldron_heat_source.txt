@@ -3,7 +3,7 @@
 # Tag: amendments:cauldron_heat_source
 # Entries: 32
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.3684536+08:00
+# Generated: 2026-06-18T20:43:37.4426409+08:00
 
 brewinandchewin:fiery_fondue_pot
 brewinandchewin:heating_cask

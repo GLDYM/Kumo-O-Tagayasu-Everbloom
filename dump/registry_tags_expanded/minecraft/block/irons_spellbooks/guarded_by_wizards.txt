@@ -3,7 +3,7 @@
 # Tag: irons_spellbooks:guarded_by_wizards
 # Entries: 68
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.1195192+08:00
+# Generated: 2026-06-18T20:43:38.431968+08:00
 
 atmospheric:aspen_chest
 atmospheric:grimwood_chest

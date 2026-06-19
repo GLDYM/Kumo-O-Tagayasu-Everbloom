@@ -3,7 +3,7 @@
 # Tag: minecraft:copper_ores
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.3297768+08:00
+# Generated: 2026-06-18T20:43:38.7113581+08:00
 
 minecraft:copper_ore
 minecraft:deepslate_copper_ore

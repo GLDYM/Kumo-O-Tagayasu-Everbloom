@@ -3,7 +3,7 @@
 # Tag: c:foods/edible_when_placed
 # Entries: 29
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.1089241+08:00
+# Generated: 2026-06-18T20:43:40.9063773+08:00
 
 atmospheric:yucca_gateau
 brewinandchewin:fiery_fondue_pot

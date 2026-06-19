@@ -3,7 +3,7 @@
 # Tag: minecraft:ruined_portal
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.2229067+08:00
+# Generated: 2026-06-18T20:43:45.4971+08:00
 
 minecraft:ruined_portal
 minecraft:ruined_portal_desert

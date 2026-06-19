@@ -3,7 +3,7 @@
 # Tag: c:is_aquatic
 # Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.3361946+08:00
+# Generated: 2026-06-18T20:43:44.5093537+08:00
 
 minecraft:cold_ocean
 minecraft:deep_cold_ocean

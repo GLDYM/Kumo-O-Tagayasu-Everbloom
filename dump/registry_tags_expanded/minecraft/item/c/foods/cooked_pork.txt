@@ -3,7 +3,7 @@
 # Tag: c:foods/cooked_pork
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.0973561+08:00
+# Generated: 2026-06-18T20:43:40.8933189+08:00
 
 farmersdelight:cooked_bacon
 kaleidoscope_cookery:cooked_pork_belly

@@ -2,7 +2,7 @@
 # Registry: minecraft:game_event
 # Minecraft: 1.21.1
 # Entries: 61
-# Generated: 2026-06-14T13:47:24.2945233+08:00
+# Generated: 2026-06-18T20:43:28.3439355+08:00
 
 artifacts:fart raw_id=60 class=net.minecraft.world.level.gameevent.GameEvent
 minecraft:block_activate raw_id=0 class=net.minecraft.world.level.gameevent.GameEvent

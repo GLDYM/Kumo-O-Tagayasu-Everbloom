@@ -3,6 +3,6 @@
 # Tag: cagedmobs:storage_blocks/star_infused_netherite
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.778472+08:00
+# Generated: 2026-06-18T20:43:37.9362572+08:00
 
 cagedmobs:star_infused_netherite_block

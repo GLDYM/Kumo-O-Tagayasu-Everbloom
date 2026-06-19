@@ -3,7 +3,7 @@
 # Tag: handcrafted:pillar_trims
 # Entries: 23
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.7612845+08:00
+# Generated: 2026-06-18T20:43:42.8116854+08:00
 
 handcrafted:acacia_pillar_trim
 handcrafted:andesite_pillar_trim

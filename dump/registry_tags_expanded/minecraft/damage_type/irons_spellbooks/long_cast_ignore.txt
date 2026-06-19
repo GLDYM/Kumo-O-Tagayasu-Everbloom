@@ -3,7 +3,7 @@
 # Tag: irons_spellbooks:long_cast_ignore
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.87669+08:00
+# Generated: 2026-06-18T20:43:39.4067011+08:00
 
 irons_spellbooks:heartstop
 minecraft:drown

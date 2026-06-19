@@ -3,7 +3,7 @@
 # Tag: another_furniture:dont_connect_to_panes
 # Entries: 27
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.3832078+08:00
+# Generated: 2026-06-18T20:43:37.4618572+08:00
 
 another_furniture:acacia_shutter
 another_furniture:bamboo_shutter

@@ -2,7 +2,7 @@
 # Registry: minecraft:worldgen/material_condition
 # Minecraft: 1.21.1
 # Entries: 16
-# Generated: 2026-06-14T13:47:24.4967505+08:00
+# Generated: 2026-06-18T20:43:28.5592189+08:00
 
 lithostitched:all_of raw_id=14 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 lithostitched:any_of raw_id=11 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

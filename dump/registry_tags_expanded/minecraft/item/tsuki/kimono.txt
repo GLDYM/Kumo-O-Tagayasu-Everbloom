@@ -3,7 +3,7 @@
 # Tag: tsuki:kimono
 # Entries: 14
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.1080244+08:00
+# Generated: 2026-06-18T20:43:44.271525+08:00
 
 tsuki:kimono_black
 tsuki:kimono_brown

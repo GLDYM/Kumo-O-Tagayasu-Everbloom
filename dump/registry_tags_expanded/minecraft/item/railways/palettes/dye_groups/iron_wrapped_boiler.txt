@@ -3,7 +3,7 @@
 # Tag: railways:palettes/dye_groups/iron_wrapped_boiler
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.9022472+08:00
+# Generated: 2026-06-18T20:43:44.0263868+08:00
 
 railways:black_iron_wrapped_locometal_boiler
 railways:blue_iron_wrapped_locometal_boiler

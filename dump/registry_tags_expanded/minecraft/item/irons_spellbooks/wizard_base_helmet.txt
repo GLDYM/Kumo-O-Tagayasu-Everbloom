@@ -3,7 +3,7 @@
 # Tag: irons_spellbooks:wizard_base_helmet
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.8393383+08:00
+# Generated: 2026-06-18T20:43:42.9113298+08:00
 
 irons_spellbooks:wizard_hat
 irons_spellbooks:wizard_helmet

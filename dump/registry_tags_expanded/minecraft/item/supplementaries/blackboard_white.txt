@@ -3,7 +3,7 @@
 # Tag: supplementaries:blackboard_white
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.9775512+08:00
+# Generated: 2026-06-18T20:43:44.1286523+08:00
 
 minecraft:quartz
 minecraft:white_dye

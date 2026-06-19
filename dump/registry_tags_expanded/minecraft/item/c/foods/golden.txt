@@ -3,7 +3,7 @@
 # Tag: c:foods/golden
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.1494813+08:00
+# Generated: 2026-06-18T20:43:40.9358124+08:00
 
 atmospheric:golden_dragon_fruit
 atmospheric:shimmering_passion_fruit

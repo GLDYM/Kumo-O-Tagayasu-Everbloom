@@ -3,7 +3,7 @@
 # Tag: c:foods/cooked_cod
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.0836067+08:00
+# Generated: 2026-06-18T20:43:40.8747448+08:00
 
 farmersdelight:cooked_cod_slice
 minecraft:cooked_cod

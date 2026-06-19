@@ -3,7 +3,7 @@
 # Tag: c:sandstone/red_blocks
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.665114+08:00
+# Generated: 2026-06-18T20:43:37.7892438+08:00
 
 atmospheric:chiseled_red_arid_sandstone
 atmospheric:cut_red_arid_sandstone

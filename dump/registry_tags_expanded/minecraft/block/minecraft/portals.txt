@@ -3,7 +3,7 @@
 # Tag: minecraft:portals
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4822597+08:00
+# Generated: 2026-06-18T20:43:38.9370793+08:00
 
 minecraft:end_gateway
 minecraft:end_portal

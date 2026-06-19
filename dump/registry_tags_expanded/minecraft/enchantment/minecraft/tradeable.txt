@@ -3,7 +3,7 @@
 # Tag: minecraft:tradeable
 # Entries: 58
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.0143559+08:00
+# Generated: 2026-06-18T20:43:39.5771215+08:00
 
 create:capacity
 create:potato_recovery

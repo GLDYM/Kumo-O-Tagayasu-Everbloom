@@ -3,6 +3,6 @@
 # Tag: c:storage_blocks/golden_carrot
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.7255581+08:00
+# Generated: 2026-06-18T20:43:37.8581396+08:00
 
 quark:golden_carrot_crate

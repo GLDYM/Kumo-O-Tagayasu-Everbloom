@@ -3,7 +3,7 @@
 # Tag: minecraft:soul_fire_base_blocks
 # Entries: 25
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.5208695+08:00
+# Generated: 2026-06-18T20:43:38.9891649+08:00
 
 minecraft:soul_sand
 minecraft:soul_soil

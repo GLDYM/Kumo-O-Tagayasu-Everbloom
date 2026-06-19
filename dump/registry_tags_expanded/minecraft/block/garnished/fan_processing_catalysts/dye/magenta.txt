@@ -3,6 +3,6 @@
 # Tag: garnished:fan_processing_catalysts/dye/magenta
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.0363779+08:00
+# Generated: 2026-06-18T20:43:38.2784714+08:00
 
 create_connected:magenta_fan_dyeing_catalyst

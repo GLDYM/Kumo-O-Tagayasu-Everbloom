@@ -3,7 +3,7 @@
 # Tag: lootr:convert/item_frames
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.0894838+08:00
+# Generated: 2026-06-18T20:43:39.7373235+08:00
 
 minecraft:glow_item_frame
 minecraft:item_frame

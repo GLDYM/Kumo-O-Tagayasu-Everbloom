@@ -3,7 +3,7 @@
 # Tag: l2weaponry:plate_shield
 # Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.9995489+08:00
+# Generated: 2026-06-18T20:43:43.0731747+08:00
 
 l2weaponry:diamond_plate_shield
 l2weaponry:eternium_plate_shield

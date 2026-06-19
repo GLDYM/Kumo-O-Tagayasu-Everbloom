@@ -3,7 +3,7 @@
 # Tag: c:foods/safe_raw_fish
 # Entries: 19
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.1954296+08:00
+# Generated: 2026-06-18T20:43:41.017966+08:00
 
 crabbersdelight:pufferfish_slice
 crabbersdelight:tropical_fish_slice

@@ -3,7 +3,7 @@
 # Tag: c:drinks
 # Entries: 21
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.9344191+08:00
+# Generated: 2026-06-18T20:43:40.7168207+08:00
 
 ccw:calcium_rich_milk
 ccw:carton_milk

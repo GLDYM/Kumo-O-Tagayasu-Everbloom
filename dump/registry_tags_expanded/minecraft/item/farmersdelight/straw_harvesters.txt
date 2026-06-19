@@ -3,7 +3,7 @@
 # Tag: farmersdelight:straw_harvesters
 # Entries: 32
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.6085369+08:00
+# Generated: 2026-06-18T20:43:42.6552494+08:00
 
 ends_delight:dragon_egg_shell_knife
 ends_delight:dragon_tooth_knife

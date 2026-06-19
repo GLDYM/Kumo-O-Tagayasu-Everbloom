@@ -3,7 +3,7 @@
 # Tag: tofucraft:soft_tofu
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.814042+08:00
+# Generated: 2026-06-18T20:43:39.3045441+08:00
 
 tofucraft:blocktofugrilled
 tofucraft:blocktofuhell

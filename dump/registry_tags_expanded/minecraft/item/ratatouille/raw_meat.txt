@@ -3,7 +3,7 @@
 # Tag: ratatouille:raw_meat
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.930814+08:00
+# Generated: 2026-06-18T20:43:44.0634829+08:00
 
 minecraft:beef
 minecraft:chicken

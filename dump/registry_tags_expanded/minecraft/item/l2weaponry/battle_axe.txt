@@ -3,7 +3,7 @@
 # Tag: l2weaponry:battle_axe
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.9484971+08:00
+# Generated: 2026-06-18T20:43:43.0032857+08:00
 
 l2weaponry:abyss_terror
 l2weaponry:axe_of_cursed_flame

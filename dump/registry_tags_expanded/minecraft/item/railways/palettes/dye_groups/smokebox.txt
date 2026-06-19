@@ -3,7 +3,7 @@
 # Tag: railways:palettes/dye_groups/smokebox
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.912231+08:00
+# Generated: 2026-06-18T20:43:44.0355618+08:00
 
 railways:black_locometal_smokebox
 railways:blue_locometal_smokebox

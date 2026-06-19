@@ -3,7 +3,7 @@
 # Tag: tsuki:advancements/rice_dishes
 # Entries: 38
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.0951902+08:00
+# Generated: 2026-06-18T20:43:44.2579441+08:00
 
 tsuki:brown_rice_cooked
 tsuki:curry_omurice

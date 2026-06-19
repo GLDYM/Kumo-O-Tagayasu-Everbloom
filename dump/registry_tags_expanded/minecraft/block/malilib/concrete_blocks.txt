@@ -3,7 +3,7 @@
 # Tag: malilib:concrete_blocks
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.2255314+08:00
+# Generated: 2026-06-18T20:43:38.582029+08:00
 
 minecraft:black_concrete
 minecraft:blue_concrete

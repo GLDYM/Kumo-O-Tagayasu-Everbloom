@@ -3,7 +3,7 @@
 # Tag: minecraft:panic_environmental_causes
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9409806+08:00
+# Generated: 2026-06-18T20:43:39.4935229+08:00
 
 farmersdelight:stove_burn
 minecraft:cactus

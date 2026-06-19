@@ -3,6 +3,6 @@
 # Tag: c:dough/rice
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.9294157+08:00
+# Generated: 2026-06-18T20:43:40.7080182+08:00
 
 tsuki:dough_rice

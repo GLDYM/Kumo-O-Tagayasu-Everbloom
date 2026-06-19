@@ -3,7 +3,7 @@
 # Tag: dramaticdoors:short_wooden_doors
 # Entries: 22
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.9629761+08:00
+# Generated: 2026-06-18T20:43:38.1681667+08:00
 
 dramaticdoors:short_acacia_door
 dramaticdoors:short_aspen_door

@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_tavern:sofa
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.1681161+08:00
+# Generated: 2026-06-18T20:43:38.4848699+08:00
 
 kaleidoscope_tavern:black_sofa
 kaleidoscope_tavern:blue_sofa

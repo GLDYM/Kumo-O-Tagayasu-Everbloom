@@ -3,7 +3,7 @@
 # Tag: minecraft:spawns_cold_variant_frogs
 # Entries: 19
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.0152765+08:00
+# Generated: 2026-06-18T20:43:45.2494606+08:00
 
 atmospheric:kousa_jungle
 atmospheric:snowy_scrubland

@@ -2,7 +2,7 @@
 # Registry: minecraft:jukebox_song
 # Minecraft: 1.21.1
 # Entries: 42
-# Generated: 2026-06-14T13:47:24.3616496+08:00
+# Generated: 2026-06-18T20:43:28.4161217+08:00
 
 create_connected:elevator raw_id=18 class=net.minecraft.world.item.JukeboxSong
 create_connected:interlude raw_id=26 class=net.minecraft.world.item.JukeboxSong

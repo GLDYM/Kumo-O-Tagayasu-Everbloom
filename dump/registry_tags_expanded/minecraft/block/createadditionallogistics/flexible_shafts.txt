@@ -3,7 +3,7 @@
 # Tag: createadditionallogistics:flexible_shafts
 # Entries: 102
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.8837306+08:00
+# Generated: 2026-06-18T20:43:38.0975046+08:00
 
 createadditionallogistics:andesite_encased_black_flexible_shaft
 createadditionallogistics:andesite_encased_blue_flexible_shaft

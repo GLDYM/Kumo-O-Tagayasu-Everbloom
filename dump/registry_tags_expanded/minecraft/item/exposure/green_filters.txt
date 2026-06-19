@@ -3,6 +3,6 @@
 # Tag: exposure:green_filters
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.5754987+08:00
+# Generated: 2026-06-18T20:43:42.6211324+08:00
 
 minecraft:green_stained_glass_pane

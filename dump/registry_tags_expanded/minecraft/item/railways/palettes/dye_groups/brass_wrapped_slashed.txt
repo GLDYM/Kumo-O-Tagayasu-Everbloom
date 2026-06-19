@@ -3,7 +3,7 @@
 # Tag: railways:palettes/dye_groups/brass_wrapped_slashed
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.894047+08:00
+# Generated: 2026-06-18T20:43:44.0178628+08:00
 
 railways:black_brass_wrapped_locometal
 railways:blue_brass_wrapped_locometal

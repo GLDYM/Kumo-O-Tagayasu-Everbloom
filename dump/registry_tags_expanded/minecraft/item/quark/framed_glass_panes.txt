@@ -3,7 +3,7 @@
 # Tag: quark:framed_glass_panes
 # Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.3389901+08:00
+# Generated: 2026-06-18T20:43:43.484704+08:00
 
 quark:black_framed_glass_pane
 quark:blue_framed_glass_pane

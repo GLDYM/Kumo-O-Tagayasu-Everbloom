@@ -3,7 +3,7 @@
 # Tag: minecraft:signs
 # Entries: 89
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.5019958+08:00
+# Generated: 2026-06-18T20:43:38.9656396+08:00
 
 atmospheric:aspen_sign
 atmospheric:aspen_wall_sign

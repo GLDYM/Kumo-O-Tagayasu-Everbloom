@@ -3,7 +3,7 @@
 # Tag: supplementaries:timber_frames
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.0504487+08:00
+# Generated: 2026-06-18T20:43:44.2004583+08:00
 
 supplementaries:timber_brace
 supplementaries:timber_cross_brace

@@ -2,7 +2,7 @@
 # Registry: ccw:flavor
 # Minecraft: 1.21.1
 # Entries: 5
-# Generated: 2026-06-14T13:45:01.0189424+08:00
+# Generated: 2026-06-18T20:40:59.0485099+08:00
 
 ccw:bold raw_id=2 class=com.lnatit.ccw.item.sugaring.SimpleFlavor
 ccw:excited raw_id=1 class=com.lnatit.ccw.item.sugaring.SimpleFlavor

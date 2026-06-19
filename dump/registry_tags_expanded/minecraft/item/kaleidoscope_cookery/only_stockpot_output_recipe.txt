@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_cookery:only_stockpot_output_recipe
 # Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.8812118+08:00
+# Generated: 2026-06-18T20:43:42.9601448+08:00
 
 corn_delight:corn_dog
 corn_delight:corn_soup

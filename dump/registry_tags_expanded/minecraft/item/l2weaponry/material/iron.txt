@@ -3,7 +3,7 @@
 # Tag: l2weaponry:material/iron
 # Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.9799841+08:00
+# Generated: 2026-06-18T20:43:43.0478042+08:00
 
 l2weaponry:iron_battle_axe
 l2weaponry:iron_claw

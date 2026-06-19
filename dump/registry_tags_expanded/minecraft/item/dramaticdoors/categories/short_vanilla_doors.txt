@@ -3,7 +3,7 @@
 # Tag: dramaticdoors:categories/short_vanilla_doors
 # Entries: 20
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.4346104+08:00
+# Generated: 2026-06-18T20:43:42.4212699+08:00
 
 dramaticdoors:short_acacia_door
 dramaticdoors:short_bamboo_door

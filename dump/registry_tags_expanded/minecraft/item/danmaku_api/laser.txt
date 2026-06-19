@@ -3,7 +3,7 @@
 # Tag: danmaku_api:laser
 # Entries: 32
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2255242+08:00
+# Generated: 2026-06-18T20:43:42.1415062+08:00
 
 danmaku_api:black_laser
 danmaku_api:black_pencil

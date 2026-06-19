@@ -3,7 +3,7 @@
 # Tag: youkaishomecoming:raw_eel
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.2155132+08:00
+# Generated: 2026-06-18T20:43:44.4110604+08:00
 
 youkaishomecoming:raw_lamprey
 youkaishomecoming:raw_lamprey_fillet

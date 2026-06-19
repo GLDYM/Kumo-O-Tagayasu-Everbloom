@@ -3,7 +3,7 @@
 # Tag: integrated_villages:collections/any_forests
 # Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.8181833+08:00
+# Generated: 2026-06-18T20:43:45.021169+08:00
 
 atmospheric:grimwoods
 atmospheric:laurel_forest

@@ -3,6 +3,6 @@
 # Tag: minecraft:prevents_ice_melting
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.0054777+08:00
+# Generated: 2026-06-18T20:43:39.5650984+08:00
 
 minecraft:silk_touch

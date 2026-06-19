@@ -3,7 +3,7 @@
 # Tag: railways:coalburner_stack
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:37.3912421+08:00
+# Generated: 2026-06-18T20:43:43.540397+08:00
 
 railways:smokestack_coalburner
 railways:smokestack_coalburner_brass

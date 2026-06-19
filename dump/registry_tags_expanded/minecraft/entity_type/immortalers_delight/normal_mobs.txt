@@ -3,7 +3,7 @@
 # Tag: immortalers_delight:normal_mobs
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.0725976+08:00
+# Generated: 2026-06-18T20:43:39.6873421+08:00
 
 immortalers_delight:scavenger
 immortalers_delight:skelverfish_ambusher

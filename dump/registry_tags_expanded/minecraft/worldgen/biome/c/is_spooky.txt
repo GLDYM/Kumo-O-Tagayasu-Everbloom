@@ -3,7 +3,7 @@
 # Tag: c:is_spooky
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.4279917+08:00
+# Generated: 2026-06-18T20:43:44.597488+08:00
 
 minecraft:dark_forest
 minecraft:deep_dark

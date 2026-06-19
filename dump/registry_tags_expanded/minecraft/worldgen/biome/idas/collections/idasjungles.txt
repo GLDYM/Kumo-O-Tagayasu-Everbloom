@@ -3,7 +3,7 @@
 # Tag: idas:collections/idasjungles
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:38.5804775+08:00
+# Generated: 2026-06-18T20:43:44.7690668+08:00
 
 atmospheric:rainforest
 atmospheric:rainforest_basin

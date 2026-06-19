@@ -3,7 +3,7 @@
 # Tag: c:foods/soup
 # Entries: 19
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.1984402+08:00
+# Generated: 2026-06-18T20:43:41.0265005+08:00
 
 brewinandchewin:creamy_onion_soup
 brewinandchewin:fiery_fondue

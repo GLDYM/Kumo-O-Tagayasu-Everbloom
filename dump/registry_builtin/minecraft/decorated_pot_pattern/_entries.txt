@@ -2,7 +2,7 @@
 # Registry: minecraft:decorated_pot_pattern
 # Minecraft: 1.21.1
 # Entries: 31
-# Generated: 2026-06-14T13:45:01.1690734+08:00
+# Generated: 2026-06-18T20:40:59.157005+08:00
 
 atmospheric:scythe raw_id=28 class=net.minecraft.world.level.block.entity.DecoratedPotPattern
 atmospheric:succulent raw_id=29 class=net.minecraft.world.level.block.entity.DecoratedPotPattern

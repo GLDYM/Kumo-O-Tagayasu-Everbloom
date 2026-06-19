@@ -3,7 +3,7 @@
 # Tag: c:entity_defense_enhancements
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9655639+08:00
+# Generated: 2026-06-18T20:43:39.5188933+08:00
 
 minecraft:blast_protection
 minecraft:feather_falling

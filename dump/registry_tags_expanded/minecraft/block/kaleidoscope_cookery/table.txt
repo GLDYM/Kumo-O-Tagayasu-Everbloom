@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_cookery:table
 # Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.1420433+08:00
+# Generated: 2026-06-18T20:43:38.4665716+08:00
 
 kaleidoscope_cookery:table_acacia
 kaleidoscope_cookery:table_bamboo

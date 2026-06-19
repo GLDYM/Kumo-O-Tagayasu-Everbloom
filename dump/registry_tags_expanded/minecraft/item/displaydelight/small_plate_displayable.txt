@@ -3,7 +3,7 @@
 # Tag: displaydelight:small_plate_displayable
 # Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:36.2455951+08:00
+# Generated: 2026-06-18T20:43:42.1606121+08:00
 
 brewinandchewin:quiche_slice
 ends_delight:chorus_fruit_pie_slice

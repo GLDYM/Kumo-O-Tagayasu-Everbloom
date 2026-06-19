@@ -2,7 +2,7 @@
 # Registry: minecraft:chunk_status
 # Minecraft: 1.21.1
 # Entries: 12
-# Generated: 2026-06-14T13:47:24.2371017+08:00
+# Generated: 2026-06-18T20:43:28.3054956+08:00
 
 minecraft:biomes raw_id=3 class=net.minecraft.world.level.chunk.status.ChunkStatus
 minecraft:carvers raw_id=6 class=net.minecraft.world.level.chunk.status.ChunkStatus

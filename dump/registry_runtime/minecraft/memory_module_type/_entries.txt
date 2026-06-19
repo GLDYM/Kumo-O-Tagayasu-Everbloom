@@ -2,7 +2,7 @@
 # Registry: minecraft:memory_module_type
 # Minecraft: 1.21.1
 # Entries: 151
-# Generated: 2026-06-14T13:47:24.3767153+08:00
+# Generated: 2026-06-18T20:43:28.4349309+08:00
 
 delighto_flight:basket raw_id=122 class=net.minecraft.world.entity.ai.memory.MemoryModuleType
 delighto_flight:grow_horn_ticks raw_id=125 class=net.minecraft.world.entity.ai.memory.MemoryModuleType

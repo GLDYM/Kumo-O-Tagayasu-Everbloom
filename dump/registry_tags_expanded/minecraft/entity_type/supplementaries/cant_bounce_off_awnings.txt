@@ -3,6 +3,6 @@
 # Tag: supplementaries:cant_bounce_off_awnings
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1722508+08:00
+# Generated: 2026-06-18T20:43:39.8262094+08:00
 
 supplementaries:slimeball_projectile

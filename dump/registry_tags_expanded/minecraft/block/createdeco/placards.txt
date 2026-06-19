@@ -3,7 +3,7 @@
 # Tag: createdeco:placards
 # Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.9075943+08:00
+# Generated: 2026-06-18T20:43:38.1115346+08:00
 
 createdeco:black_placard
 createdeco:blue_placard

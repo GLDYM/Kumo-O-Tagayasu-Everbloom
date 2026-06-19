@@ -3,7 +3,7 @@
 # Tag: minecraft:incorrect_for_iron_tool
 # Entries: 24
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.3972637+08:00
+# Generated: 2026-06-18T20:43:38.8108056+08:00
 
 cagedmobs:star_infused_netherite_block
 createnuclear:deepslate_uranium_ore

@@ -3,7 +3,7 @@
 # Tag: tofucraft:has_structure/tofu_village
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.0973887+08:00
+# Generated: 2026-06-18T20:43:45.3261602+08:00
 
 tofucraft:tofu_mountain
 tofucraft:tofu_plains

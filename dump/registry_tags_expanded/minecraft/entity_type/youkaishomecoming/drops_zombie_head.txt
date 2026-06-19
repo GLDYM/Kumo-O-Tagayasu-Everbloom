@@ -3,7 +3,7 @@
 # Tag: youkaishomecoming:drops_zombie_head
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:34.1913182+08:00
+# Generated: 2026-06-18T20:43:39.8655997+08:00
 
 minecraft:drowned
 minecraft:husk

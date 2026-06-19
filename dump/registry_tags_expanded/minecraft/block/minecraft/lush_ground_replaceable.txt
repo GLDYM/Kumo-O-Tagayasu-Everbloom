@@ -3,7 +3,7 @@
 # Tag: minecraft:lush_ground_replaceable
 # Entries: 40
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.4318894+08:00
+# Generated: 2026-06-18T20:43:38.8399079+08:00
 
 atmospheric:crustose
 create:asurine

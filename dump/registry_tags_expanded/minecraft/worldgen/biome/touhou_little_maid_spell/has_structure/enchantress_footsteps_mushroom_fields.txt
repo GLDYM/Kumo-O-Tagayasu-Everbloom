@@ -3,6 +3,6 @@
 # Tag: touhou_little_maid_spell:has_structure/enchantress_footsteps_mushroom_fields
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:39.1080494+08:00
+# Generated: 2026-06-18T20:43:45.3375739+08:00
 
 minecraft:mushroom_fields

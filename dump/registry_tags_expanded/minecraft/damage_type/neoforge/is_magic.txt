@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:damage_type
 # Tag: neoforge:is_magic
-# Entries: 31
+# Entries: 25
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:33.9467103+08:00
+# Generated: 2026-06-18T20:43:39.5055479+08:00
 
 danmaku_api:abyssal_danmaku
 danmaku_api:danmaku
@@ -20,12 +20,6 @@ irons_spellbooks:ice_magic
 irons_spellbooks:lightning_magic
 irons_spellbooks:nature_magic
 irons_spellbooks:poison_cloud
-iss_magicfromtheeast:dune_magic
-iss_magicfromtheeast:soul_damage
-iss_magicfromtheeast:soul_weapons_bonus
-iss_magicfromtheeast:spirit_arrow
-iss_magicfromtheeast:spirit_magic
-iss_magicfromtheeast:symmetry_magic
 l2complements:freeze
 l2complements:soul_flame
 minecraft:dragon_breath

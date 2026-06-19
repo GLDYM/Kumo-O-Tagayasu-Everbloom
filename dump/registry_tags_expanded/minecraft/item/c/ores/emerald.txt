@@ -3,7 +3,7 @@
 # Tag: c:ores/emerald
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.457398+08:00
+# Generated: 2026-06-18T20:43:41.3416394+08:00
 
 minecraft:deepslate_emerald_ore
 minecraft:emerald_ore

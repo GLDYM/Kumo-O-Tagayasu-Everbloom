@@ -2,7 +2,7 @@
 # Registry: minecraft:trim_pattern
 # Minecraft: 1.21.1
 # Entries: 23
-# Generated: 2026-06-14T13:47:24.4505354+08:00
+# Generated: 2026-06-18T20:43:28.4997321+08:00
 
 atmospheric:apostle raw_id=0 class=net.minecraft.world.item.armortrim.TrimPattern
 atmospheric:druid raw_id=4 class=net.minecraft.world.item.armortrim.TrimPattern

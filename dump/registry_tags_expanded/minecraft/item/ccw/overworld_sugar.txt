@@ -3,6 +3,6 @@
 # Tag: ccw:overworld_sugar
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:35.9264765+08:00
+# Generated: 2026-06-18T20:43:41.802335+08:00
 
 minecraft:sugar

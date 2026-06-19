@@ -3,6 +3,6 @@
 # Tag: create:fan_processing_catalysts/splashing
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-14T13:47:32.8053579+08:00
+# Generated: 2026-06-18T20:43:37.9939394+08:00
 
 create_connected:fan_splashing_catalyst
