@@ -1,0 +1,178 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "idealland_shrine:skyland_dull_runestone"
+  },
+  "loops": 16,
+  "results": [
+    {
+      "chance": 4.0,
+      "id": "idealland_shrine:skyland_runestone_8"
+    },
+    {
+      "chance": 12.0,
+      "id": "minecraft:stone"
+    },
+    {
+      "chance": 12.0,
+      "id": "minecraft:deepslate"
+    },
+    {
+      "chance": 12.0,
+      "id": "minecraft:diorite"
+    },
+    {
+      "chance": 12.0,
+      "id": "minecraft:granite"
+    },
+    {
+      "chance": 12.0,
+      "id": "minecraft:andesite"
+    },
+    {
+      "chance": 12.0,
+      "id": "minecraft:tuff"
+    },
+    {
+      "chance": 12.0,
+      "id": "minecraft:basalt"
+    },
+    {
+      "chance": 12.0,
+      "id": "minecraft:calcite"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "idealland_shrine:skyland_dull_runestone"
+        },
+        {
+          "item": "minecraft:stone"
+        }
+      ],
+      "results": [
+        {
+          "id": "idealland_shrine:skyland_dull_runestone"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "idealland_shrine:skyland_dull_runestone"
+        },
+        {
+          "item": "minecraft:deepslate"
+        }
+      ],
+      "results": [
+        {
+          "id": "idealland_shrine:skyland_dull_runestone"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "idealland_shrine:skyland_dull_runestone"
+        },
+        {
+          "item": "minecraft:diorite"
+        }
+      ],
+      "results": [
+        {
+          "id": "idealland_shrine:skyland_dull_runestone"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "idealland_shrine:skyland_dull_runestone"
+        },
+        {
+          "item": "minecraft:granite"
+        }
+      ],
+      "results": [
+        {
+          "id": "idealland_shrine:skyland_dull_runestone"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "idealland_shrine:skyland_dull_runestone"
+        },
+        {
+          "item": "minecraft:andesite"
+        }
+      ],
+      "results": [
+        {
+          "id": "idealland_shrine:skyland_dull_runestone"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "idealland_shrine:skyland_dull_runestone"
+        },
+        {
+          "item": "minecraft:tuff"
+        }
+      ],
+      "results": [
+        {
+          "id": "idealland_shrine:skyland_dull_runestone"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "idealland_shrine:skyland_dull_runestone"
+        },
+        {
+          "item": "minecraft:basalt"
+        }
+      ],
+      "results": [
+        {
+          "id": "idealland_shrine:skyland_dull_runestone"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "idealland_shrine:skyland_dull_runestone"
+        },
+        {
+          "item": "minecraft:calcite"
+        }
+      ],
+      "results": [
+        {
+          "id": "idealland_shrine:skyland_dull_runestone"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "idealland_shrine:skyland_dull_runestone"
+  }
+}
