@@ -450,6 +450,18 @@
         "tectonic": {
             "side": "BOTH",
             "update_strategy": "NONE"
+        },
+        "tongda-railway": {
+            "side": "BOTH"
+        },
+        "structureoverlapless": {
+            "side": "BOTH"
+        },
+        "idealland-shrine": {
+            "side": "BOTH"
+        },
+        "create-threaded-trains": {
+            "side": "BOTH"
         }
     }
 }
