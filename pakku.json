@@ -446,6 +446,10 @@
         },
         "vanillin": {
             "side": "CLIENT"
+        },
+        "tectonic": {
+            "side": "BOTH",
+            "update_strategy": "NONE"
         }
     }
 }
