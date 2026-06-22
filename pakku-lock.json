@@ -8,6 +8,56 @@
     },
     "projects": [
         {
+            "pakku_id": "3LureTxnnTkOxYnV",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "ati-structures"
+            },
+            "name": {
+                "curseforge": "ATi Structures"
+            },
+            "id": {
+                "curseforge": "964608"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ATi Structures V1.4.4 (1.21+).jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.8",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.1",
+                        "1.21.6",
+                        "1.21.3",
+                        "1.21.7",
+                        "1.21.2",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7763/358/ATi Structures V1.4.4 (1.21+).jar",
+                    "id": "7763358",
+                    "parent_id": "964608",
+                    "hashes": {
+                        "sha1": "f0c645784c43fb41ba48b032a2cfdbdc19f11727",
+                        "md5": "70894809022a5f47ea44abb3b95e861f"
+                    },
+                    "required_dependencies": [],
+                    "size": 3156978,
+                    "date_published": "2026-03-15T20:01:45.793Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "uSEjHZ28mV53pxjQ",
             "type": "MOD",
             "side": "BOTH",
@@ -3930,6 +3980,67 @@
                     "required_dependencies": [],
                     "size": 953230,
                     "date_published": "2026-01-14T19:55:23.851190Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "qLLHN5YKkJRrL85i",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-alloyed",
+                "modrinth": "create-alloyed"
+            },
+            "name": {
+                "curseforge": "Create: Alloyed",
+                "modrinth": "Alloyed"
+            },
+            "id": {
+                "curseforge": "564792",
+                "modrinth": "KUInlTFo"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "alloyed-3.0.9+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8016/758/alloyed-3.0.9+1.21.1-neoforge.jar",
+                    "id": "8016758",
+                    "parent_id": "564792",
+                    "hashes": {
+                        "sha1": "a196057e9c086e0303ec91c58362050bf9fc52da",
+                        "md5": "bf8c28ce79d6505aef68350a8ab35124"
+                    },
+                    "required_dependencies": [],
+                    "size": 873568,
+                    "date_published": "2026-04-30T19:05:59.103Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "alloyed-3.0.9+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/KUInlTFo/versions/mhmFlajn/alloyed-3.0.9+1.21.1-neoforge.jar",
+                    "id": "mhmFlajn",
+                    "parent_id": "KUInlTFo",
+                    "hashes": {
+                        "sha512": "2ae034cf410896460d09dd109ae9799d118ef23f3984eafb9d4c4a06dae32674fd6b2ab40c9e87a4116d58f3e5e0af5a26414d89baf1f295d775db9d45463db7",
+                        "sha1": "a196057e9c086e0303ec91c58362050bf9fc52da"
+                    },
+                    "required_dependencies": [],
+                    "size": 873568,
+                    "date_published": "2026-04-30T19:05:58.368317Z"
                 }
             ]
         },
@@ -15567,6 +15678,42 @@
                     "required_dependencies": [],
                     "size": 271011,
                     "date_published": "2026-05-26T21:44:38.473186Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "wKElBMcsDAfUq0eH",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "simple-metals-tin-kots"
+            },
+            "name": {
+                "curseforge": "Simple Metals: Tin KOTS"
+            },
+            "id": {
+                "curseforge": "1583048"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "simplemetals-tin-kots-4.0.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8292/483/simplemetals-tin-kots-4.0.0.jar",
+                    "id": "8292483",
+                    "parent_id": "1583048",
+                    "hashes": {
+                        "sha1": "3af820374cd8ecd354a3c911791445287b5334d3",
+                        "md5": "0a8b2c23239f327f6e27633b97b02816"
+                    },
+                    "required_dependencies": [],
+                    "size": 83160,
+                    "date_published": "2026-06-21T10:49:44.933Z"
                 }
             ]
         },
