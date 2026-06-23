@@ -3,11 +3,17 @@
 	default_quest_shape: ""
 	filename: "advance"
 	group: "65DBD493CCEDCEF5"
+	icon: {
+		id: "danmaku_api:red_bubble_danmaku"
+	}
 	id: "094B51E793813ADB"
 	order_index: 0
 	quest_links: [ ]
 	quests: [{
 		dependency_requirement: "one_completed"
+		icon: {
+			id: "danmaku_api:red_bubble_danmaku"
+		}
 		id: "405DCF35DAB526A7"
 		rewards: [
 			{

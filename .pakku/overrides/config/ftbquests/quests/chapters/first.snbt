@@ -4,14 +4,14 @@
 	filename: "first"
 	group: "7B06BDC499F7BB13"
 	icon: {
-		id: "danmaku_api:red_bubble_danmaku"
+		id: "danmaku_api:green_bubble_danmaku"
 	}
 	id: "3513B62C05496513"
 	order_index: 0
 	quest_links: [ ]
 	quests: [{
 		icon: {
-			id: "danmaku_api:red_bubble_danmaku"
+			id: "danmaku_api:green_bubble_danmaku"
 		}
 		id: "378D3CC29AE2D546"
 		rewards: [{
@@ -19,6 +19,7 @@
 			type: "xp_levels"
 			xp_levels: 5
 		}]
+		shape: "none"
 		size: 5.0d
 		tasks: [{
 			id: "04668CF80B2DFF59"
