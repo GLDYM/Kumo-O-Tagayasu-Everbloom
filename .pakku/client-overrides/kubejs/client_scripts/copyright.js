@@ -19,14 +19,16 @@ WeDoCopyRightEvents.addPage(event => {
     "Copyright © 2026 Polaris_Light & ArcHosheri",
     "",
     "\u00a7bYou are allowed, but need to keep the author and original work information:",
-    " 1. Create multimedia works using this modpack and make money without modifying the modpack.",
-    " 2. Store, redistribute or open a server of the modpack without modifying the modpack.",
-    " 3. Modify the modpack and distribute it, or open a server of the modified modpack.",
-    "    You must publicly distribute the modified modpack (including the server pack) and distribute it under the same license.",
+    " 1. Create multimedia works and make money without modifying the modpack.",
+    " 2. Store, redistribute or open a server without modifying the modpack.",
+    " 3. Distribute a modified modpack, or open a server of it.",
+    "    You must publicly distribute the modified modpack (including the server pack)",
+    "    and distribute it under the same license.",
     "",
     "\u00a7bYou are forbidden：",
-    " 1. Modify the modpack and distribute it, or open a server of the modified modpack, but not under the same license.",
+    " 1. Distribute a modified modpack, or open a server of it, ",
+    "    but not under the same license.",
     " 2. Sell this modpack for profit.",
-    " 3. Redistribute this modpack and resourcepack on other platforms, which will get the benefits of the platform."
+    " 3. Redistribute this modpack on other platforms and get the benefits of the platform."
   )
 })

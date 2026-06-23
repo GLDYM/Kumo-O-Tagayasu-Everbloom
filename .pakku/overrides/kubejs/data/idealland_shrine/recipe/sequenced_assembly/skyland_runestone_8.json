@@ -50,22 +50,6 @@
           "item": "idealland_shrine:skyland_dull_runestone"
         },
         {
-          "item": "minecraft:stone"
-        }
-      ],
-      "results": [
-        {
-          "id": "idealland_shrine:skyland_dull_runestone"
-        }
-      ]
-    },
-    {
-      "type": "create:deploying",
-      "ingredients": [
-        {
-          "item": "idealland_shrine:skyland_dull_runestone"
-        },
-        {
           "item": "minecraft:deepslate"
         }
       ],
@@ -115,22 +99,6 @@
         },
         {
           "item": "minecraft:andesite"
-        }
-      ],
-      "results": [
-        {
-          "id": "idealland_shrine:skyland_dull_runestone"
-        }
-      ]
-    },
-    {
-      "type": "create:deploying",
-      "ingredients": [
-        {
-          "item": "idealland_shrine:skyland_dull_runestone"
-        },
-        {
-          "item": "minecraft:tuff"
         }
       ],
       "results": [

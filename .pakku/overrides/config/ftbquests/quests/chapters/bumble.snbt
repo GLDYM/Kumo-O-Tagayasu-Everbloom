@@ -4,7 +4,10 @@
 	filename: "bumble"
 	group: "31669C96F582CF92"
 	icon: {
-		id: "the_bumblezone:stingless_bee_helmet_1"
+		components: {
+			"ftbquests:missing_item": "the_bumblezone:stingless_bee_helmet_1"
+		}
+		id: "ftbquests:missing_item"
 	}
 	id: "6D7D8225B036C476"
 	order_index: 2
@@ -55,7 +58,7 @@
 				}
 				{
 					id: "23F9D5F6C7A97D3B"
-					item: { count: 1, id: "the_bumblezone:flower_headwear" }
+					item: { components: { "ftbquests:missing_item": "the_bumblezone:flower_headwear" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 			]
@@ -84,7 +87,7 @@
 			}]
 			tasks: [{
 				id: "3B5E233A9D5A6D5E"
-				item: { count: 1, id: "the_bumblezone:crystalline_flower" }
+				item: { components: { "ftbquests:missing_item": "the_bumblezone:crystalline_flower" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -100,7 +103,7 @@
 			}]
 			tasks: [{
 				id: "0C3C6AC46EE51A56"
-				item: { count: 1, id: "the_bumblezone:potion_candle" }
+				item: { components: { "ftbquests:missing_item": "the_bumblezone:potion_candle" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 4.0d

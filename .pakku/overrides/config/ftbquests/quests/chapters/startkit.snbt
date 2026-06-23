@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "2BCF2CF86C2B4AAC"
+	filename: "startkit"
 	group: "7B06BDC499F7BB13"
 	icon: {
 		id: "beyonddimensions:net_creater"
@@ -12,10 +12,6 @@
 	quests: [
 		{
 			icon: {
-				components: {
-					"beyonddimensions:long_data": 3590L
-					"beyonddimensions:time_line": 205680L
-				}
 				id: "beyonddimensions:unstable_space_time_fragment"
 			}
 			id: "09CCAB87A49EF0B1"

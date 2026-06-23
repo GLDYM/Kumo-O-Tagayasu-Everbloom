@@ -27,7 +27,7 @@
   "unionLibSupporterCheck": false,
   "alexModsContributorCheck": false,
   "voidscapeDonator": false,
-  "versionCheckWarn": true,
+  "versionCheckWarn": false,
   "quarkCelebration": "HideLGBTQIA",
   "zetaSpamLogs": false,
   "citadelAprilFoolsContent": false,
