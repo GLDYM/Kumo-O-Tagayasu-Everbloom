@@ -15025,6 +15025,75 @@
             ]
         },
         {
+            "pakku_id": "p6VHR6vkvDi5nAEa",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "simple-custom-early-loading",
+                "modrinth": "simple-custom-early-loading"
+            },
+            "name": {
+                "curseforge": "Simple Custom Early Loading",
+                "modrinth": "Simple Custom Early Loading"
+            },
+            "id": {
+                "curseforge": "1214077",
+                "modrinth": "Bi8o4aLw"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "SimpleCustomEarlyLoading-2.2-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.4",
+                        "1.21.1",
+                        "1.21.3",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7782/250/SimpleCustomEarlyLoading-2.2-neoforge.jar",
+                    "id": "7782250",
+                    "parent_id": "1214077",
+                    "hashes": {
+                        "sha1": "511eeeb2f09d569b4e1acaf351cda9f2a6413337",
+                        "md5": "4435a4938f88e344259ce996e5d7b5a5"
+                    },
+                    "required_dependencies": [],
+                    "size": 892931,
+                    "date_published": "2026-03-19T21:39:45.880Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "SimpleCustomEarlyLoading-2.2-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Bi8o4aLw/versions/G5bmC36h/SimpleCustomEarlyLoading-2.2-neoforge.jar",
+                    "id": "G5bmC36h",
+                    "parent_id": "Bi8o4aLw",
+                    "hashes": {
+                        "sha512": "5fa2487129c5367c80528e196ad9b606a10067786852c01f5ab09fd1804d2dbde1b1e074c7ddb969b8503104b2b575ae42e74f9560e386e2942cbd0506958c71",
+                        "sha1": "511eeeb2f09d569b4e1acaf351cda9f2a6413337"
+                    },
+                    "required_dependencies": [],
+                    "size": 892931,
+                    "date_published": "2026-03-19T21:39:45.454298Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "wKElBMcsDAfUq0eH",
             "type": "MOD",
             "slug": {
