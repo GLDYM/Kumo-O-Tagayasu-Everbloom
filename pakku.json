@@ -462,6 +462,9 @@
         },
         "create-threaded-trains": {
             "side": "BOTH"
+        },
+        "simple-custom-early-loading": {
+            "side": "CLIENT"
         }
     }
 }

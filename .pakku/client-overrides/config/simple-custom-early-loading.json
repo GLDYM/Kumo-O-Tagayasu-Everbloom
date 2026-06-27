@@ -1,0 +1,40 @@
+{
+  "elements": [
+    {
+      "image": "stellarview.png",
+      "position": {
+        "position_anchor": "TOP_LEFT",
+        "position_unit": "PIXELS",
+        "x": 0,
+        "y": 0,
+        "size_unit": "PERCENTAGE",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "image": "fox.apng",
+      "position": {
+        "position_anchor": "BOTTOM_RIGHT",
+        "position_unit": "PERCENTAGE",
+        "x": 100,
+        "y": 95,
+        "size_unit": "PERCENTAGE",
+        "width": 20
+      }
+    }
+  ],
+  "progress_bar": {
+    "bar_count": 3,
+    "position": {
+      "position_anchor": "TOP_CENTER",
+      "position_unit": "PERCENTAGE",
+      "x": 50,
+      "y": 55
+    }
+  },
+  "performance_bar": true,
+  "fox": false,
+  "log_messages": false,
+  "forge_version": false
+}
