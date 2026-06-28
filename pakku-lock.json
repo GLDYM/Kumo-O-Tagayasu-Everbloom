@@ -3908,50 +3908,21 @@
             ]
         },
         {
-            "pakku_id": "FjbRU4Jic4jV0oCO",
+            "pakku_id": "Gf8sSKPymMrli5f2",
             "pakku_links": [
                 "Vy12xXWcFO1oKyQL"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "create-bits-n-bobs",
-                "modrinth": "create-bits-n-bobs"
+                "curseforge": "create-bits-n-bobs"
             },
             "name": {
-                "curseforge": "Create: Bits 'n' Bobs",
-                "modrinth": "Create: Bits 'n' Bobs"
+                "curseforge": "Create: Bits 'n' Bobs"
             },
             "id": {
-                "curseforge": "1398383",
-                "modrinth": "T8bvmqVZ"
+                "curseforge": "1398383"
             },
             "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "bits_n_bobs-2.1.7-beta.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/3o61VNuV/bits_n_bobs-2.1.7-beta.jar",
-                    "id": "3o61VNuV",
-                    "parent_id": "T8bvmqVZ",
-                    "hashes": {
-                        "sha512": "a8eb2fa9c45938f49d77ee4933c6581e3d5e0667e51e28d570a54f1d0c99ded2752cb57f5788f6e2dd9720605d91c0f743fdbdfaca144259747ba94ab3b90d61",
-                        "sha1": "d50f18c8abff068c3bbac14d67add6030fcc8ca5"
-                    },
-                    "required_dependencies": [
-                        "LNytGWDc",
-                        "RpH8tmT1",
-                        "sHO3MhQx"
-                    ],
-                    "size": 2742511,
-                    "date_published": "2026-06-25T10:16:57.638920Z"
-                },
                 {
                     "type": "curseforge",
                     "file_name": "bits_n_bobs-0.0.44.jar",
