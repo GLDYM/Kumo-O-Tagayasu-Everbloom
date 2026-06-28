@@ -3913,6 +3913,7 @@
                 "Vy12xXWcFO1oKyQL"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "create-bits-n-bobs"
             },
@@ -17542,84 +17543,6 @@
                     ],
                     "size": 256825,
                     "date_published": "2026-05-08T08:32:37.834467Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "xzzVDphclc76bjsY",
-            "pakku_links": [
-                "AS3rOCj8XUXBKuM1",
-                "r4rRW7YCR8jZhuIf"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "watermedia-binaries",
-                "modrinth": "watermedia-binaries"
-            },
-            "name": {
-                "curseforge": "WATERMeDIA: Binaries",
-                "modrinth": "WATERMEDIA: Multimedia Binaries"
-            },
-            "id": {
-                "curseforge": "1029438",
-                "modrinth": "4997XcoK"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "watermedia_binaries-3.0.0-rc.3.jar",
-                    "mc_versions": [
-                        "1.18.2",
-                        "1.19.2",
-                        "1.20.1",
-                        "1.21.1",
-                        "1.21.11"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4997XcoK/versions/78OVYiud/watermedia_binaries-3.0.0-rc.3.jar",
-                    "id": "78OVYiud",
-                    "parent_id": "4997XcoK",
-                    "hashes": {
-                        "sha512": "834f634fea3e61bf3cd8d5b5bc391054d286363efeea4e237e1a67383d1a594ea465ee4b22c2bc522121ec8c79fad55af7b9b053a876a7403250cd7d270484ba",
-                        "sha1": "5fa94438642db5aeaf986f55ecfb8a93bdbee81c"
-                    },
-                    "required_dependencies": [
-                        "G922NeHS"
-                    ],
-                    "size": 129669146,
-                    "date_published": "2026-06-26T06:15:43.216324Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "watermedia_binaries-3.0.0-rc.3.jar",
-                    "mc_versions": [
-                        "1.21.1",
-                        "1.21.11"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8322/290/watermedia_binaries-3.0.0-rc.3.jar",
-                    "id": "8322290",
-                    "parent_id": "1029438",
-                    "hashes": {
-                        "sha1": "3a900525d76ccfbb0dea8a6efc27efb0c890f2ac",
-                        "md5": "6f81c4f447c38ff3272afc4985c53a10"
-                    },
-                    "required_dependencies": [
-                        "869524"
-                    ],
-                    "size": 129669146,
-                    "date_published": "2026-06-26T06:15:37.220Z"
                 }
             ]
         },
