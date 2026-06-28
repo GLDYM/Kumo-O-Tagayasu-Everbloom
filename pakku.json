@@ -465,6 +465,9 @@
         },
         "simple-custom-early-loading": {
             "side": "CLIENT"
+        },
+        "create-bits-n-bobs": {
+            "side": "BOTH"
         }
     }
 }
