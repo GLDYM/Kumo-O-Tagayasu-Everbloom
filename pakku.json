@@ -468,6 +468,9 @@
         },
         "create-bits-n-bobs": {
             "side": "BOTH"
+        },
+        "tofu-create-kots": {
+            "side": "BOTH"
         }
     }
 }
