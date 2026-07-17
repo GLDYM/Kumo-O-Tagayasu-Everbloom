@@ -8,7 +8,7 @@
 	# Default: 0.08
 	# Range: 0.04 ~ 0.1
 	acceleration = 0.08
-	#Max Vertical Speed (blocks/tick）
+	#Max Vertical Speed (blocks/tick)
 	# Default: 0.5
 	# Range: 0.1 ~ 2.0
 	maxVerticalSpeed = 0.5

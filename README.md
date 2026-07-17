@@ -25,6 +25,8 @@
 
 [简体中文](README.md) / [English](README_EN.md)
 
+***命题：如何用现代的整合包叙事语言讲述过去的模组？***
+
 ![](https://count.getloli.com/@:KOTS?name=%3AKOTS&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 </div>
