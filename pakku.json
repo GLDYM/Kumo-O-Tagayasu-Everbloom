@@ -471,6 +471,9 @@
         },
         "tofu-create-kots": {
             "side": "BOTH"
+        },
+        "spyglass-astronomy-neoforge": {
+            "side": "CLIENT"
         }
     }
 }
