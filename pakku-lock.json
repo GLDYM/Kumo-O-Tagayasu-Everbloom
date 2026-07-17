@@ -918,69 +918,6 @@
             ]
         },
         {
-            "pakku_id": "trsPkJxzoQtDqxzF",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "beautify-decorate",
-                "modrinth": "beautify"
-            },
-            "name": {
-                "curseforge": "Beautify!",
-                "modrinth": "Beautify!"
-            },
-            "id": {
-                "curseforge": "633252",
-                "modrinth": "9BPuv4vL"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "beautify-neoforge-1.21.1-2.0.2.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5947/973/beautify-neoforge-1.21.1-2.0.2.jar",
-                    "id": "5947973",
-                    "parent_id": "633252",
-                    "hashes": {
-                        "sha1": "936dc981f243c4606376ba7d6f03798e0b5a6871",
-                        "md5": "e18f49c2d8723f77da79f73ec83a316f"
-                    },
-                    "required_dependencies": [],
-                    "size": 932199,
-                    "date_published": "2024-11-29T19:53:07.800Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "beautify-neoforge-1.21.1-2.0.2.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/9BPuv4vL/versions/xVfv1ket/beautify-neoforge-1.21.1-2.0.2.jar",
-                    "id": "xVfv1ket",
-                    "parent_id": "9BPuv4vL",
-                    "hashes": {
-                        "sha512": "e48161fc0c3a7ef916154a9885fcae7f6666a4aa14e75b874e3f0d1b3afef6a298413a51f25ec7c63c3692ffb15ad4885b210e26f9f1a7d4b701e6f912495c09",
-                        "sha1": "936dc981f243c4606376ba7d6f03798e0b5a6871"
-                    },
-                    "required_dependencies": [],
-                    "size": 932199,
-                    "date_published": "2024-11-29T23:35:17.398501Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "feddY68TNYk7jkIk",
             "type": "MOD",
             "side": "BOTH",
@@ -1329,6 +1266,42 @@
                     "required_dependencies": [],
                     "size": 3513662,
                     "date_published": "2026-06-21T02:35:49.247Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bzNqn2goGRGCVCv7",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "bigger-better-statue"
+            },
+            "name": {
+                "curseforge": "Bigger Better Statue"
+            },
+            "id": {
+                "curseforge": "1594139"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "biggerbetterstatue-1.0.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8350/771/biggerbetterstatue-1.0.0.jar",
+                    "id": "8350771",
+                    "parent_id": "1594139",
+                    "hashes": {
+                        "sha1": "4b5d396852c68844e2383e00523c98d61b5881d2",
+                        "md5": "c323100aa5dd6cd20c4ce5e2bfe2257e"
+                    },
+                    "required_dependencies": [],
+                    "size": 254608,
+                    "date_published": "2026-07-01T07:39:23.790Z"
                 }
             ]
         },
@@ -3908,48 +3881,6 @@
             ]
         },
         {
-            "pakku_id": "Gf8sSKPymMrli5f2",
-            "pakku_links": [
-                "Vy12xXWcFO1oKyQL"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "create-bits-n-bobs"
-            },
-            "name": {
-                "curseforge": "Create: Bits 'n' Bobs"
-            },
-            "id": {
-                "curseforge": "1398383"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "bits_n_bobs-0.0.44.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7591/460/bits_n_bobs-0.0.44.jar",
-                    "id": "7591460",
-                    "parent_id": "1398383",
-                    "hashes": {
-                        "sha1": "2d577eb7e47b860fc32e4ebd33405715252c5072",
-                        "md5": "33956528debb0db78f5410b9e2cbce57"
-                    },
-                    "required_dependencies": [
-                        "328085"
-                    ],
-                    "size": 1613264,
-                    "date_published": "2026-02-07T23:26:13.170Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "83t2exY054ntJ9h5",
             "pakku_links": [
                 "Vy12xXWcFO1oKyQL"
@@ -6197,6 +6128,43 @@
                     "required_dependencies": [],
                     "size": 1144367,
                     "date_published": "2026-06-13T16:14:32.673Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "kt1P2f3GNoUEuCfY",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "dnt-stronghold-overhaul"
+            },
+            "name": {
+                "curseforge": "DnT Stronghold Overhaul"
+            },
+            "id": {
+                "curseforge": "920416"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DnT-stronghold-overhaul-v2.1.f [NeoForge].jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5956/138/DnT-stronghold-overhaul-v2.1.f [NeoForge].jar",
+                    "id": "5956138",
+                    "parent_id": "920416",
+                    "hashes": {
+                        "sha1": "0c4e1c959a37e024c01be6f8a70f53aac399dad4",
+                        "md5": "81285cf3ccd4b6df54dfc39dfabe8dc3"
+                    },
+                    "required_dependencies": [],
+                    "size": 3128192,
+                    "date_published": "2024-12-02T11:26:41.687Z"
                 }
             ]
         },
@@ -15123,69 +15091,6 @@
             ]
         },
         {
-            "pakku_id": "fjciAKkkM3YSlgLw",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "simple-voice-chat",
-                "modrinth": "simple-voice-chat"
-            },
-            "name": {
-                "curseforge": "Simple Voice Chat",
-                "modrinth": "Simple Voice Chat"
-            },
-            "id": {
-                "curseforge": "416089",
-                "modrinth": "9eGKb6K1"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "voicechat-neoforge-1.21.1-2.6.20.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/8xOu3Um5/voicechat-neoforge-1.21.1-2.6.20.jar",
-                    "id": "8xOu3Um5",
-                    "parent_id": "9eGKb6K1",
-                    "hashes": {
-                        "sha512": "934b2b5f474fa2b43ee052cbc7802a2d282a11c1f76ceb1ec434293e05614cf971f64e397c3cf03445d793617bf9e0c315cb434b5adeb110aa40eb0192e8c745",
-                        "sha1": "e320dab1795ec1193a57ea709f23f49b662ef2a1"
-                    },
-                    "required_dependencies": [],
-                    "size": 4910868,
-                    "date_published": "2026-06-21T12:38:24.240939Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "voicechat-neoforge-1.21.1-2.6.20.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8293/91/voicechat-neoforge-1.21.1-2.6.20.jar",
-                    "id": "8293091",
-                    "parent_id": "416089",
-                    "hashes": {
-                        "sha1": "e320dab1795ec1193a57ea709f23f49b662ef2a1",
-                        "md5": "6df028c92f26d80b71bf67fe9ef37830"
-                    },
-                    "required_dependencies": [],
-                    "size": 4910868,
-                    "date_published": "2026-06-21T12:38:08.687Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "rPTdGhZpVfYMbchu",
             "type": "MOD",
             "side": "CLIENT",
@@ -15993,6 +15898,42 @@
                     "required_dependencies": [],
                     "size": 105355,
                     "date_published": "2025-12-24T19:03:34.337Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "B5PU67O5wbFXzTdz",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "spyglass-astronomy-neoforge"
+            },
+            "name": {
+                "curseforge": "Spyglass Astronomy Neoforge"
+            },
+            "id": {
+                "curseforge": "1591821"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "spyglass-astronomy-neoforge-1.21.1-1.0.20.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8338/853/spyglass-astronomy-neoforge-1.21.1-1.0.20.jar",
+                    "id": "8338853",
+                    "parent_id": "1591821",
+                    "hashes": {
+                        "sha1": "43a7dca6b4d215fbeceb908a2603127f8f9a0ccc",
+                        "md5": "b3aefec2e169560b5519c4a2bc6abf07"
+                    },
+                    "required_dependencies": [],
+                    "size": 131896,
+                    "date_published": "2026-06-29T05:01:22.757Z"
                 }
             ]
         },

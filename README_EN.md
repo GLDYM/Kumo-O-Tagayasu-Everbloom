@@ -25,6 +25,8 @@
 
 [简体中文](README.md) / [English](README_EN.md)
 
+***Proposition: How to narrate past mods using modern modpack narrative language?***
+
 ![](https://count.getloli.com/@:KOTS?name=%3AKOTS&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 </div>
