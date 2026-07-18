@@ -6801,7 +6801,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Epic Dungeons 1.2.2.jar",
+                    "file_name": "Epic Dungeons 1.2.3.jar",
                     "mc_versions": [
                         "1.19",
                         "1.19.1",
@@ -6839,20 +6839,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/t0YT91nL/versions/gwmJ4Ez4/Epic Dungeons 1.2.2.jar",
-                    "id": "gwmJ4Ez4",
+                    "url": "https://cdn.modrinth.com/data/t0YT91nL/versions/enEtoyym/Epic Dungeons 1.2.3.jar",
+                    "id": "enEtoyym",
                     "parent_id": "t0YT91nL",
                     "hashes": {
-                        "sha512": "78d0554a4fa5147d3b091c7b96608031df63dbe186f2a1f4502fd8bb899191dc32b87d93cb27e189175d5b806f7fbd74ed56b990ca4d638097cdf2e204d2ff11",
-                        "sha1": "e02b78b43d1ad5fa1826e40a7fb69bee828201e4"
+                        "sha512": "b5b2ba05a44e080dcfccd090d92c60442eecc74e3f78d488e53c7572ff3bceed184b86568afd4b5f747399a3fe6865b99fcf43ec9cb8c37bf2c09a8da4b75b65",
+                        "sha1": "853c5df0c5e8bb92ba285ad0dc89da92d222461a"
                     },
                     "required_dependencies": [],
-                    "size": 13016524,
-                    "date_published": "2026-07-06T20:09:08.248367Z"
+                    "size": 17480479,
+                    "date_published": "2026-07-17T22:22:53.782501Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Epic Dungeons 1.2.2.jar",
+                    "file_name": "Epic Dungeons 1.2.3.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.8",
@@ -6874,16 +6874,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8383/148/Epic Dungeons 1.2.2.jar",
-                    "id": "8383148",
+                    "url": "https://edge.forgecdn.net/files/8454/517/Epic Dungeons 1.2.3.jar",
+                    "id": "8454517",
                     "parent_id": "1501318",
                     "hashes": {
-                        "sha1": "e02b78b43d1ad5fa1826e40a7fb69bee828201e4",
-                        "md5": "a48d84388e45738e9ce67e5d12804ddd"
+                        "sha1": "853c5df0c5e8bb92ba285ad0dc89da92d222461a",
+                        "md5": "be9b6d0a0fed7e1cf3d286bce45b1f76"
                     },
                     "required_dependencies": [],
-                    "size": 13016524,
-                    "date_published": "2026-07-06T20:04:58.160Z"
+                    "size": 17480479,
+                    "date_published": "2026-07-17T22:24:11.753Z"
                 }
             ]
         },
@@ -11625,7 +11625,7 @@
             ]
         },
         {
-            "pakku_id": "mAGCqkXJptf2CCBI",
+            "pakku_id": "Lqznirr582oteqjZ",
             "pakku_links": [
                 "wi83q82aKTEP3oQC",
                 "uXhX9Z8FPq6N3zNc"
@@ -11644,7 +11644,32 @@
                 "curseforge": "1467057",
                 "modrinth": "RTiyYo0U"
             },
+            "update_strategy": "NONE",
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "maid_restaurant-0.2.9.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8422/238/maid_restaurant-0.2.9.jar",
+                    "id": "8422238",
+                    "parent_id": "1467057",
+                    "hashes": {
+                        "sha1": "a6e7157e9c22cf40080b083fdabc20f147b8b628",
+                        "md5": "e5f35f5f45db43f6fdeced32ff0f8cb3"
+                    },
+                    "required_dependencies": [
+                        "1309203",
+                        "355044"
+                    ],
+                    "size": 405729,
+                    "date_published": "2026-07-13T01:06:46.947Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "maid_restaurant-0.2.9.jar",
@@ -11663,35 +11688,11 @@
                         "sha1": "a6e7157e9c22cf40080b083fdabc20f147b8b628"
                     },
                     "required_dependencies": [
-                        "R0bDWFAW",
-                        "v17FatAc"
+                        "v17FatAc",
+                        "R0bDWFAW"
                     ],
                     "size": 405729,
                     "date_published": "2026-07-13T01:02:26.295956Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "maid_restaurant-0.2.9.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8422/241/maid_restaurant-0.2.9.jar",
-                    "id": "8422241",
-                    "parent_id": "1467057",
-                    "hashes": {
-                        "sha1": "ee7fffe6047b43eb1a1f4a9522b2073ad1f0acc6",
-                        "md5": "1dce461432c0d4812fab7f8f79763007"
-                    },
-                    "required_dependencies": [
-                        "1309203",
-                        "355044"
-                    ],
-                    "size": 408314,
-                    "date_published": "2026-07-13T01:07:23.970Z"
                 }
             ]
         },
@@ -15641,7 +15642,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "sophisticatedcore-1.21.1-1.4.75.2161.jar",
+                    "file_name": "sophisticatedcore-1.21.1-1.4.76.2170.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -15649,20 +15650,20 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/o0NtJ8Zz/sophisticatedcore-1.21.1-1.4.75.2161.jar",
-                    "id": "o0NtJ8Zz",
+                    "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/92jCynbj/sophisticatedcore-1.21.1-1.4.76.2170.jar",
+                    "id": "92jCynbj",
                     "parent_id": "nmoqTijg",
                     "hashes": {
-                        "sha512": "76f18cb986218d439ae53231560f69e4016177f7ae4c1d7a1272723187c8640f28ef8821e481b3a268d54af1207065c2316c52ee854d70cd9cf6f41e0f31e408",
-                        "sha1": "a6d099c145945dadf8814c33f8451df8e59c99e7"
+                        "sha512": "e570014c9c4d4c6f8071ca3a47d6c595d33ecadf204f2bb4ecf678cd2d9a8be937e308d4201a714b016545a5fb50a52fb2df5b08482605c35dafda884b348422",
+                        "sha1": "260a5276f7407c1497d406a8069eb13cb132a918"
                     },
                     "required_dependencies": [],
-                    "size": 1666706,
-                    "date_published": "2026-07-15T21:36:52.400741Z"
+                    "size": 1672428,
+                    "date_published": "2026-07-17T23:55:13.067701Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "sophisticatedcore-1.21.1-1.4.75.2161.jar",
+                    "file_name": "sophisticatedcore-1.21.1-1.4.76.2170.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -15670,16 +15671,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8440/438/sophisticatedcore-1.21.1-1.4.75.2161.jar",
-                    "id": "8440438",
+                    "url": "https://edge.forgecdn.net/files/8454/423/sophisticatedcore-1.21.1-1.4.76.2170.jar",
+                    "id": "8454423",
                     "parent_id": "618298",
                     "hashes": {
-                        "sha1": "dacb6f4673dbbec0bdf456f16eb0d2300740f296",
-                        "md5": "590e76ad576ad8b3015aef10dba56a33"
+                        "sha1": "e229d78ed5c4005e37bea66f557e432a9debf209",
+                        "md5": "5346e952f6cb61e39a1c98e32c839d66"
                     },
                     "required_dependencies": [],
-                    "size": 1666706,
-                    "date_published": "2026-07-15T21:34:13.130Z"
+                    "size": 1672428,
+                    "date_published": "2026-07-17T21:57:20.577Z"
                 }
             ]
         },
@@ -15773,7 +15774,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "sophisticatedstorage-1.21.1-1.5.77.1982.jar",
+                    "file_name": "sophisticatedstorage-1.21.1-1.5.79.1991.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -15781,22 +15782,22 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/nBVPkZX4/sophisticatedstorage-1.21.1-1.5.77.1982.jar",
-                    "id": "nBVPkZX4",
+                    "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/Q09Ycx1K/sophisticatedstorage-1.21.1-1.5.79.1991.jar",
+                    "id": "Q09Ycx1K",
                     "parent_id": "hMlaZH8f",
                     "hashes": {
-                        "sha512": "51c4e0d640853dec99ee85bf8448a5eb2b60b89ea0d5261652ea54d1fe4a5569293afd49393ed8b1414e3eaffd79f3d967483d5fdd748ca294ab0c0309a98370",
-                        "sha1": "5cd757d470a702d9df3aa90ae34f488bfcb39700"
+                        "sha512": "8d638107d56e837caf92e4be4c7e0ffc59b2d45a947ee86d90b90b7c494172a40bf7f4555972f1b79fb716371a8ebbd0fdb85c7695cf170d3f70b1fb256c9d95",
+                        "sha1": "80404be39d9bc0dfeb5fa4aaea0c888b274905b0"
                     },
                     "required_dependencies": [
                         "nmoqTijg"
                     ],
-                    "size": 1823927,
-                    "date_published": "2026-07-15T21:51:46.479393Z"
+                    "size": 1824279,
+                    "date_published": "2026-07-17T22:17:20.529397Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "sophisticatedstorage-1.21.1-1.5.77.1982.jar",
+                    "file_name": "sophisticatedstorage-1.21.1-1.5.79.1991.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -15804,18 +15805,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8440/527/sophisticatedstorage-1.21.1-1.5.77.1982.jar",
-                    "id": "8440527",
+                    "url": "https://edge.forgecdn.net/files/8454/489/sophisticatedstorage-1.21.1-1.5.79.1991.jar",
+                    "id": "8454489",
                     "parent_id": "619320",
                     "hashes": {
-                        "sha1": "bb1a2fc1597096b4a53c2d98990013ee0f3e812c",
-                        "md5": "4c70c68c4d203e6a2d309e05d767bfcd"
+                        "sha1": "6eb3e179d14c106ff265eeb44d5dc2d0556962df",
+                        "md5": "4e42d68f79eef746cfcdf9fa0849f630"
                     },
                     "required_dependencies": [
                         "618298"
                     ],
-                    "size": 1823926,
-                    "date_published": "2026-07-15T21:49:12.087Z"
+                    "size": 1824278,
+                    "date_published": "2026-07-17T22:14:29.827Z"
                 }
             ]
         },
@@ -15997,6 +15998,7 @@
         {
             "pakku_id": "B5PU67O5wbFXzTdz",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "spyglass-astronomy-neoforge"
             },

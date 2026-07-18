@@ -474,6 +474,9 @@
         },
         "spyglass-astronomy-neoforge": {
             "side": "CLIENT"
+        },
+        "maid-restaurant": {
+            "update_strategy": "NONE"
         }
     }
 }
