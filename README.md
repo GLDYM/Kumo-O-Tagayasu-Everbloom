@@ -1,7 +1,7 @@
 
 <div align="center">
 <a href="version">
-    <img src="./icon.png" alt="icon" style="zoom:200%;">
+    <img src="./icon.png" alt="icon" style="zoom:150%;">
 </a>
 
 # 耕云钓月：永绽 Kumo O Tagayasu Everbloom
@@ -22,6 +22,7 @@
     <img src="https://cf.way2muchnoise.eu/title/kumo-o-tagayasu.svg" alt="Curseforge">
 </a>
 
+<br>
 
 [简体中文](README.md) / [English](README_EN.md)
 
