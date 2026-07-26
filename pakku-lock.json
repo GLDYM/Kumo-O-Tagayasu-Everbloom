@@ -127,6 +127,42 @@
             ]
         },
         {
+            "pakku_id": "qXPUIU5sm0mkr9hN",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "abyss-sonata"
+            },
+            "name": {
+                "curseforge": "Abyss Sonata"
+            },
+            "id": {
+                "curseforge": "1624228"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "abyss_sonata-1.0.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8503/456/abyss_sonata-1.0.0.jar",
+                    "id": "8503456",
+                    "parent_id": "1624228",
+                    "hashes": {
+                        "sha1": "6c6bfa22d2620ebef3102b91bc638f479ffd3d35",
+                        "md5": "409272d322a3155eab7af511b27e7e9e"
+                    },
+                    "required_dependencies": [],
+                    "size": 29390,
+                    "date_published": "2026-07-25T01:10:03.147Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "uSEjHZ28mV53pxjQ",
             "type": "MOD",
             "side": "BOTH",
