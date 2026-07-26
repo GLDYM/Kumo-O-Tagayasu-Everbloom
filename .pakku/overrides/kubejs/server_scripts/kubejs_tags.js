@@ -323,11 +323,12 @@ ServerEvents.tags('item', event => {
 
 // Knives
 ServerEvents.tags('item', event => {
-  event.add('c:tools/knives', ['#l2weaponry:dagger'])
+  event.add('c:tools/knife', ['#l2weaponry:dagger'])
+  event.add('c:tools/knife', ['#c:tools/knives'])
   event.add('c:tools', ['#l2weaponry:dagger'])
   event.add('farmersdelight:tools/knives', ['#l2weaponry:dagger'])
   event.add('farmersdelight:straw_harvesters', ['#l2weaponry:dagger'])
-  event.add('immortalers_delight:tools/immortal_knives', ['#c:tools/knives'])
+  event.add('immortalers_delight:tools/immortal_knives', ['#c:tools/knife'])
 })
 
 //oei
