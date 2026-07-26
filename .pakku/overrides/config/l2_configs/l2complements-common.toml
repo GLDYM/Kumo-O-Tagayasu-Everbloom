@@ -1,5 +1,5 @@
 #When Ars Nouveau is present, use apparatus recipe for enchantments
-useArsNouveauForEnchantmentRecipe = true
+useArsNouveauForEnchantmentRecipe = false
 #Allow vanilla items such as elytra and ancient debris to be crafted with L2Complements materials
 enableVanillaItemRecipe = true
 #Allow tools to be upgraded from tools with same typ but different materials
@@ -22,9 +22,9 @@ enableSpawnEggRecipe = true
 	explosionDamage = 80
 	#Requirement for space shard drop
 	#Range: 1 ~ 1000000
-	spaceDamage = 1000000
+	spaceDamage = 16384
 	#Allow mods to ban space shard
-	allowModBanSpaceShard = true
+	allowModBanSpaceShard = false
 	#Enable immunity enchantments
 	#Be sure to inform players when you turn this off
 	enableImmunityEnchantments = true

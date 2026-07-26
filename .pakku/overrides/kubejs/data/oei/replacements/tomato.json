@@ -289,5 +289,12 @@
       "ultramarine:bronze_ingot"
     ],
     "resultItems": "alloyed:bronze_ingot"
+  },
+  {
+    "matchItems": [
+      "tsuki:steel_ingot",
+      "createnuclear:steel_ingot"
+    ],
+    "resultItems": "alloyed:steel_ingot"
   }
 ]

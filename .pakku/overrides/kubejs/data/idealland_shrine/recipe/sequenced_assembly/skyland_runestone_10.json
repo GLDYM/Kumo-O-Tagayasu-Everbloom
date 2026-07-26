@@ -1,0 +1,33 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "idealland_shrine:skyland_dull_runestone"
+  },
+  "loops": 16,
+  "results": [
+    {
+      "id": "idealland_shrine:skyland_runestone_10"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "idealland_shrine:skyland_dull_runestone"
+        },
+        {
+          "tag": "minecraft:logs"
+        }
+      ],
+      "results": [
+        {
+          "id": "idealland_shrine:skyland_dull_runestone"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "idealland_shrine:skyland_dull_runestone"
+  }
+}
