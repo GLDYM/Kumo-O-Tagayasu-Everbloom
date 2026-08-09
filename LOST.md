@@ -95,6 +95,8 @@
 - Curios 的材质？
 - EMI 的材质有点不理想
 - 饮酒作乐、捕蟹笼、Client sort要画GUI
+- 注意修改，开局不给御符 
+  - 等烘焙坊
 
 
 
@@ -106,13 +108,7 @@
   - Dialog：用于神碑或剧情演出
   - Mod Tab
   - 聊天框重构（？）
-  - 魔法食事
-  - AchievementOptimizer
   - 踢掉 emi，记得改任务
-  - FTBQ Optimizer
-  - FTB Ultimine Indicator Unofficial
-- 注意修改，开局不给御符 
-  - 等烘焙坊
 - 不详受火者掉落物
 - 深渊奏鸣和风土记改个配方
 - 永冻碎片加个配方

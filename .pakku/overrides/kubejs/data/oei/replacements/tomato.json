@@ -214,6 +214,20 @@
   },
   {
     "matchItems": [
+      "tsuki:onion_seeds",
+      "tsuki:onion"
+    ],
+    "resultItems": "farmersdelight:onion"
+  },
+  {
+    "matchItems": [
+      "tsuki:salt",
+      "bakeries:salt"
+    ],
+    "resultItems": "vintagedelight:salt"
+  },
+  {
+    "matchItems": [
       "ends_delight:chorus_flower_tea"
     ],
     "resultItems": "kaleidoscope_end:chorus_flower_tea"
@@ -271,12 +285,6 @@
       "ends_delight:dried_endermite_meat"
     ],
     "resultItems": "kaleidoscope_end:roasted_endermite_meat"
-  },
-  {
-    "matchItems": [
-      "create_bic_bit:sunflower_seeds"
-    ],
-    "resultItems": "tsuki:sunflower_seeds"
   },
   {
     "matchItems": [
