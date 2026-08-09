@@ -106,11 +106,16 @@
   - Dialog：用于神碑或剧情演出
   - Mod Tab
   - 聊天框重构（？）
-  - 村庄出生点（？）
+  - 魔法食事
+  - AchievementOptimizer
+  - 踢掉 emi，记得改任务
+  - FTBQ Optimizer
+  - FTB Ultimine Indicator Unofficial
 - 注意修改，开局不给御符 
   - 等烘焙坊
 - 不详受火者掉落物
-- 深渊奏鸣改个配方
+- 深渊奏鸣和风土记改个配方
+- 永冻碎片加个配方
 - 洋葱统一
 - 盐统一
 - 日式煮锅的配方改一下，挪出丢失造物集放到后面去。
