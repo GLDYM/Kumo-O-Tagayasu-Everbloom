@@ -480,6 +480,9 @@
         },
         "liubai": {
             "side": "CLIENT"
+        },
+        "ftb-ultimine-indicator-unofficial": {
+            "side": "CLIENT"
         }
     }
 }
