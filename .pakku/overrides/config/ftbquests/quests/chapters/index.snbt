@@ -1,0 +1,27 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "index"
+	group: "7B06BDC499F7BB13"
+	id: "5602A03FE97A151A"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		icon: {
+			components: {
+				"beyonddimensions:long_data": 3530L
+				"beyonddimensions:time_line": 1508146L
+			}
+			id: "beyonddimensions:unstable_space_time_fragment"
+		}
+		id: "12086B0763A8FA46"
+		shape: "none"
+		size: 5.0d
+		tasks: [{
+			id: "1DA8CEE7058EB99D"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

@@ -20,6 +20,7 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
+			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
 				id: "765A88684FE97EFF"
@@ -35,9 +36,13 @@
 			}
 			id: "32668E33132C1483"
 			rewards: [{
-				id: "46415CB89F3E0468"
-				type: "xp_levels"
-				xp_levels: 5
+				count: 32
+				id: "38FE13EAC1AF1268"
+				item: {
+					count: 1
+					id: "minecraft:oak_log"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "17E25F88542E65A8"
@@ -50,6 +55,15 @@
 		{
 			dependencies: ["31E4C8097B472526"]
 			id: "523A89DD177AF51B"
+			rewards: [{
+				count: 16
+				id: "184CB2C62E29DAD3"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "758391917FDE93F2"
 				item: { count: 1, id: "minecraft:iron_ingot" }
@@ -119,6 +133,11 @@
 				id: "minecraft:netherrack"
 			}
 			id: "0948E6AA0C37BF11"
+			rewards: [{
+				id: "60251907BC63B25E"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [{
 				dimension: "minecraft:the_nether"
 				id: "28D767E79D17FCCF"
@@ -133,6 +152,15 @@
 				id: "tsuki:tatara"
 			}
 			id: "0CDA14BE57E78F5B"
+			rewards: [{
+				count: 2
+				id: "10FF5221828B5AAA"
+				item: {
+					count: 1
+					id: "tsuki:steel_ingot"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "366A08BB6E6E94CD"
@@ -218,9 +246,13 @@
 			dependencies: ["0948E6AA0C37BF11"]
 			id: "5D262A04E73287C2"
 			rewards: [{
-				id: "3A7DDC700A2498C4"
-				type: "xp_levels"
-				xp_levels: 5
+				count: 8
+				id: "568B89ACC379FB07"
+				item: {
+					count: 1
+					id: "minecraft:blaze_rod"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "537B8FBDD9F8F923"
@@ -231,11 +263,17 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["31E4C8097B472526"]
+			hide_dependency_lines: true
 			id: "128D6FCDFAF663BF"
 			rewards: [{
-				id: "0D5797DF30852987"
-				type: "xp_levels"
-				xp_levels: 5
+				count: 16
+				id: "3D39B43F2F62E128"
+				item: {
+					count: 1
+					id: "minecraft:ender_pearl"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "112E2715596111B1"
@@ -273,7 +311,16 @@
 				id: "minecraft:dragon_head"
 			}
 			id: "099731067443215B"
-			shape: "pentagon"
+			rewards: [{
+				count: 8
+				id: "0B46DC7066A26CF6"
+				item: {
+					count: 1
+					id: "minecraft:dragon_breath"
+				}
+				type: "item"
+			}]
+			shape: "circle"
 			tasks: [{
 				id: "19A9B4DFB44C2121"
 				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:dragon_breath)item(minecraft:dragon_head))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -285,15 +332,23 @@
 		{
 			dependencies: ["08545968038308DC"]
 			id: "5AE0E141395D280B"
-			rewards: [{
-				count: 4
-				id: "05E8123A9488012E"
-				item: {
-					count: 1
-					id: "idealland_shrine:skyland_dull_runestone"
+			rewards: [
+				{
+					count: 8
+					id: "05E8123A9488012E"
+					item: {
+						count: 1
+						id: "idealland_shrine:skyland_dull_runestone"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "4310168B78211E1E"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+			]
+			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
 				id: "5E3F229E612170A3"
@@ -348,6 +403,69 @@
 			}]
 			x: 10.0d
 			y: 3.0d
+		}
+		{
+			dependencies: ["31E4C8097B472526"]
+			id: "2294D0E723617316"
+			invisible: true
+			rewards: [
+				{
+					count: 2
+					id: "6163DC5E30EA4AEA"
+					item: {
+						count: 1
+						id: "create:creative_crate"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "608B8E24A60C168C"
+					item: {
+						count: 1
+						id: "create:creative_motor"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1CECA488AC88023C"
+					item: {
+						count: 1
+						id: "create:creative_fluid_tank"
+					}
+					type: "item"
+				}
+			]
+			shape: "none"
+			size: 2.0d
+			tasks: [{
+				id: "7DFBF516165DF742"
+				item: { components: { "ftbfiltersystem:filter": "or(item(sourceblock:creative_source_block)item(cagedmobs:creative_upgrade)item(create_connected:creative_fluid_vessel)item(create:creative_fluid_tank)item(create:creative_motor)item(create:creative_crate)item(create:handheld_worldshaper))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["31E4C8097B472526"]
+			id: "017B4EDE5727E30D"
+			rewards: [{
+				count: 64
+				id: "4F6EFE0E48D3700A"
+				item: {
+					count: 1
+					id: "minecraft:gold_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "76D9F80E7E731663"
+				item: { count: 1, id: "minecraft:gold_ingot" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
 		}
 	]
 }

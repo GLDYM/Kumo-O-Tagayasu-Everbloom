@@ -13,10 +13,7 @@
 	grid_scale: 0.5d
 	hide_excluded_quests: false
 	icon: {
-		components: {
-			"ftbquests:icon": "kots:textures/icon.png"
-		}
-		id: "ftbquests:custom_icon"
+		id: "ftbquests:book"
 	}
 	lock_message: ""
 	loot_crate_no_drop: {

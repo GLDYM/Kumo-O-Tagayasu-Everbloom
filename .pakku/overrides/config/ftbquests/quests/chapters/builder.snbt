@@ -7,7 +7,7 @@
 		id: "ultramarine:large_blue_and_white_porcelain_vase"
 	}
 	id: "62D0845AFC5AA861"
-	order_index: 4
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
@@ -143,110 +143,6 @@
 			}]
 			x: 3.75d
 			y: -1.5d
-		}
-		{
-			dependencies: ["43779E819BF3A6AD"]
-			icon: {
-				id: "beautify:hanging_pot"
-			}
-			id: "786A7E4038D8861A"
-			rewards: [
-				{
-					id: "77F7D1DAE73B4830"
-					item: {
-						count: 1
-						id: "beautify:rope"
-					}
-					type: "item"
-				}
-				{
-					id: "33A21281AED88518"
-					item: {
-						count: 1
-						id: "beautify:hanging_pot"
-					}
-					type: "item"
-				}
-				{
-					id: "59FEF3A1618A106F"
-					item: {
-						count: 1
-						id: "beautify:bookstack"
-					}
-					type: "item"
-				}
-				{
-					id: "50FCA6A99140C405"
-					item: {
-						count: 1
-						id: "beautify:botanist_workbench"
-					}
-					type: "item"
-				}
-				{
-					id: "2A7ADDF9B9B4334F"
-					item: {
-						count: 1
-						id: "beautify:oak_blinds"
-					}
-					type: "item"
-				}
-				{
-					id: "0461DA7CBA322F00"
-					item: {
-						count: 1
-						id: "beautify:oak_picture_frame"
-					}
-					type: "item"
-				}
-				{
-					id: "19BB533347CB66C6"
-					item: {
-						count: 1
-						id: "beautify:oak_trellis"
-					}
-					type: "item"
-				}
-				{
-					id: "0B70D75178BF80D7"
-					item: {
-						count: 1
-						id: "beautify:lamp_candelabra"
-					}
-					type: "item"
-				}
-				{
-					id: "5D131FD33069DDF0"
-					item: {
-						count: 1
-						id: "beautify:lamp_jar"
-					}
-					type: "item"
-				}
-				{
-					id: "7BF9AC4D236DAE0E"
-					item: {
-						count: 1
-						id: "beautify:lamp_light_bulb"
-					}
-					type: "item"
-				}
-				{
-					id: "23F01A24552AAC46"
-					item: {
-						count: 1
-						id: "beautify:lamp_bamboo"
-					}
-					type: "item"
-				}
-			]
-			size: 1.5d
-			tasks: [{
-				id: "165886A0E02196B3"
-				type: "checkmark"
-			}]
-			x: 4.0d
-			y: -4.0d
 		}
 		{
 			dependencies: ["43779E819BF3A6AD"]

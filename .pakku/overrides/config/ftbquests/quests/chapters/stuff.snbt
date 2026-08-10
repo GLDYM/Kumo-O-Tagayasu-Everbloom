@@ -20,7 +20,7 @@
 				id: "kubejs:bedrock_egg"
 			}
 			id: "3EC718092B2DD9AD"
-			shape: "gear"
+			shape: "hexagon"
 			size: 3.0d
 			tasks: [{
 				id: "4D6AB1478E39EE56"
@@ -31,7 +31,6 @@
 		}
 		{
 			dependencies: ["3EC718092B2DD9AD"]
-			hide_until_deps_complete: true
 			id: "4AC580914BEDEC5E"
 			rewards: [{
 				id: "59AE3EF0E03E73D5"
@@ -52,7 +51,6 @@
 		}
 		{
 			dependencies: ["3EC718092B2DD9AD"]
-			hide_until_deps_complete: true
 			icon: {
 				id: "minecraft:enchanting_table"
 			}
@@ -67,7 +65,9 @@
 		}
 		{
 			dependencies: ["3EC718092B2DD9AD"]
-			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:chest"
+			}
 			id: "16E8F0B3BC974914"
 			size: 1.5d
 			tasks: [{
@@ -79,7 +79,6 @@
 		}
 		{
 			dependencies: ["3EC718092B2DD9AD"]
-			hide_until_deps_complete: true
 			id: "10E438A8A70C6D54"
 			size: 1.5d
 			tasks: [{
@@ -92,7 +91,6 @@
 		}
 		{
 			dependencies: ["3EC718092B2DD9AD"]
-			hide_until_deps_complete: true
 			id: "4FBC5309BBFBBE18"
 			size: 1.5d
 			tasks: [{
@@ -105,7 +103,6 @@
 		}
 		{
 			dependencies: ["3EC718092B2DD9AD"]
-			hide_until_deps_complete: true
 			id: "61B6F363A7BD3938"
 			size: 1.5d
 			tasks: [{
@@ -118,7 +115,6 @@
 		}
 		{
 			dependencies: ["3EC718092B2DD9AD"]
-			hide_until_deps_complete: true
 			id: "38177FEC4009CCFE"
 			size: 1.5d
 			tasks: [{
@@ -131,7 +127,6 @@
 		}
 		{
 			dependencies: ["3EC718092B2DD9AD"]
-			hide_until_deps_complete: true
 			icon: {
 				id: "kaleidoscope_nether:everlasting_flame_steak"
 			}
@@ -151,7 +146,6 @@
 		}
 		{
 			dependencies: ["3EC718092B2DD9AD"]
-			hide_until_deps_complete: true
 			id: "1F357EC4339BB73B"
 			size: 1.5d
 			tasks: [{
@@ -164,7 +158,6 @@
 		}
 		{
 			dependencies: ["3EC718092B2DD9AD"]
-			hide_until_deps_complete: true
 			id: "519FF2D319A99D35"
 			size: 1.5d
 			tasks: [{
@@ -177,8 +170,12 @@
 		}
 		{
 			dependencies: ["3EC718092B2DD9AD"]
-			hide_until_deps_complete: true
 			icon: {
+				components: {
+					"minecraft:custom_data": {
+						wand_options: { }
+					}
+				}
 				id: "constructionwand:infinity_wand"
 			}
 			id: "4D5E8D8466A0F867"
@@ -200,27 +197,6 @@
 		}
 		{
 			dependencies: ["3EC718092B2DD9AD"]
-			hide_until_deps_complete: true
-			id: "1B831B1FF66A1355"
-			size: 1.5d
-			tasks: [
-				{
-					id: "0D93DC1DF6E40244"
-					item: { count: 1, id: "naturescompass:naturescompass" }
-					type: "item"
-				}
-				{
-					id: "289E3DBF0591CE83"
-					item: { count: 1, id: "explorerscompass:explorerscompass" }
-					type: "item"
-				}
-			]
-			x: -4.0d
-			y: -4.0d
-		}
-		{
-			dependencies: ["3EC718092B2DD9AD"]
-			hide_until_deps_complete: true
 			icon: {
 				id: "l2complements:eternium_pickaxe"
 			}
