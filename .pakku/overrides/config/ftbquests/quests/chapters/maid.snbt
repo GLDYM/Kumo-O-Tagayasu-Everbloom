@@ -4,7 +4,7 @@
 	filename: "maid"
 	group: "3B8AF43E1258A852"
 	icon: {
-		id: "touhou_little_maid:hakurei_gohei"
+		id: "idealland_shrine:skyland_runestone_9"
 	}
 	id: "0D10279D33D8E73E"
 	order_index: 4
@@ -137,12 +137,18 @@
 			dependencies: ["4B474602C7639F0A"]
 			hide_dependency_lines: true
 			icon: {
+				components: {
+					"touhou_little_maid:recipe_id": "spawn_box"
+				}
 				id: "touhou_little_maid:entity_placeholder"
 			}
 			id: "6902261308A0D69F"
 			rewards: [{
-				id: "171EA905911CE90A"
+				id: "15DC3B27AD14D44E"
 				item: {
+					components: {
+						"touhou_little_maid:recipe_id": "spawn_box"
+					}
 					count: 1
 					id: "touhou_little_maid:entity_placeholder"
 				}
@@ -209,12 +215,18 @@
 		{
 			dependencies: ["4B474602C7639F0A"]
 			icon: {
+				components: {
+					"touhou_little_maid:recipe_id": "spawn_lightning_bolt"
+				}
 				id: "touhou_little_maid:entity_placeholder"
 			}
 			id: "7DDAF6906785BDE2"
 			rewards: [{
-				id: "65B187A94A46982D"
+				id: "495541DD096D5EAE"
 				item: {
+					components: {
+						"touhou_little_maid:recipe_id": "spawn_lightning_bolt"
+					}
 					count: 1
 					id: "touhou_little_maid:entity_placeholder"
 				}

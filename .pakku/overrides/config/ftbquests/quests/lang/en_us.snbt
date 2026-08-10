@@ -7,7 +7,6 @@
 	chapter.0E15DEDCD6B01133.title: "&eFacing the Soil"
 	chapter.1B290DA22A8E2132.title: "&5Gray-Haired Majo"
 	chapter.1FB48F9E7ACA1440.title: "&5Dimension Ripper"
-	chapter.2B7CFCF0C8CDD253.title: "&aMaster of Heaven Storage"
 	chapter.3513B62C05496513.title: "&eStarter Chapter Overview"
 	chapter.36388A6AEA2B477F.title: "&5Veteran Engineer"
 	chapter.49998E6AB0C3764C.title: "&aVenerator of antiquity"
@@ -37,7 +36,6 @@
 		"Whip them together in a mixer, then combine to make cake batter."
 	]
 	quest.033391C05A008D51.title: "Prepare Batter"
-	quest.037508473C03F324.quest_desc: ["Ender Drawers share one storage space per item. Compared to opaque Void Chests, they're better for item transport."]
 	quest.04C76712E7F764B3.quest_desc: ["Only gear with &e“Can be Imbued (0/1)”&f in its tooltip can be infused. (Scrolls on weapons become right‑click skills; infusing clothes adds a spell slot.)"]
 	quest.05F42BBC3C7B250D.quest_desc: ["Weave straws to make coarse cloth, which can be processed further."]
 	quest.05F42BBC3C7B250D.title: "Coarse Cloth"
@@ -273,8 +271,6 @@
 	quest.2298F2EE59AC5CFB.quest_desc: ["Mithril ingots can be obtained by mining underground, or by enchanting Necrotic Metal Ingots."]
 	quest.22C6B24400B7B631.quest_desc: ["Crafted from worn spellbooks."]
 	quest.22C6B24400B7B631.quest_subtitle: " "
-	quest.22E8E6C3740EA876.quest_desc: ["Drawers excel at holding huge amounts of a single item. They're also great for filtering, sorting, and transporting items."]
-	quest.22E8E6C3740EA876.title: "Functional storage"
 	quest.22FF5BF2ADABF847.quest_desc: ["Burning conversion: Totem of Undying or meat."]
 	quest.243B01C643B96CE3.quest_desc: [
 		"Agriculture in Africa is underdeveloped, all we need is Jinkela (Golden Fertilizer)!"
@@ -482,7 +478,6 @@
 		""
 		"Often used as a hopper replacement."
 	]
-	quest.3083F6DC1ABD0CB1.quest_desc: ["A Storage Controller links drawers within range. Input to the controller gets auto‑distributed, enabling transport and sorting setups."]
 	quest.30D32B907A3C1F53.quest_desc: [
 		"Place organic fertilizer in the world, and after some time it naturally decays into fertile soil."
 		""
@@ -560,12 +555,6 @@
 	]
 	quest.3CF891C9B8918248.title: "About Voice Chat \\& Music"
 	quest.3CFE04B652D56747.quest_desc: ["Soul fragments of the Echo of Tyros, capable of unleashing the true power of ancient weapons."]
-	quest.3D2C042623ED2D26.quest_desc: [
-		"&bIf you have spare Eternal Ingots, try your luck drawing Eternal enchanted books."
-		""
-		"&bIf you don't trust your luck, better craft them directly."
-	]
-	quest.3D2C042623ED2D26.title: "&eEnchanted Book: Eternal"
 	quest.3D6DEDFC188FD35A.quest_desc: [
 		"The shrine maiden is delighted and gives you her ribbon."
 		""
@@ -1049,13 +1038,6 @@
 		"&aFuel: Blaze Cake machine or soybean oil. Soybeans from Tofu Spider mob cage. Filters: two different colored sheep → wool → mechanical crafting. Same color wool cannot be used."
 	]
 	quest.78157942C5F485D9.title: "&6Basic: Diamond"
-	quest.78536EB821833F8D.quest_desc: ["Compacting Drawers auto‑combine items. Super useful for ores and raw resources."]
-	quest.786A7E4038D8861A.quest_desc: [
-		"@beautify"
-		""
-		"A town-themed mod, adds many plant-related decorations."
-	]
-	quest.786A7E4038D8861A.title: "Plants: Beautify!"
 	quest.78A51FD4EF36DBB8.quest_desc: [
 		"Since everyone has different habits, even though key conflicts were minimized, please adjust your keybinds yourself."
 		""
@@ -1141,16 +1123,12 @@
 	]
 	quest.7DDAF6906785BDE2.title: "Lightning!"
 	quest.7E3A5C9A5C6D1798.quest_desc: ["Evoker spells"]
-	quest.7F74368BCB1C72F8.quest_desc: ["&bThis entire chapter covers storage‑related mods."]
-	quest.7F74368BCB1C72F8.quest_subtitle: "Chapter author: PL"
-	quest.7F74368BCB1C72F8.title: "&6Storage mods"
 	quest.7FA418686872FF19.quest_desc: ["Perhaps your very first spellbook?"]
 	task.00B32220A7B337DF.title: "Beware of Reimu"
 	task.00C3C8D3B8E215A2.title: "Begin the Journey"
 	task.024BF9AFF786BD0F.title: "&6Challenge: 100 HP"
 	task.045BA5EF1590B6D3.title: "&4Did you really read it all?"
 	task.04668CF80B2DFF59.title: "&6Overview of the Starter Chapter"
-	task.068627819A7BB6B3.title: "Craft a knife… a dagger works too"
 	task.09E0A3AABBFDAA13.title: "Ultramarine"
 	task.09E4A5E1795FBC73.title: "Early Choices"
 	task.0A01F20FB4D3AF6F.title: "&4Did you really read it all?"
@@ -1166,7 +1144,6 @@
 	task.11887C0096AD4AD2.title: "Check"
 	task.11887C8596574AD2.title: "Check"
 	task.12F2A928330A7AC9.title: "Build the Altar"
-	task.165886A0E02196B3.title: "Beautify!"
 	task.1663EAD77C179143.title: "Scrolls"
 	task.2281EDC413DE6526.title: "Unique Spellbook"
 	task.25377FDFDB16EAA8.title: "&4Did you really read it all?"
@@ -1185,7 +1162,6 @@
 	task.3E352BF3AEAB3081.title: "? You really finished it"
 	task.40D015B483FFFCC8.title: "Eat All Foods"
 	task.41D6D62AC69E22B5.title: "&6Begin the Gensokyo journey"
-	task.48B953318072F4A9.title: "Storage mods"
 	task.49787755A644FF6D.title: "&6Advanced Chapter Overview"
 	task.4BD6914969A28FEA.title: "Visit the Tofu Planet"
 	task.52F20F4E96822FDD.title: "Prismatic Shine"

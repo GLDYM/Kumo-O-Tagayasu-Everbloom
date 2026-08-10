@@ -4,7 +4,7 @@
 	filename: "majo"
 	group: "31669C96F582CF92"
 	id: "1B290DA22A8E2132"
-	order_index: 3
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -84,24 +84,6 @@
 				type: "item"
 			}]
 			x: -3.0d
-			y: -3.0d
-		}
-		{
-			can_repeat: true
-			id: "3D2C042623ED2D26"
-			rewards: [{
-				id: "49542460B248D01F"
-				table_id: 3487538688900904586L
-				type: "random"
-			}]
-			size: 3.0d
-			tasks: [{
-				consume_items: true
-				id: "6D43BAB2A5ABD494"
-				item: { count: 1, id: "l2complements:eternium_ingot" }
-				type: "item"
-			}]
-			x: 0.0d
 			y: -3.0d
 		}
 	]
