@@ -483,6 +483,12 @@
         },
         "ftb-ultimine-indicator-unofficial": {
             "side": "CLIENT"
+        },
+        "moreculling": {
+            "side": "CLIENT"
+        },
+        "geckolibbetterfps": {
+            "side": "CLIENT"
         }
     }
 }
