@@ -33,15 +33,6 @@ ServerEvents.tags('item', event => {
   ])
 
   event.add('c:fruits', [
-    'atmospheric:blood_orange',
-    'atmospheric:currant',
-    'atmospheric:dragon_fruit',
-    'atmospheric:ender_dragon_fruit',
-    'atmospheric:golden_dragon_fruit',
-    'atmospheric:orange',
-    'atmospheric:passion_fruit',
-    'atmospheric:shimmering_passion_fruit',
-    'atmospheric:yucca_fruit',
     'bakeries:olive',
     'crabbersdelight:coconut',
     'crabbersdelight:coconut_halve',
@@ -83,10 +74,6 @@ ServerEvents.tags('item', event => {
   ])
 
   event.add('c:crops', [
-    'atmospheric:currant',
-    'atmospheric:dragon_fruit',
-    'atmospheric:orange',
-    'atmospheric:passion_fruit',
     'bakeries:taro',
     'corn_delight:corn',
     'corn_delight:corn_seeds',

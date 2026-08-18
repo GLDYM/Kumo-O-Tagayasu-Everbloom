@@ -122,12 +122,6 @@
   },
   {
     "matchItems": [
-      "fruitsdelight:orange"
-    ],
-    "resultItems": "atmospheric:orange"
-  },
-  {
-    "matchItems": [
       "fruitsdelight:orange_juice"
     ],
     "resultItems": "tsuki:orange_juice"
