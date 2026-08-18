@@ -4,7 +4,7 @@
 	filename: "lightland"
 	group: "31669C96F582CF92"
 	icon: {
-		id: "l2weaponry:abyss_echo"
+		id: "abyss_sonata:abyss_sonata"
 	}
 	id: "7E134D75B3BBB797"
 	order_index: 1

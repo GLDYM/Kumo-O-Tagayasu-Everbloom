@@ -1,17 +1,12 @@
 // 木材
 ServerEvents.tags('item', event => {
-  event.add('minecraft:oak_logs', ['atmospheric:laurel_log', 'atmospheric:laurel_wood'])
-  event.add('minecraft:jungle_logs', ['atmospheric:morado_log', 'atmospheric:morado_wood', 'atmospheric:rosewood_log', 'atmospheric:yucca_log', 'atmospheric:yucca_wood', 'quark:blossom_log', 'quark:blossom_wood'])
-  event.add('minecraft:dark_oak_logs', ['atmospheric:grimwood_log'])
-//   event.add('create:modded_stripped_logs', ['atmospheric:stripped_laurel_log', 'autumnity:sappy_maple_log', 'autumnity:stripped_maple_log', 'caverns_and_chasms:stripped_azalea_log', 'endergetic:stripped_poise_stem', 'immortalers_delight:stripped_ancient_wood_log', 'immortalers_delight:stripped_himekaido_log', 'sakura:stripped_maple_log', 'sakura:stripped_sakura_log', 'upgrade_aquatic:stripped_driftwood_log', 'upgrade_aquatic:stripped_river_log', 'vintagedelight:stripped_magic_vine'])
-//   event.add('create:modded_stripped_wood', ['atmospheric:stripped_laurel_wood', 'autumnity:sappy_maple_wood', 'autumnity:stripped_maple_wood', 'caverns_and_chasms:stripped_azalea_wood', 'endergetic:stripped_poise_wood', 'immortalers_delight:stripped_ancient_wood', 'immortalers_delight:stripped_himekaido_wood', 'sakura:stripped_maple_wood', 'sakura:stripped_sakura_wood', 'upgrade_aquatic:stripped_driftwood', 'upgrade_aquatic:stripped_river_wood', 'vintagedelight:stripped_magic_vine_block'])
-  event.add('c:stripped_logs', ['#c:stripped_wood', 'atmospheric:stripped_laurel_log', 'immortalers_delight:stripped_ancient_wood_log', 'immortalers_delight:stripped_himekaido_log', 'vintagedelight:stripped_magic_vine'])
-  event.add('c:stripped_wood', ['atmospheric:stripped_laurel_wood', 'immortalers_delight:stripped_ancient_wood', 'immortalers_delight:stripped_himekaido_wood', 'vintagedelight:stripped_magic_vine_block'])
+  event.add('c:stripped_logs', ['#c:stripped_wood', 'immortalers_delight:stripped_ancient_wood_log', 'immortalers_delight:stripped_himekaido_log', 'vintagedelight:stripped_magic_vine'])
+  event.add('c:stripped_wood', ['immortalers_delight:stripped_ancient_wood', 'immortalers_delight:stripped_himekaido_wood', 'vintagedelight:stripped_magic_vine_block'])
 })
 
 ServerEvents.tags('block', event => {
-  event.add('c:stripped_logs', ['#c:stripped_wood', 'atmospheric:stripped_laurel_log', 'immortalers_delight:stripped_ancient_wood_log', 'immortalers_delight:stripped_himekaido_log', 'vintagedelight:stripped_magic_vine'])
-  event.add('c:stripped_wood', ['atmospheric:stripped_laurel_wood', 'immortalers_delight:stripped_ancient_wood', 'immortalers_delight:stripped_himekaido_wood', 'vintagedelight:stripped_magic_vine_block'])
+  event.add('c:stripped_logs', ['#c:stripped_wood', 'immortalers_delight:stripped_ancient_wood_log', 'immortalers_delight:stripped_himekaido_log', 'vintagedelight:stripped_magic_vine'])
+  event.add('c:stripped_wood', ['immortalers_delight:stripped_ancient_wood', 'immortalers_delight:stripped_himekaido_wood', 'vintagedelight:stripped_magic_vine_block'])
 })
 
 // 蘑菇
@@ -50,9 +45,9 @@ ServerEvents.tags('item', event => {
 
 // 水果
 ServerEvents.tags('item', event => {
-  event.add('c:fruits', ['atmospheric:blood_orange', 'atmospheric:yucca_fruit', 'fruitsdelight:blueberry', 'fruitsdelight:cranberry', 'fruitsdelight:durian_flesh', 'fruitsdelight:hamimelon_slice', 'fruitsdelight:hawberry', 'fruitsdelight:lemon', 'fruitsdelight:lemon_slice', 'fruitsdelight:lychee', 'fruitsdelight:mango', 'fruitsdelight:orange', 'fruitsdelight:peach', 'fruitsdelight:pear', 'fruitsdelight:persimmon', 'fruitsdelight:pineapple', 'immortalers_delight:himekaido', 'minecraft:apple', 'minecraft:glow_berries', 'minecraft:melon_slice', 'minecraft:sweet_berries', 'tofucraft:apricot', 'youkaishomecoming:black_grape', 'youkaishomecoming:red_grape', 'youkaishomecoming:white_grape'])
-  event.add('c:crops', ['atmospheric:blood_orange', 'atmospheric:currant', 'atmospheric:dragon_fruit', 'atmospheric:orange', 'atmospheric:passion_fruit', 'atmospheric:yucca_fruit', 'fruitsdelight:blueberry', 'fruitsdelight:cranberry', 'fruitsdelight:hamimelon_slice', 'fruitsdelight:hawberry', 'fruitsdelight:lemon', 'fruitsdelight:lychee', 'fruitsdelight:mango', 'fruitsdelight:orange', 'fruitsdelight:peach', 'fruitsdelight:pear', 'fruitsdelight:persimmon', 'fruitsdelight:pineapple', 'immortalers_delight:himekaido', 'minecraft:apple', 'minecraft:glow_berries', 'minecraft:melon_slice', 'minecraft:sweet_berries', 'tofucraft:apricot', 'trailandtales_delight:lantern_fruit', 'youkaishomecoming:black_grape', 'youkaishomecoming:red_grape', 'youkaishomecoming:white_grape'])
-  event.add('c:berries', ['atmospheric:currant', 'fruitsdelight:blueberry', 'fruitsdelight:cranberry', 'immortalers_delight:himekaido', 'minecraft:glow_berries', 'minecraft:sweet_berries', 'youkaishomecoming:black_grape', 'youkaishomecoming:red_grape', 'youkaishomecoming:white_grape'])
+  event.add('c:fruits', ['fruitsdelight:blueberry', 'fruitsdelight:cranberry', 'fruitsdelight:durian_flesh', 'fruitsdelight:hamimelon_slice', 'fruitsdelight:hawberry', 'fruitsdelight:lemon', 'fruitsdelight:lemon_slice', 'fruitsdelight:lychee', 'fruitsdelight:mango', 'fruitsdelight:orange', 'fruitsdelight:peach', 'fruitsdelight:pear', 'fruitsdelight:persimmon', 'fruitsdelight:pineapple', 'immortalers_delight:himekaido', 'minecraft:apple', 'minecraft:glow_berries', 'minecraft:melon_slice', 'minecraft:sweet_berries', 'tofucraft:apricot', 'youkaishomecoming:black_grape', 'youkaishomecoming:red_grape', 'youkaishomecoming:white_grape'])
+  event.add('c:crops', ['fruitsdelight:blueberry', 'fruitsdelight:cranberry', 'fruitsdelight:hamimelon_slice', 'fruitsdelight:hawberry', 'fruitsdelight:lemon', 'fruitsdelight:lychee', 'fruitsdelight:mango', 'fruitsdelight:orange', 'fruitsdelight:peach', 'fruitsdelight:pear', 'fruitsdelight:persimmon', 'fruitsdelight:pineapple', 'immortalers_delight:himekaido', 'minecraft:apple', 'minecraft:glow_berries', 'minecraft:melon_slice', 'minecraft:sweet_berries', 'tofucraft:apricot', 'trailandtales_delight:lantern_fruit', 'youkaishomecoming:black_grape', 'youkaishomecoming:red_grape', 'youkaishomecoming:white_grape'])
+  event.add('c:berries', ['fruitsdelight:blueberry', 'fruitsdelight:cranberry', 'immortalers_delight:himekaido', 'minecraft:glow_berries', 'minecraft:sweet_berries', 'youkaishomecoming:black_grape', 'youkaishomecoming:red_grape', 'youkaishomecoming:white_grape'])
   event.add('c:fruits/apricot', ['tofucraft:apricot'])
   event.add('c:crops/apricot', ['tofucraft:apricot'])
   event.add('c:crops/strawberries', ['farm_and_charm:strawberry'])
@@ -85,8 +80,8 @@ ServerEvents.tags('item', event => {
   event.add('c:fruits/peach', ['fruitsdelight:peach'])
   event.add('c:crops/lemon', ['fruitsdelight:lemon'])
   event.add('c:fruits/lemon', ['fruitsdelight:lemon'])
-  event.add('c:crops/orange', ['atmospheric:blood_orange', 'atmospheric:orange', 'fruitsdelight:orange'])
-  event.add('c:fruits/orange', ['atmospheric:blood_orange', 'fruitsdelight:orange'])
+  event.add('c:crops/orange', ['fruitsdelight:orange'])
+  event.add('c:fruits/orange', ['fruitsdelight:orange'])
   event.add('c:crops/hamimelon', ['fruitsdelight:hamimelon_slice'])
   event.add('c:fruits/hamimelon', ['fruitsdelight:hamimelon_slice'])
   event.add('c:crops/pineapple', ['fruitsdelight:pineapple'])
@@ -112,22 +107,13 @@ ServerEvents.tags('item', event => {
   event.add('c:crops/glow_berries', ['minecraft:glow_berries'])
   event.add('c:fruits/glow_berries', ['minecraft:glow_berries'])
   event.add('c:berries/glow_berries', ['minecraft:glow_berries'])
-  event.add('c:crops/currant', ['atmospheric:currant'])
-  event.add('c:berries/currant', ['atmospheric:currant'])
-  event.add('c:crops/yucca', ['atmospheric:yucca_fruit'])
-  event.add('c:fruits/yucca', ['atmospheric:yucca_fruit'])
-  event.add('c:crops/dragon_fruit', ['atmospheric:dragon_fruit'])
-  event.add('c:crops/citrus', ['atmospheric:blood_orange', 'atmospheric:orange'])
-  event.add('c:crops/passion_fruit', ['atmospheric:passion_fruit'])
-  event.add('c:crops/passionfruit', ['atmospheric:passion_fruit'])
-  event.add('c:fruits/citrus', ['atmospheric:blood_orange'])
   event.add('c:fruits/durian', ['fruitsdelight:durian_flesh'])
 })
 
 // 蔬菜
 ServerEvents.tags('item', event => {
-  event.add('c:crops', ['atmospheric:aloe_leaves', 'bakeries:tomato', 'immortalers_delight:evolutcorn', 'mynethersdelight:bullet_pepper', 'neapolitan:mint_leaves', 'tofucraft:chili', 'tofucraft:leek', 'trailandtales_delight:pitcher_taro', 'vintagedelight:cucumber', 'vintagedelight:ghost_pepper', 'youkaishomecoming:cucumber'])
-  event.add('c:vegetables', ['atmospheric:aloe_leaves', 'bakeries:tomato', 'immortalers_delight:evolutcorn', 'immortalers_delight:evolutcorn_grains', 'mynethersdelight:bullet_pepper', 'neapolitan:mint_leaves', 'tofucraft:chili', 'tofucraft:leek', 'trailandtales_delight:pitcher_taro', 'vintagedelight:cucumber', 'vintagedelight:ghost_pepper', 'youkaishomecoming:cucumber'])
+  event.add('c:crops', ['bakeries:tomato', 'immortalers_delight:evolutcorn', 'mynethersdelight:bullet_pepper', 'neapolitan:mint_leaves', 'tofucraft:chili', 'tofucraft:leek', 'trailandtales_delight:pitcher_taro', 'vintagedelight:cucumber', 'vintagedelight:ghost_pepper', 'youkaishomecoming:cucumber'])
+  event.add('c:vegetables', ['bakeries:tomato', 'immortalers_delight:evolutcorn', 'immortalers_delight:evolutcorn_grains', 'mynethersdelight:bullet_pepper', 'neapolitan:mint_leaves', 'tofucraft:chili', 'tofucraft:leek', 'trailandtales_delight:pitcher_taro', 'vintagedelight:cucumber', 'vintagedelight:ghost_pepper', 'youkaishomecoming:cucumber'])
   event.add('c:crops/tomato', ['bakeries:tomato'])
   event.add('c:vegetables/tomato', ['bakeries:tomato'])
   event.add('c:grain', ['immortalers_delight:evolutcorn', 'immortalers_delight:evolutcorn_grains'])
@@ -150,8 +136,6 @@ ServerEvents.tags('item', event => {
   event.add('c:vegetables/corn', ['immortalers_delight:evolutcorn', 'immortalers_delight:evolutcorn_grains'])
   event.add('c:seeds', ['immortalers_delight:evolutcorn_grains'])
   event.add('c:seeds/corn', ['immortalers_delight:evolutcorn_grains'])
-  event.add('c:crops/aloe', ['atmospheric:aloe_leaves'])
-  event.add('c:vegetables/aloe', ['atmospheric:aloe_leaves'])
   event.add('c:crops/mint', ['neapolitan:mint_leaves'])
   event.add('c:vegetables/mint', ['neapolitan:mint_leaves'])
   event.add('c:tomato', ['farmersdelight:tomato'])
@@ -261,7 +245,7 @@ ServerEvents.tags('item', event => {
 
 // 蛋糕
 ServerEvents.tags('item', event => {
-  event.add('c:cake', ['atmospheric:yucca_gateau', 'minecraft:cake', 'neapolitan:adzuki_cake', 'neapolitan:banana_cake', 'neapolitan:chocolate_cake', 'neapolitan:mint_cake', 'neapolitan:strawberry_cake', 'neapolitan:vanilla_cake', 'tofucraft:tofucake', 'tofucraft:zundatofucake'])
+  event.add('c:cake', ['minecraft:cake', 'neapolitan:adzuki_cake', 'neapolitan:banana_cake', 'neapolitan:chocolate_cake', 'neapolitan:mint_cake', 'neapolitan:strawberry_cake', 'neapolitan:vanilla_cake', 'tofucraft:tofucake', 'tofucraft:zundatofucake'])
 })
 
 // SLICES
@@ -323,11 +307,7 @@ ServerEvents.tags('item', event => {
 
 // Knives
 ServerEvents.tags('item', event => {
-  event.add('c:tools/knife', ['#l2weaponry:dagger'])
   event.add('c:tools/knife', ['#c:tools/knives'])
-  event.add('c:tools', ['#l2weaponry:dagger'])
-  event.add('farmersdelight:tools/knives', ['#l2weaponry:dagger'])
-  event.add('farmersdelight:straw_harvesters', ['#l2weaponry:dagger'])
   event.add('immortalers_delight:tools/immortal_knives', ['#c:tools/knife'])
 })
 
