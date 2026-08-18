@@ -489,6 +489,9 @@
         },
         "geckolibbetterfps": {
             "side": "CLIENT"
+        },
+        "iss-ui-overhaul": {
+            "side": "CLIENT"
         }
     }
 }

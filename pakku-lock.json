@@ -1438,6 +1438,47 @@
             ]
         },
         {
+            "pakku_id": "nvPYh3f4JabrJC3Z",
+            "pakku_links": [
+                "lScRn9S5sEXpMoOS"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "beyond-integration"
+            },
+            "name": {
+                "curseforge": "Beyond: Integration"
+            },
+            "id": {
+                "curseforge": "1557405"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "beyond_integration-1.21.1-neoforge-0.6.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8668/464/beyond_integration-1.21.1-neoforge-0.6.0.jar",
+                    "id": "8668464",
+                    "parent_id": "1557405",
+                    "hashes": {
+                        "sha1": "19aba833da54f8be92ba744a500f5f28835da740",
+                        "md5": "f14986a0a3dc63baa36a6ace0b82189c"
+                    },
+                    "required_dependencies": [
+                        "1222890"
+                    ],
+                    "size": 546086,
+                    "date_published": "2026-08-17T08:54:10.703Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "bzNqn2goGRGCVCv7",
             "type": "MOD",
             "slug": {
@@ -6819,6 +6860,42 @@
             ]
         },
         {
+            "pakku_id": "wGuGMsXiJYPxwiSp",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "exp-ores-kots"
+            },
+            "name": {
+                "curseforge": "Exp Ores KOTS"
+            },
+            "id": {
+                "curseforge": "1656742"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "expores-1.0.0+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8670/278/expores-1.0.0+mc1.21.1.jar",
+                    "id": "8670278",
+                    "parent_id": "1656742",
+                    "hashes": {
+                        "sha1": "d5be0cdd129401ba5a2f8c9a622e60fc6ee39257",
+                        "md5": "19ae018b98a27dace3ac76c5adc224a7"
+                    },
+                    "required_dependencies": [],
+                    "size": 29559,
+                    "date_published": "2026-08-17T14:28:07.850Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "4i7TYm7XqbDYM2nM",
             "type": "MOD",
             "side": "BOTH",
@@ -8821,6 +8898,44 @@
                     "required_dependencies": [],
                     "size": 196761,
                     "date_published": "2026-05-30T04:29:07.843Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "RHBf9DyEnztThDcE",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "iss-ui-overhaul"
+            },
+            "name": {
+                "curseforge": "ISS UI Overhaul"
+            },
+            "id": {
+                "curseforge": "1616690"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "iss_ui_overhaul-1.0.1-neoforge+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8470/018/iss_ui_overhaul-1.0.1-neoforge+mc1.21.1.jar",
+                    "id": "8470018",
+                    "parent_id": "1616690",
+                    "hashes": {
+                        "sha1": "1cc241f5d0734428ce2f6de7c4cc975887130569",
+                        "md5": "046f2e79996f825fd91ddd02f51d5277"
+                    },
+                    "required_dependencies": [],
+                    "size": 29216,
+                    "date_published": "2026-07-20T07:36:54.717Z"
                 }
             ]
         },
