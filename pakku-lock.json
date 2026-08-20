@@ -3588,6 +3588,7 @@
                 "0YLBr4Us5S09cXbz"
             ],
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "createjeicompat"
             },
@@ -12760,6 +12761,67 @@
             ]
         },
         {
+            "pakku_id": "KbaOx8yeZSYxyyhE",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "mandalas-gui-kots-compat",
+                "modrinth": "mandalas-gui-kots-compat"
+            },
+            "name": {
+                "curseforge": "Mandalas GUI-KOTS Compat",
+                "modrinth": "Mandalas-GUI-KOTS-Compat"
+            },
+            "id": {
+                "curseforge": "1452633",
+                "modrinth": "V32Z1JXp"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Mandalas GUI - Dark Mode KOTS Compat 3.2.zip",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8519/823/Mandalas GUI - Dark Mode KOTS Compat 3.2.zip",
+                    "id": "8519823",
+                    "parent_id": "1452633",
+                    "hashes": {
+                        "sha1": "aabf72f6eea97e562a90c4bd59f04d1112fd805c",
+                        "md5": "77a11c289d85d722cc7522e85214d5df"
+                    },
+                    "required_dependencies": [],
+                    "size": 1531927,
+                    "date_published": "2026-07-27T12:33:33.873Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Mandalas GUI - Dark Mode KOTS Compat 3.0.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.21.1",
+                        "26.1.2"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/V32Z1JXp/versions/pdGhlaHg/Mandalas GUI - Dark Mode KOTS Compat 3.0.zip",
+                    "id": "pdGhlaHg",
+                    "parent_id": "V32Z1JXp",
+                    "hashes": {
+                        "sha512": "2181bf2996fc80fc4ab68b330153eae3dec9ee9f06cee61e65df823a058ac111d123d1c9c5a1ca928977a7c23cd437951c4b1ce2f6642cad2bac5fa6e0a4c24a",
+                        "sha1": "dc0fba64381f7da76e88c11351c4fe73fc50a1b8"
+                    },
+                    "required_dependencies": [],
+                    "size": 1511050,
+                    "date_published": "2026-06-30T06:21:41.576237Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "pX4MtCiAQGhlwiji",
             "type": "MOD",
             "side": "BOTH",
@@ -13198,6 +13260,68 @@
                     "required_dependencies": [],
                     "size": 73938,
                     "date_published": "2024-08-17T15:54:27.801812Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Qkn2lVp86WA1hpn3",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "music-hud",
+                "modrinth": "music-hud"
+            },
+            "name": {
+                "curseforge": "Music HUD",
+                "modrinth": "Music HUD"
+            },
+            "id": {
+                "curseforge": "1557355",
+                "modrinth": "7Rnb6oJr"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "music_hud-neoforge-1.3.0-alpha+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8617/102/music_hud-neoforge-1.3.0-alpha+1.21.1.jar",
+                    "id": "8617102",
+                    "parent_id": "1557355",
+                    "hashes": {
+                        "sha1": "f1ea9e1eeeb92ed860edfc43af13885a365dabaf",
+                        "md5": "77511a1307beaa0d8bee1b1d442339c9"
+                    },
+                    "required_dependencies": [],
+                    "size": 1937009,
+                    "date_published": "2026-08-10T15:22:35.803Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "music_hud-neoforge-1.3.0-alpha+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/7Rnb6oJr/versions/MdHgMsrz/music_hud-neoforge-1.3.0-alpha+1.21.1.jar",
+                    "id": "MdHgMsrz",
+                    "parent_id": "7Rnb6oJr",
+                    "hashes": {
+                        "sha512": "1a2ca74b13e578eb63e29336d8b5e455446b1c4033424a15b2f9359784a1f05646651e458024af77ceea691ead37e4115577f1fc468fc2499f771be0f56b80e4",
+                        "sha1": "f1ea9e1eeeb92ed860edfc43af13885a365dabaf"
+                    },
+                    "required_dependencies": [],
+                    "size": 1937009,
+                    "date_published": "2026-08-10T15:15:54.430973Z"
                 }
             ]
         },

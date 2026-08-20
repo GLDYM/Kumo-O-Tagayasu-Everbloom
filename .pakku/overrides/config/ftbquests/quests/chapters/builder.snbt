@@ -7,6 +7,7 @@
 		id: "ultramarine:large_blue_and_white_porcelain_vase"
 	}
 	id: "62D0845AFC5AA861"
+	images: [ ]
 	order_index: 5
 	quest_links: [ ]
 	quests: [
@@ -15,6 +16,33 @@
 				id: "ultramarine:large_blue_and_white_porcelain_vase"
 			}
 			id: "43779E819BF3A6AD"
+			rewards: [{
+				id: "6B365090965C7B5D"
+				item: {
+					components: {
+						"create:schematic_anchor": [I;
+							0
+							0
+							0
+						]
+						"create:schematic_bounds": [I;
+							40
+							30
+							24
+						]
+						"create:schematic_deployed": 0b
+						"create:schematic_file": "sakura_house.nbt"
+						"create:schematic_mirror": "none"
+						"create:schematic_owner": "Polaris_Light"
+						"create:schematic_rotation": "none"
+						"create_blueprint_tweaks:can_survival_print": 1b
+						"minecraft:item_name": "\"PrintableBlueprint\""
+					}
+					count: 1
+					id: "create:schematic"
+				}
+				type: "item"
+			}]
 			shape: "gear"
 			size: 3.0d
 			tasks: [{
