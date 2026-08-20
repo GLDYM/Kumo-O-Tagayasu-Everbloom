@@ -492,6 +492,15 @@
         },
         "iss-ui-overhaul": {
             "side": "CLIENT"
+        },
+        "jei-plus-plus": {
+            "side": "CLIENT"
+        },
+        "asyncparticles": {
+            "side": "CLIENT"
+        },
+        "isometric-renders-forked": {
+            "side": "CLIENT"
         }
     }
 }
