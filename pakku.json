@@ -501,6 +501,9 @@
         },
         "isometric-renders-forked": {
             "side": "CLIENT"
+        },
+        "createjeicompat": {
+            "side": "CLIENT"
         }
     }
 }
