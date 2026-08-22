@@ -1,9 +1,3 @@
-
-[Animations]
-	#What to render in first person while casting.
-	showFirstPersonArms = false
-	showFirstPersonItems = false
-
 ###############################################################################################
 ###                                                                                          ##
 ###                                                                                          ##
@@ -20,6 +14,12 @@
 ###                                                                                          ##
 ###############################################################################################
 #
+
+[Animations]
+	#What to render in first person while casting.
+	showFirstPersonArms = true
+	showFirstPersonItems = true
+
 [UI]
 
 	[UI.ManaBar]

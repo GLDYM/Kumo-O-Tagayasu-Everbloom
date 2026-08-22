@@ -30,11 +30,9 @@ ServerEvents.tags('block', event => {
 // 肉类
 ServerEvents.tags('item', event => {
   event.add('c:raw_meat', ['immortalers_delight:raw_sniffer_steak', 'mynethersdelight:hoglin_loin'])
-  event.add('c:raw_meat', ['immortalers_delight:raw_sniffer_steak', 'mynethersdelight:hoglin_loin'])
   event.add('c:raw_meats', ['immortalers_delight:raw_sniffer_steak', 'mynethersdelight:hoglin_loin'])
   event.add('c:meats', ['immortalers_delight:cooked_sniffer_steak', 'immortalers_delight:raw_sniffer_steak', 'mynethersdelight:cooked_loin', 'mynethersdelight:hoglin_loin'])
   event.add('c:rawmeats', ['immortalers_delight:raw_sniffer_steak', 'mynethersdelight:hoglin_loin'])
-  event.add('c:cooked_meat', ['immortalers_delight:cooked_sniffer_steak', 'mynethersdelight:cooked_loin'])
   event.add('c:cooked_meat', ['immortalers_delight:cooked_sniffer_steak', 'mynethersdelight:cooked_loin'])
   event.add('c:cooked_meats', ['immortalers_delight:cooked_sniffer_steak', 'mynethersdelight:cooked_loin'])
   event.add('c:cookedmeats', ['immortalers_delight:cooked_sniffer_steak', 'mynethersdelight:cooked_loin'])

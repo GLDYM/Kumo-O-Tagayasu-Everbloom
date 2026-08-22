@@ -504,6 +504,9 @@
         },
         "createjeicompat": {
             "side": "CLIENT"
+        },
+        "gnetum": {
+            "side": "CLIENT"
         }
     }
 }

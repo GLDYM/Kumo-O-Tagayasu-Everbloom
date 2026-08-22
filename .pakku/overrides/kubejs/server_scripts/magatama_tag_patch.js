@@ -1,6 +1,6 @@
 ServerEvents.tags('item', event => {
   event.add('c:raw_meats', [
-    '#c:raw_meat',
+    // '#c:raw_meat',
     'crabbersdelight:raw_frog_leg',
     'ends_delight:raw_dragon_meat',
     'ends_delight:raw_dragon_meat_cuts',
