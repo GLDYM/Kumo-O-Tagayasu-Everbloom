@@ -10160,7 +10160,7 @@
             ]
         },
         {
-            "pakku_id": "zGVsJ9wI0p2rX8t1",
+            "pakku_id": "fT8brCztZkFxSQEo",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -10178,7 +10178,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "jasione-1.0.6+1.21.1-neoforge.jar",
+                    "file_name": "jasione-1.0.7+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.8",
@@ -10194,16 +10194,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8492/831/jasione-1.0.6+1.21.1-neoforge.jar",
-                    "id": "8492831",
+                    "url": "https://edge.forgecdn.net/files/8696/381/jasione-1.0.7+1.21.1-neoforge.jar",
+                    "id": "8696381",
                     "parent_id": "1595495",
                     "hashes": {
-                        "sha1": "94de305c0c7bb7397b4c8637ade6658b9b5007b0",
-                        "md5": "dbb5c21be45121a52f0fc969693364a5"
+                        "sha1": "050f50a4f2fae0e394ba72f2428dfab4d950e3de",
+                        "md5": "135db3b61142fdc5f8222728ff2158d2"
                     },
                     "required_dependencies": [],
-                    "size": 747059,
-                    "date_published": "2026-07-23T10:30:46.977Z"
+                    "size": 747613,
+                    "date_published": "2026-08-21T02:57:08.790Z"
                 },
                 {
                     "type": "modrinth",
