@@ -17,7 +17,7 @@ ConfigVersion = "2.27.43"
 # Choose a language you want to use     zh_cn / zh_tw / ja_jp / en_us 
 Language = "en_us"
 
-UUID = "68093e01-6ec4-4daf-9c9f-09b7ecf3438d"
+UUID = ""
 
 [core]
     # #----------------------------------------------------------------------
@@ -203,4 +203,4 @@ UUID = "68093e01-6ec4-4daf-9c9f-09b7ecf3438d"
     # CSC v2 report endpoint. Keep the default HTTPS address unless you operate a compatible private ingress.
     reportEndpoint = "https://api.torqueflux.com/v2/uploadfile/"
     # Per-installation CSC report credential. Generated once; keep it private. Removing it registers this installation as new.
-    reportToken = "7a511beb-5252-4c4a-b21c-b2e9d5f3009d21ab35e6-86f7-418a-9f41-e5b38560e142"
+    reportToken = ""

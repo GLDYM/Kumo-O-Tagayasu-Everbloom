@@ -3535,6 +3535,42 @@
             ]
         },
         {
+            "pakku_id": "TtmIxPbwBlxC7J1a",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-beyond-stock-fix"
+            },
+            "name": {
+                "curseforge": "Create Beyond Stock Fix"
+            },
+            "id": {
+                "curseforge": "1655612"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create-beyond-stock-fix-1.21.1-neoforge-1.0.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8664/570/create-beyond-stock-fix-1.21.1-neoforge-1.0.0.jar",
+                    "id": "8664570",
+                    "parent_id": "1655612",
+                    "hashes": {
+                        "sha1": "8027d9003754db51fad36967e1dfe8a1f1badc29",
+                        "md5": "b4b0bc162672ad39afdd3d099a697db8"
+                    },
+                    "required_dependencies": [],
+                    "size": 9447,
+                    "date_published": "2026-08-16T18:48:58.077Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "KfZksjjGeam6gdfi",
             "type": "MOD",
             "side": "BOTH",
