@@ -4505,48 +4505,21 @@
             ]
         },
         {
-            "pakku_id": "yXlQyunUHo035tjI",
+            "pakku_id": "14FqNoH05M3MFhOA",
             "pakku_links": [
                 "Vy12xXWcFO1oKyQL"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "modrinth": "escalated",
                 "curseforge": "create-escalated"
             },
             "name": {
-                "modrinth": "Create: Escalated",
                 "curseforge": "Create: Escalated"
             },
             "id": {
-                "modrinth": "LyOBYG8Q",
                 "curseforge": "1260145"
             },
             "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "escalated-1.3.2+mc.1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/LyOBYG8Q/versions/vJ49zRJl/escalated-1.3.2+mc.1.21.1.jar",
-                    "id": "vJ49zRJl",
-                    "parent_id": "LyOBYG8Q",
-                    "hashes": {
-                        "sha512": "6989262104ab83d79c14fef15a19c7bcdbfb46ef7659f3c41a8421df57c6754e3bd8ce20de37b9200bfb7cb84da0977001385cfa489803efc02273419f248429",
-                        "sha1": "34854b74bd9c627b873cb21bb5ec15fbad038db6"
-                    },
-                    "required_dependencies": [
-                        "LNytGWDc"
-                    ],
-                    "size": 512624,
-                    "date_published": "2026-08-18T19:15:20.424660Z"
-                },
                 {
                     "type": "curseforge",
                     "file_name": "escalated-1.3.2-mc.1.21.1.jar",
