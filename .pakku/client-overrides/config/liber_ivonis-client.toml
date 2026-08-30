@@ -1,0 +1,17 @@
+[hub]
+	#Show entries whose optional mod is not installed
+	showUnavailable = false
+	#Built-in Hub entries, in display order. Format: id|category (category optional). Available ids: ftbquests, patchouli, modonomicon, guideme, ageratum, inventory, advancement
+	builtinEntries = ["ftbquests|Quests", "patchouli|key:guide", "modonomicon|key:guide", "guideme|key:guide", "ageratum|key:guide", "advancement", "controls"]
+
+[handbooks]
+	#Handbook items: modid:item|title|category (prefix category with key: for a translation key)
+	handbookItems = []
+
+[customScreens]
+	#Screens: title|fully.qualified.ScreenClass|method|category (prefix category with key: for a translation key)
+	customScreens = [
+        "KeyMapping(Visual)|com.github.einjerjar.mc.keymap.client.gui.screen.KeymapScreen|<init>",
+        "Waypoints|xin.vanilla.narcissus.integration.ScreenHelper|openScreen|Narcissus",
+        "Access List|xin.vanilla.narcissus.integration.ScreenHelper|openAccessListScreen|Narcissus"
+    ]
