@@ -3,7 +3,7 @@
 'legs' : '{components:{"minecraft:unbreakable":{}},count:1,id:"irons_spellbooks:netherite_mage_leggings"}',
 'feet' : '{components:{"minecraft:unbreakable":{}},count:1,id:"irons_spellbooks:netherite_mage_boots"}',
 'offhand' : '{count:1,id:"tsuki:magatama_white"}',
-0 : '{count:1,id:"ftbquests:book"}',
+0 : '{count:1,id:"liber_ivonis:ivonis_book"}',
 1 : '{count:1,id:"beyonddimensions:net_creater"}',
 2 : '{count:1,id:"sophisticatedbackpacks:netherite_backpack"}',
 3 : '{count:1,id:"createrailwaysnavigator:navigator"}',
