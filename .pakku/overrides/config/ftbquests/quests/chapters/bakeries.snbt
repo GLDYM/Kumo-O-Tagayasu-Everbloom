@@ -7,7 +7,10 @@
 		id: "bakeries:bread_knife"
 	}
 	id: "064BBA5351240699"
+	images: [ ]
 	order_index: 6
+	quest_enhance_decorative_lines: [ ]
+	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
 	quests: [
 		{

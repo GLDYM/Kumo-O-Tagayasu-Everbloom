@@ -4,7 +4,10 @@
 	filename: "cage"
 	group: "31669C96F582CF92"
 	id: "6DB018F4F6E98490"
+	images: [ ]
 	order_index: 0
+	quest_enhance_decorative_lines: [ ]
+	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
 	quests: [
 		{

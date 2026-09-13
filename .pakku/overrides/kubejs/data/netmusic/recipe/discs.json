@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "tag": "minecraft:music_discs"
+      "tag": "c:music_discs"
     }
   ],
   "result": {

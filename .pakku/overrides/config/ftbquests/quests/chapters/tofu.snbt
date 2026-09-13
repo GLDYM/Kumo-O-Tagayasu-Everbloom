@@ -4,7 +4,10 @@
 	filename: "tofu"
 	group: "65DBD493CCEDCEF5"
 	id: "04C201630E99A57E"
+	images: [ ]
 	order_index: 2
+	quest_enhance_decorative_lines: [ ]
+	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
 	quests: [
 		{

@@ -7,7 +7,10 @@
 		id: "danmaku_api:red_bubble_danmaku"
 	}
 	id: "094B51E793813ADB"
+	images: [ ]
 	order_index: 0
+	quest_enhance_decorative_lines: [ ]
+	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
 	quests: [{
 		dependency_requirement: "one_completed"

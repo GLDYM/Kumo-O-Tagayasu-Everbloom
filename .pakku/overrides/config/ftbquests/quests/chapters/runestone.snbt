@@ -7,7 +7,10 @@
 		id: "idealland_shrine:skyland_dull_runestone"
 	}
 	id: "57F38577588482A8"
+	images: [ ]
 	order_index: 0
+	quest_enhance_decorative_lines: [ ]
+	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
 	quests: [
 		{

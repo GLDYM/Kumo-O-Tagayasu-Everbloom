@@ -7,7 +7,10 @@
 		id: "idealland_shrine:skyland_runestone_8"
 	}
 	id: "420F751BA21B6B86"
+	images: [ ]
 	order_index: 3
+	quest_enhance_decorative_lines: [ ]
+	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
 	quests: [
 		{
@@ -178,10 +181,7 @@
 			y: -3.0d
 		}
 		{
-			dependencies: [
-				"14D0CF503E4623CE"
-				"1F1672733813A194"
-			]
+			dependencies: ["1F1672733813A194"]
 			id: "099CC3D0E28EFA53"
 			tasks: [
 				{
@@ -300,14 +300,11 @@
 				id: "381B76E5CF1FA189"
 				type: "checkmark"
 			}]
-			x: 10.0d
-			y: 3.0d
+			x: 12.75d
+			y: -1.5d
 		}
 		{
-			dependencies: [
-				"411CB0C6E0F2F25C"
-				"5A167ED2BE3B52B1"
-			]
+			dependencies: ["39BA63316AFE13DC"]
 			dependency_requirement: "one_completed"
 			icon: {
 				id: "create:sturdy_sheet"
@@ -318,8 +315,8 @@
 				id: "6C459B48DA1D6526"
 				type: "checkmark"
 			}]
-			x: 7.5d
-			y: 1.5d
+			x: 10.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["4ADF2C5567DB9FB6"]
@@ -328,6 +325,7 @@
 			}
 			id: "7ECA44C394938C4B"
 			shape: "gear"
+			size: 1.5d
 			tasks: [{
 				id: "0ACC36D11FEB5392"
 				type: "checkmark"
@@ -436,7 +434,7 @@
 			y: 1.5d
 		}
 		{
-			dependencies: ["1F1672733813A194"]
+			dependencies: ["647DF5E10307C2A3"]
 			id: "0E6F3FA0AFB93D0E"
 			tasks: [
 				{
@@ -450,7 +448,7 @@
 					type: "item"
 				}
 			]
-			x: -2.5d
+			x: -7.5d
 			y: 7.5d
 		}
 		{
@@ -483,10 +481,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"338018BA42955654"
-				"0BADCFF034931B8C"
-			]
+			dependencies: ["0BADCFF034931B8C"]
 			id: "0CB07D2491DE3E3A"
 			tasks: [
 				{
@@ -528,8 +523,8 @@
 					type: "item"
 				}
 			]
-			x: -2.5d
-			y: -1.5d
+			x: -5.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["620EE07F929FE261"]
@@ -539,8 +534,8 @@
 				item: { count: 1, id: "create:factory_gauge" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: -3.0d
+			x: -7.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["620EE07F929FE261"]
@@ -562,11 +557,14 @@
 					type: "item"
 				}
 			]
-			x: -7.5d
-			y: -4.5d
+			x: -10.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["620EE07F929FE261"]
+			icon: {
+				id: "create:package_frogport"
+			}
 			id: "21E6EFAD30E5E2A4"
 			tasks: [
 				{
@@ -584,25 +582,147 @@
 					item: { count: 1, id: "create:chain_conveyor" }
 					type: "item"
 				}
+			]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["620EE07F929FE261"]
+			id: "4D58CD1557258C83"
+			tasks: [{
+				id: "03C0F83B52367F2C"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(create:table_cloths))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["620EE07F929FE261"]
+			icon: {
+				id: "create:cardboard_block"
+			}
+			id: "7256679DEF949D28"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "4CF52C75969BBE26"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["620EE07F929FE261"]
+			id: "42B666365DEB1801"
+			tasks: [{
+				id: "279195A92D2599E7"
+				item: { count: 1, id: "create:repackager" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["59CA698DEB710538"]
+			icon: {
+				id: "create:mechanical_crafter"
+			}
+			id: "54E36388668717D8"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "00665A3658101F6C"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["63A4FEEBE3E80459"]
+			icon: {
+				id: "create:mechanical_saw"
+			}
+			id: "62D2F88627DC17C4"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "28E132E79A6321D4"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["63A4FEEBE3E80459"]
+			icon: {
+				id: "sourceblock:lava_source_block"
+			}
+			id: "6EAB5B409DCC7327"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "72EC4F04EAA52B3A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["418E781FF267B8F5"]
+			id: "0CFC270B09BCFCA3"
+			tasks: [
 				{
-					id: "2DA846B07E571E68"
-					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					id: "2BBCFC08EE2323AD"
+					item: { count: 1, id: "create_connected:brass_gearbox" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "085BC6921B2A5C1C"
+					item: { count: 1, id: "create_connected:vertical_brass_gearbox" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["099CC3D0E28EFA53"]
+			id: "727C09903813A28A"
+			tasks: [
+				{
+					id: "3E7FC99AA4BCEC7D"
+					item: { count: 1, id: "create:portable_storage_interface" }
+					type: "item"
+				}
+				{
+					id: "3E9C737941E43497"
+					item: { count: 1, id: "create:portable_fluid_interface" }
 					type: "item"
 				}
 			]
 			x: -2.5d
-			y: -4.0d
+			y: 7.5d
 		}
 		{
-			dependencies: ["620EE07F929FE261"]
-			id: "32F32378705E3B1E"
-			tasks: [{
-				id: "34CF0C5F49DD6885"
-				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: -2.5d
-			y: -6.5d
+			dependencies: ["411CB0C6E0F2F25C"]
+			id: "214A9ACBCFBF43AF"
+			tasks: [
+				{
+					id: "077EC49F6BC2342B"
+					item: { count: 1, id: "create:track_station" }
+					type: "item"
+				}
+				{
+					id: "251EC599F585336D"
+					item: { count: 1, id: "create:controls" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 1.5d
 		}
 	]
 }

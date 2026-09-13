@@ -1,0 +1,69 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"2": "sophisticatedbackpacks:block/3",
+		"clips": "sophisticatedbackpacks:block/leather_clips",
+		"particle": "sophisticatedbackpacks:block/2"
+	},
+	"elements": [
+		{
+			"from": [12.2, 7.1, 4.8],
+			"to": [14.2, 7.1, 10.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16.2, 8.1, 7.2]},
+			"faces": {
+				"north": {"uv": [4, 2, 5, 2], "texture": "#missing"},
+				"east": {"uv": [0, 2, 2.7, 2], "texture": "#missing"},
+				"south": {"uv": [0, 2, 1, 2], "texture": "#missing"},
+				"west": {"uv": [0.3, 2, 3, 2], "texture": "#missing"},
+				"up": {"uv": [5.5, 15.5, 6.5, 13], "texture": "#2", "tintindex": 0},
+				"down": {"uv": [7, 13.3, 8, 16], "texture": "#2", "tintindex": 0}
+			}
+		},
+		{
+			"from": [14.2, 4.1, 4.8],
+			"to": [14.2, 7.1, 10.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16.2, 4.1, 3.8]},
+			"faces": {
+				"east": {"uv": [2.5, 13.5, 5, 15], "texture": "#2", "tintindex": 0},
+				"west": {"uv": [2.5, 13.5, 5.2, 15], "texture": "#2", "tintindex": 0}
+			}
+		},
+		{
+			"from": [13, 1, 5],
+			"to": [14, 7, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 1, 6]},
+			"faces": {
+				"north": {"uv": [7.5, 13, 8, 16], "texture": "#2", "tintindex": 0},
+				"east": {"uv": [5, 13, 7.5, 16], "texture": "#2", "tintindex": 0},
+				"south": {"uv": [9, 13, 9.5, 16], "texture": "#2", "tintindex": 0},
+				"up": {"uv": [8.5, 13, 9, 15.5], "texture": "#2", "tintindex": 0},
+				"down": {"uv": [7, 13, 7.5, 15.5], "texture": "#2", "tintindex": 0}
+			}
+		},
+		{
+			"from": [14.3, 3, 7],
+			"to": [14.3, 5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.3, 3, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 1], "texture": "#missing"},
+				"east": {"uv": [4, 0, 4.5, 1], "texture": "#clips"},
+				"south": {"uv": [1, 0, 1, 1], "texture": "#missing"},
+				"west": {"uv": [3.5, 0, 4, 1], "texture": "#clips"},
+				"up": {"uv": [1, 0, 1, 0.5], "texture": "#missing"},
+				"down": {"uv": [1, 0.5, 1, 1], "texture": "#missing"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "左边包",
+			"origin": [16.2, 8.1, 7.2],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2]
+		},
+		3
+	]
+}

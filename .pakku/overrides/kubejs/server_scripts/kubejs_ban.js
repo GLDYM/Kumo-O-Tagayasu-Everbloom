@@ -1,7 +1,6 @@
 // Ban items
 ServerEvents.recipes(event => {
   event.remove({ output: 'l2complements:diffusion_wand' })
-  event.remove({ output: 'create_sa:block_picker' })
 })
 
 BlockEvents.rightClicked('minecraft:enchanting_table', event => {

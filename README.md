@@ -118,7 +118,8 @@
 
 ### 📚借物表
 
-- 为 Lootr 美化的资源包为 [Adventurer's Chest](https://link.mcmod.cn/target/aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L3RleHR1cmUtcGFja3MvYWR2ZW50dXJlcnMtY2hlc3QtbG9vdHI=)，资源包作者为[不明情况的白](https://center.mcmod.cn/10635/)。
+- Lootr 美化资源包为 [Adventurer's Chest](https://link.mcmod.cn/target/aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L3RleHR1cmUtcGFja3MvYWR2ZW50dXJlcnMtY2hlc3QtbG9vdHI=)，资源包作者为[不明情况的白](https://center.mcmod.cn/10635/)。
+- 精妙背包资源包作者为 [C01dT0m](https://space.bilibili.com/3546573264915019)。
 - 可选 GUI 资源包为 [Mandala's GUI](https://link.mcmod.cn/target/aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L3RleHR1cmUtcGFja3MvbWFuZGFsYXMtZ3VpLWRhcmstbW9kZQ==) 、 [Mandala's GUI - Dark Mode Mod Compatibility](https://link.mcmod.cn/target/aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L3RleHR1cmUtcGFja3MvdW5vZmZpY2lhbC1tYW5kYWxhcy1ndWktZGFyay1tb2RlLW1vZA==)，以及 [Mandala's GUI - KOTS Compat](https://www.curseforge.com/minecraft/texture-packs/mandalas-gui-kots-compat)。
 - 字体为 [Maple Mono](https://link.mcmod.cn/target/aHR0cHM6Ly9naXRodWIuY29tL3N1YmZyYW1lNzUzNi9tYXBsZS1mb250)。
 

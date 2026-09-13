@@ -7,7 +7,10 @@
 		id: "irons_spellbooks:gold_crown"
 	}
 	id: "0D4186DB4D2C0B87"
+	images: [ ]
 	order_index: 1
+	quest_enhance_decorative_lines: [ ]
+	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
 	quests: [
 		{

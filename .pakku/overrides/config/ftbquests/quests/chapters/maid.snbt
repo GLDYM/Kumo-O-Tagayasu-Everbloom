@@ -7,7 +7,10 @@
 		id: "idealland_shrine:skyland_runestone_9"
 	}
 	id: "0D10279D33D8E73E"
+	images: [ ]
 	order_index: 4
+	quest_enhance_decorative_lines: [ ]
+	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
 	quests: [
 		{
