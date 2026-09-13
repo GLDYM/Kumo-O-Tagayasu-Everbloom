@@ -13475,22 +13475,21 @@
             ]
         },
         {
-            "pakku_id": "Qkn2lVp86WA1hpn3",
+            "pakku_id": "Ha4dlqHxiod5w8tl",
+            "pakku_links": [
+                "eRUIB5VsMPoL9BoK"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "music-hud",
                 "modrinth": "music-hud"
             },
             "name": {
-                "curseforge": "Music HUD",
                 "modrinth": "Music HUD"
             },
             "id": {
-                "curseforge": "1557355",
                 "modrinth": "7Rnb6oJr"
             },
-            "redistributable": false,
             "files": [
                 {
                     "type": "modrinth",
@@ -13514,27 +13513,6 @@
                     ],
                     "size": 2121318,
                     "date_published": "2026-09-07T16:13:19.075375Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "music_hud-neoforge-1.3.0-alpha-2+1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8708/844/music_hud-neoforge-1.3.0-alpha-2+1.21.1.jar",
-                    "id": "8708844",
-                    "parent_id": "1557355",
-                    "hashes": {
-                        "sha1": "06989b298c69ff925f5feeca05ee26756b1d5ad6",
-                        "md5": "659d619a6e49af87060ee26ac13c45e3"
-                    },
-                    "required_dependencies": [],
-                    "size": 2000720,
-                    "date_published": "2026-08-22T18:59:51.017Z"
                 }
             ]
         },
