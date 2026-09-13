@@ -1060,6 +1060,47 @@
             ]
         },
         {
+            "pakku_id": "qee16j2Pus802uun",
+            "pakku_links": [
+                "LkbogpgjgObJsabv"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "backpack-side-gui-kots"
+            },
+            "name": {
+                "curseforge": "Backpack Side GUI KOTS"
+            },
+            "id": {
+                "curseforge": "1676184"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "backpack-side-gui-kots-1.21.1-2.0.0-neoforge-1.21.1-hf.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8801/103/backpack-side-gui-kots-1.21.1-2.0.0-neoforge-1.21.1-hf.1.jar",
+                    "id": "8801103",
+                    "parent_id": "1676184",
+                    "hashes": {
+                        "sha1": "29e80de96a5f48f0e811d4c517d10fa823dceabe",
+                        "md5": "046f3ca4243f2fa9076f84228baa96d5"
+                    },
+                    "required_dependencies": [
+                        "422301"
+                    ],
+                    "size": 343677,
+                    "date_published": "2026-09-03T17:00:08.567Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "w3qvn9u76otyeVk2",
             "type": "MOD",
             "side": "BOTH",
@@ -4722,6 +4763,74 @@
                     ],
                     "size": 825913,
                     "date_published": "2026-08-28T11:41:43.223Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "e9Zk4VaYELtyfvKA",
+            "pakku_links": [
+                "VOvevEyBnihiWBDS",
+                "Vy12xXWcFO1oKyQL"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-improve",
+                "modrinth": "create-improve"
+            },
+            "name": {
+                "curseforge": "Create: Improve",
+                "modrinth": "Create: Improve"
+            },
+            "id": {
+                "curseforge": "1580762",
+                "modrinth": "3xu2jXe8"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "createimp-1.4.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8645/221/createimp-1.4.1.jar",
+                    "id": "8645221",
+                    "parent_id": "1580762",
+                    "hashes": {
+                        "sha1": "9b085dedfac7f918069907f390791aff5e81494d",
+                        "md5": "97120e25a07e49bd525a1a8147c60bf1"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "328085"
+                    ],
+                    "size": 1499777,
+                    "date_published": "2026-08-14T06:31:39.900Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "createimp-1.4.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/3xu2jXe8/versions/LzKSSB7X/createimp-1.4.1.jar",
+                    "id": "LzKSSB7X",
+                    "parent_id": "3xu2jXe8",
+                    "hashes": {
+                        "sha512": "de095c29cb7a3cbe0c717ff43449d8a465f167c6003f0b1a531bdbef297c3ac139a9b346e80a516e0a6ea95a05eb074a577554d343047578aa00420df0fca420",
+                        "sha1": "9b085dedfac7f918069907f390791aff5e81494d"
+                    },
+                    "required_dependencies": [],
+                    "size": 1499777,
+                    "date_published": "2026-08-14T06:31:00.065859Z"
                 }
             ]
         },
@@ -8666,6 +8775,76 @@
             ]
         },
         {
+            "pakku_id": "brjPu2WSIIBDQYlY",
+            "pakku_links": [
+                "4K9kXYwwPGX4BUDz"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "fzzy-config",
+                "modrinth": "fzzy-config"
+            },
+            "name": {
+                "curseforge": "Fzzy Config",
+                "modrinth": "Fzzy Config"
+            },
+            "id": {
+                "curseforge": "1005914",
+                "modrinth": "hYykXjDp"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fzzy_config-0.7.6+1.21+neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7568/897/fzzy_config-0.7.6+1.21+neoforge.jar",
+                    "id": "7568897",
+                    "parent_id": "1005914",
+                    "hashes": {
+                        "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1",
+                        "md5": "cd0823556e6d24046bd0f4ba74cd4981"
+                    },
+                    "required_dependencies": [
+                        "351264"
+                    ],
+                    "size": 2369895,
+                    "date_published": "2026-02-03T01:49:37.233Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fzzy_config-0.7.6+1.21+neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/MAPG6cXE/fzzy_config-0.7.6+1.21+neoforge.jar",
+                    "id": "MAPG6cXE",
+                    "parent_id": "hYykXjDp",
+                    "hashes": {
+                        "sha512": "6071890aba7f2273c9fd508914acc7850de9d986423760f9ce416875ffa04eea2ad71a7a6f4d5f90f0625a672f6f54606778d11151b155f3fd98c223c61a4a6d",
+                        "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1"
+                    },
+                    "required_dependencies": [
+                        "ordsPcFz"
+                    ],
+                    "size": 2369895,
+                    "date_published": "2026-02-03T01:49:45.873692Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "JBpaf6t0hUZ6EH7G",
             "pakku_links": [
                 "5T77UoUJ6WHh5Pam"
@@ -9354,6 +9533,74 @@
                     "required_dependencies": [],
                     "size": 5534299,
                     "date_published": "2026-08-10T17:51:43.883Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "vtrqW0qSRtTnTdPd",
+            "pakku_links": [
+                "brjPu2WSIIBDQYlY"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "immersive-paintings",
+                "modrinth": "immersive-paintings"
+            },
+            "name": {
+                "curseforge": "Immersive Paintings",
+                "modrinth": "Immersive Paintings"
+            },
+            "id": {
+                "curseforge": "639584",
+                "modrinth": "6txNkua3"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8194/870/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+                    "id": "8194870",
+                    "parent_id": "639584",
+                    "hashes": {
+                        "sha1": "2a8ddb25e4206f3ca11fdffec3bdbde1ff1e6ae8",
+                        "md5": "a857d42037e6afbc0ad03a0b744ba7f5"
+                    },
+                    "required_dependencies": [
+                        "1005914"
+                    ],
+                    "size": 5500916,
+                    "date_published": "2026-06-04T08:46:55.250Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6txNkua3/versions/DeOfrXC3/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+                    "id": "DeOfrXC3",
+                    "parent_id": "6txNkua3",
+                    "hashes": {
+                        "sha512": "f08e759ab6bbdd8b2d00ae3e1cc7044dfe3efa86d34fbbf7553d097ad1be358818d6569902b122cff2654c3a0942eb1a7406cf17ca537386b7d382aa8454b326",
+                        "sha1": "2a8ddb25e4206f3ca11fdffec3bdbde1ff1e6ae8"
+                    },
+                    "required_dependencies": [
+                        "hYykXjDp"
+                    ],
+                    "size": 5500916,
+                    "date_published": "2026-06-04T08:46:57.747477Z"
                 }
             ]
         },
@@ -10473,6 +10720,49 @@
             ]
         },
         {
+            "pakku_id": "ETUrZXNSVFntDxYn",
+            "pakku_links": [
+                "wi83q82aKTEP3oQC"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "kaleidoscope-chinese-food"
+            },
+            "name": {
+                "curseforge": "Kaleidoscope Chinese Food"
+            },
+            "id": {
+                "curseforge": "1479951"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "kaleidoscope_chinesefood-1.1.10-neoforge+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8737/043/kaleidoscope_chinesefood-1.1.10-neoforge+1.21.1.jar",
+                    "id": "8737043",
+                    "parent_id": "1479951",
+                    "hashes": {
+                        "sha1": "c6f23b3fb1faa3dbcfb3fa2c0779e67d7f83e0c0",
+                        "md5": "5411348cf9026d3ae8c955ce38885ff5"
+                    },
+                    "required_dependencies": [
+                        "1309203"
+                    ],
+                    "size": 8641796,
+                    "date_published": "2026-08-26T06:46:38.040Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "aHiO3cQcnenDOiEx",
             "pakku_links": [
                 "wi83q82aKTEP3oQC"
@@ -10535,6 +10825,72 @@
                     ],
                     "size": 1357431,
                     "date_published": "2026-07-16T08:15:54.150Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "KszEtEuPtT7XGk5K",
+            "pakku_links": [
+                "wi83q82aKTEP3oQC"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "kaleidoscope-contraption",
+                "modrinth": "kaleidoscope-contraption"
+            },
+            "name": {
+                "curseforge": "Kaleidoscope Contraption",
+                "modrinth": "Kaleidoscope Contraption"
+            },
+            "id": {
+                "curseforge": "1500547",
+                "modrinth": "JCCAvv9N"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "kaleidoscope_contraption-1.0.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8697/544/kaleidoscope_contraption-1.0.3.jar",
+                    "id": "8697544",
+                    "parent_id": "1500547",
+                    "hashes": {
+                        "sha1": "33bedbe91325f791ed59c49d97a4ae751119621a",
+                        "md5": "ae4c4f7fb79aaedd2761185dcf61966a"
+                    },
+                    "required_dependencies": [
+                        "1309203"
+                    ],
+                    "size": 421978,
+                    "date_published": "2026-08-21T07:50:44.073Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "kaleidoscope_contraption-1.0.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/JCCAvv9N/versions/3knNncAu/kaleidoscope_contraption-1.0.3.jar",
+                    "id": "3knNncAu",
+                    "parent_id": "JCCAvv9N",
+                    "hashes": {
+                        "sha512": "a320f819c596e7aa7d7f73324fa4474bf83792435a28a11a6e3ef6266e09d6e2a070a2910b54974a3637ad4e8aa6e0eca6ca2e8baf4ecf9f891143557602db3a",
+                        "sha1": "33bedbe91325f791ed59c49d97a4ae751119621a"
+                    },
+                    "required_dependencies": [],
+                    "size": 421978,
+                    "date_published": "2026-08-21T07:51:36.304400Z"
                 }
             ]
         },
@@ -10851,48 +11207,6 @@
                     "required_dependencies": [],
                     "size": 1708047,
                     "date_published": "2026-07-01T08:08:12.910Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "5dwxPNiJGPLu5RDx",
-            "pakku_links": [
-                "R0IKtzZiK2ORJWwl"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "kaleidoscope-dimensions-wine"
-            },
-            "name": {
-                "curseforge": "Kaleidoscope：Dimensions wine"
-            },
-            "id": {
-                "curseforge": "1506363"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "kaleidoscope_dim_wine-1.5.3-mc1.21.1-neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8369/853/kaleidoscope_dim_wine-1.5.3-mc1.21.1-neoforge.jar",
-                    "id": "8369853",
-                    "parent_id": "1506363",
-                    "hashes": {
-                        "sha1": "bcacdab9ba6d2117eccad6f4480e1de652c261e8",
-                        "md5": "fdf68f124acd99980449370c5a06363c"
-                    },
-                    "required_dependencies": [
-                        "1475175"
-                    ],
-                    "size": 1043687,
-                    "date_published": "2026-07-04T15:43:43.427Z"
                 }
             ]
         },
@@ -18561,6 +18875,42 @@
                     "required_dependencies": [],
                     "size": 24361,
                     "date_published": "2025-05-22T15:22:05.876799Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "YSA03mB4j5lct0zR",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "what-i-wanna-show-u"
+            },
+            "name": {
+                "curseforge": "What I wanna show U"
+            },
+            "id": {
+                "curseforge": "1510640"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "whatiwannashowu-1.21.1-neoforge-1.0.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8112/809/whatiwannashowu-1.21.1-neoforge-1.0.4.jar",
+                    "id": "8112809",
+                    "parent_id": "1510640",
+                    "hashes": {
+                        "sha1": "7a578567a2a22acc2581b19e47365b6e26d3eb48",
+                        "md5": "83260eda46deef35dd9718e84c9ecb9d"
+                    },
+                    "required_dependencies": [],
+                    "size": 23252,
+                    "date_published": "2026-05-19T08:41:54.143Z"
                 }
             ]
         },

@@ -1,17 +1,28 @@
 [hub]
-	#Show entries whose optional mod is not installed
-	showUnavailable = false
-	#Built-in Hub entries, in display order. Format: id|category (category optional). Available ids: ftbquests, patchouli, modonomicon, guideme, ageratum, inventory, advancement
-	builtinEntries = ["ftbquests|Quests", "patchouli|key:guide", "modonomicon|key:guide", "guideme|key:guide", "ageratum|key:guide", "advancement", "controls"]
-
-[handbooks]
-	#Handbook items: modid:item|title|category (prefix category with key: for a translation key)
-	handbookItems = []
-
-[customScreens]
-	#Screens: title|fully.qualified.ScreenClass|method|category (prefix category with key: for a translation key)
-	customScreens = [
-        "KeyMapping(Visual)|com.github.einjerjar.mc.keymap.client.gui.screen.KeymapScreen|<init>",
-        "Waypoints|xin.vanilla.narcissus.integration.ScreenHelper|openScreen|Narcissus",
-        "Access List|xin.vanilla.narcissus.integration.ScreenHelper|openAccessListScreen|Narcissus"
+	#Hub entries in display order
+	#Built-in: id|category
+	#Handbook: item:modid:item_id|title|category
+	#Screen: screen:class|method|title|category
+	#title & category support translation key, use `key:title.ageratum.guidebook`
+	#The params of method should be (Screen, Minecraft, ServerPlayer, Level) or no param
+	#The Return Type should be a sub-class of Screen
+	entries = [
+        "controls|Base",
+        "ftbquests|Task", 
+        "patchouli|Handbook", 
+        "guideme|Handbook",  
+        "advancement|Task", 
+        "screen:com.github.einjerjar.mc.keymap.client.gui.screen.KeymapScreen|<init>|Key Binding (Visual)|Base",
+        "screen:xin.vanilla.narcissus.integration.ScreenHelper|openScreen|Waypoints|Narcissus",
+        "screen:xin.vanilla.narcissus.integration.ScreenHelper|openAccessListScreen|Access List|Narcissus"
     ]
+
+	[hub.colors]
+		#Hub colours in #AARRGGBB or #RRGGBB hexadecimal format. #RRGGBB is fully opaque.
+		background = "#FF0D1117"
+		surface = "#FF171D27"
+		surfaceAlt = "#FF202938"
+		accent = "#FFE8D9B5"
+		muted = "#FF9AA6B8"
+		outline = "#FF364255"
+		disabledOutline = "#FF252C38"

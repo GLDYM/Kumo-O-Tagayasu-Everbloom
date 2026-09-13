@@ -9,6 +9,8 @@
 	id: "62D0845AFC5AA861"
 	images: [ ]
 	order_index: 5
+	quest_enhance_decorative_lines: [ ]
+	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
 	quests: [
 		{
@@ -296,15 +298,15 @@
 		{
 			dependencies: ["43779E819BF3A6AD"]
 			icon: {
-				id: "nightlights:mushroom_yellow"
+				id: "nightlights:mushroom_pink"
 			}
 			id: "6173E8F5CA64472F"
 			rewards: [{
-				count: 4
-				id: "0FD1337339351153"
+				count: 8
+				id: "07E657A32D2611C0"
 				item: {
 					count: 1
-					id: "nightlights:mushroom_yellow"
+					id: "nightlights:mushroom_pink"
 				}
 				type: "item"
 			}]

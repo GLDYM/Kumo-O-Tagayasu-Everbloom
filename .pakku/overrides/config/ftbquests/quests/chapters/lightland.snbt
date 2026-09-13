@@ -4,10 +4,26 @@
 	filename: "lightland"
 	group: "31669C96F582CF92"
 	icon: {
+		components: {
+			"irons_spellbooks:spell_container": {
+				data: [{
+					id: "irons_spellbooks:echoing_strikes"
+					index: 0
+					level: 5
+					locked: 1b
+				}]
+				maxSpells: 1
+				mustEquip: 0b
+				spellWheel: 1b
+			}
+		}
 		id: "abyss_sonata:abyss_sonata"
 	}
 	id: "7E134D75B3BBB797"
+	images: [ ]
 	order_index: 1
+	quest_enhance_decorative_lines: [ ]
+	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
 	quests: [
 		{

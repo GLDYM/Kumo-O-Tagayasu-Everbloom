@@ -7,7 +7,10 @@
 		id: "idealland_shrine:skyland_runestone_0"
 	}
 	id: "0E15DEDCD6B01133"
+	images: [ ]
 	order_index: 2
+	quest_enhance_decorative_lines: [ ]
+	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
 	quests: [
 		{
@@ -435,6 +438,25 @@
 				type: "item"
 			}]
 			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["578F3AB34375C233"]
+			id: "474460D392A11E95"
+			rewards: [{
+				id: "074F441A67E01361"
+				type: "xp_levels"
+				xp_levels: 30
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				count: 256L
+				id: "1DA2CC25055360CF"
+				item: { count: 1, id: "vintagedelight:golden_egg" }
+				type: "item"
+			}]
+			x: 10.0d
 			y: 6.0d
 		}
 	]

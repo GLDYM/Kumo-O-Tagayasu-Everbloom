@@ -4,7 +4,10 @@
 	filename: "create"
 	group: "3B8AF43E1258A852"
 	id: "6C24382A05BDACB3"
+	images: [ ]
 	order_index: 5
+	quest_enhance_decorative_lines: [ ]
+	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
 	quests: [
 		{
@@ -41,15 +44,6 @@
 				type: "checkmark"
 			}]
 			x: -5.0d
-			y: 26.5d
-		}
-		{
-			id: "14D0CF503E4623CE"
-			tasks: [{
-				id: "6EF8BFD08B783F1C"
-				type: "checkmark"
-			}]
-			x: 2.0d
 			y: 26.5d
 		}
 		{
@@ -216,91 +210,6 @@
 			y: 28.5d
 		}
 		{
-			dependencies: ["14D0CF503E4623CE"]
-			id: "43CC92E0F72A76C3"
-			tasks: [
-				{
-					id: "52BAC28BABAED973"
-					item: { count: 1, id: "create:chute" }
-					type: "item"
-				}
-				{
-					id: "79EE9CC7E0A574B4"
-					item: { count: 1, id: "create:smart_chute" }
-					type: "item"
-				}
-				{
-					id: "7AE3289B75C76663"
-					item: { count: 1, id: "create:andesite_funnel" }
-					type: "item"
-				}
-				{
-					id: "437BCEF437263CF3"
-					item: { count: 1, id: "create:brass_funnel" }
-					type: "item"
-				}
-				{
-					id: "7A729CEE4841A763"
-					item: { count: 1, id: "create:filter" }
-					type: "item"
-				}
-				{
-					id: "5A4C3AEDD0EF596B"
-					item: { count: 1, id: "create:attribute_filter" }
-					type: "item"
-				}
-			]
-			x: 4.0d
-			y: 26.5d
-		}
-		{
-			dependencies: ["14D0CF503E4623CE"]
-			id: "09D9B8DC2F380169"
-			tasks: [
-				{
-					id: "01B58B3236A077F4"
-					item: { count: 1, id: "create:andesite_tunnel" }
-					type: "item"
-				}
-				{
-					id: "2EC5994043F6F5FD"
-					item: { count: 1, id: "create:brass_tunnel" }
-					type: "item"
-				}
-			]
-			x: 0.0d
-			y: 26.5d
-		}
-		{
-			dependencies: ["14D0CF503E4623CE"]
-			id: "60A0A23EC3D66F01"
-			tasks: [
-				{
-					id: "5E3A9F409A7C590F"
-					item: { count: 1, id: "create:portable_storage_interface" }
-					type: "item"
-				}
-				{
-					id: "79A0C9836DD8AD12"
-					item: { count: 1, id: "create:portable_fluid_interface" }
-					type: "item"
-				}
-			]
-			x: 1.0d
-			y: 28.0d
-		}
-		{
-			dependencies: ["14D0CF503E4623CE"]
-			id: "338018BA42955654"
-			tasks: [{
-				id: "3D5E27817674DFFA"
-				item: { count: 1, id: "create:item_vault" }
-				type: "item"
-			}]
-			x: 3.0d
-			y: 28.0d
-		}
-		{
 			hide_until_deps_complete: true
 			id: "302FF52DFFBFC593"
 			shape: "square"
@@ -433,24 +342,6 @@
 			y: 11.0d
 		}
 		{
-			dependencies: ["338018BA42955654"]
-			id: "4FC0A1B6F2525CF2"
-			tasks: [
-				{
-					id: "375A744F9D3C07D0"
-					item: { count: 1, id: "create_connected:item_silo" }
-					type: "item"
-				}
-				{
-					id: "6B46AB9449ED81EB"
-					item: { count: 1, id: "create_connected:fluid_vessel" }
-					type: "item"
-				}
-			]
-			x: 4.0d
-			y: 29.5d
-		}
-		{
 			dependencies: ["192E44857CF6D97E"]
 			id: "10FFF70BC5F48B23"
 			tasks: [{
@@ -489,25 +380,6 @@
 			y: 30.0d
 		}
 		{
-			id: "06A1C7E222714F7C"
-			tasks: [
-				{
-					id: "67DD87631F8BE845"
-					item: { count: 1, id: "create_connected:brass_gearbox" }
-					optional_task: true
-					type: "item"
-				}
-				{
-					id: "3F400A05F006BA31"
-					item: { count: 1, id: "create_connected:vertical_brass_gearbox" }
-					optional_task: true
-					type: "item"
-				}
-			]
-			x: 2.0d
-			y: 29.5d
-		}
-		{
 			dependencies: ["10FFF70BC5F48B23"]
 			id: "4438E7B0ADE5CFA2"
 			tasks: [{
@@ -535,24 +407,6 @@
 			]
 			x: -6.0d
 			y: 30.0d
-		}
-		{
-			dependencies: ["43CC92E0F72A76C3"]
-			id: "0E1C900DF6166FE2"
-			tasks: [
-				{
-					id: "0A45135B916FCF3A"
-					item: { count: 1, id: "create_connected:inventory_access_port" }
-					type: "item"
-				}
-				{
-					id: "3F57D46134279928"
-					item: { count: 1, id: "create_connected:inventory_bridge" }
-					type: "item"
-				}
-			]
-			x: 6.0d
-			y: 26.5d
 		}
 		{
 			id: "7441511CE448C78C"
@@ -679,104 +533,6 @@
 			]
 			x: 16.0d
 			y: 16.0d
-		}
-		{
-			dependencies: ["338018BA42955654"]
-			id: "64631B35579E9854"
-			shape: "gear"
-			size: 2.0d
-			tasks: [
-				{
-					id: "3D04C42821D4DDD1"
-					item: { count: 1, id: "create:packager" }
-					type: "item"
-				}
-				{
-					id: "54B50FC7BA333DCF"
-					item: { count: 1, id: "create:stock_link" }
-					type: "item"
-				}
-				{
-					id: "45B3C1BBD35A6521"
-					item: { count: 1, id: "create:stock_ticker" }
-					type: "item"
-				}
-			]
-			x: 9.0d
-			y: 28.0d
-		}
-		{
-			dependencies: ["64631B35579E9854"]
-			id: "6E3A72A8ED1892A1"
-			tasks: [
-				{
-					id: "5023D435BB70EBC3"
-					item: { count: 1, id: "create:package_frogport" }
-					type: "item"
-				}
-				{
-					id: "74ADCE5334926E5D"
-					item: { count: 1, id: "create:package_filter" }
-					type: "item"
-				}
-				{
-					id: "65C2AD9EDEE5B907"
-					item: { count: 1, id: "create:chain_conveyor" }
-					type: "item"
-				}
-				{
-					id: "1CF1EB3F864EBCDA"
-					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-			]
-			x: 9.0d
-			y: 26.0d
-		}
-		{
-			dependencies: ["64631B35579E9854"]
-			id: "1F414F64F922FF3B"
-			tasks: [{
-				id: "1BA13FD1E29535CF"
-				item: { count: 1, id: "create:factory_gauge" }
-				type: "item"
-			}]
-			x: 11.0d
-			y: 27.0d
-		}
-		{
-			dependencies: ["64631B35579E9854"]
-			id: "09379D20521DF467"
-			tasks: [{
-				id: "4B7C7706DE1A3833"
-				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 11.0d
-			y: 29.0d
-		}
-		{
-			dependencies: ["64631B35579E9854"]
-			id: "74B56BE96535A815"
-			tasks: [
-				{
-					id: "0824741A05D17496"
-					item: { count: 1, id: "createadditionallogistics:package_accelerator" }
-					type: "item"
-				}
-				{
-					id: "7B197C35C1B6DFC5"
-					item: { count: 1, id: "createadditionallogistics:cash_register" }
-					type: "item"
-				}
-				{
-					id: "476CCBACDA561620"
-					item: { count: 1, id: "createadditionallogistics:package_editor" }
-					type: "item"
-				}
-			]
-			x: 9.0d
-			y: 30.0d
 		}
 	]
 }

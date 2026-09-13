@@ -301,6 +301,7 @@ ServerEvents.tags('item', event => {
   event.add('supplementaries:shulker_blacklist', ['#create:toolboxes', '#curios:spellbook', '#functionalstorage:drawer', '#l2backpack:backpacks', '#l2backpack:bags', '#l2backpack:dimensional_storages', '#l2backpack:drawers', '#l2backpack:swaps', 'caverns_and_chasms:tether_potion', 'cuisinedelight:cuisine_skillet', 'cuisinedelight:fried_meat_and_melon', 'cuisinedelight:fried_mushroom', 'cuisinedelight:fried_pasta', 'cuisinedelight:fried_rice', 'cuisinedelight:ham_fried_rice', 'cuisinedelight:meat_fried_rice', 'cuisinedelight:meat_pasta', 'cuisinedelight:meat_platter', 'cuisinedelight:meat_with_seafood', 'cuisinedelight:meat_with_vegetables', 'cuisinedelight:mixed_fried_rice', 'cuisinedelight:mixed_pasta', 'cuisinedelight:scrambled_egg_and_tomato', 'cuisinedelight:seafood_fried_rice', 'cuisinedelight:seafood_pasta', 'cuisinedelight:seafood_platter', 'cuisinedelight:seafood_with_vegetables', 'cuisinedelight:suspicious_mix', 'cuisinedelight:vegetable_fried_rice', 'cuisinedelight:vegetable_pasta', 'cuisinedelight:vegetable_platter', 'minecraft:bundle', 'minecraft:ender_chest', 'some_assembly_required:sandwich'])
   event.add('touhou_little_maid:maid_tamed_item', ['#c:cake'])
   event.add('c:ice_cubes', ['youkaishomecoming:ice_cube'])
+  event.add('c:gems/jade', ['ultramarine:jade'])
 })
 
 // Knives

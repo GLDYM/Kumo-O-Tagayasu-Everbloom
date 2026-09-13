@@ -12,7 +12,10 @@
 		id: "constructionwand:infinity_wand"
 	}
 	id: "3D315FA49F0EFCB2"
+	images: [ ]
 	order_index: 3
+	quest_enhance_decorative_lines: [ ]
+	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
 	quests: [
 		{
@@ -88,18 +91,6 @@
 			}]
 			x: 6.0d
 			y: 0.0d
-		}
-		{
-			dependencies: ["3EC718092B2DD9AD"]
-			id: "4FBC5309BBFBBE18"
-			size: 1.5d
-			tasks: [{
-				id: "649A6FAC10F0A482"
-				item: { count: 1, id: "exposure:camera" }
-				type: "item"
-			}]
-			x: -2.25d
-			y: 5.25d
 		}
 		{
 			dependencies: ["3EC718092B2DD9AD"]
