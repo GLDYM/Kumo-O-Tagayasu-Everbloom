@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["serilum_mod_translations","vanilla","generated/fragmentum_layer","mod_resources","moonlight:merged_pack","mod/bakeries:resourcepacks/b_16x","file/Minecraft-Mod-Language-Modpack-1-21.zip","file/MandalasGUI+Modded_Dakmode_v4.6.zip","file/Mandalas GUI - Dark Mode KOTS Compat 3.2.zip","file/Suwako-Port.zip","file/Teto-Drill.zip"]
+resourcePacks:["serilum_mod_translations","vanilla","generated/fragmentum_layer","mod_resources","moonlight:merged_pack","mod/bakeries:resourcepacks/b_16x","file/Minecraft-Mod-Language-Modpack-1-21.zip","file/MandalasGUI+Modded_Dakmode_v4.6.zip","file/Mandalas GUI - Dark Mode KOTS Compat 3.4.zip","file/Suwako-Port.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
