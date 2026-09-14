@@ -3608,7 +3608,8 @@
             "pakku_id": "6nyJoameFwm2Zs9D",
             "pakku_links": [
                 "Vy12xXWcFO1oKyQL",
-                "0YLBr4Us5S09cXbz"
+                "0YLBr4Us5S09cXbz",
+                "c5n0ljqfbE7fRtqg"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -10176,7 +10177,8 @@
         {
             "pakku_id": "E5zDliZEuLN6h8Cf",
             "pakku_links": [
-                "0YLBr4Us5S09cXbz"
+                "0YLBr4Us5S09cXbz",
+                "c5n0ljqfbE7fRtqg"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -10634,49 +10636,21 @@
             ]
         },
         {
-            "pakku_id": "0YLBr4Us5S09cXbz",
+            "pakku_id": "c5n0ljqfbE7fRtqg",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "jei",
-                "modrinth": "jei"
+                "curseforge": "jei"
             },
             "name": {
-                "curseforge": "Just Enough Items (JEI)",
-                "modrinth": "Just Enough Items (JEI)"
+                "curseforge": "Just Enough Items (JEI)"
             },
             "id": {
-                "curseforge": "238222",
-                "modrinth": "u6dRKJwZ"
+                "curseforge": "238222"
             },
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "jei-1.21.1-neoforge-19.56.0.438.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/rjeJmaUS/jei-1.21.1-neoforge-19.56.0.438.jar",
-                    "id": "rjeJmaUS",
-                    "parent_id": "u6dRKJwZ",
-                    "hashes": {
-                        "sha512": "b5c13efe4b5b21edd942a6d5c46c171c826e9bc8a2761773f12d65ecde29ed391dbb7fbba662eb5fba6b53f421de59376c4bd710f37998be9660966bb0be85a0",
-                        "sha1": "6a05388d91b99fed89713a50546c038f910bd2dd"
-                    },
-                    "required_dependencies": [
-                        "7tEfOcA7"
-                    ],
-                    "size": 2154502,
-                    "date_published": "2026-09-13T06:43:52.805640Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "jei-1.21.1-neoforge-19.56.0.438.jar",
+                    "file_name": "jei-1.21.1-neoforge-19.51.0.418.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -10684,19 +10658,17 @@
                     "loaders": [
                         "neoforge"
                     ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/8870/333/jei-1.21.1-neoforge-19.56.0.438.jar",
-                    "id": "8870333",
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8792/638/jei-1.21.1-neoforge-19.51.0.418.jar",
+                    "id": "8792638",
                     "parent_id": "238222",
                     "hashes": {
-                        "sha1": "6a05388d91b99fed89713a50546c038f910bd2dd",
-                        "md5": "fce7a238fe8c245540ef23c47d4e26f7"
+                        "sha1": "d19552586f686eae4ef5e7199f31604d1d3cfca7",
+                        "md5": "95936c7df31109eeba9cd9bf114fed44"
                     },
-                    "required_dependencies": [
-                        "1689768"
-                    ],
-                    "size": 2154502,
-                    "date_published": "2026-09-13T06:43:36.407Z"
+                    "required_dependencies": [],
+                    "size": 1804792,
+                    "date_published": "2026-09-02T13:30:05.447Z"
                 }
             ]
         },

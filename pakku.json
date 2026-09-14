@@ -507,6 +507,9 @@
         },
         "gnetum": {
             "side": "CLIENT"
+        },
+        "jei": {
+            "update_strategy": "NONE"
         }
     }
 }
