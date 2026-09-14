@@ -3609,7 +3609,8 @@
             "pakku_links": [
                 "Vy12xXWcFO1oKyQL",
                 "0YLBr4Us5S09cXbz",
-                "c5n0ljqfbE7fRtqg"
+                "c5n0ljqfbE7fRtqg",
+                "s3GGeq43z05ewZAu"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -10178,7 +10179,8 @@
             "pakku_id": "E5zDliZEuLN6h8Cf",
             "pakku_links": [
                 "0YLBr4Us5S09cXbz",
-                "c5n0ljqfbE7fRtqg"
+                "c5n0ljqfbE7fRtqg",
+                "s3GGeq43z05ewZAu"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -10636,7 +10638,7 @@
             ]
         },
         {
-            "pakku_id": "c5n0ljqfbE7fRtqg",
+            "pakku_id": "s3GGeq43z05ewZAu",
             "type": "MOD",
             "slug": {
                 "curseforge": "jei"
@@ -10650,7 +10652,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "jei-1.21.1-neoforge-19.51.0.418.jar",
+                    "file_name": "jei-1.21.1-neoforge-19.52.0.421.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -10658,17 +10660,17 @@
                     "loaders": [
                         "neoforge"
                     ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8792/638/jei-1.21.1-neoforge-19.51.0.418.jar",
-                    "id": "8792638",
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8800/896/jei-1.21.1-neoforge-19.52.0.421.jar",
+                    "id": "8800896",
                     "parent_id": "238222",
                     "hashes": {
-                        "sha1": "d19552586f686eae4ef5e7199f31604d1d3cfca7",
-                        "md5": "95936c7df31109eeba9cd9bf114fed44"
+                        "sha1": "485fa4fe9153062e7f1db7924b51cb8741f24218",
+                        "md5": "307fc6fd6011bac2bfda76aaf3813585"
                     },
                     "required_dependencies": [],
-                    "size": 1804792,
-                    "date_published": "2026-09-02T13:30:05.447Z"
+                    "size": 1824621,
+                    "date_published": "2026-09-03T16:29:56.253Z"
                 }
             ]
         },
