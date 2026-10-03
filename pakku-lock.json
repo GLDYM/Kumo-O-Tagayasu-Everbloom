@@ -10627,51 +10627,18 @@
             ]
         },
         {
-            "pakku_id": "fT8brCztZkFxSQEo",
+            "pakku_id": "44j5vB2BlTMNgNEd",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "jasione",
-                "modrinth": "jasione"
+                "curseforge": "jasione"
             },
             "name": {
-                "curseforge": "Jasione",
-                "modrinth": "Jasione"
+                "curseforge": "Jasione"
             },
             "id": {
-                "curseforge": "1595495",
-                "modrinth": "qlDkBPij"
+                "curseforge": "1595495"
             },
             "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "jasione-1.0.9+1.21.1-neoforge.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3",
-                        "1.21.4",
-                        "1.21.5",
-                        "1.21.6",
-                        "1.21.7",
-                        "1.21.8"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/qlDkBPij/versions/GsGw7K8F/jasione-1.0.9+1.21.1-neoforge.jar",
-                    "id": "GsGw7K8F",
-                    "parent_id": "qlDkBPij",
-                    "hashes": {
-                        "sha512": "b7ec7703883399517876001ef6dea1e56b0c05af1c44c69d65cf8815fd655b9992a83063a6a77b2b15b6f110384dbe85833fc009be7baf4f60da94ee95fbf2f1",
-                        "sha1": "f732be9c32a896c76934949b891a115d8cd83c73"
-                    },
-                    "required_dependencies": [],
-                    "size": 748132,
-                    "date_published": "2026-10-02T08:54:09.300384Z"
-                },
                 {
                     "type": "curseforge",
                     "file_name": "jasione-1.0.8+1.21.1-neoforge.jar",
@@ -18480,22 +18447,16 @@
             ]
         },
         {
-            "pakku_id": "6opzlvjO51AlB9ZL",
-            "pakku_links": [
-                "uXhX9Z8FPq6N3zNc"
-            ],
+            "pakku_id": "XEOtE2JLgOKos3Wn",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "touhou-little-maid-spell",
                 "modrinth": "touhou-little-maid-spell"
             },
             "name": {
-                "curseforge": "Touhou Little Maid: Spell",
                 "modrinth": "Touhou Little Maid: Spell"
             },
             "id": {
-                "curseforge": "1290017",
                 "modrinth": "QHB4kBBS"
             },
             "files": [
@@ -18519,29 +18480,6 @@
                     "required_dependencies": [],
                     "size": 10335936,
                     "date_published": "2026-10-01T14:42:34.203760Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "touhou_little_maid_spell-1.21.1-1.8.4-neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8458/251/touhou_little_maid_spell-1.21.1-1.8.4-neoforge.jar",
-                    "id": "8458251",
-                    "parent_id": "1290017",
-                    "hashes": {
-                        "sha1": "f64c21066a25672a871447597d87b7394b093d56",
-                        "md5": "6dcc43604ae372b8684a1b600117a36b"
-                    },
-                    "required_dependencies": [
-                        "355044"
-                    ],
-                    "size": 2534810,
-                    "date_published": "2026-07-18T14:04:18.353Z"
                 }
             ]
         },
