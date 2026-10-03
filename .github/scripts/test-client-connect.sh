@@ -59,15 +59,15 @@ print_server_diagnostics() {
 print_client_diagnostics() {
   echo "===== Client Diagnostics ====="
 
-  if [[ -f "$CLIENT_DIR/client.log" ]]; then
-    echo "===== client.log ====="
-    cat "$CLIENT_DIR/client.log" || true
-  fi
+#  if [[ -f "$CLIENT_DIR/client.log" ]]; then
+#    echo "===== client.log ====="
+#    cat "$CLIENT_DIR/client.log" || true
+#  fi
 
-#   if [[ -f "$CLIENT_DIR/.minecraft/logs/debug.log" ]]; then
-#     echo "===== .minecraft/logs/debug.log ====="
-#     cat "$CLIENT_DIR/.minecraft/logs/debug.log" || true
-#   fi
+   if [[ -f "$CLIENT_DIR/.minecraft/logs/debug.log" ]]; then
+     echo "===== .minecraft/logs/debug.log ====="
+     cat "$CLIENT_DIR/.minecraft/logs/debug.log" || true
+   fi
 
   if ls "$CLIENT_DIR"/.minecraft/crash-reports/*.txt >/dev/null 2>&1; then
     echo "===== .minecraft/crash-reports ====="
