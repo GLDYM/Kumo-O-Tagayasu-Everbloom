@@ -2532,29 +2532,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "chefsdelight-1.0.5-neoforge-1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7314/829/chefsdelight-1.0.5-neoforge-1.21.1.jar",
-                    "id": "7314829",
-                    "parent_id": "832983",
-                    "hashes": {
-                        "sha1": "2ee0923d811a15e1d9dab536a940e4ac0143a4fa",
-                        "md5": "a99fb108e22e0bd50dbf543309d29a95"
-                    },
-                    "required_dependencies": [],
-                    "size": 95250,
-                    "date_published": "2025-12-10T06:17:43.057Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "chefsdelight-1.0.5-neoforge-1.21.1.jar",
+                    "file_name": "chefsdelight-1.0.6.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -2562,16 +2541,37 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pvcsfne4/versions/csBO1q5h/chefsdelight-1.0.5-neoforge-1.21.1.jar",
-                    "id": "csBO1q5h",
+                    "url": "https://cdn.modrinth.com/data/pvcsfne4/versions/N8hZwT7r/chefsdelight-1.0.6.jar",
+                    "id": "N8hZwT7r",
                     "parent_id": "pvcsfne4",
                     "hashes": {
-                        "sha512": "ea8bb83fd10a9936d52c72b7952ab46674ca3426d741a7e42f301df19e1474b47594ab9ad1b8b424011305f58146522afe4e991d79920a59f7ff066dd9ae620a",
-                        "sha1": "2ee0923d811a15e1d9dab536a940e4ac0143a4fa"
+                        "sha512": "a9052c7343ead876fd3c772e2c6bd274e4401bdad66458667f9a9cf5ea52c2778ecbb4051a9238ab9f6430a0d83be0619240a9c6ff32732a1916bc96d82148f6",
+                        "sha1": "9e5992b895dbde9f31fd2f0590dcac925adfcc55"
                     },
                     "required_dependencies": [],
-                    "size": 95250,
-                    "date_published": "2025-12-10T16:40:21.593842Z"
+                    "size": 98747,
+                    "date_published": "2026-10-03T04:44:11.761583Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "chefsdelight-1.0.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9043/965/chefsdelight-1.0.6.jar",
+                    "id": "9043965",
+                    "parent_id": "832983",
+                    "hashes": {
+                        "sha1": "9e5992b895dbde9f31fd2f0590dcac925adfcc55",
+                        "md5": "c3086c9b8881fcaf9e8834fd8bd1cd42"
+                    },
+                    "required_dependencies": [],
+                    "size": 98747,
+                    "date_published": "2026-10-03T04:40:53.613Z"
                 }
             ]
         },
@@ -10892,11 +10892,10 @@
             "id": {
                 "curseforge": "238222"
             },
-            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "jei-1.21.1-neoforge-19.52.0.421.jar",
+                    "file_name": "jei-1.21.1-neoforge-19.57.0.450.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -10905,16 +10904,18 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/8800/896/jei-1.21.1-neoforge-19.52.0.421.jar",
-                    "id": "8800896",
+                    "url": "https://edge.forgecdn.net/files/9009/406/jei-1.21.1-neoforge-19.57.0.450.jar",
+                    "id": "9009406",
                     "parent_id": "238222",
                     "hashes": {
-                        "sha1": "485fa4fe9153062e7f1db7924b51cb8741f24218",
-                        "md5": "307fc6fd6011bac2bfda76aaf3813585"
+                        "sha1": "129a0aa982cd520ef8a35abddf592dc4d5655bd9",
+                        "md5": "e5b68f3828246968a562c59309b83ed1"
                     },
-                    "required_dependencies": [],
-                    "size": 1824621,
-                    "date_published": "2026-09-03T16:29:56.253Z"
+                    "required_dependencies": [
+                        "1689768"
+                    ],
+                    "size": 2253016,
+                    "date_published": "2026-09-29T13:58:05Z"
                 }
             ]
         },
@@ -11110,47 +11111,47 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "kaleidoscope_contraption-1.0.4-SNAPSHOT.jar",
+                    "file_name": "kaleidoscope_contraption-1.0.4.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/JCCAvv9N/versions/ZgBRECRP/kaleidoscope_contraption-1.0.4-SNAPSHOT.jar",
-                    "id": "ZgBRECRP",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/JCCAvv9N/versions/6ugJY3s7/kaleidoscope_contraption-1.0.4.jar",
+                    "id": "6ugJY3s7",
                     "parent_id": "JCCAvv9N",
                     "hashes": {
-                        "sha512": "cb85961bb20387626e81550ff03e20879c41e0b4ca22ef0e36abcd5ca3dd762fe85d332619ffb06e9b3232f1961f522f883c25700948dae935043af4e4937269",
-                        "sha1": "64c079853c84f784a3ad5942f3c880200ff60d05"
+                        "sha512": "6c164a09d1c97c61c8d35d37a70fbcecfbac7854b4086724898c7b38a91e3a53d4612a7f3e2cda6e2a2d29927c211c6e5ad9e9ef525d8c07b6a7dda9a433f963",
+                        "sha1": "bf63d82d9851f9c846f90d1a29f44fff1268270d"
                     },
                     "required_dependencies": [],
-                    "size": 468307,
-                    "date_published": "2026-09-24T12:52:44.564759Z"
+                    "size": 475067,
+                    "date_published": "2026-10-03T04:29:28.150317Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "kaleidoscope_contraption-1.0.4-SNAPSHOT.jar",
+                    "file_name": "kaleidoscope_contraption-1.0.4.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/8963/561/kaleidoscope_contraption-1.0.4-SNAPSHOT.jar",
-                    "id": "8963561",
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9043/908/kaleidoscope_contraption-1.0.4.jar",
+                    "id": "9043908",
                     "parent_id": "1500547",
                     "hashes": {
-                        "sha1": "64c079853c84f784a3ad5942f3c880200ff60d05",
-                        "md5": "0177a8c088523100a423b94d1f071add"
+                        "sha1": "bf63d82d9851f9c846f90d1a29f44fff1268270d",
+                        "md5": "b291d83a2693d9fb2bc71123adc2c28a"
                     },
                     "required_dependencies": [
                         "1309203"
                     ],
-                    "size": 468307,
-                    "date_published": "2026-09-24T12:51:51.357Z"
+                    "size": 475067,
+                    "date_published": "2026-10-03T04:28:51.073Z"
                 }
             ]
         },
@@ -19448,7 +19449,7 @@
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "xplus-autofish-1.3.3-neoforged-mc1.21.1.jar",
+                    "file_name": "xplus-autofish-2.0.0-neoforged-mc1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -19456,18 +19457,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5728/561/xplus-autofish-1.3.3-neoforged-mc1.21.1.jar",
-                    "id": "5728561",
+                    "url": "https://edge.forgecdn.net/files/9044/297/xplus-autofish-2.0.0-neoforged-mc1.21.1.jar",
+                    "id": "9044297",
                     "parent_id": "879846",
                     "hashes": {
-                        "sha1": "04440e5c699f6f0fae1ee351f53e5d8594785960",
-                        "md5": "310475ff06e76f0c552e99771af536d3"
+                        "sha1": "e73547caee5c34f4a286298dc74d9fae48a99122",
+                        "md5": "ac035526c5206b16b4ef99e25ec51a89"
                     },
                     "required_dependencies": [
                         "348521"
                     ],
-                    "size": 122043,
-                    "date_published": "2024-09-16T13:56:59.040Z"
+                    "size": 137848,
+                    "date_published": "2026-10-03T05:52:23.497Z"
                 }
             ]
         },
