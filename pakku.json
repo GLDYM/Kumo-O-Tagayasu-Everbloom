@@ -510,6 +510,9 @@
         },
         "jei": {
             "update_strategy": "NONE"
+        },
+        "asteorbar": {
+            "side": "CLIENT"
         }
     }
 }
