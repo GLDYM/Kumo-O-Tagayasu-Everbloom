@@ -7331,7 +7331,6 @@
                 "curseforge": "448233",
                 "modrinth": "NNAgCjsB"
             },
-            "redistributable": false,
             "files": [
                 {
                     "type": "modrinth",
@@ -8916,74 +8915,6 @@
             ]
         },
         {
-            "pakku_id": "F6c9qwvDMj5d3gij",
-            "pakku_links": [
-                "exCP2y0syJVA9jKo"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "fruits-delight",
-                "modrinth": "fruits-delight"
-            },
-            "name": {
-                "curseforge": "Fruits Delight",
-                "modrinth": "Fruits Delight"
-            },
-            "id": {
-                "curseforge": "943774",
-                "modrinth": "g6sbyCTu"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "fruitsdelight-1.2.14.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/g6sbyCTu/versions/TWbuEFZt/fruitsdelight-1.2.14.jar",
-                    "id": "TWbuEFZt",
-                    "parent_id": "g6sbyCTu",
-                    "hashes": {
-                        "sha512": "473fd3b7cd94fd7daba34554143d70751816b6cd5bbf8b238e9a6d3ee7d80b2c2b9833840dea4c66c6ef4db35ebf0f2c03c3bad80e09b426938ea977a48dc3f5",
-                        "sha1": "9e13ddd63337a180c6e69c0b3c7e622f1d27c71a"
-                    },
-                    "required_dependencies": [
-                        "R2OftAxM"
-                    ],
-                    "size": 1910595,
-                    "date_published": "2026-05-09T15:49:32.397262Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "fruitsdelight-1.2.14.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8063/744/fruitsdelight-1.2.14.jar",
-                    "id": "8063744",
-                    "parent_id": "943774",
-                    "hashes": {
-                        "sha1": "04a62e52e359542d6eaeed3b9229b708115e10d2",
-                        "md5": "5864912f8d4c65d67d51ae056ae9834b"
-                    },
-                    "required_dependencies": [
-                        "398521"
-                    ],
-                    "size": 1910595,
-                    "date_published": "2026-05-09T15:48:28.657Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "Orlu8nzZx0Xljp4d",
             "type": "MOD",
             "side": "CLIENT",
@@ -9938,7 +9869,6 @@
                 "curseforge": "1196075",
                 "modrinth": "3WqFZ7vw"
             },
-            "redistributable": false,
             "files": [
                 {
                     "type": "modrinth",
@@ -14411,7 +14341,6 @@
                 "curseforge": "433760",
                 "modrinth": "MPCX6s5C"
             },
-            "redistributable": false,
             "files": [
                 {
                     "type": "modrinth",
@@ -16819,7 +16748,6 @@
                 "curseforge": "521480",
                 "modrinth": "zV5r3pPn"
             },
-            "redistributable": false,
             "files": [
                 {
                     "type": "modrinth",
