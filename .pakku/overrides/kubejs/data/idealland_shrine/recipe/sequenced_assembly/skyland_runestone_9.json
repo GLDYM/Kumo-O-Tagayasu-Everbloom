@@ -1,0 +1,33 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "idealland_shrine:skyland_dull_runestone"
+  },
+  "transitional_item": {
+    "id": "idealland_shrine:skyland_dull_runestone"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "idealland_shrine:skyland_dull_runestone"
+        },
+        {
+          "item": "touhou_little_maid:power_point"
+        }
+      ],
+      "results": [
+        {
+          "id": "idealland_shrine:skyland_dull_runestone"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "idealland_shrine:skyland_runestone_9"
+    }
+  ],
+  "loops": 16
+}

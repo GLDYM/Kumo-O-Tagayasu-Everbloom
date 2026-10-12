@@ -7,6 +7,12 @@
 		# Default: 128
 		# Range: 1 ~ 5120
 		iron_sand_amount = 128
+		#Enables bamboo shoot spreading.
+		bamboo_enable_spread = true
+		#Sets the bamboo shoot spreading chance per random tick.
+		# Default: 0.15
+		# Range: 0.0 ~ 1.0
+		bamboo_spread_chance = 0.15
 
 	#Progression settings
 	[general.progression]
@@ -76,15 +82,6 @@
 			# Default: 5.0
 			# Range: 1.0 ~ 64.0
 			magatama_white_mining_speed_compensation_multiplier = 5.0
-
-	#Bamboo settings
-	[general.bamboo]
-		#Enables bamboo spreading.
-		bamboo_enable_spread = true
-		#Sets the bamboo spreading chance per random tick.
-		# Default: 0.15
-		# Range: 0.0 ~ 1.0
-		bamboo_spread_chance = 0.15
 
 	#Futon settings
 	[general.futon]

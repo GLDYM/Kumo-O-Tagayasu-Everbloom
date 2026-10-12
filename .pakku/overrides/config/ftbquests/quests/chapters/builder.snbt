@@ -18,6 +18,7 @@
 				id: "ultramarine:large_blue_and_white_porcelain_vase"
 			}
 			id: "43779E819BF3A6AD"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "6B365090965C7B5D"
 				item: {
@@ -60,6 +61,7 @@
 				id: "another_furniture:pink_sofa"
 			}
 			id: "7A82823089777A66"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					id: "6003AF159DDCA86F"
@@ -180,6 +182,7 @@
 				id: "createdeco:short_red_bricks"
 			}
 			id: "2B791924FEC9F89C"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "18C1B91E26978390"
@@ -203,6 +206,7 @@
 				id: "createprism:andesite_glass_casing"
 			}
 			id: "0AF4E293AC99133D"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "3975185A08143A89"
 				item: {
@@ -225,6 +229,7 @@
 				id: "tsuki:kawara"
 			}
 			id: "48B5C9817AAB805E"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "4C78DC2B907AF8BF"
 				item: {
@@ -247,6 +252,7 @@
 				id: "touhou_little_maid:garage_kit"
 			}
 			id: "762ED5BA28D1C41F"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "6CA7C1421D53E08E"
 				item: {
@@ -269,6 +275,7 @@
 				id: "dramaticdoors:tall_cherry_door"
 			}
 			id: "4A8236B3F4896489"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					id: "0FD0A7D22FCE49B8"
@@ -301,6 +308,7 @@
 				id: "nightlights:mushroom_pink"
 			}
 			id: "6173E8F5CA64472F"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "07E657A32D2611C0"
@@ -324,6 +332,7 @@
 				id: "ultramarine:blue_and_white_porcelain_vase"
 			}
 			id: "3ADB1EA83AC6C6F5"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 64
 				id: "7A948AA1E14570B2"
@@ -347,6 +356,7 @@
 				id: "waterframes:big_tv"
 			}
 			id: "1A65287EE0DC50D9"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "4A88342FDEF385DC"
 				item: {
@@ -369,6 +379,7 @@
 				id: "railways:brass_wrapped_locometal"
 			}
 			id: "52E26074C74E2395"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 4
 				id: "0AE96D9606161833"
@@ -392,6 +403,7 @@
 				id: "immersive_furniture:artisans_workstation"
 			}
 			id: "16369530ADEC5DC3"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					id: "6238C19CE169CC76"

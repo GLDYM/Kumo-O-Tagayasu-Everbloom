@@ -12,6 +12,7 @@
 	quests: [
 		{
 			id: "1AA06E9A9A56001D"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "362DFF96A2709C83"
 				type: "xp_levels"
@@ -30,6 +31,7 @@
 			dependencies: ["1AA06E9A9A56001D"]
 			hide_until_deps_complete: true
 			id: "6A7DED4ED6F4C277"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "138082B529A01B8B"
 				item: {
@@ -52,6 +54,7 @@
 		{
 			dependencies: ["6A7DED4ED6F4C277"]
 			id: "58B5652244287CAC"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "69567E667416AD60"
 				item: {
@@ -75,6 +78,7 @@
 			dependencies: ["1AA06E9A9A56001D"]
 			hide_until_deps_complete: true
 			id: "62FDDE2E746B4B61"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "10353A5E1648C4EA"
 				item: {
@@ -97,6 +101,7 @@
 		{
 			dependencies: ["62FDDE2E746B4B61"]
 			id: "67F1C18AF5B77F6D"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "0459F0D47CBCC7A2"
 				item: {
@@ -120,6 +125,7 @@
 			dependencies: ["1AA06E9A9A56001D"]
 			hide_until_deps_complete: true
 			id: "0B6A89B7DFED875C"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "13B8DCAC7C9403AF"
 				item: {
@@ -139,6 +145,7 @@
 		{
 			dependencies: ["0B6A89B7DFED875C"]
 			id: "2DFAB27D6F5F1E6F"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "2BBBD63934001897"
 				item: { count: 1, id: "trailandtales_delight:sniffer_eggshell_knife" }
@@ -150,6 +157,7 @@
 		{
 			dependencies: ["0B6A89B7DFED875C"]
 			id: "5164A50FADE97246"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "30F0E313CAA70933"
@@ -218,6 +226,7 @@
 		{
 			dependencies: ["0B6A89B7DFED875C"]
 			id: "40D04551E0C26956"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "0F9FEBC5C549862F"
 				item: {
@@ -237,6 +246,7 @@
 		{
 			dependencies: ["0B6A89B7DFED875C"]
 			id: "29CD6AEDB27C6F3B"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "6A3F48BA46C62F62"
 				item: {
@@ -256,6 +266,7 @@
 		{
 			dependencies: ["0B6A89B7DFED875C"]
 			id: "578E88E25201A887"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 64
 				id: "5448EBFD093B542A"

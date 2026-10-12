@@ -18,6 +18,7 @@
 			id: "danmaku_api:red_bubble_danmaku"
 		}
 		id: "405DCF35DAB526A7"
+		quest_enhance_disable_scroll_paging: false
 		rewards: [
 			{
 				id: "6CC3041DFE474FA7"

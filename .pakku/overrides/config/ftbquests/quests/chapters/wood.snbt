@@ -15,9 +15,10 @@
 	quests: [
 		{
 			icon: {
-				id: "idealland_shrine:skyland_runestone_10"
+				id: "idealland_shrine:basic16rune_10"
 			}
 			id: "49AB1836144DFA21"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "20DC5F1E2EEF19F6"
 				type: "xp_levels"
@@ -35,6 +36,7 @@
 		{
 			dependencies: ["49AB1836144DFA21"]
 			id: "76E90D86FF772C36"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "306F8C8D52E579D3"
 				type: "xp_levels"
@@ -51,6 +53,7 @@
 		{
 			dependencies: ["76E90D86FF772C36"]
 			id: "5B37EE1005B8DD68"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 32
 				id: "43286E6330403CA2"
@@ -72,6 +75,7 @@
 		{
 			dependencies: ["5B37EE1005B8DD68"]
 			id: "136A41B59367DA67"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "742F064B040D89FA"
 				item: {
@@ -105,6 +109,7 @@
 			dependencies: ["5B37EE1005B8DD68"]
 			hide_dependency_lines: false
 			id: "5FBBC47A2D2535F9"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 64
 				id: "07B945BD64E210AE"
@@ -129,6 +134,7 @@
 				id: "create:cogwheel"
 			}
 			id: "6C9CA3766F9AAD0D"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					count: 64
@@ -186,6 +192,7 @@
 		{
 			dependencies: ["5FBBC47A2D2535F9"]
 			id: "0C8E0BA46C9D2A4D"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 32
 				id: "591B62FFDB5900CC"
@@ -206,6 +213,7 @@
 		{
 			dependencies: ["136A41B59367DA67"]
 			id: "4B8EA30A6A811B4D"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "666B4EAEB9345AC1"
@@ -240,6 +248,7 @@
 				id: "create:mechanical_press"
 			}
 			id: "5F0D07CC8652AAB6"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "5EDF06DEB7821436"
@@ -270,6 +279,7 @@
 				id: "create_enchantment_industry:blaze_forger"
 			}
 			id: "62798A3A7F7DB78A"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					count: 16
@@ -308,6 +318,7 @@
 		{
 			dependencies: ["5F0D07CC8652AAB6"]
 			id: "5EB4E64F151E9754"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "57E51ACD9078FB3C"
@@ -328,6 +339,7 @@
 		{
 			dependencies: ["49AB1836144DFA21"]
 			id: "2BCD706419AE84A4"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					count: 32
@@ -366,6 +378,7 @@
 		{
 			dependencies: ["5F0D07CC8652AAB6"]
 			id: "7DEBDB2CA2A11152"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "03EDEE830FB53CA9"
 				type: "xp_levels"
@@ -382,6 +395,7 @@
 		{
 			dependencies: ["7DEBDB2CA2A11152"]
 			id: "13CF04B08D613E05"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "2402AD27422D0CFA"
 				item: {
@@ -412,6 +426,7 @@
 				id: "create:mechanical_mixer"
 			}
 			id: "6796A61EE29A0976"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "0E52C8B8FB604F49"
@@ -442,6 +457,7 @@
 				"6796A61EE29A0976"
 			]
 			id: "14877F69BC4E9FBB"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 32
 				id: "5E25B6C4F4346FB1"
@@ -462,6 +478,7 @@
 		{
 			dependencies: ["7DEBDB2CA2A11152"]
 			id: "458966B20501D77D"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 32
 				id: "75F7B0482C079AF8"
@@ -485,6 +502,7 @@
 				"4549EBD185DB058C"
 			]
 			id: "3EFAA7D2C2A0F62D"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 48
 				id: "5D6B095A5E6A3EA2"
@@ -505,6 +523,7 @@
 		{
 			dependencies: ["14877F69BC4E9FBB"]
 			id: "4549EBD185DB058C"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "7CDA3A2E5DD51A82"
 				type: "xp_levels"
@@ -521,6 +540,7 @@
 		{
 			dependencies: ["7DEBDB2CA2A11152"]
 			id: "3E50BDB429664AC2"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "4148A7CDD19CB237"
@@ -546,6 +566,7 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "45A1AA80685FB8CE"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 4
 				id: "6D49481EA87F1F76"
@@ -569,6 +590,7 @@
 		{
 			dependencies: ["3EFAA7D2C2A0F62D"]
 			id: "13530E9D9A65C5AF"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "1B64248FE287225C"
 				type: "xp_levels"
@@ -587,6 +609,7 @@
 		{
 			dependencies: ["5FBBC47A2D2535F9"]
 			id: "35D098167320F1A2"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "00361ACD93BAA604"
 				type: "xp_levels"
@@ -618,6 +641,7 @@
 		{
 			dependencies: ["5EB4E64F151E9754"]
 			id: "0C72F32997560798"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "2F0136E8FCEAE34F"
@@ -639,6 +663,7 @@
 				"16EE3527FEBD8EFE"
 			]
 			id: "293EC57465F2CF03"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 72
 				id: "21D60BAAA12FF7F4"
@@ -659,6 +684,7 @@
 		{
 			dependencies: ["6C9CA3766F9AAD0D"]
 			id: "27335FC70B8C42E9"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "6014036DD33AB36C"
 				type: "xp_levels"
@@ -697,6 +723,7 @@
 		{
 			dependencies: ["136A41B59367DA67"]
 			id: "1C98F1EE72D4C5C0"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 64
 				id: "5F930D2392035E11"
@@ -717,6 +744,7 @@
 		{
 			dependencies: ["0C8E0BA46C9D2A4D"]
 			id: "1402FC2ABB08BAB1"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "003D10BDEDB49729"
@@ -737,6 +765,7 @@
 		{
 			dependencies: ["5EB4E64F151E9754"]
 			id: "1B0FC6585EA7BFDF"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "182BA4ED8178EC56"
@@ -757,6 +786,7 @@
 		{
 			dependencies: ["5FBBC47A2D2535F9"]
 			id: "76E2F4B5E94DFDCD"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 128
 				id: "1CB55F8270171D2D"
@@ -777,6 +807,7 @@
 		{
 			dependencies: ["21E96ADC28B0AD96"]
 			id: "16EE3527FEBD8EFE"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 128
 				id: "08329A1277D04435"
@@ -797,6 +828,7 @@
 		{
 			dependencies: ["136A41B59367DA67"]
 			id: "584D450DB1D467AC"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "480DC9362544ED47"
 				item: { count: 1, id: "create:millstone" }
@@ -811,6 +843,7 @@
 				id: "create:schematic_table"
 			}
 			id: "0E4D32EE7ADE80E3"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "0300E139D52DC2F0"
@@ -846,6 +879,7 @@
 				id: "create:linear_chassis"
 			}
 			id: "737C36BB6F1FC882"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "5998907AA507077B"
@@ -873,6 +907,7 @@
 		{
 			dependencies: ["136A41B59367DA67"]
 			id: "79C7DC1F232967E1"
+			quest_enhance_disable_scroll_paging: false
 			shape: "octagon"
 			tasks: [{
 				id: "6A0151339A364FAA"
@@ -884,6 +919,7 @@
 		{
 			dependencies: ["79C7DC1F232967E1"]
 			id: "362A3B1C52959D57"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "3FEB13807F6B8125"
 				item: { count: 1, id: "create:mechanical_bearing" }
@@ -898,6 +934,7 @@
 				id: "create:rope_pulley"
 			}
 			id: "4B45ED83B13924C9"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "06575B5E9039EB46"
@@ -919,6 +956,7 @@
 				id: "create:mechanical_piston"
 			}
 			id: "7FAD5F22BA3D4EE0"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "21A3A8520A3D10F2"
@@ -947,6 +985,7 @@
 				id: "create:cart_assembler"
 			}
 			id: "4536E1C41A69929C"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "637FAD6EA77E6687"
@@ -973,6 +1012,7 @@
 				id: "create:gantry_carriage"
 			}
 			id: "20E4B0101500DEFA"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "1C9699C8B9408A40"
@@ -991,6 +1031,7 @@
 		{
 			dependencies: ["5F0D07CC8652AAB6"]
 			id: "21E96ADC28B0AD96"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "5EC668A4D2DBB48C"
 				type: "xp_levels"
@@ -1010,6 +1051,7 @@
 				id: "create:mechanical_pump"
 			}
 			id: "1405BDE5122FFFBC"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					count: 64
@@ -1048,6 +1090,7 @@
 		{
 			dependencies: ["21E96ADC28B0AD96"]
 			id: "47F1C42180721EAB"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 4
 				id: "38FF07DC402E2F53"
@@ -1068,6 +1111,7 @@
 		{
 			dependencies: ["1405BDE5122FFFBC"]
 			id: "2564E185622F9407"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "1CF9C13D122EEA17"
@@ -1088,6 +1132,7 @@
 		{
 			dependencies: ["2BCD706419AE84A4"]
 			id: "6130481DA6BFDC27"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 64
 				id: "1B34165F114E4DC3"
@@ -1108,6 +1153,7 @@
 		{
 			dependencies: ["6130481DA6BFDC27"]
 			id: "0F8E0402DD287A18"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "3FA431F37F4CE9DF"
@@ -1128,6 +1174,7 @@
 		{
 			dependencies: ["6130481DA6BFDC27"]
 			id: "2005236D8F96E12C"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "41C12397A3B2D69F"

@@ -17,6 +17,7 @@
 			id: "danmaku_api:green_bubble_danmaku"
 		}
 		id: "378D3CC29AE2D546"
+		quest_enhance_disable_scroll_paging: false
 		rewards: [{
 			id: "73D9CEE568158EAC"
 			type: "xp_levels"

@@ -12,6 +12,7 @@
 	quests: [
 		{
 			id: "0D5E7A85B8DE2331"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "4048288F43E3E658"
@@ -36,6 +37,7 @@
 			dependencies: ["0D5E7A85B8DE2331"]
 			hide_until_deps_complete: true
 			id: "0FD51F6F22CE57FB"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "081DEF0459C4D378"
@@ -55,6 +57,7 @@
 			dependencies: ["0D5E7A85B8DE2331"]
 			hide_until_deps_complete: true
 			id: "4E7249E53AABD432"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "568AEFE4143069E1"
 				item: {
@@ -77,6 +80,7 @@
 				"0FD51F6F22CE57FB"
 			]
 			id: "289E57DF483EC37F"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 4
 				id: "1A15F322463AF901"
@@ -98,6 +102,7 @@
 		{
 			dependencies: ["289E57DF483EC37F"]
 			id: "3A76829D4533A822"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "03FAE0B0BD7E2092"
@@ -119,6 +124,7 @@
 		{
 			dependencies: ["289E57DF483EC37F"]
 			id: "51D4F811BA4F635A"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "1027E93A3FF179A8"
@@ -140,6 +146,7 @@
 		{
 			dependencies: ["289E57DF483EC37F"]
 			id: "3556E83C59F136A6"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "60A64F3297C1B6EE"
@@ -160,6 +167,7 @@
 		{
 			dependencies: ["289E57DF483EC37F"]
 			id: "2C8F1A99BFB3944B"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "634EAA59E3F66911"
@@ -187,6 +195,7 @@
 		{
 			dependencies: ["0FD51F6F22CE57FB"]
 			id: "1AD9E489ACC454C5"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "501DE12423F268CA"
 				type: "xp_levels"
@@ -202,6 +211,7 @@
 		{
 			dependencies: ["0FD51F6F22CE57FB"]
 			id: "2A6445C4802ADB00"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "6933579FB436AB83"
 				item: {
@@ -224,6 +234,7 @@
 				id: "tofucraft:tofustick"
 			}
 			id: "7D0E2B6398BFBA65"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 4
 				id: "54B03B2317852F32"
@@ -252,6 +263,7 @@
 		{
 			dependencies: ["51D4F811BA4F635A"]
 			id: "74F4308544701EC0"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 64
 				id: "729C0BD237135A3B"
@@ -273,6 +285,7 @@
 		{
 			dependencies: ["7D0E2B6398BFBA65"]
 			id: "479E62299601502D"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 64
 				id: "62E26BF790F49D38"
@@ -293,6 +306,7 @@
 		{
 			dependencies: ["4E7249E53AABD432"]
 			id: "4C8C39B1C7E5BBAF"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 4
 				id: "10A6EA934259661C"
@@ -314,6 +328,7 @@
 			dependencies: ["0D5E7A85B8DE2331"]
 			hide_until_deps_complete: true
 			id: "2D8D1B807CC0252D"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					count: 4
@@ -353,6 +368,7 @@
 			dependencies: ["0D5E7A85B8DE2331"]
 			hide_until_deps_complete: true
 			id: "2F59D8BC41533F8F"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 4
 				id: "04EED9773E719AAE"
@@ -373,6 +389,7 @@
 		{
 			dependencies: ["2F59D8BC41533F8F"]
 			id: "76ADA031E824C49F"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "547D2E399CA9F556"
 				type: "xp_levels"
@@ -391,6 +408,7 @@
 			dependencies: ["0D5E7A85B8DE2331"]
 			hide_until_deps_complete: true
 			id: "4143434516688D4A"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "27D85C473A17D7E7"
@@ -411,6 +429,7 @@
 		{
 			dependencies: ["4C8C39B1C7E5BBAF"]
 			id: "7944EE975269B782"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "03266AB6C8416BEB"
 				item: {
@@ -429,6 +448,7 @@
 		{
 			dependencies: ["4143434516688D4A"]
 			id: "1DCC1D755AE792BD"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "0913531C209F707F"
 				type: "xp_levels"
@@ -446,6 +466,7 @@
 		{
 			dependencies: ["2D8D1B807CC0252D"]
 			id: "4191AEBD1B29DCF9"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "03B077C8003962DE"
@@ -480,6 +501,7 @@
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "704FAF67806C5BDC"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 4
 				id: "3C3040B613526BB9"
@@ -500,6 +522,7 @@
 		{
 			dependencies: ["479E62299601502D"]
 			id: "32F4FF7EBEAA890E"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 4
 				id: "7719B7ABE2DCED07"
@@ -520,6 +543,7 @@
 		{
 			dependencies: ["479E62299601502D"]
 			id: "1E9C914BA69B260E"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "575329EEA46E514E"
 				item: {
@@ -539,6 +563,7 @@
 		{
 			dependencies: ["479E62299601502D"]
 			id: "554DD24BDBB01B3F"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "6634A3F897C08535"
 				item: {
@@ -558,6 +583,7 @@
 		{
 			dependencies: ["1E9C914BA69B260E"]
 			id: "5FAD824F3CC63EA0"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "0BEA1DBC6A345885"
 				type: "xp_levels"
@@ -575,6 +601,7 @@
 		{
 			dependencies: ["479E62299601502D"]
 			id: "1148DDCEDDF6BF02"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 4
 				id: "1571CE56BF0AB693"
@@ -595,6 +622,7 @@
 		{
 			dependencies: ["479E62299601502D"]
 			id: "0C8EB79DC048D877"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 4
 				id: "7BA2DF251D805B2C"

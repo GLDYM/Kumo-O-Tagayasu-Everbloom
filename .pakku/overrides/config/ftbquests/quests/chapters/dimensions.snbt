@@ -15,6 +15,7 @@
 	quests: [
 		{
 			id: "31E4A4EA0AEB5A5D"
+			quest_enhance_disable_scroll_paging: false
 			shape: "rsquare"
 			size: 1.5d
 			tasks: [
@@ -35,6 +36,7 @@
 		{
 			dependencies: ["31E4A4EA0AEB5A5D"]
 			id: "6AA1275B3BFA7B47"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "32D605769FE48CBA"
 				item: { count: 1, id: "beyonddimensions:net_magnet_item" }
@@ -46,6 +48,7 @@
 		{
 			dependencies: ["31E4A4EA0AEB5A5D"]
 			id: "4BD903252A91F4B2"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "1CE0FFC67807A2E5"
 				item: { count: 1, id: "beyonddimensions:net_feeder_item" }
@@ -57,6 +60,7 @@
 		{
 			dependencies: ["31E4A4EA0AEB5A5D"]
 			id: "1ADD3891A8D26729"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "302877D7D4629FD6"
 				item: { count: 1, id: "beyonddimensions:xp_exchange_item" }
@@ -68,6 +72,7 @@
 		{
 			dependencies: ["31E4A4EA0AEB5A5D"]
 			id: "42EA5EB994963155"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "1D909369DDFFC459"
 				item: { count: 1, id: "beyonddimensions:net_terminal_item" }
@@ -79,6 +84,7 @@
 		{
 			dependencies: ["31E4A4EA0AEB5A5D"]
 			id: "78C443082103D68E"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "446DDC8AC3DCE890"
@@ -112,6 +118,7 @@
 		{
 			dependencies: ["31E4A4EA0AEB5A5D"]
 			id: "55C9E55BF95DA6E8"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "3151B7B5A78F66B1"
@@ -130,6 +137,7 @@
 		{
 			dependencies: ["31E4A4EA0AEB5A5D"]
 			id: "19F809B8DC0693B7"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "670FA4AD39000C4F"
 				item: { count: 1, id: "beyonddimensions:net_pathway" }
@@ -141,6 +149,7 @@
 		{
 			dependencies: ["31E4A4EA0AEB5A5D"]
 			id: "0010F6F6ABD4E084"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "4CE6CAF56D8187D5"
 				item: { count: 1, id: "beyonddimensions:net_terminal_block" }
@@ -152,6 +161,7 @@
 		{
 			dependencies: ["31E4A4EA0AEB5A5D"]
 			id: "6B3D64604CFECCD1"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "381F09967260A758"
 				item: { count: 1, id: "beyonddimensions:schematicannon_pathway" }
@@ -164,6 +174,7 @@
 			dependencies: ["31E4A4EA0AEB5A5D"]
 			id: "455157F7DC03EBFA"
 			invisible: true
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "2AEB4A8B65B6F88D"
 				item: {

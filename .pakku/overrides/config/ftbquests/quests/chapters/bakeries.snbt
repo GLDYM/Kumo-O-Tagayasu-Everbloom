@@ -15,6 +15,7 @@
 	quests: [
 		{
 			id: "3FE1E7E6127BA18A"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "210EAC6096B0640A"
 				type: "xp_levels"
@@ -33,6 +34,7 @@
 			dependencies: ["3FE1E7E6127BA18A"]
 			hide_until_deps_complete: true
 			id: "3A4F161688C43FAC"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 2
 				id: "3952A3FCBFCFFD90"
@@ -61,6 +63,7 @@
 		{
 			dependencies: ["3A4F161688C43FAC"]
 			id: "630E16887F94C17E"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 4
 				id: "4E658B997C78385A"
@@ -81,6 +84,7 @@
 		{
 			dependencies: ["630E16887F94C17E"]
 			id: "711A766D3FE57321"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 4
 				id: "498574C54D0418B5"
@@ -111,6 +115,7 @@
 				id: "bakeries:bagel"
 			}
 			id: "19839709DF0F9040"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "664E0F0E4B887287"
 				type: "xp_levels"
@@ -128,6 +133,7 @@
 			dependencies: ["3FE1E7E6127BA18A"]
 			hide_until_deps_complete: true
 			id: "6099E2DE1A3DE1C0"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "11B093851527BA90"
 				type: "xp_levels"
@@ -145,6 +151,7 @@
 			dependencies: ["3FE1E7E6127BA18A"]
 			hide_until_deps_complete: true
 			id: "033391C05A008D51"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 2
 				id: "23B1F337181ABE40"
@@ -195,6 +202,7 @@
 		{
 			dependencies: ["033391C05A008D51"]
 			id: "5502902A322A43A6"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 2
 				id: "0A18A12C2C8F9C83"
@@ -236,6 +244,7 @@
 			dependencies: ["3FE1E7E6127BA18A"]
 			hide_until_deps_complete: true
 			id: "4C2C3E806258FA45"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "45D9154DFDD91DB8"
@@ -257,6 +266,7 @@
 		{
 			dependencies: ["5502902A322A43A6"]
 			id: "640C90E018A28AA3"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					count: 2L
@@ -280,6 +290,7 @@
 				id: "bakeries:baguette"
 			}
 			id: "25367802991C24B4"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "6712860915360180"
 				item: {
@@ -309,6 +320,7 @@
 				id: "ftbquests:missing_item"
 			}
 			id: "68118C23BCF18634"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					id: "1CC8A9D03CC8B3BB"

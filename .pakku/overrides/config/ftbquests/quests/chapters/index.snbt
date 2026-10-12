@@ -2,10 +2,10 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "index"
-	group: "7B06BDC499F7BB13"
+	group: ""
 	id: "5602A03FE97A151A"
 	images: [ ]
-	order_index: 1
+	order_index: 0
 	quest_enhance_decorative_lines: [ ]
 	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
@@ -17,7 +17,14 @@
 			}
 			id: "beyonddimensions:unstable_space_time_fragment"
 		}
+		icon_scale: 1.2d
 		id: "12086B0763A8FA46"
+		quest_enhance_disable_scroll_paging: false
+		rewards: [{
+			id: "14947C0A244C575A"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
 		shape: "none"
 		size: 5.0d
 		tasks: [{

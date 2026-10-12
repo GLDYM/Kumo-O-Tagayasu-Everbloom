@@ -2,137 +2,40 @@
 
 ## LOST
 
-- advancements-tracker --> AdvancementInfo
-- attributizer --> KubeJS? 但是好像也不需要了？
-- bee-fix --> Remove
-- better-creeper-mod --> creeper-firework
-- biome-makeover --> Remove
-- classic-and-simple-status-bars --> Remove？ OB？
-- caged-mobs --> KOTS
-- createutilities --> Unofficial
-- create-halitosis-create-halitosis --> dragon+
-- create-high-pressure --> KubeJS!
-- create-kinetic-illuminator --> Tsuki
-- create-steam-n-rails --> Unofficial
-- crock-pot --> Tsuki
-- smart-pot --> Remove
-- delightful --> Remove?
-- dimension-viewer-kots --> NEED UPDATE DONE
-- fastspawner --> Remove
-- fintastic --> Remove
-- fragmentum --> fragmentum-neoforge
-- global-gamerules --> The Ruler
-- icterine --> Remove
-- its-the-little-things --> Remove?
-- item-filters --> ftb-filter-system
 - dusts-keymap --> new-visual-keybing F. We need another.
-- maid-s-bakeries --> NEED UPDATE
-- maidaddition --> maidusehandcrank
+- maid-s-bakeries --> REMOVE
 - morechathistory-reforged --> Longer Chat History, Server Chat Sync
 - oworld2create --> oworld2create-refoxed
-- ~~quit-or-not --> NEED UPDATE~~ 
-- rainbowwrenchforjei-reforge --> NEED UPDATE? NO.
+- rainbowwrenchforjei-reforge --> NEED UPDATE?
 - right-click-get-crops --> Remove
 - star-meow-craft --> Remove
-- endergetic --> Remove
-- youkaishomecoming --> Unofficial, Remember data
 - watermedia --> NEED UPDATE
 - bilibili-media-kots --> NEED UPDATE
-- vintage-delight --> NEED UPDATE F.
-
-## SHOULD REMOVE
-
-- Krypton Hybrid --> NEBL
-- Chunk Sending --> NEBL
-- balancedflight --> Tsuki
-- Create: Fluid
-- maidsoul-kitchen --> resturant
-- drink-beer-refill
-- embeddium --> sodium
-- etcetera
-- expanded-storage-kots
-- l2backpack
-- oculus --> iris
-- the-bumblezone
-- tofu-create-kots --> tofu-create
 
 ## PROBLEMS
 
-- Sodium should downgrade
-- Iris Compat --> Colorwheel
-- Two Tooltip ... 关掉 modernui 的现代化提示框
-- 去掉玩偶换成森罗
-- 去掉 cosmos
-- 煮锅没有实现 itemfluidHandler
-- Remove Sodium/Embeddium Options!
-- 工业平台? 好像也不需要，反正开局发飞行了，主要这东西没撤回太草了
-- 锻造模板减负
-- trade-tweaks
-- 月的砧板 EMI 显示不对，贴图需要向右下移动一格
-- c:wheat 经常会掉 Tag，很奇怪
-- youkaishonecoming怎么有个没有输出的配方
-- 把原初受火者加到笼子里面。不对，这个B自己不掉什么阳间东西。
-- 那不勒斯也有薄荷，需要和月的合并
-- 菠萝的 cutting 需要合并
-- 游戏里面有两个煎蛋，两个煎龙蛋，两个煎嗅探兽蛋（）
-- ends 和 森罗末地 有很多重合材料
-- 补充一个 keymap
-- OPAC 换 ftbc
-- 车万女仆精灵，绯红蚊子也要加到处决名单里面
-- 绿色勾玉补充鱼肉蛋奶水果，需要看最大集
-- 换个音乐机？ 还是保守一些好了。
-- 沉浸式奏乐
-- 豆腐魔杖减负
-- itlt
-- 译言订正
-- 通达铁路，你怎么没有生成啊？
-- Beautify! 有 Bug，需要 Fork 修正
-- Vanilla Backport
-- 传送石碑？
-- 锦致装饰的各种方块会污染合成表，需要禁用
-- 任务书改成理境终端
-- 合并钢锭，并选出一种合成方法
-- Curios 的材质？
-- EMI 的材质有点不理想
-- 饮酒作乐、捕蟹笼、Client sort要画GUI
-- 注意修改，开局不给御符 
-  - 等烘焙坊
-- 洋葱统一
-- 盐统一
-- 青铜统一
-- 成就的精灵图有bug
-- JEI 材质爆炸了
-- 缺材质：厨房烤肉塔，酒桶，交易站
-- 稻米还是有奇怪的多余配方
-- EMI火的背景要去掉
-- 伊波恩之书的成就要指向另一个界面
-- 护神甲的受伤逻辑要改
-- 有几个tag不对，主要都是染料，太神秘了
-
-
-
-- 魔女套加个抗辐射标签
+- 清除已经移除的kubeJS提示
+  - ？怎么只能搜到提示怪
+  - 柠檬、菠萝、椰子、橄榄、薄荷少tag
 - 收集模组
   - 狸猫
   - 方块小镇
   - 酒狐速递
   - Dialog：用于神碑或剧情演出
-  - Mod Tab
   - 踢掉果园乐事 - CCW要用到 - 算了踢掉吧
-  - 沉浸式画框
   - 加 OEL 统一食用油
-  - 机动路线
-  - 蓝图大炮切石
-  - 原焰帝臻
-  - 让我改改
+  - 蓝图大炮切石？
+  - 原焰帝臻？
 - 等待：
   - 女仆餐厅
   - 原子核动
   - 水仙辞
+  - JEIPP
 - 不详受火者掉落物
 - 深渊奏鸣和风土记改个配方
+- 机动突破改个配方
 - 永冻碎片加个配方
-- 空岛验证
+- 澄净花园挑战：Overworld 超平坦
   - 需要补充的结构：下界堡垒，要塞，海洋神殿，墓穴，城堡
   - 需要补充的方块：紫水晶母岩
 - 日式煮锅的配方改一下，挪出丢失造物集放到后面去。
@@ -147,16 +50,6 @@
 
 ## 枪毙名单
 
-- 纸飞机：没用
-- Compressed：没用
-- 更多钻头：疑似没用？，好像没什么需要时运的地方
-- 物品附加：没用
-- 料理乐事：太少了
-- design decor 没用
-- emotecraft：再看看？
-- function storage：原本就只剩压缩了，有精妙后就没用了
-- quark：呸！
-- integraded：玩太多了，而且原版的结构没法去掉。考虑换ati、dnt、[Luki's Strongholds](https://www.mcmod.cn/class/23579.html)。跑刀的意义也不是很大了。
 - 果园乐事：需要审查代码质量，本身用途也不多
 
 ## 任务
@@ -165,7 +58,7 @@
 
 - 对于过去，斜体，书面临床体，并标注记录日期。
   - *末影珍珠是末影之眼的组成材料之一，其可通过击杀主世界偶尔出现的末影人或与牧师村民交易获得。*
-  - ——理境历 2020-04-24
+  - ——理境历 22020-04-24
   - 关键时间节点：Java版 1.7.10 发布于 2014-6-26，1.12.2 发布于 2017-9-18，理想境发布于 2020-04-20。
   
 - 对于现在，口语化
@@ -174,12 +67,140 @@
 - 科学-科技-探索深度-机动线-现代模组
 - 艺术-文明-探索广度-农业线-古代模组
 
-### 丢失造物集 和 建筑师手册
+### 丢失造物集
 
-- 叙述需要返工
-- 加个无消耗蓝图，给初始小屋
+- 拆分为额外造物集、理境科技录（整合包基础）、万界交流录
+- 额外现有
+  - Artifact
+  - Trade tweaker
+  - 连锁撤回
+  - 食物清单
+  - carryon
+  - 不准附魔（移到后面）+ 附魔图书馆
+  - 唱片机？
+  - 手杖
+  - 汉堡
+  - +布罗艾
+    - 理境的某家知名大型家具商场出售的毛茸茸玩具，深受大众喜爱。可以抱在身上，或者放下来作为装饰。
+
+  - +附魔图书馆
+    - 某位访察使对于大量附魔书占据箱子的空间感到了厌烦，而研发出了附魔图书馆将它们统统转为数字化存储。
+    - 当向附魔图书馆中放入一本附魔书时，它会被转换为 2^(等级-1) 点数。可以在其中进行存取或附魔。
+    - 只能提取低于曾放入的最高等级的附魔。
+
+  - +经验矿石
+    - 这个世界似乎会生成一些特殊的矿石：它们不掉落任何物品，只掉落经验。
+
+- 理境现有
+  - jei
+  - +点歌
+    - 
+
+  - 字体
+  - 传送
+  - 签到
+  - 队伍领地
+  - +Tweakeroo & Litematica
+    - 通过基因改造，理境访察使可以获得超越普通人的能力：
+    - 灵魂出窍
+
+  - +探囊取物
+    - 从异界学习而来的法术
+    - 在面向特定的方块时候，按下 [Z] 可以从背包或维度网络中匹配对应的“扳手”并拿出。
+
+- 万界
+  - Waterframe（丢多人）+ bilibili
+  - Minopp（丢多人）
+  - 市场交易（丢多人）
+  - +emotecraft
+    - 按下 ？ 键可以打开表情轮盘，做出表情动作
+
+  - +沉浸式奏乐
+    - 使用乐器来演奏乐曲。
+
+  - +画框
+    - 
+
+  - +musichud
+    - 
+
+  - +ServerWarashi
+    - 
+
+  - +Observable
+    - 
+
+  - +Spyglass
+    - 
+
+  - +女仆棋类pvp
+    - 大汉棋圣！
+
+  - +simple-block-game
+    - 
+
+  - +vw50
+    - 合成红包物品来发红包！
+    - 使用 /vw50 也可以发
+
+  - +随笔
+    - 在游戏世界中使用道具右键发送评论，这些评论可以附上截图，且与特定的位置相关联。
+
+  - +what i wanna show U
+    - 按下快捷键，可以分享物品信息到聊天栏。包括：
+      - 主手物品；
+      - 鼠标指针下的物品（各种背包页面，包括 JEI）；
+      - 屏幕准星下的实体或方块或掉落物。
+
+
+## 建筑师手册
+
+- 现有
+
+  - 流光溢彩&机动内饰
+
+  - 机动装饰
+
+  - Waterframe
+
+  - 别样家具
+
+  - 手办
+
+  - doors
+
+  - 群青
+
+  - 月&妖归
+
+  - 小月灯
+
+  - 沉浸式家具
+
+  - 气鸣铁道
+
+  - +织影落花
+
+  - +风铃
+
+  - +坐垫
+
+    - 从高版本迁移而来的坐垫，可以灵活地放置在任意平面
+
+  - +扶梯
+
+  - +森罗酒馆
+
+  - +森罗玩偶 & Whimsy Deco
+
+    - 以这个世界的生物为原型做出的玩偶
+
+    - 以理境的知名 IP 为原型做出的玩偶
 
 ### 林姑
+
+- 计算一个扳手特殊用法
+- +世界探索
 
 ### 慈老
 

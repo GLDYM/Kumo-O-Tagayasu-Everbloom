@@ -23,6 +23,7 @@
 				id: "kubejs:bedrock_egg"
 			}
 			id: "3EC718092B2DD9AD"
+			quest_enhance_disable_scroll_paging: false
 			shape: "hexagon"
 			size: 3.0d
 			tasks: [{
@@ -35,6 +36,7 @@
 		{
 			dependencies: ["3EC718092B2DD9AD"]
 			id: "4AC580914BEDEC5E"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "59AE3EF0E03E73D5"
 				item: {
@@ -58,6 +60,7 @@
 				id: "minecraft:enchanting_table"
 			}
 			id: "198EC6BDFF26EEDA"
+			quest_enhance_disable_scroll_paging: false
 			size: 1.5d
 			tasks: [{
 				id: "0087568C66095B48"
@@ -72,6 +75,7 @@
 				id: "minecraft:chest"
 			}
 			id: "16E8F0B3BC974914"
+			quest_enhance_disable_scroll_paging: false
 			size: 1.5d
 			tasks: [{
 				id: "683A1A362210AD62"
@@ -83,6 +87,7 @@
 		{
 			dependencies: ["3EC718092B2DD9AD"]
 			id: "10E438A8A70C6D54"
+			quest_enhance_disable_scroll_paging: false
 			size: 1.5d
 			tasks: [{
 				id: "6D699009B1A19E50"
@@ -95,6 +100,7 @@
 		{
 			dependencies: ["3EC718092B2DD9AD"]
 			id: "61B6F363A7BD3938"
+			quest_enhance_disable_scroll_paging: false
 			size: 1.5d
 			tasks: [{
 				id: "0B00DA517EC20D2F"
@@ -107,6 +113,7 @@
 		{
 			dependencies: ["3EC718092B2DD9AD"]
 			id: "38177FEC4009CCFE"
+			quest_enhance_disable_scroll_paging: false
 			size: 1.5d
 			tasks: [{
 				id: "172C6A1C853F9283"
@@ -122,6 +129,7 @@
 				id: "kaleidoscope_nether:everlasting_flame_steak"
 			}
 			id: "0CC112B640B87CD2"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "00A4D74D779F4264"
 				type: "xp_levels"
@@ -138,6 +146,7 @@
 		{
 			dependencies: ["3EC718092B2DD9AD"]
 			id: "1F357EC4339BB73B"
+			quest_enhance_disable_scroll_paging: false
 			size: 1.5d
 			tasks: [{
 				id: "29B3EBC590B9CDA7"
@@ -150,6 +159,7 @@
 		{
 			dependencies: ["3EC718092B2DD9AD"]
 			id: "519FF2D319A99D35"
+			quest_enhance_disable_scroll_paging: false
 			size: 1.5d
 			tasks: [{
 				id: "56093F076F8CE89A"
@@ -170,6 +180,7 @@
 				id: "constructionwand:infinity_wand"
 			}
 			id: "4D5E8D8466A0F867"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "7B9D53B553A3D95A"
 				item: {
@@ -192,6 +203,7 @@
 				id: "l2complements:eternium_pickaxe"
 			}
 			id: "6BFEAD3CB21E1DF8"
+			quest_enhance_disable_scroll_paging: false
 			size: 1.5d
 			tasks: [{
 				id: "50973059EC52A523"
@@ -203,6 +215,7 @@
 		{
 			dependencies: ["3EC718092B2DD9AD"]
 			id: "0A2F4F55B297D9DA"
+			quest_enhance_disable_scroll_paging: false
 			size: 1.5d
 			tasks: [{
 				id: "35F02992B7F0EEF0"
@@ -215,6 +228,7 @@
 		{
 			dependencies: ["3EC718092B2DD9AD"]
 			id: "4F0D2CBA94CD7CF7"
+			quest_enhance_disable_scroll_paging: false
 			size: 1.5d
 			tasks: [{
 				id: "15A64CA9AA4A848D"

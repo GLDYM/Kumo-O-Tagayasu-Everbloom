@@ -12,6 +12,7 @@
 	quests: [
 		{
 			id: "1D38E61DAE2F18F4"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "624B852B3216A645"
@@ -39,6 +40,7 @@
 		}
 		{
 			id: "192E44857CF6D97E"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "5EE595FDCB0C17DF"
 				type: "checkmark"
@@ -49,6 +51,7 @@
 		{
 			dependencies: ["1D38E61DAE2F18F4"]
 			id: "0BE8444BAC4A4B0F"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "734504A3AE5974E9"
@@ -77,6 +80,7 @@
 		{
 			dependencies: ["192E44857CF6D97E"]
 			id: "71133D45EDD2DE7D"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "2D8BAACEE9F5BD9F"
@@ -110,6 +114,7 @@
 		{
 			dependencies: ["192E44857CF6D97E"]
 			id: "263BDB457BADAA12"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "4069802111CFC25D"
@@ -133,6 +138,7 @@
 		{
 			dependencies: ["192E44857CF6D97E"]
 			id: "3B844C0B9694FF56"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "6A7FD2FDA7290FA9"
@@ -161,6 +167,7 @@
 		{
 			dependencies: ["192E44857CF6D97E"]
 			id: "082D0B34780544EC"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "223816C14F425656"
@@ -184,6 +191,7 @@
 		{
 			dependencies: ["192E44857CF6D97E"]
 			id: "3D342DB64090A370"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "24DA1BCDC7452BFF"
@@ -212,6 +220,7 @@
 		{
 			hide_until_deps_complete: true
 			id: "302FF52DFFBFC593"
+			quest_enhance_disable_scroll_paging: false
 			shape: "square"
 			tasks: [{
 				id: "23F81664A4E11AC9"
@@ -224,6 +233,7 @@
 		{
 			dependencies: ["302FF52DFFBFC593"]
 			id: "715168C39F095016"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "0F14EBDF37979551"
 				item: { count: 1, id: "minecraft:netherite_ingot" }
@@ -238,6 +248,7 @@
 				"715168C39F095016"
 			]
 			id: "4536A571975F7465"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "1080CF0B99CC68F1"
 				item: { count: 1, id: "createutilities:void_steel_ingot" }
@@ -249,6 +260,7 @@
 		{
 			hide_until_deps_complete: true
 			id: "0D6619D2116509F6"
+			quest_enhance_disable_scroll_paging: false
 			shape: "square"
 			tasks: [{
 				id: "61CF5769402FE239"
@@ -261,6 +273,7 @@
 		{
 			dependencies: ["4536A571975F7465"]
 			id: "69A12C1DF6F85CB7"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "2818A6F5C3180AA5"
 				item: { count: 1, id: "createutilities:void_steel_sheet" }
@@ -272,6 +285,7 @@
 		{
 			hide_until_deps_complete: true
 			id: "421E950D9B12E876"
+			quest_enhance_disable_scroll_paging: false
 			shape: "square"
 			tasks: [{
 				id: "24404673A2D4469E"
@@ -284,6 +298,7 @@
 		{
 			dependencies: ["421E950D9B12E876"]
 			id: "4E1BB11F0258F21C"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "55CE8630FF94360F"
 				item: { count: 1, id: "createutilities:polished_amethyst" }
@@ -298,6 +313,7 @@
 				"69A12C1DF6F85CB7"
 			]
 			id: "2D45F7A94972E66D"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "69743DDDB12DB156"
@@ -316,6 +332,7 @@
 		{
 			dependencies: ["2D45F7A94972E66D"]
 			id: "2FCCC7153EEC288B"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "3728B1AAF1724A7B"
@@ -344,6 +361,7 @@
 		{
 			dependencies: ["192E44857CF6D97E"]
 			id: "10FFF70BC5F48B23"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "771942D09614639B"
 				type: "checkmark"
@@ -354,6 +372,7 @@
 		{
 			dependencies: ["10FFF70BC5F48B23"]
 			id: "28C3E52173437966"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "788036B59503E35B"
@@ -382,6 +401,7 @@
 		{
 			dependencies: ["10FFF70BC5F48B23"]
 			id: "4438E7B0ADE5CFA2"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "0BD129DFCEEAE16E"
 				item: { count: 1, id: "create_connected:brake" }
@@ -393,6 +413,7 @@
 		{
 			dependencies: ["10FFF70BC5F48B23"]
 			id: "6FDD851B8934562D"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "19371090B84CEAB9"
@@ -410,6 +431,7 @@
 		}
 		{
 			id: "7441511CE448C78C"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "185BD933B91F40DA"
@@ -428,6 +450,7 @@
 		{
 			dependencies: ["7441511CE448C78C"]
 			id: "38BD2B221B2A11E7"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "5E9B4D524EEA9004"
@@ -450,6 +473,7 @@
 		}
 		{
 			id: "78B383B89F340A97"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "564702F4CDD8943C"
@@ -467,6 +491,7 @@
 		}
 		{
 			id: "73F3C759E9338053"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "7D2C6BFD5746D8EB"
 				item: { count: 1, id: "create_enchantment_industry:printer" }
@@ -478,6 +503,7 @@
 		{
 			dependencies: ["38BD2B221B2A11E7"]
 			id: "4A7AD44434FED5B5"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "3DB1C92A29B10AFC"
 				item: { count: 1, id: "createrailwaysnavigator:advanced_display_panel" }
@@ -489,6 +515,7 @@
 		{
 			hide_until_deps_complete: true
 			id: "5CB0B0605C590A9B"
+			quest_enhance_disable_scroll_paging: false
 			shape: "square"
 			size: 2.0d
 			tasks: [
@@ -509,6 +536,7 @@
 		{
 			dependencies: ["5CB0B0605C590A9B"]
 			id: "2EBBA3538BD2B224"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "5E95D7D44AD906C7"
 				item: {

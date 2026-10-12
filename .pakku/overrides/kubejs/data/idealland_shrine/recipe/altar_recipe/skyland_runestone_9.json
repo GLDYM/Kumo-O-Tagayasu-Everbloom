@@ -1,0 +1,31 @@
+{
+  "type": "touhou_little_maid:altar_recipe_serializers",
+  "group": "altar_recipe",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "idealland_shrine:skyland_dull_runestone"
+    },
+    {
+      "item": "idealland_shrine:basic16rune_9"
+    },
+    {
+      "item": "create:brass_nugget"
+    },
+    {
+      "item": "minecraft:pink_dye"
+    },
+    {
+      "item": "minecraft:pink_dye"
+    },
+    {
+      "item": "minecraft:pink_dye"
+    }
+  ],
+  "power": 1.2,
+  "result": {
+    "id": "idealland_shrine:skyland_runestone_9"
+  },
+  "entity": "minecraft:item",
+  "lang": "jei.touhou_little_maid.altar_craft.item_craft.result"
+}
