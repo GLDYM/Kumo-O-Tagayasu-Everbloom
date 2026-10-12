@@ -35,7 +35,7 @@
         "watermedia": {
             "side": "CLIENT",
             "update_strategy": "NONE"
-        }
+        },
         "staaaaaaaaaaaack": {
             "aliases": [
                 "stxck"
@@ -433,7 +433,7 @@
             "side": "CLIENT"
         },
         "tectonic": {
-            "side": "BOTH",
+            "side": "BOTH"
         },
         "tongda-railway": {
             "side": "BOTH"
