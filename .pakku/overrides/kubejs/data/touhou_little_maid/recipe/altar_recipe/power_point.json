@@ -1,0 +1,32 @@
+{
+  "type": "touhou_little_maid:altar_recipe_serializers",
+  "group": "altar_recipe",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "power": 3.6,
+  "result": {
+    "id": "touhou_little_maid:power_point",
+    "count": 6
+  },
+  "entity": "minecraft:item",
+  "lang": "jei.touhou_little_maid.altar_craft.item_craft.result"
+}

@@ -4,5 +4,7 @@
   "ingredient": {
     "item": "minecraft:clay_ball"
   },
-  "result": "ultramarine:unfired_clay_brick"
+  "result": {
+	"id": "ultramarine:unfired_clay_brick"
+  }
 }

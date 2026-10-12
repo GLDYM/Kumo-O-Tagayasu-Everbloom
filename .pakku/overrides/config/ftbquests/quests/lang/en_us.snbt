@@ -41,14 +41,6 @@
 	quest.05F42BBC3C7B250D.title: "Coarse Cloth"
 	quest.0718962BC048D12E.quest_desc: ["You've taken another step on the road to becoming a gourmet."]
 	quest.073E0167CBBB303B.quest_desc: ["The basic material for crafting armor."]
-	quest.081674421615028F.quest_desc: [
-		"Aya's camera can capture maids into photos, storing them when you lack soul spells."
-		""
-		"Its main use is as a sculpting reference. Hold a photo in offhand, right-click clay blocks (1x1x1, 1x1x2, 2x2x4, 3x3x6) with a carving knife to turn them into statues. Breaking them reverts them to clay."
-		""
-		"If you place a 1x1x1 statue above fire, after some time it becomes a figurine, preserving its shape."
-	]
-	quest.081674421615028F.title: "I Want to Be a Figurine Master!"
 	quest.08BDB731A3E44277.quest_desc: [
 		"Hit a Piglin Brute with a Black Fire Charge, then kill it."
 		""
@@ -91,7 +83,6 @@
 		""
 		"&aOne possible approach: hover with a broom at y=520."
 	]
-	quest.0C393621176E304B.quest_desc: ["Maids can sleep in maid beds to increase affection."]
 	quest.0C489EAE0537E17F.quest_desc: ["Fermentation barrels can be used to brew soy sauce and alcohol."]
 	quest.0C489EAE0537E17F.title: "Fermentation Barrel"
 	quest.0C8EB79DC048D877.quest_desc: ["Trade with tofu villagers to obtain it. No idea why it shows up in the Tofu World."]
@@ -164,11 +155,6 @@
 	]
 	quest.15813F66EBAE14F8.quest_desc: ["Noble mana regeneration."]
 	quest.15A107660676CCE9.quest_desc: ["Fire spells"]
-	quest.1618FAA4D7E93E25.quest_desc: [
-		"Shrine lanterns can store P points, or consume them to give nearby maids status effects."
-		""
-		"When broken, shrine lanterns keep their stored P points, so they can be used as storage devices."
-	]
 	quest.16369530ADEC5DC3.quest_desc: [
 		"@immersive_furniture"
 		""
@@ -227,9 +213,6 @@
 		""
 		"&e[WARN] Experience fluid beyond dimensions is not compatible with Create and requires mixing conversion."
 	]
-	quest.1B3B25F7487DF758.quest_desc: ["Written by Hieda no Akyuu, recording all aspects of maids."]
-	quest.1B3B25F7487DF758.quest_subtitle: "Chapter author: PL"
-	quest.1B3B25F7487DF758.title: "&6Memorizable Gensokyo"
 	quest.1BF2C936A7D5FB3E.quest_desc: ["Nature spells"]
 	quest.1D2392D85A989BB9.quest_desc: [
 		"Turned into a yokai!"
@@ -265,8 +248,6 @@
 		""
 		"&7&nActually there's an icon here"
 	]
-	quest.22013D907091EAC6.quest_desc: ["You actually finished all the tasks in this chapter. Clearly, you really love maids."]
-	quest.22013D907091EAC6.title: "&eHidden: You actually finished it"
 	quest.226E5A37496355B1.quest_desc: ["To achieve greater speed, you need to master the power of the Sculk…"]
 	quest.2298F2EE59AC5CFB.quest_desc: ["Mithril ingots can be obtained by mining underground, or by enchanting Necrotic Metal Ingots."]
 	quest.22C6B24400B7B631.quest_desc: ["Crafted from worn spellbooks."]
@@ -338,14 +319,6 @@
 		"&aTL;DR: &l&bIt's best if every player creates their own team&r. That way, when allying with other teams, you won't accidentally give permissions to strangers."
 	]
 	quest.27694D4475BD7343.title: "About the Territory System"
-	quest.2788E561AA51FCFA.quest_desc: [
-		"Waaah, you bad master!"
-		""
-		"When a maid dies, she drops film. You can use the altar ritual to revive her."
-		""
-		"If you obtained a shrine from loot chests, you can also place the film inside to revive the maid."
-	]
-	quest.2788E561AA51FCFA.title: "Film"
 	quest.289788DC6E24A8BF.quest_desc: ["Another grown‑up's drink, found in the Blooming Forest biome."]
 	quest.289788DC6E24A8BF.title: "Tea Leaves"
 	quest.289E57DF483EC37F.quest_desc: [
@@ -497,13 +470,10 @@
 	quest.326A5AFAC46AD0DD.quest_desc: ["Found everywhere in adventures, isn't it?"]
 	quest.32F4FF7EBEAA890E.quest_desc: ["Edamame Gems are hard currency on the Tofu Planet. Trade them with Tofu Chefs and Merchants for rare tofu types."]
 	quest.32F4FF7EBEAA890E.title: "Curious gem"
-	quest.338AA5DA729061A9.quest_desc: ["The Kappa's Compass defines a maid's work area. After setting coordinates, right-click the maid; in HOME mode she will move between them."]
-	quest.338AA5DA729061A9.title: "Kappa's Compass"
 	quest.345578A1C453EA9B.quest_desc: ["Material trait: full Sculk set silences player sounds. A material focused on speed."]
 	quest.3556E83C59F136A6.quest_desc: ["Place tofu blocks at Y≥50 with light level <10 (freezing conditions). After a while, they turn into Frozen Tofu Blocks. A northeastern classic."]
 	quest.36DC8B1604C69DEC.quest_desc: ["Burning conversion: various ‘Soul' items (see JEI)."]
 	quest.37311212A4BB2069.quest_desc: ["Crafted with glass bottles and phantom membranes."]
-	quest.3759486D4113C11A.quest_desc: ["Gap allows maids to store items directly into chests, saving you from manually retrieving them."]
 	quest.378D3CC29AE2D546.quest_desc: [
 		"This starter chapter is designed for players new to mods, guiding early progression and common basics."
 		""
@@ -562,7 +532,6 @@
 		""
 		"&aIf you lose the ribbon, you can claim another here."
 	]
-	quest.3D9FD800CA15B82A.quest_desc: ["Item Magnet expands the pickup range of maids."]
 	quest.3E003F4BD63182F4.quest_desc: ["Probably the most well‑rounded wand overall."]
 	quest.3EF0DFF0442CBF6A.quest_desc: [
 		"Player: Do you dare defy me with 80 HP and full Blast Protection VI?"
@@ -629,8 +598,6 @@
 		""
 		"Use rapid clicking to obtain quickly."
 	]
-	quest.447BAA06097CC83E.quest_desc: ["Stone Fox statues guard sacred grounds, preventing fairy maids from respawning within range."]
-	quest.447BAA06097CC83E.title: "Stone Fox Statue"
 	quest.455157F7DC03EBFA.quest_desc: ["Looks like you’re really bored, here’s a TV for you to watch."]
 	quest.455157F7DC03EBFA.title: "&6Hidden: Tech Modpack?"
 	quest.4637C59930D18D82.quest_desc: ["You drunkard—how can you drink so much!"]
@@ -665,8 +632,6 @@
 		"Adds tall doors and short doors. Create-style doors are included too."
 	]
 	quest.4A8236B3F4896489.title: "Exterior: Dramatic Doors"
-	quest.4B474602C7639F0A.quest_desc: ["The Gohei is a shrine maiden's symbol. It can activate the altar for rituals or fire danmaku."]
-	quest.4B474602C7639F0A.title: "Gohei"
 	quest.4BD903252A91F4B2.quest_desc: ["Automatically extracts food from the bound network to feed the player. After use, open the menu to set working mode and filters."]
 	quest.4C2C3E806258FA45.quest_desc: ["Put milk and salt into a fermenting jar; after some time it becomes cheese, right-click to collect."]
 	quest.4C2C3E806258FA45.title: "Cheese Block"
@@ -769,8 +734,6 @@
 	quest.5502902A322A43A6.title: "Bake in Mold"
 	quest.552017E66367F202.title: "Legendary Ink!"
 	quest.554DD24BDBB01B3F.quest_desc: ["Hold Echo Shards in your off‑hand and a Tofu Horn in your main hand, then blow at a Tofu Spider to turn it into a Stinky Tofu Spider. Defeat it to obtain Sculk Tofu Bones, which can be used to forge higher‑performance gear."]
-	quest.556BC9C5DABA8F85.quest_desc: ["This modpack adds a recipe for empty soul spells, making it easy to store summoned maids."]
-	quest.556BC9C5DABA8F85.title: "Empty Soul Spell"
 	quest.55920FDF96465686.quest_desc: ["Trade with wandering merchants. In theory you can carry 8 Rings of Repetition, replacing 24 cooldown orbs."]
 	quest.55C9E55BF95DA6E8.quest_desc: [
 		"Sneak + right-click with empty hand to bind to the dimension network the current player is in. Dimension network administrators can sneak + right-click with empty hand to unbind."
@@ -787,8 +750,6 @@
 		""
 		"Some kitchenware must be placed on a stove to function."
 	]
-	quest.570626EC269040A9.quest_desc: ["Soul spells can release or recall maids."]
-	quest.570626EC269040A9.title: "Soul Spell"
 	quest.577F7825C29BFD78.quest_desc: ["In version 1.20 of Iron's Spellbooks, combining two identical scrolls on an anvil to upgrade was removed. Max‑level spells can now only be made at the scribing table using legendary ink. &b(Even lucky players can get them!)"]
 	quest.578E88E25201A887.quest_desc: ["The Enchantal Cooler extracts the essence of ingredients. It requires lapis as an energy source."]
 	quest.578E88E25201A887.title: "Enchantal Cooler"
@@ -806,8 +767,6 @@
 		"You can also automate with Create to input items and fluids."
 	]
 	quest.58B5652244287CAC.title: "Japanese Cooking Pot"
-	quest.59460BB0454B5ED2.quest_desc: ["Maids can also manage storages, which is very effective for large messy storage."]
-	quest.59460BB0454B5ED2.title: "Maid Storage Manager"
 	quest.596640E572366085.quest_desc: [
 		"Koishi seems to like you this way and wants to play together. As thanks, she gives you her beloved Mr. Hat, which helps you avoid other yokai."
 		""
@@ -831,8 +790,6 @@
 	quest.5A0C02536739C87C.quest_desc: ["Burning conversion: emeralds or emerald blocks."]
 	quest.5C6D1E54C18D9718.quest_desc: ["10 slots"]
 	quest.5C9EE3F5BBE4BF4C.quest_desc: ["You have mastered the secrets of magic—let us celebrate the birth of a new king!"]
-	quest.5CECF64A1B7BECE5.quest_desc: ["These accessories are all combat-related, giving maids different effects."]
-	quest.5CECF64A1B7BECE5.title: "Fight! Fight!"
 	quest.5D1473E56B6358EE.quest_desc: ["&aIdea: Prismarine dust from crushing cages. Or soul‑bound sand → wash → quartz."]
 	quest.5D1473E56B6358EE.title: "&6Basic: Nether Quartz"
 	quest.5E6DB02441CA7C01.quest_desc: [
@@ -842,24 +799,12 @@
 		""
 		"&aAnother possible approach: programmable gearbox + kinetic bearing, rotate a mob farm platform 180° into the void. &b@icewater冰水&r"
 	]
-	quest.5E8AEDBC3ADBB41A.quest_desc: ["As the name suggests, expands maid inventory space and provides special functions."]
 	quest.5FAD824F3CC63EA0.quest_desc: [
 		"Has the gaudy charm of a nouveau riche."
 		""
 		"&aOne possible approach: caged Diamond Warlord or mining machine."
 	]
 	quest.5FAD824F3CC63EA0.title: "&6Challenge: Nouveau Riche"
-	quest.5FBD09031EB9D4F0.quest_desc: [
-		"Loves the master the most!"
-		""
-		"&bTo reach 100 HP, you need max affection + lightning strike. Maid affection increases through sleeping or playing."
-	]
-	quest.606863B6410C1516.quest_desc: [
-		"These items are all used to find or recall maids."
-		""
-		"You crafted them all—clearly you had plenty of free time."
-	]
-	quest.606863B6410C1516.title: "Finding Maids"
 	quest.6099E2DE1A3DE1C0.quest_desc: ["As a pastry chef, how could you not have your own bread knife?"]
 	quest.6099E2DE1A3DE1C0.title: "Bread Knife"
 	quest.60D9140A16CBC68B.quest_desc: ["With the Illusion Moon Lamp, cultivating Udumbara becomes much easier."]
@@ -892,12 +837,6 @@
 		"Different breads require different dough recipes."
 	]
 	quest.630E16887F94C17E.title: "Make Dough"
-	quest.63F22966BE982954.quest_desc: [
-		"P points can be used to fire danmaku, perform rituals, repair gear with Mending, or stored in shrine lanterns to buff maids. They can be found in structure chests."
-		""
-		"Note: players have a cap on P points. Store extras in shrine lanterns."
-	]
-	quest.63F22966BE982954.title: "PPT"
 	quest.640365359E108156.quest_desc: ["A fairly balanced transitional wand."]
 	quest.640C90E018A28AA3.quest_desc: [
 		"Cake base can already be eaten, but to make a cake it needs further processing."
@@ -925,12 +864,6 @@
 	quest.68118C23BCF18634.title: "Cake Roll"
 	quest.68621D90D8D1BFE4.quest_desc: ["Different mediums produce different schools of spells."]
 	quest.690106770AD62EE6.quest_desc: ["Tasteless to eat, yet a pity to discard."]
-	quest.6902261308A0D69F.quest_desc: [
-		"The crafting table for the maid mod is the altar. See “Memorizable Gensokyo” for placement details."
-		""
-		"Place offerings on the altar pillars. If the recipe is correct and you have enough P points, the craft will succeed."
-	]
-	quest.6902261308A0D69F.title: "Altar"
 	quest.6932BE3FBDD3A55D.quest_desc: [
 		"Though it looks like a dagger, it's actually a western‑style knife for chopping, fighting, and cutting grass."
 		""
@@ -1095,12 +1028,6 @@
 	]
 	quest.7A82823089777A66.title: "Interior: Another Furniture"
 	quest.7A84025EFE6C14C8.quest_desc: ["Blazes have a chance to drop them."]
-	quest.7B16C981B1C79F24.quest_desc: [
-		"The Spell Amplification Core lets maids sync their master's magic attributes."
-		""
-		"Since late-game damage is mostly magic, this accessory becomes very powerful."
-	]
-	quest.7B16C981B1C79F24.title: "Avada Kedavra!"
 	quest.7BCD591A3375360A.quest_desc: [
 		"When a heat source is under the cooking pot, it bubbles and can be used to cook food."
 		""
@@ -1116,17 +1043,10 @@
 	quest.7D94DEBC573F4223.title: "&6Basic: Electron Tubes \\& Vacuum Tubes"
 	quest.7DBD8323958E0FA7.quest_desc: ["Ink determines the quality of spells you craft. Higher quality means stronger effects—aim for legendary ink!"]
 	quest.7DBD8323958E0FA7.title: "Ink"
-	quest.7DDAF6906785BDE2.quest_desc: [
-		"Using the altar can summon lightning. If a maid is struck, her max HP increases by 20."
-		""
-		"[INFO] Lightning summoned by the altar can kill an Elder Guardian, dropping the Guardian's Eye."
-	]
-	quest.7DDAF6906785BDE2.title: "Lightning!"
 	quest.7E3A5C9A5C6D1798.quest_desc: ["Evoker spells"]
 	quest.7FA418686872FF19.quest_desc: ["Perhaps your very first spellbook?"]
 	task.00B32220A7B337DF.title: "Beware of Reimu"
 	task.00C3C8D3B8E215A2.title: "Begin the Journey"
-	task.024BF9AFF786BD0F.title: "&6Challenge: 100 HP"
 	task.045BA5EF1590B6D3.title: "&4Did you really read it all?"
 	task.04668CF80B2DFF59.title: "&6Overview of the Starter Chapter"
 	task.09E0A3AABBFDAA13.title: "Ultramarine"
@@ -1143,7 +1063,6 @@
 	task.11887C0096774AD2.title: "Check"
 	task.11887C0096AD4AD2.title: "Check"
 	task.11887C8596574AD2.title: "Check"
-	task.12F2A928330A7AC9.title: "Build the Altar"
 	task.1663EAD77C179143.title: "Scrolls"
 	task.2281EDC413DE6526.title: "Unique Spellbook"
 	task.25377FDFDB16EAA8.title: "&4Did you really read it all?"
@@ -1159,7 +1078,6 @@
 	task.390ACE89218C6553.title: "Obtain Danmaku"
 	task.3991234787E77545.title: "Drink Coffee"
 	task.3B9E02977C70193A.title: "Iron's Spellbook Overview"
-	task.3E352BF3AEAB3081.title: "? You really finished it"
 	task.40D015B483FFFCC8.title: "Eat All Foods"
 	task.41D6D62AC69E22B5.title: "&6Begin the Gensokyo journey"
 	task.49787755A644FF6D.title: "&6Advanced Chapter Overview"
@@ -1167,7 +1085,6 @@
 	task.52F20F4E96822FDD.title: "Prismatic Shine"
 	task.544B96EC3546CE12.title: "Immersive Furniture"
 	task.5605186F3CE4159C.title: "Ancient Wisdom"
-	task.5D0608392F923E6B.title: "Open the Memory"
 	task.60328E664904FBA2.title: "About Spell Levels"
 	task.615EB5167218520C.title: "Waterframes"
 	task.6191EE923132A900.title: "Night Lights"
@@ -1178,7 +1095,6 @@
 	task.6CF22C3C4FF2854B.title: "Touhou Little Maid"
 	task.6E4363EF82988D8A.title: "&4Did you really read it all?"
 	task.713B851932557282.title: "Equipment \\& Trinkets"
-	task.71E79561E457E689.title: "Film"
 	task.7272D3474097FB22.title: "About bittern"
 	task.79239C86603DDA3B.title: "Yokai Form"
 	task.7B4DE0F6ADC05881.title: "Create Deco"

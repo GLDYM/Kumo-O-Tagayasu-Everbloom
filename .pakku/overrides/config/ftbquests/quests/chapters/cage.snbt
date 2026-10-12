@@ -13,6 +13,7 @@
 		{
 			hide_until_deps_complete: true
 			id: "2B2EF5CF2C51C4FC"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "08A3688F71FC9EAE"
 				type: "xp_levels"
@@ -31,6 +32,7 @@
 			dependencies: ["2B2EF5CF2C51C4FC"]
 			hide_until_deps_complete: true
 			id: "2DC9B6148BDF301E"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "7DFFE5EF1BA60E1F"
 				type: "xp_levels"
@@ -48,6 +50,7 @@
 			dependencies: ["2B2EF5CF2C51C4FC"]
 			hide_until_deps_complete: true
 			id: "3055C4CD3D0320C5"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "0244462C7CB3B951"
 				item: { count: 1, id: "cagedmobs:dna_sampler" }
@@ -59,6 +62,7 @@
 		{
 			dependencies: ["3055C4CD3D0320C5"]
 			id: "7734888167E430A8"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "64B344F6AE795B39"
 				item: { count: 1, id: "cagedmobs:diamond_dna_sampler" }
@@ -70,6 +74,7 @@
 		{
 			dependencies: ["7734888167E430A8"]
 			id: "4C9AC79E0ED97925"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "524945490CCFA0AB"
 				item: { count: 1, id: "cagedmobs:netherite_dna_sampler" }
@@ -82,6 +87,7 @@
 			dependencies: ["2B2EF5CF2C51C4FC"]
 			hide_until_deps_complete: true
 			id: "421D9CF64D6A54B5"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "4A807CFAB206FD10"
 				type: "xp_levels"
@@ -98,6 +104,7 @@
 		{
 			dependencies: ["421D9CF64D6A54B5"]
 			id: "71673A8F473A8C3E"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "13F8FC834C9D8F08"
 				type: "xp_levels"
@@ -114,6 +121,7 @@
 		{
 			dependencies: ["71673A8F473A8C3E"]
 			id: "226E5A37496355B1"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "26C01DC8391C97DF"
 				item: { count: 1, id: "cagedmobs:speed_iii_upgrade" }
@@ -127,6 +135,7 @@
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "57ADD902C93C0D93"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "1FF2F85773421CE3"
 				type: "xp_levels"
@@ -145,6 +154,7 @@
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "4C79361EA6ACB01B"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "51FB78A0FBBA37FD"
 				type: "xp_levels"
@@ -163,6 +173,7 @@
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "29F18DCE6B588E7F"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "7404E877884CDB3E"
 				type: "xp_levels"
@@ -181,6 +192,7 @@
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "73F13137A6956D41"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "11BC19ADD29CDC24"
 				type: "xp_levels"
@@ -199,6 +211,7 @@
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "092B2860A97504A4"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "288C22AED54661D7"
 				type: "xp_levels"

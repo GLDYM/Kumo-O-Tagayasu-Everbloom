@@ -15,9 +15,10 @@
 	quests: [
 		{
 			icon: {
-				id: "idealland_shrine:skyland_runestone_8"
+				id: "idealland_shrine:basic16rune_8"
 			}
 			id: "63A4FEEBE3E80459"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "6938346568FF6C6A"
 				type: "xp_levels"
@@ -35,6 +36,7 @@
 		{
 			dependencies: ["63A4FEEBE3E80459"]
 			id: "63F88E5A50955828"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 32
 				id: "0AFF32597C829699"
@@ -58,6 +60,7 @@
 				id: "create:encased_fan"
 			}
 			id: "44F9D06A50FBA9BE"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "1F1893C91366DB06"
 				item: {
@@ -77,6 +80,7 @@
 		{
 			dependencies: ["63A4FEEBE3E80459"]
 			id: "4ADF2C5567DB9FB6"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "0A97C21E34D50A9C"
@@ -102,6 +106,7 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "7910D85BA1AFA807"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "7F3C279467310597"
@@ -165,6 +170,7 @@
 				id: "create:mechanical_crafter"
 			}
 			id: "59CA698DEB710538"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "0354F91A27436C78"
@@ -183,6 +189,7 @@
 		{
 			dependencies: ["1F1672733813A194"]
 			id: "099CC3D0E28EFA53"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "2F02E3BD1700BD85"
@@ -221,6 +228,7 @@
 		{
 			dependencies: ["4ADF2C5567DB9FB6"]
 			id: "4FF2BEF3772F36B4"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "2E3B590ED391E6F6"
@@ -241,6 +249,7 @@
 		{
 			dependencies: ["4ADF2C5567DB9FB6"]
 			id: "418E781FF267B8F5"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "0EFD3394895C2C6C"
@@ -261,6 +270,7 @@
 		{
 			dependencies: ["59CA698DEB710538"]
 			id: "39BA63316AFE13DC"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "36EC43D1431DDDAE"
 				item: { count: 1, id: "create:crushing_wheel" }
@@ -275,6 +285,7 @@
 				"63F88E5A50955828"
 			]
 			id: "411CB0C6E0F2F25C"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "19FB4C5DC96EE8E8"
 				item: { count: 1, id: "create:railway_casing" }
@@ -289,6 +300,7 @@
 				id: "create:brass_casing"
 			}
 			id: "61227032F9A1F959"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "38064DA3C7E97616"
 				type: "xp"
@@ -310,6 +322,7 @@
 				id: "create:sturdy_sheet"
 			}
 			id: "32A1381A1E4D7898"
+			quest_enhance_disable_scroll_paging: false
 			shape: "gear"
 			tasks: [{
 				id: "6C459B48DA1D6526"
@@ -324,6 +337,7 @@
 				id: "create:precision_mechanism"
 			}
 			id: "7ECA44C394938C4B"
+			quest_enhance_disable_scroll_paging: false
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
@@ -339,6 +353,7 @@
 				id: "create:crushing_wheel"
 			}
 			id: "5A167ED2BE3B52B1"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 12
 				id: "6CEC8335325777BF"
@@ -360,6 +375,7 @@
 		{
 			dependencies: ["4ADF2C5567DB9FB6"]
 			id: "301034E14637CEE4"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "784C8825ED3FA5DF"
@@ -386,6 +402,7 @@
 				id: "minecraft:kelp"
 			}
 			id: "4E896F11A0820C6B"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "0A944D64964EEDD8"
@@ -406,6 +423,7 @@
 		{
 			dependencies: ["4E896F11A0820C6B"]
 			id: "647DF5E10307C2A3"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "123CDC18C398CDCA"
@@ -426,6 +444,7 @@
 		{
 			dependencies: ["63A4FEEBE3E80459"]
 			id: "1F1672733813A194"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "4D45FFA87627A3E7"
 				type: "checkmark"
@@ -436,6 +455,7 @@
 		{
 			dependencies: ["647DF5E10307C2A3"]
 			id: "0E6F3FA0AFB93D0E"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "62E238526320EC68"
@@ -454,6 +474,7 @@
 		{
 			dependencies: ["099CC3D0E28EFA53"]
 			id: "2A17B0F913AE256E"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "609FAA0A75C4B536"
@@ -472,6 +493,7 @@
 		{
 			dependencies: ["1F1672733813A194"]
 			id: "0BADCFF034931B8C"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "395FFAE11F20A1B9"
 				item: { count: 1, id: "create:item_vault" }
@@ -483,6 +505,7 @@
 		{
 			dependencies: ["0BADCFF034931B8C"]
 			id: "0CB07D2491DE3E3A"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "129B367BEE40FD4E"
@@ -504,6 +527,7 @@
 				"0BADCFF034931B8C"
 			]
 			id: "620EE07F929FE261"
+			quest_enhance_disable_scroll_paging: false
 			shape: "gear"
 			size: 1.5d
 			tasks: [
@@ -529,6 +553,7 @@
 		{
 			dependencies: ["620EE07F929FE261"]
 			id: "265F93E699463A95"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "60C5DE006D8DC962"
 				item: { count: 1, id: "create:factory_gauge" }
@@ -540,6 +565,7 @@
 		{
 			dependencies: ["620EE07F929FE261"]
 			id: "23217315AA002114"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "3D768593A8A60C2D"
@@ -566,6 +592,7 @@
 				id: "create:package_frogport"
 			}
 			id: "21E6EFAD30E5E2A4"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "09B560B7ADB5D7CA"
@@ -589,6 +616,7 @@
 		{
 			dependencies: ["620EE07F929FE261"]
 			id: "4D58CD1557258C83"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "03C0F83B52367F2C"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(create:table_cloths))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -603,6 +631,7 @@
 				id: "create:cardboard_block"
 			}
 			id: "7256679DEF949D28"
+			quest_enhance_disable_scroll_paging: false
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
@@ -615,6 +644,7 @@
 		{
 			dependencies: ["620EE07F929FE261"]
 			id: "42B666365DEB1801"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "279195A92D2599E7"
 				item: { count: 1, id: "create:repackager" }
@@ -629,6 +659,7 @@
 				id: "create:mechanical_crafter"
 			}
 			id: "54E36388668717D8"
+			quest_enhance_disable_scroll_paging: false
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
@@ -644,6 +675,7 @@
 				id: "create:mechanical_saw"
 			}
 			id: "62D2F88627DC17C4"
+			quest_enhance_disable_scroll_paging: false
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
@@ -659,6 +691,7 @@
 				id: "sourceblock:lava_source_block"
 			}
 			id: "6EAB5B409DCC7327"
+			quest_enhance_disable_scroll_paging: false
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
@@ -671,6 +704,7 @@
 		{
 			dependencies: ["418E781FF267B8F5"]
 			id: "0CFC270B09BCFCA3"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "2BBCFC08EE2323AD"
@@ -691,6 +725,7 @@
 		{
 			dependencies: ["099CC3D0E28EFA53"]
 			id: "727C09903813A28A"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "3E7FC99AA4BCEC7D"
@@ -709,6 +744,7 @@
 		{
 			dependencies: ["411CB0C6E0F2F25C"]
 			id: "214A9ACBCFBF43AF"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "077EC49F6BC2342B"

@@ -12,6 +12,7 @@
 	quests: [
 		{
 			id: "4D6417BAD3850CC3"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "1800BE8F25AEA9E6"
 				item: {
@@ -31,6 +32,7 @@
 		}
 		{
 			id: "66206D4EC6B05931"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "103787393CC5C83A"
 				item: {
@@ -51,6 +53,7 @@
 		}
 		{
 			id: "0B1E06D6FE08AF46"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "10DA0EAC92A8A380"
 				item: {
@@ -71,6 +74,7 @@
 		}
 		{
 			id: "2756DACDBEDA2D65"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "282886842F35F911"
 				item: {

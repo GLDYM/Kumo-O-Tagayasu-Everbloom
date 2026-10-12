@@ -18,6 +18,7 @@
 				id: "idealland_shrine:skyland_dull_runestone"
 			}
 			id: "31E4C8097B472526"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "7D7DDEDF2E4FB30D"
 				type: "xp_levels"
@@ -38,6 +39,7 @@
 				id: "minecraft:oak_log"
 			}
 			id: "32668E33132C1483"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 32
 				id: "38FE13EAC1AF1268"
@@ -58,6 +60,7 @@
 		{
 			dependencies: ["31E4C8097B472526"]
 			id: "523A89DD177AF51B"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "184CB2C62E29DAD3"
@@ -86,6 +89,7 @@
 				id: "super_source_block:empty_item_source_block"
 			}
 			id: "2A82C59BD308F6EB"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "0590B72A6DE2C494"
 				item: {
@@ -136,6 +140,7 @@
 				id: "minecraft:netherrack"
 			}
 			id: "0948E6AA0C37BF11"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "60251907BC63B25E"
 				type: "xp_levels"
@@ -155,6 +160,7 @@
 				id: "tsuki:tatara"
 			}
 			id: "0CDA14BE57E78F5B"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 2
 				id: "10FF5221828B5AAA"
@@ -182,6 +188,7 @@
 		{
 			dependencies: ["523A89DD177AF51B"]
 			id: "6BA89DBA0DD062BA"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "4932E8595BEDE135"
@@ -202,6 +209,7 @@
 		{
 			dependencies: ["2A82C59BD308F6EB"]
 			id: "0D10A6EE23547C6B"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					id: "649D9800BAB7F983"
@@ -248,6 +256,7 @@
 		{
 			dependencies: ["0948E6AA0C37BF11"]
 			id: "5D262A04E73287C2"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "568B89ACC379FB07"
@@ -269,6 +278,7 @@
 			dependencies: ["31E4C8097B472526"]
 			hide_dependency_lines: true
 			id: "128D6FCDFAF663BF"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "3D39B43F2F62E128"
@@ -295,6 +305,7 @@
 				id: "minecraft:end_stone"
 			}
 			id: "08545968038308DC"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "14102485ACA285AA"
 				type: "xp_levels"
@@ -314,6 +325,7 @@
 				id: "minecraft:dragon_head"
 			}
 			id: "099731067443215B"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 8
 				id: "0B46DC7066A26CF6"
@@ -335,6 +347,7 @@
 		{
 			dependencies: ["08545968038308DC"]
 			id: "5AE0E141395D280B"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					count: 8
@@ -364,6 +377,7 @@
 		{
 			dependencies: ["5AE0E141395D280B"]
 			id: "6AF0FE201B00DD95"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					id: "14FF34A685D78EAF"
@@ -411,6 +425,8 @@
 			dependencies: ["31E4C8097B472526"]
 			id: "2294D0E723617316"
 			invisible: true
+			optional: true
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					count: 2
@@ -453,6 +469,7 @@
 		{
 			dependencies: ["31E4C8097B472526"]
 			id: "017B4EDE5727E30D"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 64
 				id: "4F6EFE0E48D3700A"

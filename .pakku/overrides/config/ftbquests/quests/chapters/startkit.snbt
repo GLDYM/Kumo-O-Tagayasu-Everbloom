@@ -18,6 +18,7 @@
 				id: "beyonddimensions:unstable_space_time_fragment"
 			}
 			id: "09CCAB87A49EF0B1"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "0DE8870BF4625027"
 				type: "xp_levels"
@@ -38,6 +39,7 @@
 				id: "tsuki:magatama_white"
 			}
 			id: "6625201DD79B477F"
+			quest_enhance_disable_scroll_paging: false
 			size: 2.0d
 			tasks: [{
 				id: "1117A71DCBE80D90"
@@ -52,6 +54,7 @@
 				id: "tsuki:magatama_purple"
 			}
 			id: "76222A45895DBEF7"
+			quest_enhance_disable_scroll_paging: false
 			size: 2.0d
 			tasks: [{
 				id: "3DE4FB5E9E621B3F"
@@ -66,6 +69,7 @@
 				id: "tsuki:magatama_pink"
 			}
 			id: "299F2DDDFE0A05C3"
+			quest_enhance_disable_scroll_paging: false
 			size: 2.0d
 			tasks: [{
 				id: "5A8D5B13348A6F61"
@@ -80,6 +84,7 @@
 				id: "majobroom:broom"
 			}
 			id: "5A96ACC5E3DC55C5"
+			quest_enhance_disable_scroll_paging: false
 			size: 2.0d
 			tasks: [{
 				id: "6A358B9F2A3A2398"
@@ -97,6 +102,7 @@
 				id: "irons_spellbooks:netherite_mage_helmet"
 			}
 			id: "4EE8AA8ECF91AD2C"
+			quest_enhance_disable_scroll_paging: false
 			size: 2.0d
 			tasks: [{
 				id: "6AF8905741BEF347"
@@ -111,6 +117,7 @@
 				id: "createrailwaysnavigator:navigator"
 			}
 			id: "1435909F644559E4"
+			quest_enhance_disable_scroll_paging: false
 			size: 2.0d
 			tasks: [{
 				id: "50873C309475BA0D"
@@ -128,6 +135,7 @@
 				id: "javd:portal_block"
 			}
 			id: "7C9C4273DE5BA099"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "7F7BCC927FBEB338"
 				type: "xp_levels"
@@ -147,6 +155,7 @@
 				id: "beyonddimensions:net_creater"
 			}
 			id: "44A6D74DDF8E0DE8"
+			quest_enhance_disable_scroll_paging: false
 			size: 2.0d
 			tasks: [{
 				id: "1477DEBD02ACE5A9"

@@ -1,0 +1,140 @@
+["移除过于昂贵"]
+	#Whether to remove 'Too Expensive' limit
+	#是否移除过于昂贵
+	"启用" = true
+	#Maximum anvil repair cost
+	#最大铁砧修复成本，非常有用的配置（bushi）
+	# Default: 39
+	# Range: 1 ~ 100
+	"最大成本" = 59
+
+["经验平衡"]
+	#Whether to enable XP leveling balance
+	#是否启用经验平衡
+	"启用" = true
+	#XP required per level (default: 30)
+	#每级所需经验值（默认：30）
+	# Default: 30
+	# Range: 1 ~ 1000
+	"每级经验" = 30
+
+["吃东西恢复生命值"]
+	#Whether eating food restores health
+	#是否启用吃食物恢复生命值
+	"启用" = false
+	#Nutrition healing multiplier (default: 0.15)
+	#饥饿值治疗倍率（默认：0.15）
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	"营养倍率" = 0.15
+	#Saturation healing multiplier (default: 0.035)
+	#饱和度治疗倍率（默认：0.035）
+	# Default: 0.035
+	# Range: 0.0 ~ 0.1
+	"饱和度倍率" = 0.035
+
+["船跳跃"]
+	#Whether to enable boat jumping
+	#是否启用船跳跃功能
+	"启用" = true
+	#Water jump height (default: 0.5)
+	#水中跳跃高度（默认：0.5）
+	# Default: 0.5
+	# Range: 0.0 ~ 2.0
+	"水中高度" = 0.5
+	#Land jump height (default: 0.3)
+	#陆地跳跃高度（默认：0.3）
+	# Default: 0.3
+	# Range: 0.0 ~ 2.0
+	"陆地高度" = 0.3
+
+["仙人掌破坏"]
+	#Whether cactus destroys items
+	#仙人掌破坏物品
+	"是否" = true
+
+["远古守卫者效果"]
+	#Whether elder guardians apply mining fatigue
+	#远古守卫者施加挖掘疲劳效果
+	"是否" = true
+
+["末影之眼"]
+	#Whether to disable eye of ender in strongholds
+	#是否在要塞中禁用投掷末影之眼
+	"启用" = true
+
+["末影人搬方块"]
+	#Whether endermen can carry blocks
+	#末影人搬运方块
+	"是否" = false
+
+["耕地破坏"]
+	#Whether farmland can be trampled
+	#耕地被踩踏破坏
+	"是否" = false
+
+["耕地优化"]
+	#Whether to enable farmland hydration optimization
+	#是否启用耕地优化
+	"启用" = true
+	#Farmland hydration range (default: 4)
+	#耕地水分范围（默认：4）
+	# Default: 4
+	# Range: 1 ~ 16
+	"水分范围" = 4
+
+["窒息伤害"]
+	#Whether to disable suffocation damage
+	#是否禁用窒息伤害
+	"启用" = true
+
+["岩浆块伤害"]
+	#Whether to disable magma block damage
+	#是否禁用岩浆块伤害
+	"启用" = false
+
+["大胃袋"]
+	#Whether players can eat at any time
+	#玩家是否可以随时进食
+	"启用" = false
+
+["细雪行走"]
+	#Whether entities can walk on powder snow
+	#实体是否可以在细雪上行走
+	"启用" = false
+
+["甜浆果伤害"]
+	#Whether sweet berry bushes damage entities
+	#甜浆果丛对实体造成伤害
+	"是否" = true
+
+["背包不死图腾"]
+	#Whether totem of undying works from inventory
+	#不死图腾是否可以在物品栏生效
+	"启用" = true
+
+["宝库无限开启"]
+	#Whether vaults can be opened infinitely
+	#宝库是否可以无限次开启
+	"启用" = true
+
+["书架穿透"]
+	#Whether bookshelves work through blocks
+	#书架和附魔台之间有方块也不影响附魔等级
+	"启用" = false
+
+["锻造台不消耗模板"]
+	#Whether smithing templates are consumed
+	#锻造台是否不消耗锻造模板
+	"启用" = false
+
+["附魔金苹果回调"]
+	#Whether to enable enchanted golden apple callback effects
+	#是否启用附魔金苹果回调效果
+	"启用" = true
+
+["物品堆叠数"]
+	#Custom item stack sizes
+	#自定义物品堆叠数
+	#Format: modid:item_id=stack_size (e.g., minecraft:mushroom_stew=16, minecraft:milk_bucket=16)
+	"物品堆叠数" = ["minecraft:mushroom_stew=16", "minecraft:milk_bucket=16"]

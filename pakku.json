@@ -35,16 +35,7 @@
         "watermedia": {
             "side": "CLIENT",
             "update_strategy": "NONE"
-        },
-        "explosive-enhancement-forge": {
-            "update_strategy": "NONE"
-        },
-        "one-enough-item": {
-            "update_strategy": "NONE"
-        },
-        "better-advancements": {
-            "update_strategy": "NONE"
-        },
+        }
         "staaaaaaaaaaaack": {
             "aliases": [
                 "stxck"
@@ -175,14 +166,8 @@
         "fragmentum": {
             "side": "BOTH"
         },
-        "advanced-loot-info": {
-            "update_strategy": "NONE"
-        },
         "bilibili-media-kots": {
             "side": "CLIENT"
-        },
-        "observable": {
-            "update_strategy": "NONE"
         },
         "narcissus-farewell": {
             "side": "BOTH",
@@ -449,7 +434,6 @@
         },
         "tectonic": {
             "side": "BOTH",
-            "update_strategy": "NONE"
         },
         "tongda-railway": {
             "side": "BOTH"

@@ -20,6 +20,7 @@
 				id: "kaleidoscope_end:dragon_tooth_knife"
 			}
 			id: "6932BE3FBDD3A55D"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "58649C5BBBB70EB6"
 				item: {
@@ -40,6 +41,7 @@
 		{
 			dependencies: ["1F407030BFEAAF17"]
 			id: "5655DA88F6ED0975"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "618AE9F8ED3198AC"
 				item: { count: 1, id: "farmersdelight:stove" }
@@ -51,6 +53,7 @@
 		{
 			dependencies: ["1F407030BFEAAF17"]
 			id: "7BCD591A3375360A"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "522F8BBC9C83D267"
 				item: { count: 1, id: "farmersdelight:cooking_pot" }
@@ -65,6 +68,7 @@
 				id: "farmersdelight:skillet"
 			}
 			id: "3B0EBC9A75AE9AC6"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "4ED213E2C5173028"
 				item: { count: 1, id: "farmersdelight:skillet" }
@@ -77,6 +81,7 @@
 			dependencies: ["6932BE3FBDD3A55D"]
 			hide_until_deps_complete: true
 			id: "4D918C3B0188F47D"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					count: 4
@@ -107,6 +112,7 @@
 		{
 			dependencies: ["05F42BBC3C7B250D"]
 			id: "30734C65BE074249"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "411091132ACF75D9"
 				item: { count: 1, id: "farmersdelight:bamboo_basket" }
@@ -119,6 +125,7 @@
 			dependencies: ["3CB8557724F54D36"]
 			hide_until_deps_visible: false
 			id: "3F5D1EBC9926E424"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "2A64E5E5C17FBE96"
@@ -140,6 +147,7 @@
 		{
 			dependencies: ["3F5D1EBC9926E424"]
 			id: "30D32B907A3C1F53"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				count: 16L
 				id: "251ADA9DAA5ECDBA"
@@ -152,6 +160,7 @@
 		{
 			dependencies: ["6932BE3FBDD3A55D"]
 			id: "3CB8557724F54D36"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 16
 				id: "2C18892EC3E20149"
@@ -173,6 +182,7 @@
 		{
 			dependencies: ["1F407030BFEAAF17"]
 			id: "14D663C458A5205E"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "741D5085A52CCBB5"
@@ -211,6 +221,7 @@
 		{
 			dependencies: ["3CB8557724F54D36"]
 			id: "05F42BBC3C7B250D"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				count: 5
 				id: "0E016FE84F48FE84"
@@ -233,6 +244,7 @@
 			dependencies: ["6932BE3FBDD3A55D"]
 			hide_until_deps_complete: true
 			id: "1094D423ABADF283"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "31FE7E5C56137DEA"
 				item: { count: 1, id: "farmersdelight:ham" }
@@ -244,6 +256,7 @@
 		{
 			dependencies: ["30D32B907A3C1F53"]
 			id: "243B01C643B96CE3"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [
 				{
 					count: 2
@@ -277,9 +290,10 @@
 		}
 		{
 			icon: {
-				id: "idealland_shrine:skyland_runestone_0"
+				id: "idealland_shrine:basic16rune_0"
 			}
 			id: "1F407030BFEAAF17"
+			quest_enhance_disable_scroll_paging: false
 			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
@@ -292,6 +306,7 @@
 		{
 			dependencies: ["1F407030BFEAAF17"]
 			id: "7A061E32EA64130C"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "1F43B3CD696184CA"
 				item: { count: 1, id: "vintagedelight:fermenting_jar" }
@@ -307,6 +322,7 @@
 				"4D918C3B0188F47D"
 			]
 			id: "00E76DAAF3D7575C"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "7480412EB1DEC12F"
@@ -330,6 +346,7 @@
 		{
 			dependencies: ["7BCD591A3375360A"]
 			id: "4C3A1939F160D868"
+			quest_enhance_disable_scroll_paging: false
 			size: 1.0d
 			tasks: [
 				{
@@ -352,6 +369,7 @@
 				id: "kaleidoscope_cookery:rice_panicle"
 			}
 			id: "545611DEDE9FD413"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [
 				{
 					id: "06E558EA5C1BAE89"
@@ -371,6 +389,7 @@
 		{
 			dependencies: ["545611DEDE9FD413"]
 			id: "293ABE3946FE8834"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				count: 16L
 				id: "053516141C6B62A2"
@@ -383,6 +402,7 @@
 		{
 			dependencies: ["14D663C458A5205E"]
 			id: "578F3AB34375C233"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "14945D1D837E2043"
 				item: { count: 1, id: "vintagedelight:magic_peanut" }
@@ -394,6 +414,7 @@
 		{
 			dependencies: ["3CB8557724F54D36"]
 			id: "257257A97AC56BB6"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "68C5F0DB28A4ACF8"
 				item: { count: 1, id: "farmersdelight:rope" }
@@ -405,6 +426,7 @@
 		{
 			dependencies: ["257257A97AC56BB6"]
 			id: "03C2C921B7E1F94F"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "7EDEF9010615A639"
 				item: { count: 1, id: "farmersdelight:safety_net" }
@@ -416,6 +438,7 @@
 		{
 			dependencies: ["03C2C921B7E1F94F"]
 			id: "20CF283218799FFA"
+			quest_enhance_disable_scroll_paging: false
 			tasks: [{
 				id: "34F6300F34D47744"
 				item: { count: 1, id: "crabbersdelight:crab_trap" }
@@ -430,6 +453,7 @@
 				"293ABE3946FE8834"
 			]
 			id: "77595EE88858AB3E"
+			quest_enhance_disable_scroll_paging: false
 			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
@@ -443,6 +467,7 @@
 		{
 			dependencies: ["578F3AB34375C233"]
 			id: "474460D392A11E95"
+			quest_enhance_disable_scroll_paging: false
 			rewards: [{
 				id: "074F441A67E01361"
 				type: "xp_levels"
