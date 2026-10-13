@@ -1,0 +1,305 @@
+#GUI主题样式：
+#AUTO与界面「自动」一致时按日历季节；
+#可固定为春夏秋冬之一以覆盖日历
+#GUI Theme Style:
+#When set to AUTO, matching the "Auto" option in the interface, the theme follows the calendar season.
+#You can also lock it to Spring, Summer, Autumn, or Winter to override the calendar.
+#Allowed Values: SPRING, SUMMER, AUTUMN, WINTER, AUTO
+guiThemeStyle = "AUTO"
+#GUI夜间配色：
+#关闭则始终使用日间主题；
+#指定时间段则按本机时钟切换；
+#自动则在游戏内按世界昼夜切换
+#GUI Night Color Scheme:
+#When disabled, the daytime theme is always used.
+#When a time range is specified, the theme switches based on the local system clock.
+#When set to Auto, the theme switches according to the in-game world's day-night cycle.
+#Allowed Values: OFF, ALWAYS, SCHEDULED, AUTO
+guiNightMode = "OFF"
+#夜间模式开始时刻（从0点算起的分钟数，0~1439）
+#与结束时刻共同定义夜间区间
+#可跨午夜（如 1320~360 表示 22:00~次日6:00）
+#Night mode start time (minutes since midnight, 0–1439).
+#Together with the end time, defines the night-time range.
+#The range may cross midnight (e.g. 1320–360 represents 22:00–06:00 the next day).
+# Default: 1320
+# Range: 0 ~ 1439
+guiNightModeStartMinute = 1320
+#夜间模式结束时刻（从0点算起的分钟数，0~1439）
+#Night mode end time (minutes since midnight, 0–1439).
+# Default: 360
+# Range: 0 ~ 1439
+guiNightModeEndMinute = 360
+#通知日志中最多保留的条数（超出时丢弃最旧记录）
+#Maximum number of entries kept in the notification log (oldest dropped when exceeded).
+# Default: 500
+# Range: 1 ~ 10000
+notificationLogMaxEntries = 500
+#出现相同类型且内容一致的通知时，
+#在此时间窗（毫秒）内到达的重复项合并为一条并显示次数
+#0则关闭合并
+#When notifications of the same type and identical content occur,
+#duplicates received within this time window (in milliseconds) are merged into a single notification with a count displayed.
+#Set to 0 to disable merging.
+# Default: 2500
+# Range: 0 ~ 60000
+notificationMergeWindowMs = 2500
+#屏幕上未结束的通知达到此数量后，
+#新通知按条递增延后显示（毫秒间隔见下一项）
+#When the number of active notifications on screen reaches this limit,
+#new notifications are shown with an increasing per-notification delay
+#(the delay interval in milliseconds is configured in the next option).
+# Default: 5
+# Range: 1 ~ 50
+notificationBurstThreshold = 5
+#超过阈值后，
+#每条多出的通知在「上一条」基础上再延后显示
+#0则关闭延后
+#After the threshold is exceeded,
+#each additional notification is displayed later than the previous one by this amount.
+#Set to 0 to disable the delay.
+# Default: 400
+# Range: 0 ~ 10000
+notificationBurstStaggerMs = 400
+#单条通知因突发队列产生的最大额外延后（毫秒），避免过久不显示；
+#0则不限制
+#Maximum extra delay (in milliseconds) for a single notification caused by a burst queue,
+#preventing it from being held back for too long.
+#Set to 0 for no limit.
+# Default: 20000
+# Range: 0 ~ 120000
+notificationBurstMaxExtraDelayMs = 20000
+#在香草志GUI中使用模组自绘的鼠标指针
+#Use the mod's custom-drawn mouse cursor in the Banira GUI.
+useCustomCursor = true
+#控制已适配模组的背包界面按钮显示模式
+#Controls the display mode of buttons added to supported mod inventory screens.
+#Allowed Values: BANIRA, FTB_LIBRARY, ORIGINAL
+externalInventoryButtonHost = "ORIGINAL"
+
+#未读通知HUD
+#Unread notification HUD
+[notificationHud]
+	#显示位置
+	#自动跟随可用的小地图信息区
+	#指定地图未安装或未显示时，使用独立HUD
+	#Display location
+	#Follow an available minimap information area
+	#Use the standalone HUD when the selected map is unavailable or hidden
+	#Allowed Values: AUTO, STANDALONE, XAERO, JOURNEYMAP, FTB_CHUNKS, VOXELMAP, MAP_ATLASES
+	host = "AUTO"
+	#显示模式
+	#Display mode
+	#Allowed Values: HOLD, TOGGLE, ALWAYS, OFF
+	mode = "ALWAYS"
+	#显示按键
+	#点击录入组合键
+	#Display shortcuts
+	#Capture a key combination; vanilla key actions remain available
+	keys = ["Tab"]
+	#水平位置
+	#0为最左侧，1为最右侧
+	#Horizontal position
+	#0 is left; 1 is right
+	# Default: 0.0
+	# Range: 0.0 ~ 1.0
+	x = 0.0
+	#垂直位置
+	#0为顶部，1为底部
+	#Vertical position
+	#0 is top; 1 is bottom
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	y = 0.5
+
+#通知显示区域
+#Notification regions
+[notificationRegions]
+	#全部区域同时显示的气泡上限
+	#Maximum visible bubbles across all regions
+	# Default: 6
+	# Range: 1 ~ 20
+	visibleLimit = 6
+	#浮层队列上限，包含正在显示的气泡
+	#满载时新消息只记入历史和未读数量
+	#Overlay queue capacity, including visible bubbles
+	#When full, new messages still enter history and unread counts
+	# Default: 64
+	# Range: 1 ~ 500
+	queueLimit = 64
+	#区域与屏幕边缘的间距
+	#Margin between notification regions and screen edges
+	# Default: 6
+	# Range: 0 ~ 64
+	margin = 6
+
+	#左上
+	#Top left
+	[notificationRegions.topLeft]
+		#区域宽度，占屏幕宽度的百分比
+		#Region width as a percentage of the screen
+		# Default: 30
+		# Range: 10 ~ 100
+		widthPercent = 30
+		#区域高度，占屏幕高度的百分比
+		#Region height as a percentage of the screen
+		# Default: 32
+		# Range: 10 ~ 100
+		heightPercent = 32
+		#此区域同时显示的气泡上限
+		#Maximum visible bubbles in this region
+		# Default: 3
+		# Range: 1 ~ 10
+		visibleLimit = 3
+
+	#顶部居中
+	#Top center
+	[notificationRegions.topCenter]
+		#区域宽度，占屏幕宽度的百分比
+		#Region width as a percentage of the screen
+		# Default: 30
+		# Range: 10 ~ 100
+		widthPercent = 30
+		#区域高度，占屏幕高度的百分比
+		#Region height as a percentage of the screen
+		# Default: 32
+		# Range: 10 ~ 100
+		heightPercent = 32
+		#此区域同时显示的气泡上限
+		#Maximum visible bubbles in this region
+		# Default: 3
+		# Range: 1 ~ 10
+		visibleLimit = 3
+
+	#右上
+	#Top right
+	[notificationRegions.topRight]
+		#区域宽度，占屏幕宽度的百分比
+		#Region width as a percentage of the screen
+		# Default: 30
+		# Range: 10 ~ 100
+		widthPercent = 30
+		#区域高度，占屏幕高度的百分比
+		#Region height as a percentage of the screen
+		# Default: 32
+		# Range: 10 ~ 100
+		heightPercent = 32
+		#此区域同时显示的气泡上限
+		#Maximum visible bubbles in this region
+		# Default: 3
+		# Range: 1 ~ 10
+		visibleLimit = 3
+
+	#左侧居中
+	#Left center
+	[notificationRegions.leftCenter]
+		#区域宽度，占屏幕宽度的百分比
+		#Region width as a percentage of the screen
+		# Default: 30
+		# Range: 10 ~ 100
+		widthPercent = 30
+		#区域高度，占屏幕高度的百分比
+		#Region height as a percentage of the screen
+		# Default: 32
+		# Range: 10 ~ 100
+		heightPercent = 32
+		#此区域同时显示的气泡上限
+		#Maximum visible bubbles in this region
+		# Default: 3
+		# Range: 1 ~ 10
+		visibleLimit = 3
+
+	#中心
+	#Center
+	[notificationRegions.center]
+		#区域宽度，占屏幕宽度的百分比
+		#Region width as a percentage of the screen
+		# Default: 30
+		# Range: 10 ~ 100
+		widthPercent = 30
+		#区域高度，占屏幕高度的百分比
+		#Region height as a percentage of the screen
+		# Default: 32
+		# Range: 10 ~ 100
+		heightPercent = 32
+		#此区域同时显示的气泡上限
+		#Maximum visible bubbles in this region
+		# Default: 3
+		# Range: 1 ~ 10
+		visibleLimit = 3
+
+	#右侧居中
+	#Right center
+	[notificationRegions.rightCenter]
+		#区域宽度，占屏幕宽度的百分比
+		#Region width as a percentage of the screen
+		# Default: 30
+		# Range: 10 ~ 100
+		widthPercent = 30
+		#区域高度，占屏幕高度的百分比
+		#Region height as a percentage of the screen
+		# Default: 32
+		# Range: 10 ~ 100
+		heightPercent = 32
+		#此区域同时显示的气泡上限
+		#Maximum visible bubbles in this region
+		# Default: 3
+		# Range: 1 ~ 10
+		visibleLimit = 3
+
+	#左下
+	#Bottom left
+	[notificationRegions.bottomLeft]
+		#区域宽度，占屏幕宽度的百分比
+		#Region width as a percentage of the screen
+		# Default: 30
+		# Range: 10 ~ 100
+		widthPercent = 30
+		#区域高度，占屏幕高度的百分比
+		#Region height as a percentage of the screen
+		# Default: 32
+		# Range: 10 ~ 100
+		heightPercent = 32
+		#此区域同时显示的气泡上限
+		#Maximum visible bubbles in this region
+		# Default: 3
+		# Range: 1 ~ 10
+		visibleLimit = 3
+
+	#底部居中
+	#Bottom center
+	[notificationRegions.bottomCenter]
+		#区域宽度，占屏幕宽度的百分比
+		#Region width as a percentage of the screen
+		# Default: 30
+		# Range: 10 ~ 100
+		widthPercent = 30
+		#区域高度，占屏幕高度的百分比
+		#Region height as a percentage of the screen
+		# Default: 32
+		# Range: 10 ~ 100
+		heightPercent = 32
+		#此区域同时显示的气泡上限
+		#Maximum visible bubbles in this region
+		# Default: 3
+		# Range: 1 ~ 10
+		visibleLimit = 3
+
+	#右下
+	#Bottom right
+	[notificationRegions.bottomRight]
+		#区域宽度，占屏幕宽度的百分比
+		#Region width as a percentage of the screen
+		# Default: 30
+		# Range: 10 ~ 100
+		widthPercent = 30
+		#区域高度，占屏幕高度的百分比
+		#Region height as a percentage of the screen
+		# Default: 32
+		# Range: 10 ~ 100
+		heightPercent = 32
+		#此区域同时显示的气泡上限
+		#Maximum visible bubbles in this region
+		# Default: 3
+		# Range: 1 ~ 10
+		visibleLimit = 3
