@@ -1,1 +1,1 @@
--Xms4G -Xmx10G -XX:+IgnoreUnrecognizedVMOptions -XX:+UnlockExperimentalVMOptions -XX:+AlwaysPreTouch -XX:+UseZGC -XX:+ZGenerational -XX:-ZProactive -XX:ZAllocationSpikeTolerance=2 -XX:ZYoungCompactionLimit=20 -XX:ZFragmentationLimit=20 -XX:ZCollectionIntervalMinor=600.0
+-Xms4G -Xmx6G -XX:+IgnoreUnrecognizedVMOptions -XX:+UnlockExperimentalVMOptions -XX:+AlwaysPreTouch -XX:+UseZGC -XX:+ZGenerational -XX:-ZProactive -XX:ZAllocationSpikeTolerance=2 -XX:ZYoungCompactionLimit=20 -XX:ZFragmentationLimit=20 -XX:ZCollectionIntervalMinor=600.0
