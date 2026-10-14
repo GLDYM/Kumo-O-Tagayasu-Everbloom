@@ -8,3 +8,10 @@
 - 运行 server/ 文件夹内的 run.bat 或 run.sh 开服。
 
 如果你在安装过程中遇到了网络问题，请尝试在本地构建，或下载完整服务端。
+
+本整合包有模组 Music-HUD，如果需要服务器点歌需要进行额外配置：
+
+- 前往 https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced/releases，根据所使用的平台下载相应的二进制文件。
+- 将其中的二进制可执行文件放置到 music-hud/ ，并重命名为 "api"（对于 Windows 为 "api.exe"）。
+- 若为 Linux，给予 api 可执行权限。
+- 调整 config/music_hud-server.toml 中的 serverApiBaseUrl 和 port 为一个未占用端口，不需要开放。

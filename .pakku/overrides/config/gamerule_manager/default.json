@@ -1,3 +1,9 @@
 {
-  "keepInventory": true
+  //Apply to all dimension
+  "default": {
+    "keepInventory": {
+      "value": true,
+      "lock": false
+    }
+  }
 }

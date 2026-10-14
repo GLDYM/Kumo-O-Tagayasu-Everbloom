@@ -6522,43 +6522,6 @@
             ]
         },
         {
-            "pakku_id": "bvE1oS1h8fwbZpjQ",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "dimension-viewer-kots"
-            },
-            "name": {
-                "curseforge": "Dimension Viewer - KOTS"
-            },
-            "id": {
-                "curseforge": "1438283"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "dimensionviewer-2.3.0.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8211/34/dimensionviewer-2.3.0.jar",
-                    "id": "8211034",
-                    "parent_id": "1438283",
-                    "hashes": {
-                        "sha1": "8374b828b5427020612cdcaf17890f17afd96288",
-                        "md5": "ce7d9e1c564581fb283da595d668934a"
-                    },
-                    "required_dependencies": [],
-                    "size": 215418,
-                    "date_published": "2026-06-07T14:17:07.637Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "ZMidoeSczBj8iCdn",
             "type": "MOD",
             "side": "BOTH",
