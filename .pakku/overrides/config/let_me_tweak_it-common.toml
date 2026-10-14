@@ -61,7 +61,7 @@
 ["末影之眼"]
 	#Whether to disable eye of ender in strongholds
 	#是否在要塞中禁用投掷末影之眼
-	"启用" = true
+	"启用" = false
 
 ["末影人搬方块"]
 	#Whether endermen can carry blocks

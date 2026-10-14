@@ -1,0 +1,30 @@
+#Server API base URL configuration
+serverApiBaseUrl = "http://localhost:5000"
+#Startup binary api server when game launch
+startupBinaryApiServerWhenLaunch = true
+#Server API binary executable path (defaults relative to game version core jar path). If executable binary api is available, Music HUD will try to call it as sub-process
+serverApiBinaryExecutablePath = "music-hud/ncm-api-win-x64.exe"
+#Music Pusher's vote additional rate when voting for skip music configuration (0.0 ~ 1.0, total rate larger than or equals to 0.5 means to skip)
+# Default: 0.5
+# Range: 0.0 ~ 1.0
+pusherVoteAdditionalRate = 0.5
+#Use random Chinese IP provided by api server
+useRandomCnIp = true
+#CORS allow origin for the API server (single or comma-separated origins)
+corsAllowOrigin = "*"
+#Enable reverse proxy function of the API server
+enableProxy = false
+#Proxy server URL. Only effective when enableProxy is true
+proxyUrl = "https://your-proxy-url.com/?proxy="
+#Enable global unblock (recommended)
+enableGeneralUnblock = true
+#Enable FLAC lossless quality
+enableFlac = true
+#Select highest bitrate when lossless quality is enabled
+selectMaxBr = false
+#Match sources strictly in order of the source list
+followSourceOrder = true
+#Port for the API server to listen on
+# Default: 3000
+# Range: 1 ~ 65535
+port = 5000
