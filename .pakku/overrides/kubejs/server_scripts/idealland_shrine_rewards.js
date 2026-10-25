@@ -18,7 +18,7 @@ const RUNE_BY_GOD = {
 }
 
 IdeallandShrineEvents.prayShrine(event => {
-  if (event.afterBelief < 100) return
+  if (event.afterBelief < 80) return
 
   const rune = RUNE_BY_GOD[event.godId]
   if (rune) event.player.give(Item.of(rune))

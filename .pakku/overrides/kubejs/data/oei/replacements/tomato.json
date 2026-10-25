@@ -92,10 +92,11 @@
   },
   {
     "matchItems": [
-      "bakeries:whole_wheat_flour",
+      "tsuki:flour",
+      "create:wheat_flour",
       "kaleidoscope_cookery:flour"
     ],
-    "resultItems": "tsuki:flour"
+    "resultItems": "bakeries:whole_wheat_flour"
   },
   {
     "matchItems": [
@@ -216,9 +217,11 @@
   {
     "matchItems": [
       "tsuki:salt",
-      "bakeries:salt"
+      "bakeries:salt",
+      "tofucraft:salt",
+      "kaleidoscope_chinesefood:salt"
     ],
-    "resultItems": "vintagedelight:salt"
+    "resultItems": "vintagedelight:salt_dust"
   },
   {
     "matchItems": [

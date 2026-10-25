@@ -335,6 +335,7 @@ ServerEvents.tags('item', event => {
   event.add('c:bottles/milk', ['farmersdelight:milk_bottle'])
   event.add('c:dusts/salt', ['vintagedelight:salt_dust'])
   event.add('youkaishomecoming:farmland_redbean', ['minecraft:dirt'])
+  enevt.remove('c:crops/grape', ['kaleidoscope_tavern:green_grape'])
   //event.add('c:coffee_grounds', ['youkaishomecoming:coffee_powder'])
 })
 

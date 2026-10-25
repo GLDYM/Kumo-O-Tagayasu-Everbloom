@@ -498,6 +498,9 @@
         },
         "asteorbar": {
             "side": "CLIENT"
+        },
+        "create-re-packager-fix": {
+            "side": "BOTH"
         }
     }
 }

@@ -2,12 +2,12 @@
   "oreMultiplier": 1,
   "ores": [
     {
-      "ore_size": 8,
-      "discard_on_air_chance": 1.0,
+      "ore_size": 12,
+      "discard_on_air_chance": 0.7,
       "modifiers": [
         {
-          "count": 4,
-          "type": "minecraft:count"
+          "chance": 9,
+          "type": "minecraft:rarity_filter"
         },
         {
           "type": "minecraft:in_square"
@@ -86,12 +86,12 @@
       ]
     },
     {
-      "ore_size": 12,
-      "discard_on_air_chance": 0.7,
+      "ore_size": 8,
+      "discard_on_air_chance": 1.0,
       "modifiers": [
         {
-          "chance": 9,
-          "type": "minecraft:rarity_filter"
+          "count": 4,
+          "type": "minecraft:count"
         },
         {
           "type": "minecraft:in_square"
@@ -123,6 +123,45 @@
               "dusted": "0"
             },
             "Name": "kaleidoscope_end:suspicious_end_stone"
+          }
+        }
+      ]
+    },
+    {
+      "ore_size": 4,
+      "discard_on_air_chance": 0.0,
+      "modifiers": [
+        {
+          "count": 16,
+          "type": "minecraft:count"
+        },
+        {
+          "type": "minecraft:in_square"
+        },
+        {
+          "height": {
+            "min_inclusive": {
+              "absolute": 0
+            },
+            "max_inclusive": {
+              "absolute": 96
+            },
+            "type": "minecraft:uniform"
+          },
+          "type": "minecraft:height_range"
+        },
+        {
+          "type": "minecraft:biome"
+        }
+      ],
+      "targets": [
+        {
+          "target": {
+            "block": "minecraft:end_stone",
+            "predicate_type": "minecraft:block_match"
+          },
+          "state": {
+            "Name": "expores:end_experience_ore"
           }
         }
       ]

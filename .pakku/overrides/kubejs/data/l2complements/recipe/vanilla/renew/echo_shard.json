@@ -6,15 +6,7 @@
       "item": "cagedmobs:warden_receptor"
     },
     {
-    "type": "neoforge:compound",
-    "children": [
-        {
-          "item": "quark:indigo_corundum_cluster"
-        },
-        {
-          "item": "minecraft:amethyst_shard"
-        }
-      ]
+      "item": "minecraft:amethyst_shard"
     },
     {
       "item": "minecraft:sculk"
