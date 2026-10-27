@@ -6,6 +6,8 @@
 
 # Kumo O Tagayasu Everbloom
 
+***Proposition: How to narrate past mods using modern modpack narrative language?***
+
 <a href="./LICENSE">
     <img src="https://img.shields.io/badge/license-AGPL--v3.0--or--later-8A2BE2" alt="license">
 </a>
@@ -22,13 +24,11 @@
     <img src="https://cf.way2muchnoise.eu/title/kumo-o-tagayasu.svg" alt="Curseforge">
 </a>
 
+![](https://count.getloli.com/@:KOTS?name=%3AKOTS&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 <br>
 
 [简体中文](README.md) / [English](README_EN.md)
-
-***Proposition: How to narrate past mods using modern modpack narrative language?***
-
-![](https://count.getloli.com/@:KOTS?name=%3AKOTS&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 </div>
 

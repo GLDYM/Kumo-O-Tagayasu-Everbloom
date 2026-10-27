@@ -501,6 +501,9 @@
         },
         "create-re-packager-fix": {
             "side": "BOTH"
+        },
+        "create-schematics-internet": {
+            "side": "CLIENT"
         }
     }
 }

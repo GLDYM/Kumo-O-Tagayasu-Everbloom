@@ -6,6 +6,8 @@
 
 # 耕云钓月：永绽 Kumo O Tagayasu Everbloom
 
+***命题：如何用现代的整合包叙事语言讲述过去的模组？***
+
 <a href="./LICENSE">
     <img src="https://img.shields.io/badge/license-AGPL--v3.0--or--later-8A2BE2" alt="license">
 </a>
@@ -22,13 +24,11 @@
     <img src="https://cf.way2muchnoise.eu/title/kumo-o-tagayasu.svg" alt="Curseforge">
 </a>
 
+![](https://count.getloli.com/@:KOTS?name=%3AKOTS&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 <br>
 
 [简体中文](README.md) / [English](README_EN.md)
-
-***命题：如何用现代的整合包叙事语言讲述过去的模组？***
-
-![](https://count.getloli.com/@:KOTS?name=%3AKOTS&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 </div>
 
