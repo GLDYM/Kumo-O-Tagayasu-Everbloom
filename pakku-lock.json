@@ -6082,42 +6082,6 @@
             ]
         },
         {
-            "pakku_id": "6GR2PNUiurHLHXM3",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "create-schematics-internet"
-            },
-            "name": {
-                "curseforge": "Create:Schematics Internet"
-            },
-            "id": {
-                "curseforge": "1768370"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "schematicsinternet-neoforge-1.21.1-0.1.0.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/9339/846/schematicsinternet-neoforge-1.21.1-0.1.0.jar",
-                    "id": "9339846",
-                    "parent_id": "1768370",
-                    "hashes": {
-                        "sha1": "b1a301073b6a112c797efdad990403f1da9eb4eb",
-                        "md5": "5a9ff0adb18247d5826ece1db3523fd0"
-                    },
-                    "required_dependencies": [],
-                    "size": 730244,
-                    "date_published": "2026-10-27T02:50:51.387Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "dfZG7rtBrYkitny2",
             "type": "MOD",
             "side": "BOTH",

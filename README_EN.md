@@ -24,6 +24,8 @@
     <img src="https://cf.way2muchnoise.eu/title/kumo-o-tagayasu.svg" alt="Curseforge">
 </a>
 
+<br>
+
 ![](https://count.getloli.com/@:KOTS?name=%3AKOTS&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 <br>
