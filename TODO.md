@@ -1,43 +1,19 @@
-# MOD LIST
+# TODO
 
-## LOST
+## Feature
 
-- dusts-keymap --> new-visual-keybing F. We need another.
-- maid-s-bakeries --> REMOVE
-- morechathistory-reforged --> Longer Chat History, Server Chat Sync
-- oworld2create --> oworld2create-refoxed
-- rainbowwrenchforjei-reforge --> NEED UPDATE?
-- right-click-get-crops --> Remove
-- star-meow-craft --> Remove
-- watermedia --> NEED UPDATE
-- bilibili-media-kots --> NEED UPDATE
-
-## PROBLEMS
-
-- 清除已经移除的kubeJS提示
-  - ？怎么只能搜到提示怪
-  - 柠檬、菠萝、椰子、橄榄、薄荷少tag
 - 收集模组
   - 狸猫
   - 方块小镇
+  - 织影落花
   - 酒狐速递
-  - Dialog：用于神碑或剧情演出
   - 加 OEL 统一食用油
-  - 蓝图大炮切石？
   - 原焰帝臻？
 - 等待：
   - 女仆餐厅
-- 不详受火者掉落物
-- 补充依波恩之书翻译键&签到
-- vw50 的命令提示没了
-- 材质包：女仆餐厅，byd 网络切换，mezz gui，curios 脚，wisp的jei
 - 统一：
-  - 盐
   - 玉
   - 稻米稻谷
-
-- 修复draggable list
-- 大豆油翻译
 - 改配方
   - 深渊
   - 风土记
@@ -45,26 +21,37 @@
   - 下届合金dna提取器
   - 突破工作台
   - 魔女4
-
-- 煮锅和腌菜罐刷物品
-- 永冻碎片加个配方
-- 澄净花园挑战：Overworld 超平坦
-  - 需要补充的结构：下界堡垒，要塞，海洋神殿，墓穴，城堡
-  - 需要补充的方块：紫水晶母岩
+  - 女仆召唤
+- 材质包：女仆餐厅，byd 网络切换，mezz gui，curios 脚，wisp的jei
+- 澄净花园挑战
 - 日式煮锅的配方改一下，挪出丢失造物集放到后面去。
 - 生活调味料：美食征途：玩家吃过的事物到达一定数量时候，触发 KubeJS 事件或给予物品。
   - 考虑是否将勾玉放到里程碑去
-- 签到配置爆炸了
 - 换个标题
   - Lemon
   - Leckerli One
   - Lily Script One
 
+## PROBLEMS
+
+- 清除已经移除的kubeJS提示
+  - ？怎么只能搜到提示怪
+  - 柠檬、菠萝、椰子、橄榄、薄荷少tag
+- crn display 与 crn 不兼容
+- artifact的夜视仪会破坏周围其他玩家的gamma覆写
+- 服务端日式生菜卷无法合成
+- 不详受火者掉落物
+- 料理台鲑鱼变鳕鱼
+- 补充依波恩之书翻译键&签到
+- vw50 的命令提示没了
+- 大豆油翻译
+- 签到配置爆炸了
+
 ## 任务
 
 ### 叙述风格
 
-- 对于过去，斜体，书面临床体，并标注记录日期。
+- 对于过去，斜体，并标注记录日期。
   - *末影珍珠是末影之眼的组成材料之一，其可通过击杀主世界偶尔出现的末影人或与牧师村民交易获得。*
   - ——理境历 22020-04-24
   - 关键时间节点：Java版 1.7.10 发布于 2014-6-26，1.12.2 发布于 2017-9-18，理想境发布于 2020-04-20。
@@ -187,7 +174,7 @@
 
   - 气鸣铁道
 
-  - +织影落花
+  - +织影落花？
 
   - +风铃
 
@@ -207,8 +194,8 @@
 
 ### 林姑
 
-- 计算一个扳手特殊用法
-- +世界探索
+- 扳手特殊用法
+- +世界探索 -> 单独章节？
 
 ### 慈老
 
@@ -258,7 +245,7 @@
 
 
 
-### 4雄体-装备武器线
+### 4雄体？
 
 
 
