@@ -36,6 +36,7 @@ jobs:
           exclude_file: "exclude.txt"
 
   build-release:
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     needs: [json-validate]
     steps:
