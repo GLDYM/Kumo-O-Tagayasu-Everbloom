@@ -4,7 +4,7 @@
         "1.21.1"
     ],
     "loaders": {
-        "neoforge": "21.1.252"
+        "neoforge": "21.1.262"
     },
     "projects": [
         {
@@ -1624,6 +1624,9 @@
         },
         {
             "pakku_id": "lScRn9S5sEXpMoOS",
+            "pakku_links": [
+                "a99IfYjGaF5nvZhC"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -3077,6 +3080,42 @@
             ]
         },
         {
+            "pakku_id": "a99IfYjGaF5nvZhC",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "compixel"
+            },
+            "name": {
+                "curseforge": "CompixelUI"
+            },
+            "id": {
+                "curseforge": "1715758"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "compixel-neoforge-1.21.1-0.1.18-with-kotlin.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9351/26/compixel-neoforge-1.21.1-0.1.18-with-kotlin.jar",
+                    "id": "9351026",
+                    "parent_id": "1715758",
+                    "hashes": {
+                        "sha1": "b303089e5d31a48d48ccd5e9e5467b8ed6d2a23c",
+                        "md5": "e2faf33bbbd993f1fa4f4680e444302d"
+                    },
+                    "required_dependencies": [],
+                    "size": 42934145,
+                    "date_published": "2026-10-28T10:13:00.573Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "CIYPmQiHPW6N1t6J",
             "pakku_links": [
                 "u4yWUwXzw3uHy7qf"
@@ -3614,42 +3653,6 @@
                     "required_dependencies": [],
                     "size": 26542,
                     "date_published": "2026-09-18T01:30:13.587Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "TtmIxPbwBlxC7J1a",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "create-beyond-stock-fix"
-            },
-            "name": {
-                "curseforge": "Create Beyond Stock Fix"
-            },
-            "id": {
-                "curseforge": "1655612"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "create-beyond-stock-fix-1.21.1-neoforge-1.0.0.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8664/570/create-beyond-stock-fix-1.21.1-neoforge-1.0.0.jar",
-                    "id": "8664570",
-                    "parent_id": "1655612",
-                    "hashes": {
-                        "sha1": "8027d9003754db51fad36967e1dfe8a1f1badc29",
-                        "md5": "b4b0bc162672ad39afdd3d099a697db8"
-                    },
-                    "required_dependencies": [],
-                    "size": 9447,
-                    "date_published": "2026-08-16T18:48:58.077Z"
                 }
             ]
         },
@@ -11081,6 +11084,43 @@
                     ],
                     "size": 465346,
                     "date_published": "2026-10-18T13:00:53.283Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "CRa1y4y9yyq1AHI7",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "kaleidoscope-lib"
+            },
+            "name": {
+                "curseforge": "Kaleidoscope Lib"
+            },
+            "id": {
+                "curseforge": "1752159"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "kaleidoscope_lib-1.1.1-neoforge-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9393/188/kaleidoscope_lib-1.1.1-neoforge-mc1.21.1.jar",
+                    "id": "9393188",
+                    "parent_id": "1752159",
+                    "hashes": {
+                        "sha1": "d88ac6058475434f91615dfa8fc318d507707e9a",
+                        "md5": "e9cdb762ab2fbd9d72334d73e55af70a"
+                    },
+                    "required_dependencies": [],
+                    "size": 509256,
+                    "date_published": "2026-11-01T09:23:04.910Z"
                 }
             ]
         },
