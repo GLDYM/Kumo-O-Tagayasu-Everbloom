@@ -3095,6 +3095,7 @@
             "id": {
                 "curseforge": "1715758"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "curseforge",
@@ -15282,47 +15283,6 @@
                     "required_dependencies": [],
                     "size": 1451120,
                     "date_published": "2026-10-26T08:47:59.030Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "9Vx4gWptBe63v6es",
-            "pakku_links": [
-                "twr8FVnsAPu2MX9M"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "quest-language-selection"
-            },
-            "name": {
-                "curseforge": "Quest Language Selection"
-            },
-            "id": {
-                "curseforge": "1707419"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "ftbqlang-1.0.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8978/707/ftbqlang-1.0.1.jar",
-                    "id": "8978707",
-                    "parent_id": "1707419",
-                    "hashes": {
-                        "sha1": "1d4494b4f26a7d93fa6899beb9713f6607c5af78",
-                        "md5": "8becd013b92ed91553d151f3ea7e2b40"
-                    },
-                    "required_dependencies": [
-                        "289412"
-                    ],
-                    "size": 54876,
-                    "date_published": "2026-09-26T07:21:59.697Z"
                 }
             ]
         },
