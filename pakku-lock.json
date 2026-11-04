@@ -9552,46 +9552,21 @@
             ]
         },
         {
-            "pakku_id": "LLISJvfmmdYRPEWk",
+            "pakku_id": "WTx2oVzIDPeJnGC9",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "immersive-furniture",
-                "modrinth": "immersive-furniture"
+                "curseforge": "immersive-furniture"
             },
             "name": {
-                "curseforge": "Immersive Furniture",
-                "modrinth": "Immersive Furniture"
+                "curseforge": "Immersive Furniture"
             },
             "id": {
-                "curseforge": "1283531",
-                "modrinth": "SvN6UGeF"
+                "curseforge": "1283531"
             },
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "immersive_furniture-neoforge-0.3.4+1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/SvN6UGeF/versions/PQeXT1hV/immersive_furniture-neoforge-0.3.4+1.21.1.jar",
-                    "id": "PQeXT1hV",
-                    "parent_id": "SvN6UGeF",
-                    "hashes": {
-                        "sha512": "82115ebe86ed4fb5c2130cf2dc1cb558c63da5a987e887753f8a1f5f745f3d7eef0564c04a87753dae0e92f9df5eba33de505820e0672edf2f446333f2439ea4",
-                        "sha1": "30e5c05b3e9b7a8bb8d835be4f2323d744766993"
-                    },
-                    "required_dependencies": [],
-                    "size": 1022045,
-                    "date_published": "2026-10-23T16:13:51.714480Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "immersive_furniture-neoforge-0.3.4+1.21.1.jar",
+                    "file_name": "immersive_furniture-neoforge-0.3.3+1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -9599,16 +9574,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/9299/760/immersive_furniture-neoforge-0.3.4+1.21.1.jar",
-                    "id": "9299760",
+                    "url": "https://edge.forgecdn.net/files/8563/588/immersive_furniture-neoforge-0.3.3+1.21.1.jar",
+                    "id": "8563588",
                     "parent_id": "1283531",
                     "hashes": {
-                        "sha1": "30e5c05b3e9b7a8bb8d835be4f2323d744766993",
-                        "md5": "22cc795021b19493cb8c98e4c27d40ec"
+                        "sha1": "cd595ea729f0b55a09568c2ebcdb1ad2d6c16c53",
+                        "md5": "be12f4b0637061ece138f9f1f06d852f"
                     },
                     "required_dependencies": [],
-                    "size": 1022045,
-                    "date_published": "2026-10-23T16:13:50.413Z"
+                    "size": 1018042,
+                    "date_published": "2026-08-02T18:43:00.620Z"
                 }
             ]
         },

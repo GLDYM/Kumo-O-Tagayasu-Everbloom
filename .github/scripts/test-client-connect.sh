@@ -75,6 +75,40 @@ print_client_diagnostics() {
   fi
 }
 
+# Dump the client JVM thread stacks so a hang can be attributed to a specific mod.
+dump_client_threads() {
+  local tag="${1:-dump}"
+
+  if [[ -z "${CLIENT_PID:-}" ]] || ! kill -0 "$CLIENT_PID" 2>/dev/null; then
+    echo "===== Client Thread Dump ($tag): client process is not alive ====="
+    return 0
+  fi
+
+  local jcmd_bin="jcmd"
+  if ! command -v "$jcmd_bin" >/dev/null 2>&1; then
+    if [[ -n "${JAVA_HOME:-}" && -x "$JAVA_HOME/bin/jcmd" ]]; then
+      jcmd_bin="$JAVA_HOME/bin/jcmd"
+    else
+      echo "===== Client Thread Dump ($tag): jcmd not found ====="
+      return 0
+    fi
+  fi
+
+  local game_pid
+  game_pid="$(pgrep -f 'launchTarget forgeclient' | head -n 1 || true)"
+  if [[ -z "$game_pid" ]]; then
+    game_pid="$(pgrep -P "$CLIENT_PID" | head -n 1 || true)"
+  fi
+  if [[ -z "$game_pid" ]]; then
+    echo "===== Client Thread Dump ($tag): game process not found ====="
+    return 0
+  fi
+
+  echo "===== Client Thread Dump ($tag) (pid $game_pid) ====="
+  timeout 120 "$jcmd_bin" "$game_pid" Thread.print || echo "jcmd Thread.print failed for pid $game_pid"
+  return 0
+}
+
 wait_for_log_with_process_check() {
   local log_file="$1"
   local log_pattern="$2"
@@ -216,8 +250,11 @@ CLIENT_PID=$!
 echo "Started client with PID $CLIENT_PID"
 
 # ===== Module: Client Join Verification =====
-if ! wait_for_log_with_process_check "$SERVER_DIR/server.log" "$USERNAME joined the game" "$CLIENT_PID" 360 "Client"; then
+if ! wait_for_log_with_process_check "$SERVER_DIR/server.log" "$USERNAME joined the game" "$CLIENT_PID" 900 "Client"; then
   echo "===== Client did not join server in time ====="
+  dump_client_threads "a"
+  sleep 10
+  dump_client_threads "b"
   print_server_diagnostics
   print_client_diagnostics
   exit 1

@@ -516,6 +516,9 @@
         },
         "compixel": {
             "update_strategy": "NONE"
+        },
+        "immersive-furniture": {
+            "update_strategy": "NONE"
         }
     }
 }
