@@ -6065,6 +6065,47 @@
             ]
         },
         {
+            "pakku_id": "zUTh64clWUQe2uQU",
+            "pakku_links": [
+                "Vy12xXWcFO1oKyQL"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "wearable-toolbox"
+            },
+            "name": {
+                "curseforge": "Create: Wearable Toolbox"
+            },
+            "id": {
+                "curseforge": "1764993"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "wearable_toolbox-0.1.7.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9430/594/wearable_toolbox-0.1.7.jar",
+                    "id": "9430594",
+                    "parent_id": "1764993",
+                    "hashes": {
+                        "sha1": "9fc7166f71f33f4d49847143fb1903d790d8427a",
+                        "md5": "436a26f8eaf190a37f06ba19cb257f17"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 279028,
+                    "date_published": "2026-11-04T04:48:32.860Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "dfZG7rtBrYkitny2",
             "type": "MOD",
             "side": "BOTH",
