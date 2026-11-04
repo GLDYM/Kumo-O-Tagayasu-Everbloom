@@ -254,7 +254,7 @@ if ! wait_for_log_with_process_check "$SERVER_DIR/server.log" "$USERNAME joined 
   echo "===== Client did not join server in time ====="
   dump_client_threads "a"
   sleep 10
-  dump_client_threads "b"
+  # dump_client_threads "b"
   print_server_diagnostics
   print_client_diagnostics
   exit 1
