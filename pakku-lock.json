@@ -1625,7 +1625,8 @@
         {
             "pakku_id": "lScRn9S5sEXpMoOS",
             "pakku_links": [
-                "a99IfYjGaF5nvZhC"
+                "a99IfYjGaF5nvZhC",
+                "scykaAB0yBiNaII5"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -3080,7 +3081,10 @@
             ]
         },
         {
-            "pakku_id": "a99IfYjGaF5nvZhC",
+            "pakku_id": "scykaAB0yBiNaII5",
+            "pakku_links": [
+                "4K9kXYwwPGX4BUDz"
+            ],
             "type": "MOD",
             "slug": {
                 "curseforge": "compixel"
@@ -3094,7 +3098,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "compixel-neoforge-1.21.1-0.1.18-with-kotlin.jar",
+                    "file_name": "compixel-neoforge-1.21.1-0.1.18.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -3102,16 +3106,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/9351/26/compixel-neoforge-1.21.1-0.1.18-with-kotlin.jar",
-                    "id": "9351026",
+                    "url": "https://edge.forgecdn.net/files/9351/24/compixel-neoforge-1.21.1-0.1.18.jar",
+                    "id": "9351024",
                     "parent_id": "1715758",
                     "hashes": {
-                        "sha1": "b303089e5d31a48d48ccd5e9e5467b8ed6d2a23c",
-                        "md5": "e2faf33bbbd993f1fa4f4680e444302d"
+                        "sha1": "4ff34296bc0fb224f1b8f273e2f0f37c9cd625e2",
+                        "md5": "c072592ae15fcab7564736f80a76973c"
                     },
-                    "required_dependencies": [],
-                    "size": 42934145,
-                    "date_published": "2026-10-28T10:13:00.573Z"
+                    "required_dependencies": [
+                        "351264"
+                    ],
+                    "size": 40668537,
+                    "date_published": "2026-10-28T10:12:59.013Z"
                 }
             ]
         },

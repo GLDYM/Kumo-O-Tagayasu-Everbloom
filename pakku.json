@@ -513,6 +513,9 @@
         },
         "structure-layout-optimizer": {
             "side": "BOTH"
+        },
+        "compixel": {
+            "update_strategy": "NONE"
         }
     }
 }
