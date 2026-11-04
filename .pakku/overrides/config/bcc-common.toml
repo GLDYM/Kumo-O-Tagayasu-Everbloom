@@ -7,7 +7,7 @@
 	#The name of the modpack
 	modpackName = "Kumo O Tagayasu Everbloom"
 	#The version of the modpack
-	modpackVersion = "6.0.0-alpha"
+	modpackVersion = "6.0.0-beta"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
