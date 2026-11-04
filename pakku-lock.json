@@ -5085,20 +5085,16 @@
             ]
         },
         {
-            "pakku_id": "EIz2CPQKhdMJ9MXG",
+            "pakku_id": "NoQdCL7hTdsyPgSZ",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "create-let-the-adventure-begin",
-                "modrinth": "create-let-the-adventure-begin"
+                "curseforge": "create-let-the-adventure-begin"
             },
             "name": {
-                "curseforge": "Create: Let The Adventure Begin",
-                "modrinth": "Create: Let The Adventure Begin"
+                "curseforge": "Create: Let The Adventure Begin"
             },
             "id": {
-                "curseforge": "1007872",
-                "modrinth": "fUa6OtBG"
+                "curseforge": "1007872"
             },
             "redistributable": false,
             "files": [
@@ -5125,28 +5121,6 @@
                     "required_dependencies": [],
                     "size": 2894822,
                     "date_published": "2026-08-09T10:54:50.093Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "create_ltab-4.1.0.zip",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "datapack"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fUa6OtBG/versions/zoWctllx/create_ltab-4.1.0.zip",
-                    "id": "zoWctllx",
-                    "parent_id": "fUa6OtBG",
-                    "hashes": {
-                        "sha512": "6299cd5914dd813e177238506746d46a9339babfa7f2cedf2a08669ea7463591ad6e4f7a96e0152f16226bb07d5c16de1d00097124737150052299411360c130",
-                        "sha1": "3b9cf0411f1bf3e0cd7e098be172dfaa6512ae9e"
-                    },
-                    "required_dependencies": [],
-                    "size": 2739269,
-                    "date_published": "2026-08-09T10:56:27.124859Z"
                 }
             ]
         },
