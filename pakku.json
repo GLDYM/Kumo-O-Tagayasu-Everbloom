@@ -174,9 +174,6 @@
             "side": "BOTH",
             "update_strategy": "NONE"
         },
-        "mandalas-gui-dark-mode": {
-            "update_strategy": "NONE"
-        },
         "alternate-current": {
             "side": "BOTH"
         },
@@ -504,6 +501,18 @@
         },
         "create-schematics-internet": {
             "side": "CLIENT"
+        },
+        "create-let-the-adventure-begin": {
+            "side": "BOTH"
+        },
+        "ftb-quests-optimizer": {
+            "side": "BOTH"
+        },
+        "achievements-optimizer": {
+            "side": "BOTH"
+        },
+        "structure-layout-optimizer": {
+            "side": "BOTH"
         }
     }
 }

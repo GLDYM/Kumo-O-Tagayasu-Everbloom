@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "theme": {
+    "background": "#FF0D0F15",
+    "surface": "#FF171A23",
+    "surfaceAlt": "#FF2E3547",
+    "accent": "#FFF2F5F9",
+    "muted": "#FFAEB8C6",
+    "outline": "#FF7FD9F5",
+    "disabledOutline": "#FF2B3244"
+  },
+  "layout": {
+    "type": "column",
+    "width": "match_parent",
+    "height": "match_parent",
+    "padding": [24, 22, 24, 18],
+    "background": "background",
+    "children": [
+      {
+        "type": "text",
+        "text": "screen.liber_ivonis.hub",
+        "fallback": "Liber Ivonis",
+        "size": 22,
+        "color": "accent",
+        "width": "match_parent",
+        "margin": [0, 0, 0, 3]
+      },
+      {
+        "type": "text",
+        "text": "screen.liber_ivonis.subtitle",
+        "fallback": "Knowledge at your fingertips",
+        "size": 13,
+        "color": "muted",
+        "width": "match_parent",
+        "margin": [0, 0, 0, 16]
+      },
+      {
+        "type": "scroll",
+        "weight": 1,
+        "fillViewport": true,
+        "children": [
+          {
+            "type": "column",
+            "width": "match_parent",
+            "margin": [0, 0, 0, 12],
+            "children": [
+              {
+                "type": "text",
+                "text": "screen.liber_ivonis.category.task",
+                "fallback": "Task",
+                "size": 15,
+                "color": "accent",
+                "width": "match_parent",
+                "margin": [2, 0, 0, 6]
+              },
+              {
+                "type": "grid",
+                "columns": 2,
+                "gap": 8,
+                "width": "match_parent",
+                "children": [
+                  {"type": "entry", "builtin": "ftbquests"},
+                  {"type": "entry", "builtin": "advancement"},
+                  {
+                    "type": "entry",
+                    "screen": "xin.vanilla.narcissus.integration.ScreenHelper",
+                    "method": "openScreen",
+                    "title": "entry.liber_ivonis.narcissus.waypoints",
+                    "fallback": "Waypoints",
+                    "description": "entry.liber_ivonis.narcissus.waypoints.description",
+                    "descriptionFallback": "Open the waypoint screen"
+                  },
+                  {
+                    "type": "entry",
+                    "screen": "xin.vanilla.sakura.event.ClientEventHandler",
+                    "method": "openSignInScreen",
+                    "title": "entry.liber_ivonis.sakura.sign_in",
+                    "fallback": "Sign In",
+                    "description": "entry.liber_ivonis.sakura.sign_in.description",
+                    "descriptionFallback": "Open the sign in screen"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "column",
+            "width": "match_parent",
+            "margin": [0, 0, 0, 12],
+            "children": [
+              {
+                "type": "text",
+                "text": "screen.liber_ivonis.category.setting",
+                "fallback": "Setting",
+                "size": 15,
+                "color": "accent",
+                "width": "match_parent",
+                "margin": [2, 0, 0, 6]
+              },
+              {
+                "type": "grid",
+                "columns": 2,
+                "gap": 8,
+                "width": "match_parent",
+                "children": [
+                  {"type": "entry", "builtin": "controls"},
+                  {
+                    "type": "entry",
+                    "screen": "com.github.einjerjar.mc.keymap.client.gui.screen.KeymapScreen",
+                    "method": "<init>",
+                    "title": "entry.liber_ivonis.keymap",
+                    "fallback": "Key Binding (Visual)",
+                    "description": "entry.liber_ivonis.keymap.description",
+                    "descriptionFallback": "Open the visual key binding screen"
+                  },
+                  {
+                    "type": "entry",
+                    "screen": "fi.dy.masa.tweakeroo.gui.GuiConfigs",
+                    "method": "<init>",
+                    "title": "entry.liber_ivonis.tweakeroo.config",
+                    "fallback": "Tweakeroo Keys",
+                    "description": "entry.liber_ivonis.tweakeroo.config.description",
+                    "descriptionFallback": "Open the Tweakeroo feature & keybing screen"
+                  },
+                  {
+                    "type": "entry",
+                    "screen": "dlovin.inventoryhud.gui.config.InventoryConfigScreen",
+                    "method": "<init>",
+                    "title": "entry.liber_ivonis.inventoryhud.config",
+                    "fallback": "Inventory HUD Overlay Setting",
+                    "description": "entry.liber_ivonis.inventoryhud.config.description",
+                    "descriptionFallback": "Open the Inventory HUD overlay setting screen"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "column",
+            "width": "match_parent",
+            "margin": [0, 0, 0, 12],
+            "children": [
+              {
+                "type": "text",
+                "text": "screen.liber_ivonis.category.handbook",
+                "fallback": "Handbook",
+                "size": 15,
+                "color": "accent",
+                "width": "match_parent",
+                "margin": [2, 0, 0, 6]
+              },
+              {
+                "type": "grid",
+                "columns": 2,
+                "gap": 8,
+                "width": "match_parent",
+                "children": [
+                   {"type": "entry", "builtin": "patchouli"},
+                   {"type": "entry", "builtin": "guideme"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "button",
+        "action": "close",
+        "text": "screen.liber_ivonis.back",
+        "fallback": "Back",
+        "width": "match_parent",
+        "margin": [0, 14, 0, 0]
+      }
+    ]
+  }
+}
