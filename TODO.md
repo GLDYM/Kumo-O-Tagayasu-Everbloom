@@ -9,8 +9,6 @@
   - 加 OEL 统一食用油
   - 原焰帝臻？
   - 考虑去掉 tofucraft ，bug太多了
-  - 老吴学
-  - 万象搜索
 - 等待更新：
   - 女仆餐厅
 - 统一物品：
@@ -28,7 +26,6 @@
   - mezz gui
   - curios 脚
   - wisp的jei
-
 - 澄净花园挑战的验证：使用全虚空世界预设，保留所有结构，去除所有地形
   - [GLDYM/All-Void: Make every dimension become void, inspired by Carpet Sky Addition](https://github.com/GLDYM/All-Void) 
   - 特征：很多可以通过手搓源方块的材料都不可用，需要通过世界交互或合成获取
