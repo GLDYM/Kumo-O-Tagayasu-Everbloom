@@ -218,7 +218,6 @@
     "matchItems": [
       "tsuki:salt",
       "bakeries:salt",
-      "tofucraft:salt",
       "kaleidoscope_chinesefood:salt"
     ],
     "resultItems": "vintagedelight:salt_dust"

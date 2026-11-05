@@ -16,7 +16,6 @@ ItemEvents.modifyTooltips(event => {
   event.add('supplementaries:cog_block', Text.translate('kubejs.tooltip.item.supplementaries.cog_block.0'))
   event.add('minecraft:torch', Text.translate('kubejs.tooltip.item.minecraft.torch.0'))
   event.add('l2complements:eternium_hoe', Text.translate('kubejs.tooltip.item.l2complements.eternium_hoe.0'))
-  event.add('tofucraft:bottle_soyoil', Text.translate('kubejs.tooltip.item.tofucraft.bottle_soyoil.0'))
   //黄色字为作者的个人吐槽
   event.add('minecraft:diorite', [Text.translate('kubejs.tooltip.item.minecraft.diorite.0'), Text.translate('kubejs.tooltip.item.minecraft.diorite.1')])
   event.add('irons_spellbooks:keeper_flamberge', Text.translate('kubejs.tooltip.item.irons_spellbooks.keeper_flamberge.0'))

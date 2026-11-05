@@ -17,7 +17,6 @@ ServerEvents.tags('item', event => {
     'minecraft:cod',
     'minecraft:salmon',
     'minecraft:tropical_fish',
-    'tofucraft:raw_tofufish',
     'youkaishomecoming:raw_lamprey',
     'youkaishomecoming:raw_lamprey_fillet',
     'youkaishomecoming:raw_tuna',
@@ -26,7 +25,6 @@ ServerEvents.tags('item', event => {
 
   event.add('c:raw_fishes', [
     'create_bic_bit:raw_herring',
-    'tofucraft:raw_tofufish',
     'youkaishomecoming:raw_lamprey',
     'youkaishomecoming:raw_tuna',
     'youkaishomecoming:raw_tuna_slice'
@@ -64,7 +62,6 @@ ServerEvents.tags('item', event => {
     'tsuki:grape_green',
     'tsuki:lemon',
     'tsuki:lime',
-    'tofucraft:apricot',
     'vintagedelight:gearo_berry',
     'youkaishomecoming:black_grape',
     'youkaishomecoming:candy_apple',

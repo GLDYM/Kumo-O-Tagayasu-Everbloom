@@ -11,7 +11,6 @@ ServerEvents.tags('block', event => {
 
 // 蘑菇
 ServerEvents.tags('item', event => {
-  event.add('c:mushrooms', ['quark:glow_shroom', 'tofucraft:zundatofu_mushroom'])
 })
 
 // 热源
@@ -43,17 +42,9 @@ ServerEvents.tags('item', event => {
 
 // 水果
 ServerEvents.tags('item', event => {
-  event.add('c:fruits', ['fruitsdelight:blueberry', 'fruitsdelight:cranberry', 'fruitsdelight:durian_flesh', 'fruitsdelight:hamimelon_slice', 'fruitsdelight:hawberry', 'fruitsdelight:lemon', 'fruitsdelight:lemon_slice', 'fruitsdelight:lychee', 'fruitsdelight:mango', 'fruitsdelight:orange', 'fruitsdelight:peach', 'fruitsdelight:pear', 'fruitsdelight:persimmon', 'fruitsdelight:pineapple', 'immortalers_delight:himekaido', 'minecraft:apple', 'minecraft:glow_berries', 'minecraft:melon_slice', 'minecraft:sweet_berries', 'tofucraft:apricot', 'youkaishomecoming:black_grape', 'youkaishomecoming:red_grape', 'youkaishomecoming:white_grape'])
-  event.add('c:crops', ['fruitsdelight:blueberry', 'fruitsdelight:cranberry', 'fruitsdelight:hamimelon_slice', 'fruitsdelight:hawberry', 'fruitsdelight:lemon', 'fruitsdelight:lychee', 'fruitsdelight:mango', 'fruitsdelight:orange', 'fruitsdelight:peach', 'fruitsdelight:pear', 'fruitsdelight:persimmon', 'fruitsdelight:pineapple', 'immortalers_delight:himekaido', 'minecraft:apple', 'minecraft:glow_berries', 'minecraft:melon_slice', 'minecraft:sweet_berries', 'tofucraft:apricot', 'trailandtales_delight:lantern_fruit', 'youkaishomecoming:black_grape', 'youkaishomecoming:red_grape', 'youkaishomecoming:white_grape'])
+  event.add('c:fruits', ['fruitsdelight:blueberry', 'fruitsdelight:cranberry', 'fruitsdelight:durian_flesh', 'fruitsdelight:hamimelon_slice', 'fruitsdelight:hawberry', 'fruitsdelight:lemon', 'fruitsdelight:lemon_slice', 'fruitsdelight:lychee', 'fruitsdelight:mango', 'fruitsdelight:orange', 'fruitsdelight:peach', 'fruitsdelight:pear', 'fruitsdelight:persimmon', 'fruitsdelight:pineapple', 'immortalers_delight:himekaido', 'minecraft:apple', 'minecraft:glow_berries', 'minecraft:melon_slice', 'minecraft:sweet_berries', 'youkaishomecoming:black_grape', 'youkaishomecoming:red_grape', 'youkaishomecoming:white_grape'])
+  event.add('c:crops', ['fruitsdelight:blueberry', 'fruitsdelight:cranberry', 'fruitsdelight:hamimelon_slice', 'fruitsdelight:hawberry', 'fruitsdelight:lemon', 'fruitsdelight:lychee', 'fruitsdelight:mango', 'fruitsdelight:orange', 'fruitsdelight:peach', 'fruitsdelight:pear', 'fruitsdelight:persimmon', 'fruitsdelight:pineapple', 'immortalers_delight:himekaido', 'minecraft:apple', 'minecraft:glow_berries', 'minecraft:melon_slice', 'minecraft:sweet_berries', 'trailandtales_delight:lantern_fruit', 'youkaishomecoming:black_grape', 'youkaishomecoming:red_grape', 'youkaishomecoming:white_grape'])
   event.add('c:berries', ['fruitsdelight:blueberry', 'fruitsdelight:cranberry', 'immortalers_delight:himekaido', 'minecraft:glow_berries', 'minecraft:sweet_berries', 'youkaishomecoming:black_grape', 'youkaishomecoming:red_grape', 'youkaishomecoming:white_grape'])
-  event.add('c:fruits/apricot', ['tofucraft:apricot'])
-  event.add('c:crops/apricot', ['tofucraft:apricot'])
-  event.add('c:crops/strawberries', ['farm_and_charm:strawberry'])
-  event.add('c:crops/strawberry', ['farm_and_charm:strawberry'])
-  event.add('c:fruits/strawberries', ['farm_and_charm:strawberry'])
-  event.add('c:fruits/strawberry', ['farm_and_charm:strawberry'])
-  event.add('c:berries/strawberries', ['farm_and_charm:strawberry'])
-  event.add('c:berries/strawberry', ['farm_and_charm:strawberry'])
   event.add('c:crops/blueberry', ['fruitsdelight:blueberry'])
   event.add('c:crops/blueberries', ['fruitsdelight:blueberry'])
   event.add('c:fruits/blueberry', ['fruitsdelight:blueberry'])
@@ -119,25 +110,21 @@ ServerEvents.tags('item', event => {
 
 // 蔬菜
 ServerEvents.tags('item', event => {
-  event.add('c:crops', ['bakeries:tomato', 'immortalers_delight:evolutcorn', 'mynethersdelight:bullet_pepper', 'neapolitan:mint_leaves', 'tofucraft:chili', 'tofucraft:leek', 'trailandtales_delight:pitcher_taro', 'vintagedelight:cucumber', 'vintagedelight:ghost_pepper', 'youkaishomecoming:cucumber'])
-  event.add('c:vegetables', ['bakeries:tomato', 'immortalers_delight:evolutcorn', 'immortalers_delight:evolutcorn_grains', 'mynethersdelight:bullet_pepper', 'neapolitan:mint_leaves', 'tofucraft:chili', 'tofucraft:leek', 'trailandtales_delight:pitcher_taro', 'vintagedelight:cucumber', 'vintagedelight:ghost_pepper', 'youkaishomecoming:cucumber'])
+  event.add('c:crops', ['bakeries:tomato', 'immortalers_delight:evolutcorn', 'mynethersdelight:bullet_pepper', 'neapolitan:mint_leaves', 'trailandtales_delight:pitcher_taro', 'vintagedelight:cucumber', 'vintagedelight:ghost_pepper', 'youkaishomecoming:cucumber'])
+  event.add('c:vegetables', ['bakeries:tomato', 'immortalers_delight:evolutcorn', 'immortalers_delight:evolutcorn_grains', 'mynethersdelight:bullet_pepper', 'neapolitan:mint_leaves', 'trailandtales_delight:pitcher_taro', 'vintagedelight:cucumber', 'vintagedelight:ghost_pepper', 'youkaishomecoming:cucumber'])
   event.add('c:crops/tomato', ['bakeries:tomato'])
   event.add('c:vegetables/tomato', ['bakeries:tomato'])
   event.add('c:grain', ['immortalers_delight:evolutcorn', 'immortalers_delight:evolutcorn_grains'])
   event.add('c:crops/corn', ['immortalers_delight:evolutcorn'])
   event.add('c:grain/corn', ['immortalers_delight:evolutcorn', 'immortalers_delight:evolutcorn_grains'])
-  event.add('c:crops/pepper', ['mynethersdelight:bullet_pepper', 'tofucraft:chili', 'vintagedelight:ghost_pepper'])
-  event.add('c:vegetables/pepper', ['mynethersdelight:bullet_pepper', 'tofucraft:chili', 'vintagedelight:ghost_pepper'])
+  event.add('c:crops/pepper', ['mynethersdelight:bullet_pepper', 'vintagedelight:ghost_pepper'])
+  event.add('c:vegetables/pepper', ['mynethersdelight:bullet_pepper', 'vintagedelight:ghost_pepper'])
   event.add('c:pepper', ['mynethersdelight:bullet_pepper', 'vintagedelight:ghost_pepper'])
-  event.add('c:crops/chilipepper', ['mynethersdelight:bullet_pepper', 'tofucraft:chili', 'vintagedelight:ghost_pepper'])
-  event.add('c:vegetables/chilipepper', ['mynethersdelight:bullet_pepper', 'tofucraft:chili', 'vintagedelight:ghost_pepper'])
-  event.add('c:crops/chili_pepper', ['mynethersdelight:bullet_pepper', 'tofucraft:chili', 'vintagedelight:ghost_pepper'])
-  event.add('c:vegetables/chili_pepper', ['mynethersdelight:bullet_pepper', 'tofucraft:chili', 'vintagedelight:ghost_pepper'])
+  event.add('c:crops/chilipepper', ['mynethersdelight:bullet_pepper', 'vintagedelight:ghost_pepper'])
+  event.add('c:vegetables/chilipepper', ['mynethersdelight:bullet_pepper', 'vintagedelight:ghost_pepper'])
+  event.add('c:crops/chili_pepper', ['mynethersdelight:bullet_pepper', 'vintagedelight:ghost_pepper'])
+  event.add('c:vegetables/chili_pepper', ['mynethersdelight:bullet_pepper', 'vintagedelight:ghost_pepper'])
   event.add('c:chilipepper', ['mynethersdelight:bullet_pepper', 'vintagedelight:ghost_pepper'])
-  event.add('c:vegetables/chili', ['tofucraft:chili'])
-  event.add('c:crops/chili', ['tofucraft:chili'])
-  event.add('c:vegetables/leek', ['tofucraft:leek'])
-  event.add('c:crops/leek', ['tofucraft:leek'])
   event.add('c:crops/cucumber', ['vintagedelight:cucumber', 'youkaishomecoming:cucumber'])
   event.add('c:vegetables/cucumber', ['vintagedelight:cucumber', 'youkaishomecoming:cucumber'])
   event.add('c:vegetables/corn', ['immortalers_delight:evolutcorn', 'immortalers_delight:evolutcorn_grains'])
@@ -185,7 +172,6 @@ ServerEvents.tags('item', event => {
 
 // 水产
 ServerEvents.tags('item', event => {
-  event.add('c:crab_meat', ['quark:crab_leg'])
   event.add('minecraft:fishes', ['youkaishomecoming:raw_lamprey_fillet', 'youkaishomecoming:roasted_lamprey_fillet'])
   event.add('c:raw_fishes', ['youkaishomecoming:raw_lamprey_fillet'])
   event.add('c:raw_fish', ['youkaishomecoming:raw_lamprey_fillet'])
@@ -209,11 +195,9 @@ ServerEvents.tags('item', event => {
 // 工具
 ServerEvents.tags('item', event => {
   event.add('farmersdelight:tools/knives', ['#c:tools/knives'])
-  event.add('c:tools/rollingpin', ['tofucraft:rollingpin'])
-  event.add('c:tools/rolling_pin', ['tofucraft:rollingpin'])
   event.add('bakeries:bread_knife', ['#c:tools/knives'])
-  event.add('minecraft:hoes', ['create_sa:brass_hoe', 'create_sa:copper_hoe', 'create_sa:zinc_hoe', 'tofucraft:tofu_diamond_hoe', 'tofucraft:tofu_kinu_hoe', 'tofucraft:tofu_metal_hoe', 'tofucraft:tofu_momen_hoe', 'tofucraft:tofu_solid_hoe'])
-  event.add('minecraft:tools', ['caverns_and_chasms:tuning_fork', 'create_sa:blazing_axe', 'create_sa:blazing_cleaver', 'create_sa:blazing_pickaxe', 'create_sa:blazing_shovel', 'create_sa:brass_axe', 'create_sa:brass_hoe', 'create_sa:brass_pickaxe', 'create_sa:brass_shovel', 'create_sa:brass_sword', 'create_sa:copper_axe', 'create_sa:copper_hoe', 'create_sa:copper_pickaxe', 'create_sa:copper_shovel', 'create_sa:copper_sword', 'create_sa:experience_axe', 'create_sa:experience_pickaxe', 'create_sa:experience_shovel', 'create_sa:experience_sword', 'create_sa:rose_quartz_axe', 'create_sa:rose_quartz_pickaxe', 'create_sa:rose_quartz_shovel', 'create_sa:rose_quartz_sword', 'create_sa:zinc_axe', 'create_sa:zinc_hoe', 'create_sa:zinc_pickaxe', 'create_sa:zinc_shovel', 'create_sa:zinc_sword', 'tofucraft:rollingpin', 'tofucraft:tofu_diamond_hoe', 'tofucraft:tofu_kinu_hoe', 'tofucraft:tofu_metal_hoe', 'tofucraft:tofu_momen_hoe', 'tofucraft:tofu_solid_hoe'])
+  event.add('minecraft:hoes', ['create_sa:brass_hoe', 'create_sa:copper_hoe', 'create_sa:zinc_hoe'])
+  event.add('minecraft:tools', ['caverns_and_chasms:tuning_fork', 'create_sa:blazing_axe', 'create_sa:blazing_cleaver', 'create_sa:blazing_pickaxe', 'create_sa:blazing_shovel', 'create_sa:brass_axe', 'create_sa:brass_hoe', 'create_sa:brass_pickaxe', 'create_sa:brass_shovel', 'create_sa:brass_sword', 'create_sa:copper_axe', 'create_sa:copper_hoe', 'create_sa:copper_pickaxe', 'create_sa:copper_shovel', 'create_sa:copper_sword', 'create_sa:experience_axe', 'create_sa:experience_pickaxe', 'create_sa:experience_shovel', 'create_sa:experience_sword', 'create_sa:rose_quartz_axe', 'create_sa:rose_quartz_pickaxe', 'create_sa:rose_quartz_shovel', 'create_sa:rose_quartz_sword', 'create_sa:zinc_axe', 'create_sa:zinc_hoe', 'create_sa:zinc_pickaxe', 'create_sa:zinc_shovel', 'create_sa:zinc_sword'])
   event.add('minecraft:shovels', ['create_sa:blazing_shovel', 'create_sa:brass_shovel', 'create_sa:copper_shovel', 'create_sa:experience_shovel', 'create_sa:rose_quartz_shovel', 'create_sa:zinc_shovel'])
   event.add('minecraft:axes', ['create_sa:blazing_axe', 'create_sa:brass_axe', 'create_sa:copper_axe', 'create_sa:experience_axe', 'create_sa:rose_quartz_axe', 'create_sa:zinc_axe'])
   event.add('minecraft:pickaxes', ['create_sa:blazing_pickaxe', 'create_sa:brass_pickaxe', 'create_sa:copper_pickaxe', 'create_sa:experience_pickaxe', 'create_sa:rose_quartz_pickaxe', 'create_sa:zinc_pickaxe'])
@@ -225,18 +209,12 @@ ServerEvents.tags('item', event => {
 
 // INGOTS AND MATERIALS
 ServerEvents.tags('item', event => {
-  event.add('c:bowls', ['tofucraft:glassbowl'])
   event.add('c:bamboo', ['minecraft:bamboo'])
 })
 
 // 调味品
 ServerEvents.tags('item', event => {
-  event.add('c:salt', ['tofucraft:salt', 'vintagedelight:salt_dust'])
-  event.add('c:salts', ['tofucraft:salt', 'vintagedelight:salt_dust'])
-  event.add('c:salt_dust', ['tofucraft:salt', 'vintagedelight:salt_dust'])
-  event.add('c:salt', ['tofucraft:salt', 'vintagedelight:salt_dust'])
-  event.add('c:salts', ['tofucraft:salt', 'vintagedelight:salt_dust'])
-  event.add('c:bottles/soy_sauce', ['tofucraft:bottle_soysause', 'youkaishomecoming:soy_sauce_bottle'])
+  event.add('c:bottles/soy_sauce', ['youkaishomecoming:soy_sauce_bottle'])
   event.add('c:soysauce', ['youkaishomecoming:soy_sauce_bottle'])
   event.add('c:soysauce/soysauce', ['youkaishomecoming:soy_sauce_bottle'])
   event.add('c:tomatosauce', ['farmersdelight:tomato_sauce'])
@@ -246,14 +224,14 @@ ServerEvents.tags('item', event => {
 ServerEvents.tags('item', event => {
   event.add('c:butter', ['bakeries:butter_cube', 'youkaishomecoming:butter'])
   event.add('c:butter', ['bakeries:butter_cube', 'youkaishomecoming:butter'])
-  event.add('c:cheese', ['bakeries:cheese_cube', 'trailandtales_delight:cheese_slice', 'trailandtales_delight:cherry_cheese_slice', 'tofucraft:soy_cheese', 'tofucraft:soy_nether_cheese', 'tofucraft:soy_soul_cheese'])
+  event.add('c:cheese', ['bakeries:cheese_cube', 'trailandtales_delight:cheese_slice', 'trailandtales_delight:cherry_cheese_slice'])
   event.add('c:cheese/sweet', ['#c:cheese'])
   event.add('c:sugar', ['bakeries:brown_sugar_cube'])
 })
 
 // 蛋糕
 ServerEvents.tags('item', event => {
-  event.add('c:cake', ['minecraft:cake', 'neapolitan:adzuki_cake', 'neapolitan:banana_cake', 'neapolitan:chocolate_cake', 'neapolitan:mint_cake', 'neapolitan:strawberry_cake', 'neapolitan:vanilla_cake', 'tofucraft:tofucake', 'tofucraft:zundatofucake'])
+  event.add('c:cake', ['minecraft:cake', 'neapolitan:adzuki_cake', 'neapolitan:banana_cake', 'neapolitan:chocolate_cake', 'neapolitan:mint_cake', 'neapolitan:strawberry_cake', 'neapolitan:vanilla_cake'])
 })
 
 // SLICES
@@ -266,8 +244,6 @@ ServerEvents.tags('item', event => {
 
 // 法术材料
 ServerEvents.tags('item', event => {
-  event.add('irons_spellbooks:nature_focus', ['tofucraft:zundaruby'])
-  event.add('irons_spellbooks:school_focus', ['tofucraft:zundaruby'])
 })
 
 // OTHERS
@@ -325,7 +301,6 @@ ServerEvents.tags('item', event => {
   event.add('c:ingots/iron', ['minecraft:iron_ingot'])
   event.add('c:ingots/zinc', ['create:zinc_ingot'])
   event.add('c:stones', ['minecraft:stone'])
-  event.add('c:soybean', ['tofucraft:seeds_soybeans'])
   event.add('c:redbean', ['neapolitan:adzuki_beans'])
   event.add('c:strawberry', ['neapolitan:strawberries'])
   event.add('c:rawchicken', ['minecraft:chicken'])
