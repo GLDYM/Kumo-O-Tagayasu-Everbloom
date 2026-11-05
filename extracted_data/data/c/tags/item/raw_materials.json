@@ -1,0 +1,12 @@
+{
+  "values": [
+    "create:raw_zinc",
+    "createnuclear:raw_uranium",
+    "createnuclear:raw_lead",
+    "createnuclear:raw_thorium",
+    "#c:raw_materials/mithril",
+    "#c:raw_materials/jade",
+    "simplemetals_tin:raw_tin"
+  ],
+  "replace": false
+}

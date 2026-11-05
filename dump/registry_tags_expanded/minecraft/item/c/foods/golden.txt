@@ -1,12 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:foods/golden
-# Entries: 7
+# Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.9358124+08:00
+# Generated: 2026-11-05T11:35:49.3896197+08:00
 
-atmospheric:golden_dragon_fruit
-atmospheric:shimmering_passion_fruit
 minecraft:enchanted_golden_apple
 minecraft:golden_apple
 minecraft:golden_carrot

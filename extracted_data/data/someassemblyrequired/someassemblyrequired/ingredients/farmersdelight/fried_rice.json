@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "display_item": {
+    "components": {
+      "minecraft:custom_model_data": 33
+    },
+    "count": 1,
+    "id": "someassemblyrequired:spread"
+  },
+  "item": "farmersdelight:fried_rice"
+}

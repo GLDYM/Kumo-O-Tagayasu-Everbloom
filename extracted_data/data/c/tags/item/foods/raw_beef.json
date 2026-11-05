@@ -1,0 +1,19 @@
+{
+  "values": [
+    "minecraft:beef",
+    "farmersdelight:minced_beef",
+    {
+      "id": "farmersdelight:minced_beef",
+      "required": false
+    },
+    "immortalers_delight:raw_sniffer_steak",
+    "immortalers_delight:raw_sniffer_slice",
+    {
+      "id": "#forge:raw_beef",
+      "required": false
+    },
+    "#c:raw_beef",
+    "kaleidoscope_cookery:raw_cow_offal"
+  ],
+  "replace": false
+}

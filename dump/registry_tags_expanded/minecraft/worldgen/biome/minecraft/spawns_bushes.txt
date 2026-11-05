@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:spawns_bushes
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:59.4568371+08:00
+
+minecraft:birch_forest
+minecraft:forest
+minecraft:frozen_river
+minecraft:old_growth_birch_forest
+minecraft:plains
+minecraft:river
+minecraft:sunflower_plains
+minecraft:windswept_forest
+minecraft:windswept_gravelly_hills
+minecraft:windswept_hills

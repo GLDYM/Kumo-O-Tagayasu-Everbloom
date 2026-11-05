@@ -1,0 +1,15 @@
+{
+  "display_item": {
+    "components": {
+      "minecraft:custom_model_data": 2
+    },
+    "count": 1,
+    "id": "someassemblyrequired:spread"
+  },
+  "full_name": {
+    "translate": "someassemblyrequired.ingredient.burger_bun_half"
+  },
+  "height": 2,
+  "item": "someassemblyrequired:burger_bun_bottom",
+  "render_as_item": false
+}

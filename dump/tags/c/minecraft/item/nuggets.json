@@ -1,5 +1,6 @@
 {
-    "values": [
-        "create_enchantment_industry:super_experience_nugget"
-    ]
+  "values": [
+    "createdeco:netherite_nugget",
+    "createdeco:industrial_iron_nugget"
+  ]
 }

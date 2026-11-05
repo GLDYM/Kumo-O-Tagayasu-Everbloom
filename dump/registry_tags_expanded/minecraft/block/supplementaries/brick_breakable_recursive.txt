@@ -1,12 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: supplementaries:brick_breakable_recursive
-# Entries: 110
+# Entries: 71
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.2210031+08:00
+# Generated: 2026-11-05T11:35:45.8937361+08:00
 
-atmospheric:arid_glass
-atmospheric:arid_glass_pane
 create:acacia_window_pane
 create:bamboo_window_pane
 create:birch_window_pane
@@ -42,7 +40,6 @@ createdeco:iron_window_pane
 createdeco:zinc_window
 createdeco:zinc_window_pane
 createnuclear:reinforced_glass
-dndecor:ornate_iron_glass_pane
 minecraft:black_stained_glass
 minecraft:black_stained_glass_pane
 minecraft:blue_stained_glass
@@ -79,39 +76,3 @@ minecraft:white_stained_glass
 minecraft:white_stained_glass_pane
 minecraft:yellow_stained_glass
 minecraft:yellow_stained_glass_pane
-quark:black_framed_glass
-quark:black_framed_glass_pane
-quark:blue_framed_glass
-quark:blue_framed_glass_pane
-quark:brown_framed_glass
-quark:brown_framed_glass_pane
-quark:cyan_framed_glass
-quark:cyan_framed_glass_pane
-quark:dirty_glass
-quark:dirty_glass_pane
-quark:framed_glass
-quark:framed_glass_pane
-quark:gray_framed_glass
-quark:gray_framed_glass_pane
-quark:green_framed_glass
-quark:green_framed_glass_pane
-quark:light_blue_framed_glass
-quark:light_blue_framed_glass_pane
-quark:light_gray_framed_glass
-quark:light_gray_framed_glass_pane
-quark:lime_framed_glass
-quark:lime_framed_glass_pane
-quark:magenta_framed_glass
-quark:magenta_framed_glass_pane
-quark:orange_framed_glass
-quark:orange_framed_glass_pane
-quark:pink_framed_glass
-quark:pink_framed_glass_pane
-quark:purple_framed_glass
-quark:purple_framed_glass_pane
-quark:red_framed_glass
-quark:red_framed_glass_pane
-quark:white_framed_glass
-quark:white_framed_glass_pane
-quark:yellow_framed_glass
-quark:yellow_framed_glass_pane

@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:damage_type
 # Tag: l2damagetracker:direct
-# Entries: 24
+# Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.4210074+08:00
+# Generated: 2026-11-05T11:35:46.3721194+08:00
 
 l2damagetracker:mob_attack-bypass_armor
 l2damagetracker:mob_attack-bypass_armor-bypass_cooldown
@@ -19,13 +19,5 @@ l2damagetracker:player_attack-bypass_armor-bypass_magic
 l2damagetracker:player_attack-bypass_cooldown
 l2damagetracker:player_attack-bypass_cooldown-bypass_magic
 l2damagetracker:player_attack-bypass_magic
-l2weaponry:mob_attack-bypass_armor-bypass_magic-no_anger
-l2weaponry:mob_attack-bypass_armor-no_anger
-l2weaponry:mob_attack-bypass_magic-no_anger
-l2weaponry:mob_attack-no_anger
-l2weaponry:player_attack-bypass_armor-bypass_magic-no_anger
-l2weaponry:player_attack-bypass_armor-no_anger
-l2weaponry:player_attack-bypass_magic-no_anger
-l2weaponry:player_attack-no_anger
 minecraft:mob_attack
 minecraft:player_attack

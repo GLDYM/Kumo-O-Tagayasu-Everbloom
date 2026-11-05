@@ -1,8 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:enchantment
-# Tag: neapolitan:prevents_plantain_spider_spawns_when_mining
-# Entries: 1
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.5891526+08:00
-
-minecraft:silk_touch

@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:copper
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.9750688+08:00
+
+minecraft:copper_block
+minecraft:exposed_copper
+minecraft:oxidized_copper
+minecraft:waxed_copper_block
+minecraft:waxed_exposed_copper
+minecraft:waxed_oxidized_copper
+minecraft:waxed_weathered_copper
+minecraft:weathered_copper

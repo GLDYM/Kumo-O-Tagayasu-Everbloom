@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/dripstone/base
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.1662496+08:00
+
+railways:dripstone_flat_riveted_locometal
+railways:dripstone_flat_slashed_locometal
+railways:dripstone_locometal_pillar
+railways:dripstone_locometal_smokebox
+railways:dripstone_locometal_vent
+railways:dripstone_plated_locometal
+railways:dripstone_riveted_locometal
+railways:dripstone_slashed_locometal

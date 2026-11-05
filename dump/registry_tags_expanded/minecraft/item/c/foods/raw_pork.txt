@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:foods/raw_pork
-# Entries: 9
+# Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.9923763+08:00
+# Generated: 2026-11-05T11:35:49.4865965+08:00
 
 farmersdelight:bacon
 kaleidoscope_cookery:raw_pork_belly
@@ -13,4 +13,3 @@ kaleidoscope_nether:raw_piglin_meat
 minecraft:porkchop
 mynethersdelight:hoglin_loin
 mynethersdelight:hoglin_sausage
-tofucraft:soymeat

@@ -1,0 +1,11 @@
+{
+  "values": [
+    {
+      "id": "simplemetals_tin:tin_ore",
+      "required": false
+    },
+    "minecraft:cinnabar",
+    "minecraft:sulfur",
+    "minecraft:potent_sulfur"
+  ]
+}

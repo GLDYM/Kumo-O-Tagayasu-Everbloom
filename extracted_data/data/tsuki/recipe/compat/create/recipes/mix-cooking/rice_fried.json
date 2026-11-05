@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "modid": "create",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "tsuki:rice/rice"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:vegetables"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "amount": 125,
+      "tag": "c:food_oil",
+      "type": "neoforge:tag"
+    }
+  ],
+  "results": [
+    {
+      "id": "tsuki:rice_fried"
+    }
+  ]
+}

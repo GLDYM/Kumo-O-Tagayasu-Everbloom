@@ -1,8 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:worldgen/biome
-# Tag: integrated_villages:collections/taigas
-# Entries: 1
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.0890036+08:00
-
-minecraft:taiga

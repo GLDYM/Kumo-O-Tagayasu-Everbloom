@@ -3,7 +3,7 @@
 # Tag: supplementaries:ignite_flint_blocks
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.1659385+08:00
+# Generated: 2026-11-05T11:35:57.5402596+08:00
 
 minecraft:chainmail_boots
 minecraft:iron_boots

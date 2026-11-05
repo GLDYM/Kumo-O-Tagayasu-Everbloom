@@ -1,5 +1,7 @@
 {
   "values": [
-    "atmospheric:currant_stalk"
+    "#minecraft:features_cannot_replace",
+    "#minecraft:leaves",
+    "#minecraft:logs"
   ]
 }

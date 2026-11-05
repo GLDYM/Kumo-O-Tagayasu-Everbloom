@@ -1,10 +1,12 @@
 # Registry dump
 # Registry: minecraft:map_decoration_type
 # Minecraft: 1.21.1
-# Entries: 36
-# Generated: 2026-06-18T20:40:59.2563877+08:00
+# Entries: 41
+# Generated: 2026-11-05T11:31:32.9813582+08:00
 
-create:station raw_id=35 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
+create:station raw_id=40 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
+minecraft:abandoned_camp raw_id=35 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
+minecraft:ancient_city raw_id=36 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
 minecraft:banner_black raw_id=25 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
 minecraft:banner_blue raw_id=21 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
 minecraft:banner_brown raw_id=22 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
@@ -22,10 +24,13 @@ minecraft:banner_red raw_id=24 class=net.minecraft.world.level.saveddata.maps.Ma
 minecraft:banner_white raw_id=10 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
 minecraft:banner_yellow raw_id=14 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
 minecraft:blue_marker raw_id=3 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
+minecraft:desert_pyramid raw_id=37 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
 minecraft:frame raw_id=1 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
 minecraft:jungle_temple raw_id=32 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
 minecraft:mansion raw_id=8 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
+minecraft:mineshaft raw_id=38 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
 minecraft:monument raw_id=9 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
+minecraft:ocean_ruin_warm raw_id=39 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
 minecraft:player raw_id=0 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
 minecraft:player_off_limits raw_id=7 class=net.minecraft.world.level.saveddata.maps.MapDecorationType
 minecraft:player_off_map raw_id=6 class=net.minecraft.world.level.saveddata.maps.MapDecorationType

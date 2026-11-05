@@ -1,0 +1,17 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "display_item": {
+    "components": {
+      "someassemblyrequired:spread_color": "#CCBD783D"
+    },
+    "count": 1,
+    "id": "someassemblyrequired:spread"
+  },
+  "item": "farmersdelight:apple_cider",
+  "sound": "someassemblyrequired:block.sandwich.add_item.moist"
+}

@@ -1,0 +1,12 @@
+{
+  "display_item": {
+    "components": {
+      "minecraft:custom_model_data": 54
+    },
+    "count": 1,
+    "id": "someassemblyrequired:spread"
+  },
+  "height": 5,
+  "item": "minecraft:potato",
+  "render_as_item": false
+}

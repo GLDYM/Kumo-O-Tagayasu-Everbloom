@@ -3,7 +3,7 @@
 # Tag: c:foods/fruits
 # Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.9149169+08:00
+# Generated: 2026-11-05T11:35:49.3677701+08:00
 
 minecraft:apple
 minecraft:glow_berries

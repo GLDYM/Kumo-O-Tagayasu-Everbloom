@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tsuki:glass_vodka"
+    },
+    {
+      "item": "tsuki:tomato_sauce"
+    },
+    {
+      "item": "tsuki:lemon_juice"
+    },
+    {
+      "item": "tsuki:worcester_sauce"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "item": "tsuki:black_pepper"
+    },
+    {
+      "item": "tsuki:ice_cube"
+    },
+    {
+      "item": "tsuki:collins_glass"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "tsuki:glass_bloody_mary"
+  }
+}

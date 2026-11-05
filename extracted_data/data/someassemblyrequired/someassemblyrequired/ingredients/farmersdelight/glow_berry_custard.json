@@ -1,0 +1,17 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "display_item": {
+    "components": {
+      "minecraft:custom_model_data": 51
+    },
+    "count": 1,
+    "id": "someassemblyrequired:spread"
+  },
+  "item": "farmersdelight:glow_berry_custard",
+  "sound": "someassemblyrequired:block.sandwich.add_item.slimy"
+}

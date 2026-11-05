@@ -1,8 +1,8 @@
 {
   "values": [
-    "atmospheric:red_arid_sandstone",
-    "atmospheric:cut_red_arid_sandstone",
-    "atmospheric:chiseled_red_arid_sandstone",
-    "atmospheric:smooth_red_arid_sandstone"
+    "minecraft:red_sandstone",
+    "minecraft:cut_red_sandstone",
+    "minecraft:chiseled_red_sandstone",
+    "minecraft:smooth_red_sandstone"
   ]
 }

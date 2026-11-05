@@ -1,9 +1,0 @@
-{
-  "values": [
-    "minecraft:creeper",
-    {
-      "id": "savage_and_ravage:creepie",
-      "required": false
-    }
-  ]
-}

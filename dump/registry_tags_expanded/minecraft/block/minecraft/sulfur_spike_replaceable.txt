@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:sulfur_spike_replaceable
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:45.3280994+08:00
+
+minecraft:cinnabar
+minecraft:sulfur

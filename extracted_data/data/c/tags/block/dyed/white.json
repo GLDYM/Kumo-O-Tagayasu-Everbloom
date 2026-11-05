@@ -1,0 +1,17 @@
+{
+  "values": [
+    "handcrafted:white_cushion",
+    "supplementaries:flag_white",
+    "supplementaries:present_white",
+    "supplementaries:trapped_present_white",
+    "supplementaries:candle_holder_white",
+    "supplementaries:awning_white",
+    "supplementaries:bunting_white",
+    "supplementaries:bunting_wall_white",
+    "minecraft:white_wool_stairs",
+    "minecraft:white_wool_slab",
+    "minecraft:white_concrete_stairs",
+    "minecraft:white_concrete_slab"
+  ],
+  "replace": false
+}

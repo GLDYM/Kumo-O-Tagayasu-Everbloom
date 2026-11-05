@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " GG",
+    " MG",
+    "A  "
+  ],
+  "key": {
+    "M": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+    "G": {
+      "item": "farmers_spell:mithril_cheese"
+    },
+    "A": {
+      "item": "irons_spellbooks:arcane_ingot"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "farmers_spell:iris_fork"
+  }
+}

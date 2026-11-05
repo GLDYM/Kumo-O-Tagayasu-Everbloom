@@ -1,0 +1,7 @@
+{
+  "selector": "#createdeco:weightless",
+  "properties": {
+    "sable:mass": 0,
+    "sable:volume": 0
+  }
+}

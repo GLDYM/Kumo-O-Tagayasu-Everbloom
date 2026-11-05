@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: crabbersdelight:fishing_lure
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:51.3280708+08:00
+
+crabbersdelight:automatic_lure
+crabbersdelight:barbed_lure
+crabbersdelight:double_lure
+crabbersdelight:magnetic_lure
+crabbersdelight:storm_lure

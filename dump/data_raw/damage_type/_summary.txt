@@ -1,11 +1,11 @@
 # Raw resource rule dump summary
 # Mod ID: registry_dumper_3000
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:52.1877945+08:00
+# Generated: 2026-11-05T11:36:11.3837042+08:00
 
 # Rule name: Damage type
 # Side: data/server
 # Source prefix: damage_type
-# Files written: 164
+# Files written: 135
 # Stack files written (optional): 0
 # Path collisions observed: 0

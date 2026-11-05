@@ -3,5 +3,5 @@
 # Tag: create_enchantment_industry:printer/deny
 # Entries: 0
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.5259221+08:00
+# Generated: 2026-11-05T11:35:46.6117653+08:00
 

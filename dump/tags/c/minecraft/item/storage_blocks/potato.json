@@ -1,6 +1,5 @@
 {
-  "replace": false,
   "values": [
-    "quark:potato_crate"
+    "farmersdelight:potato_crate"
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "values": [
+    "tsuki:straw",
+    {
+      "id": "farmersdelight:straw",
+      "required": false
+    }
+  ]
+}

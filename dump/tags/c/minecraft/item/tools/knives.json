@@ -1,8 +1,5 @@
 {
   "values": [
-    "#tsuki:tools/knives/fish",
-    "#tsuki:tools/knives/noodle",
-    "#tsuki:tools/knives/fish",
-    "#tsuki:tools/knives/noodle"
+    { "id": "alloyed:steel_knife", "required": false }
   ]
 }

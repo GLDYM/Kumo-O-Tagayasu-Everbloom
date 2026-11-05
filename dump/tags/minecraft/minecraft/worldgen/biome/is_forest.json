@@ -1,6 +1,6 @@
 {
+  "replace": false,
   "values": [
-    "atmospheric:laurel_forest",
-    "atmospheric:grimwoods"
+    "tsuki:maple_forest"
   ]
 }

@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "farmers_spell:red_velvet_cake"
+        }
+    ],
+    "result": [
+        { 
+            "item": {
+                "count": 7,
+                "id": "farmers_spell:red_velvet_cake_slice"
+            }
+        }
+    ],
+    "tool": {
+        "tag": "c:tools/knife"
+    }
+}

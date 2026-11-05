@@ -1,13 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:trim_templates
-# Entries: 23
+# Entries: 19
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.3733842+08:00
+# Generated: 2026-11-05T11:35:54.5606847+08:00
 
-atmospheric:apostle_armor_trim_smithing_template
-atmospheric:druid_armor_trim_smithing_template
-atmospheric:petrified_armor_trim_smithing_template
 minecraft:bolt_armor_trim_smithing_template
 minecraft:coast_armor_trim_smithing_template
 minecraft:dune_armor_trim_smithing_template
@@ -26,5 +23,4 @@ minecraft:vex_armor_trim_smithing_template
 minecraft:ward_armor_trim_smithing_template
 minecraft:wayfinder_armor_trim_smithing_template
 minecraft:wild_armor_trim_smithing_template
-neapolitan:primal_armor_trim_smithing_template
 supplementaries:blast_armor_trim_smithing_template

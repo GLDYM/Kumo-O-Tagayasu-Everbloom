@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:sulfur_cube_archetype/slow_sliding
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:54.5230456+08:00
+
+minecraft:brown_mushroom_block
+minecraft:mushroom_stem
+minecraft:mycelium
+minecraft:nether_wart_block
+minecraft:red_mushroom_block
+minecraft:shroomlight
+minecraft:warped_wart_block

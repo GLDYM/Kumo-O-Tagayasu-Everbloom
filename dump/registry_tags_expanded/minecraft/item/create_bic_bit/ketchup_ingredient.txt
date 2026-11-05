@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create_bic_bit:ketchup_ingredient
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:51.5394637+08:00
+
+farmersdelight:tomato
+minecraft:beetroot

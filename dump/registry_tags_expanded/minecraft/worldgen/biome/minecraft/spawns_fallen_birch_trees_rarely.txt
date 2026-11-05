@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:spawns_fallen_birch_trees_rarely
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:59.5072084+08:00
+
+minecraft:birch_forest
+minecraft:dappled_forest
+minecraft:dark_forest
+minecraft:flower_forest
+minecraft:forest
+minecraft:grove
+minecraft:old_growth_birch_forest
+minecraft:pale_garden
+tsuki:maple_forest

@@ -1,0 +1,20 @@
+{
+  "values": [
+    "handcrafted:black_cushion",
+    "handcrafted:black_sheet",
+    "supplementaries:flag_black",
+    "supplementaries:present_black",
+    "supplementaries:trapped_present_black",
+    "supplementaries:candle_holder_black",
+    "supplementaries:awning_black",
+    "supplementaries:bunting_black",
+    "minecraft:black_wool_stairs",
+    "minecraft:black_wool_slab",
+    "minecraft:black_concrete_stairs",
+    "minecraft:black_concrete_slab",
+    "minecraft:black_bundle",
+    "minecraft:black_harness",
+    "minecraft:black_cushion"
+  ],
+  "replace": false
+}

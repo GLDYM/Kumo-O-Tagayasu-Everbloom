@@ -3,7 +3,7 @@
 # Tag: artifacts:rooted_boots_grass
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.4962673+08:00
+# Generated: 2026-11-05T11:35:42.2847982+08:00
 
 minecraft:dirt_path
 minecraft:grass_block

@@ -1,0 +1,5 @@
+# 同路径文件未能合并或合并时出现字段冲突的记录
+# 非 JSON 文件保留先扫描到的版本；JSON 标量冲突保留先扫描到的值（--overwrite 可改为后者覆盖）
+# 共 1 条
+
+data/create/recipe/crushing/tin_ore.json  <- simplemetals-tin-kots-4.0.0.jar: /processing_time: 400 != 250（保留先扫描到的值）

@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: create:windmill_sails
-# Entries: 66
+# Entries: 50
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.0484376+08:00
+# Generated: 2026-11-05T11:35:43.3963636+08:00
 
 create:black_sail
 create:blue_sail
@@ -23,22 +23,6 @@ create:sail_frame
 create:white_sail
 create:yellow_sail
 create_integrated_farming:fishing_net
-dndecor:black_velvet_block
-dndecor:blue_velvet_block
-dndecor:brown_velvet_block
-dndecor:cyan_velvet_block
-dndecor:gray_velvet_block
-dndecor:green_velvet_block
-dndecor:light_blue_velvet_block
-dndecor:light_gray_velvet_block
-dndecor:lime_velvet_block
-dndecor:magenta_velvet_block
-dndecor:orange_velvet_block
-dndecor:pink_velvet_block
-dndecor:purple_velvet_block
-dndecor:red_velvet_block
-dndecor:white_velvet_block
-dndecor:yellow_velvet_block
 interiors:black_cushion
 interiors:blue_cushion
 interiors:brown_cushion

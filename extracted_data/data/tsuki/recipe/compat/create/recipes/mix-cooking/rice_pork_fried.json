@@ -1,0 +1,31 @@
+{
+  "neoforge:conditions": [
+    {
+      "modid": "create",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "tsuki:rice/rice"
+    },
+    {
+      "item": "tsuki:katsu"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "amount": 125,
+      "fluid": "minecraft:water",
+      "type": "neoforge:single"
+    }
+  ],
+  "results": [
+    {
+      "id": "tsuki:rice_pork_fried"
+    }
+  ]
+}

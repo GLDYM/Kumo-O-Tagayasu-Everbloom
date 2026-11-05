@@ -1,12 +1,13 @@
 # Expanded runtime tag dump
 # Registry: minecraft:damage_type
 # Tag: neoforge:is_magic
-# Entries: 25
+# Entries: 26
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.5055479+08:00
+# Generated: 2026-11-05T11:35:46.523138+08:00
 
 danmaku_api:abyssal_danmaku
 danmaku_api:danmaku
+farmers_spell:gluttony_magic
 irons_spellbooks:blood_cauldron
 irons_spellbooks:blood_magic
 irons_spellbooks:dragon_breath_pool

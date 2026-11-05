@@ -3,6 +3,6 @@
 # Tag: c:capturing_not_supported
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.6297692+08:00
+# Generated: 2026-11-05T11:35:46.8328783+08:00
 
 artifacts:mimic

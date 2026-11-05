@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: c:dyed/purple
-# Entries: 21
+# Entries: 25
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.634148+08:00
+# Generated: 2026-11-05T11:35:42.4468539+08:00
 
 handcrafted:purple_cushion
 minecraft:purple_banner
@@ -12,6 +12,8 @@ minecraft:purple_candle
 minecraft:purple_carpet
 minecraft:purple_concrete
 minecraft:purple_concrete_powder
+minecraft:purple_concrete_slab
+minecraft:purple_concrete_stairs
 minecraft:purple_glazed_terracotta
 minecraft:purple_shulker_box
 minecraft:purple_stained_glass
@@ -19,6 +21,8 @@ minecraft:purple_stained_glass_pane
 minecraft:purple_terracotta
 minecraft:purple_wall_banner
 minecraft:purple_wool
+minecraft:purple_wool_slab
+minecraft:purple_wool_stairs
 supplementaries:awning_purple
 supplementaries:bunting_purple
 supplementaries:bunting_wall_purple

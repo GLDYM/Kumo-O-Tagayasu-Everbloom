@@ -1,10 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: curios:ring
-# Entries: 16
+# Entries: 18
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.1094765+08:00
+# Generated: 2026-11-05T11:35:51.8589183+08:00
 
+farmers_spell:affinity_ring_glutton
+farmers_spell:foodgeist_ring
 irons_spellbooks:affinity_ring
 irons_spellbooks:betrayer_signet
 irons_spellbooks:cast_time_ring

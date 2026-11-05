@@ -3,6 +3,6 @@
 # Tag: youkaishomecoming:touhou_wings
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.4392138+08:00
+# Generated: 2026-11-05T11:35:58.1705153+08:00
 
 youkaishomecoming:cirno_wings

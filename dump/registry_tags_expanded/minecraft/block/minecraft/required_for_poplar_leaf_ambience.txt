@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:required_for_poplar_leaf_ambience
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:45.2028964+08:00
+
+crabbersdelight:palm_log
+minecraft:acacia_log
+minecraft:birch_log
+minecraft:cherry_log
+minecraft:dark_oak_log
+minecraft:jungle_log
+minecraft:mangrove_log
+minecraft:oak_log
+minecraft:pale_oak_log
+minecraft:poplar_log
+minecraft:spruce_log
+trailandtales_delight:crystal_wood_log

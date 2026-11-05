@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/pink/wrapped_copper
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.7946896+08:00
+
+railways:pink_copper_wrapped_locometal
+railways:pink_copper_wrapped_locometal_smokebox

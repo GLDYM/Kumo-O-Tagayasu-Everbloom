@@ -3,7 +3,7 @@
 # Tag: c:drinks/magic
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.7230496+08:00
+# Generated: 2026-11-05T11:35:48.9250029+08:00
 
 minecraft:ominous_bottle
 minecraft:potion

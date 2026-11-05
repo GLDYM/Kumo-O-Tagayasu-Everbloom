@@ -1,14 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:sandstone/stairs
-# Entries: 8
+# Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.4614967+08:00
+# Generated: 2026-11-05T11:35:50.6014084+08:00
 
-atmospheric:arid_sandstone_stairs
-atmospheric:red_arid_sandstone_stairs
-atmospheric:smooth_arid_sandstone_stairs
-atmospheric:smooth_red_arid_sandstone_stairs
 minecraft:red_sandstone_stairs
 minecraft:sandstone_stairs
 minecraft:smooth_red_sandstone_stairs

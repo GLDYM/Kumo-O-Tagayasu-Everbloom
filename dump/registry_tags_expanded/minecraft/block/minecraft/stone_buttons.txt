@@ -3,7 +3,7 @@
 # Tag: minecraft:stone_buttons
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.0034123+08:00
+# Generated: 2026-11-05T11:35:45.314324+08:00
 
 copycats:copycat_stone_button
 minecraft:polished_blackstone_button

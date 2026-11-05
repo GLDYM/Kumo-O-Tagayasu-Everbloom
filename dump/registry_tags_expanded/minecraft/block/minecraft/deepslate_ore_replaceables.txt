@@ -1,9 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:deepslate_ore_replaceables
-# Entries: 2
+# Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.7361276+08:00
+# Generated: 2026-11-05T11:35:44.7787475+08:00
 
 minecraft:deepslate
 minecraft:tuff
+simplemetals_tin:deepslate_tin_ore

@@ -1,0 +1,24 @@
+{
+  "values": [
+    "#c:berries",
+    "#c:fruits/chorus",
+    "minecraft:sweet_berries",
+    "minecraft:glow_berries",
+    "kaleidoscope_nether:warped_fruit",
+    "kaleidoscope_nether:poisonous_fruit",
+    "kaleidoscope_nether:crimson_fruit",
+    "pineapple_delight:pineapple",
+    "pineapple_delight:pineapple_side",
+    "pineapple_delight:golden_pineapple",
+    "#c:fruits/apple",
+    "#c:fruits/berries",
+    "#c:fruits/melon_slice",
+    "tsuki:grape",
+    "tsuki:grape_green",
+    "tsuki:lemon",
+    "tsuki:lime",
+    "tsuki:chestnut",
+    "vintagedelight:gearo_berry"
+  ],
+  "replace": false
+}

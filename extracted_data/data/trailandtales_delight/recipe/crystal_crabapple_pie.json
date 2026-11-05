@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "tatd_crystal_crabapple_pie",
+  "key": {
+    "#": {
+      "item": "minecraft:wheat"
+    },
+    "O": {
+      "item": "farmersdelight:pie_crust"
+    },
+    "a": {
+      "item": "trailandtales_delight:crystal_crabapple"
+    },
+    "c": {
+      "item": "trailandtales_delight:crystal_crabapple"
+    },
+    "x": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "#c#",
+    "aca",
+    "xOx"
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:crystal_crabapple_pie"
+  }
+}

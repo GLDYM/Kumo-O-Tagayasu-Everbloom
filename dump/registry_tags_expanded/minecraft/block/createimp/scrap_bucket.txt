@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: createimp:scrap_bucket
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:43.5725334+08:00
+
+createimp:andesite_scrap_bucket
+createimp:brass_scrap_bucket

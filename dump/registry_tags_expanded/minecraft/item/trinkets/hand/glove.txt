@@ -3,7 +3,7 @@
 # Tag: trinkets:hand/glove
 # Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.2365726+08:00
+# Generated: 2026-11-05T11:35:57.7795114+08:00
 
 artifacts:digging_claws
 artifacts:feral_claws

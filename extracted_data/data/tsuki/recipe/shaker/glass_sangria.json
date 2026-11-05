@@ -1,0 +1,25 @@
+{
+  "type": "tsuki:shaker",
+  "experience": 0,
+  "ingredients": [
+    {
+      "item": "tsuki:glass_red_wine"
+    },
+    {
+      "item": "tsuki:orange_juice"
+    },
+    {
+      "tag": "c:fruits/apple"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "item": "tsuki:ice_cube"
+    }
+  ],
+  "result": {
+    "id": "tsuki:glass_sangria"
+  },
+  "shake_count": 12
+}

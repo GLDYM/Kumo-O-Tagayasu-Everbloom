@@ -1,0 +1,14 @@
+{
+  "display_item": {
+    "components": {
+      "someassemblyrequired:spread_color": "#CCF0A90E"
+    },
+    "count": 1,
+    "id": "someassemblyrequired:spread"
+  },
+  "full_name": {
+    "translate": "someassemblyrequired.ingredient.honey_bottle"
+  },
+  "item": "minecraft:honey_bottle",
+  "sound": "someassemblyrequired:block.sandwich.add_item.moist"
+}

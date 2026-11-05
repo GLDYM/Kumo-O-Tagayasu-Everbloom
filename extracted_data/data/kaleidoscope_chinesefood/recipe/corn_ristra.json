@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "tag": "c:crops/corn" },
+    { "tag": "c:crops/corn" },
+    { "tag": "c:crops/corn" },
+    { "tag": "c:crops/corn" },
+    { "tag": "c:crops/corn" },
+    { "tag": "c:crops/corn" }
+  ],
+  "result": {
+    "id": "kaleidoscope_chinesefood:corn_ristra",
+    "count": 1
+  }
+}

@@ -1,8 +1,13 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: supplementaries:causes_lightning_when_held
-# Entries: 1
+# Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.1545725+08:00
+# Generated: 2026-11-05T11:35:57.4894806+08:00
 
+minecraft:exposed_lightning_rod
 minecraft:lightning_rod
+minecraft:waxed_exposed_lightning_rod
+minecraft:waxed_lightning_rod
+minecraft:waxed_weathered_lightning_rod
+minecraft:weathered_lightning_rod

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "trailandtales_delight:bamboo_basket"
+    },
+    {
+      "item": "minecraft:cherry_leaves"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:bamboo_basket_with_cherry_blossom"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "display_item": {
+    "components": {
+      "someassemblyrequired:spread_color": "#AD513C"
+    },
+    "count": 1,
+    "id": "someassemblyrequired:spread"
+  },
+  "food": {
+    "nutrition": 6,
+    "saturation": 3.6000001,
+    "using_converts_to": {
+      "id": "minecraft:bucket"
+    }
+  },
+  "full_name": {
+    "translate": "someassemblyrequired.ingredient.create.chocolate_bucket"
+  },
+  "item": "create:chocolate_bucket",
+  "sound": "someassemblyrequired:block.sandwich.add_item.moist"
+}

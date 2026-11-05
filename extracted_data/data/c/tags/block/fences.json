@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "alloyed:steel_mesh_fence",
+    "copycats:copycat_fence",
+    "create_connected:copycat_fence",
+    "create_connected:wrapped_copycat_fence",
+    "farmersdelight:rope_fence"
+  ]
+}

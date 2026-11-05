@@ -1,0 +1,27 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:transport_item_destination_blocks
+# Entries: 20
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:45.3665111+08:00
+
+lootr:lootr_chest
+lootr:lootr_inventory
+lootr:lootr_trapped_chest
+minecraft:chest
+minecraft:copper_chest
+minecraft:ender_chest
+minecraft:exposed_copper_chest
+minecraft:oxidized_copper_chest
+minecraft:trapped_chest
+minecraft:waxed_copper_chest
+minecraft:waxed_exposed_copper_chest
+minecraft:waxed_oxidized_copper_chest
+minecraft:waxed_weathered_copper_chest
+minecraft:weathered_copper_chest
+sophisticatedstorage:chest
+sophisticatedstorage:copper_chest
+sophisticatedstorage:diamond_chest
+sophisticatedstorage:gold_chest
+sophisticatedstorage:iron_chest
+sophisticatedstorage:netherite_chest

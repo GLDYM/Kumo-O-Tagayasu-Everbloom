@@ -3,7 +3,7 @@
 # Tag: dramaticdoors:categories/short_supplementaries_doors
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.4039894+08:00
+# Generated: 2026-11-05T11:35:52.2481291+08:00
 
 dramaticdoors:short_gold_door
 dramaticdoors:short_netherite_door

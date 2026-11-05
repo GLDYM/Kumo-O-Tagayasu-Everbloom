@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "corn_delight:corn_crop",
+    "delighto_flight:lotus_rhizome",
+    "delighto_flight:lotus_bud",
+    "delighto_flight:lotus_flower",
+    "farmersdelight:budding_tomatoes",
+    "farmersdelight:tomatoes",
+    "farmersdelight:tomatoes_on_rope",
+    "farmersdelight:rice",
+    "farmersdelight:rice_panicles",
+    "kaleidoscope_cookery:tomato_crop",
+    "kaleidoscope_cookery:rice_crop",
+    "kaleidoscope_cookery:chili_crop",
+    "kaleidoscope_cookery:tea_tree",
+    "kaleidoscope_tavern:grapevine_trellis",
+    "kaleidoscope_tavern:gold_grapevine_trellis",
+    "kaleidoscope_tavern:grape_crop",
+    "kaleidoscope_tavern:gold_grape_crop",
+    "pineapple_delight:pineapple_crop",
+    {
+      "id": "supplementaries:rope_tomatoes",
+      "required": false
+    },
+    {
+      "id": "supplementaries:stick_tomatoes",
+      "required": false
+    },
+    "vintagedelight:ghost_pepper_crop",
+    "vintagedelight:cucumber_crop"
+  ]
+}

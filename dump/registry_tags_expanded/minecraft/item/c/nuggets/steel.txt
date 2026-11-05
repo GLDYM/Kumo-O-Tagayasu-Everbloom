@@ -1,8 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:nuggets/steel
-# Entries: 1
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.3265454+08:00
+# Generated: 2026-11-05T11:35:50.147493+08:00
 
+alloyed:steel_nugget
 createnuclear:steel_nugget

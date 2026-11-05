@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:sugar",
+    {
+      "id": "#forge:sugar",
+      "required": false
+    },
+    "tsuki:mirin_kasu",
+    "tsuki:maple_syrup",
+    "#c:sugar/sugar"
+  ]
+}

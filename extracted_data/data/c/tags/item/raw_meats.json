@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:beef",
+    "minecraft:porkchop",
+    "minecraft:chicken",
+    "minecraft:mutton",
+    "minecraft:rabbit",
+    {
+      "id": "farmersdelight:minced_beef",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:chicken_cuts",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:bacon",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:mutton_chops",
+      "required": false
+    },
+    "immortalers_delight:raw_sniffer_steak",
+    "immortalers_delight:raw_sniffer_slice",
+    "#c:foods/raw_meat",
+    {
+      "id": "#forge:raw_meats",
+      "required": false
+    },
+    {
+      "id": "#forge:raw_meat",
+      "required": false
+    },
+    "kaleidoscope_cookery:raw_cut_small_meats",
+    "kaleidoscope_nether:ham",
+    "kaleidoscope_nether:ham_slice",
+    "kaleidoscope_nether:raw_piglin_meat",
+    "kaleidoscope_nether:raw_strider_meat",
+    "#c:foods/raw_beef",
+    "#c:foods/raw_chicken",
+    "#c:foods/raw_pork",
+    "#c:foods/raw_mutton",
+    "#c:foods/raw_cod",
+    "#c:foods/raw_salmon",
+    "#c:foods/tropical_fish"
+  ]
+}

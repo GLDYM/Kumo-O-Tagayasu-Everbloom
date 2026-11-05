@@ -1,11 +1,11 @@
 # Raw resource rule dump summary
 # Mod ID: registry_dumper_3000
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:52.5655406+08:00
+# Generated: 2026-11-05T11:36:12.2491283+08:00
 
 # Rule name: Jukebox song
 # Side: data/server
 # Source prefix: jukebox_song
-# Files written: 42
+# Files written: 32
 # Stack files written (optional): 0
 # Path collisions observed: 0

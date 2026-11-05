@@ -1,21 +1,22 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: fluidlogistics:mechanical_fluid_gun_targets
-# Entries: 14
+# Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.2418115+08:00
+# Generated: 2026-11-05T11:35:43.7925715+08:00
 
 create:basin
 create:belt
 create:blaze_burner
 create:depot
 create:item_drain
-create_dragons_plus:fluid_hatch
 create_enchantment_industry:blaze_enchanter
 create_enchantment_industry:blaze_forger
 fluidlogistics:copper_basin
+fluidlogistics:copper_basket
 fluidlogistics:fluid_hatch
-fluidlogistics:multi_fluid_access_port
 fluidlogistics:smart_hopper
+fluidlogistics:snow_golem_freezer
 kaleidoscope_tavern:pressing_tub
 minecraft:cauldron
+minecraft:water_cauldron

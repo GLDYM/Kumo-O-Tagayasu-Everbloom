@@ -3,7 +3,7 @@
 # Tag: supplementaries:buntings
 # Entries: 32
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.2245169+08:00
+# Generated: 2026-11-05T11:35:45.9032901+08:00
 
 supplementaries:bunting_black
 supplementaries:bunting_blue

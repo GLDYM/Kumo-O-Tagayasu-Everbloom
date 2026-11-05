@@ -3,7 +3,7 @@
 # Tag: createdeco:catwalk_stairs
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.1035129+08:00
+# Generated: 2026-11-05T11:35:43.5212463+08:00
 
 createdeco:andesite_catwalk_stairs
 createdeco:brass_catwalk_stairs

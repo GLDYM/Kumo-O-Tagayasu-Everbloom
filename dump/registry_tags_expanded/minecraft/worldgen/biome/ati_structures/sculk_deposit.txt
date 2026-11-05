@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: ati_structures:sculk_deposit
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.4276215+08:00
+
+minecraft:deep_dark
+minecraft:frozen_peaks
+minecraft:jagged_peaks
+minecraft:snowy_slopes

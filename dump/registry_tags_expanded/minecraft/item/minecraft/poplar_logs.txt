@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:poplar_logs
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:54.3887687+08:00
+
+minecraft:poplar_log
+minecraft:poplar_wood
+minecraft:stripped_poplar_log
+minecraft:stripped_poplar_wood

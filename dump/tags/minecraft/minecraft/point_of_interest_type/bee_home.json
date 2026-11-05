@@ -1,5 +1,6 @@
 {
   "values": [
-    "blueprint:beehive"
+    "minecraft:beehive",
+    "minecraft:bee_nest"
   ]
 }

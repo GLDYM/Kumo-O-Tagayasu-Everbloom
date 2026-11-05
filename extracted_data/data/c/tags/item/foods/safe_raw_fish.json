@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "create_bic_bit:raw_herring",
+    "#c:foods/raw_fish"
+  ],
+  "remove": [
+    "minecraft:pufferfish"
+  ]
+}

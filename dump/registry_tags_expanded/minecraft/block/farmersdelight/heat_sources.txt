@@ -1,17 +1,16 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: farmersdelight:heat_sources
-# Entries: 30
+# Entries: 29
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.2171942+08:00
+# Generated: 2026-11-05T11:35:43.7395867+08:00
 
-brewinandchewin:fiery_fondue_pot
-brewinandchewin:heating_cask
 create:blaze_burner
 create:lit_blaze_burner
 createnuclear:enriching_campfire
 createnuclear:enriching_fire
 ends_delight:end_stove
+farmers_spell:cinderous_stove
 farmersdelight:stove
 immortalers_delight:ancient_stove
 immortalers_delight:exposed_ancient_stove

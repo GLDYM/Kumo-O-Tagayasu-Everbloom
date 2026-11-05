@@ -1,18 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:enchantment
 # Tag: minecraft:on_mob_spawn_equipment
-# Entries: 53
+# Entries: 50
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.5620843+08:00
+# Generated: 2026-11-05T11:35:46.7325586+08:00
 
 create:capacity
 create:potato_recovery
-create_sa:above_the_clouds
-create_sa:chunk_eater
-create_sa:digging
-create_sa:gravity_gun
-create_sa:hellfire
-create_sa:impact
 farmersdelight:backstabbing
 iss_magicfromtheeast:expanding
 iss_magicfromtheeast:ghostly_cold
@@ -20,6 +14,8 @@ iss_magicfromtheeast:inner_impact
 iss_magicfromtheeast:soul_flame
 iss_magicfromtheeast:spiritual_focus
 iss_magicfromtheeast:wisely_will
+kaleidoscope_cookery:quick_knife
+kaleidoscope_cookery:sweep
 minecraft:aqua_affinity
 minecraft:bane_of_arthropods
 minecraft:blast_protection
@@ -39,6 +35,7 @@ minecraft:knockback
 minecraft:looting
 minecraft:loyalty
 minecraft:luck_of_the_sea
+minecraft:lunge
 minecraft:lure
 minecraft:multishot
 minecraft:piercing

@@ -1,7 +1,6 @@
 {
+  "replace": false,
   "values": [
-    "atmospheric:apostle_armor_trim_smithing_template",
-    "atmospheric:druid_armor_trim_smithing_template",
-    "atmospheric:petrified_armor_trim_smithing_template"
+    "supplementaries:blast_armor_trim_smithing_template"
   ]
 }

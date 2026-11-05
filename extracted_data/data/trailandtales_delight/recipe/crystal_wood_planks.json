@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "trailandtales_delight:crystal_wood_logs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "trailandtales_delight:crystal_wood_planks"
+  }
+}

@@ -1,6 +1,5 @@
 {
-  "remove": [
-    "#atmospheric:is_rainforest"
-  ],
-  "values": []
+  "values": [
+    "#minecraft:is_jungle"
+  ]
 }

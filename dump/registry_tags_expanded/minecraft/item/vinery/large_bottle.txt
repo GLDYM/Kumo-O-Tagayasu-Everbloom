@@ -1,10 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: vinery:large_bottle
-# Entries: 3
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.3265859+08:00
+# Generated: 2026-11-05T11:35:57.9690648+08:00
 
-kaleidoscope_dim_wine:magma_royal_salute
 kaleidoscope_tavern:brandy
 kaleidoscope_tavern:carignan

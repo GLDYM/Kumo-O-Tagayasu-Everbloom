@@ -1,10 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: irons_spellbooks:inscribed_rune
-# Entries: 14
+# Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.8932635+08:00
+# Generated: 2026-11-05T11:35:53.3178017+08:00
 
+farmers_spell:glutton_rune
 irons_spellbooks:arcane_rune
 irons_spellbooks:blood_rune
 irons_spellbooks:cooldown_rune

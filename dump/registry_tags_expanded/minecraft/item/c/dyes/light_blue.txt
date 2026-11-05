@@ -3,6 +3,6 @@
 # Tag: c:dyes/light_blue
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.7807776+08:00
+# Generated: 2026-11-05T11:35:49.0924194+08:00
 
 minecraft:light_blue_dye

@@ -1,9 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:worldgen/structure
-# Tag: quark:oak_chest_structures
-# Entries: 2
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.5337149+08:00
-
-minecraft:stronghold
-minecraft:village_plains

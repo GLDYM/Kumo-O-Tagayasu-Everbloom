@@ -1,20 +1,22 @@
 # Expanded runtime tag dump
 # Registry: minecraft:entity_type
 # Tag: tofucraft:extra_damage_zunda
-# Entries: 22
+# Entries: 25
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.8540436+08:00
+# Generated: 2026-11-05T11:35:47.2222409+08:00
 
 irons_spellbooks:necromancer
 iss_magicfromtheeast:jiangshi
 iss_magicfromtheeast:summoned_jiangshi
 minecraft:bogged
+minecraft:camel_husk
 minecraft:drowned
 minecraft:end_crystal
 minecraft:ender_dragon
 minecraft:enderman
 minecraft:endermite
 minecraft:husk
+minecraft:parched
 minecraft:phantom
 minecraft:shulker
 minecraft:skeleton
@@ -25,5 +27,6 @@ minecraft:wither_skeleton
 minecraft:zoglin
 minecraft:zombie
 minecraft:zombie_horse
+minecraft:zombie_nautilus
 minecraft:zombie_villager
 minecraft:zombified_piglin

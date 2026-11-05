@@ -1,6 +1,7 @@
 {
   "values": [
-    "minecraft:rotten_flesh",
-    "#c:foods/raw_meat"
+    "mynethersdelight:minced_strider",
+    "mynethersdelight:hoglin_loin",
+    "mynethersdelight:hoglin_sausage"
   ]
 }

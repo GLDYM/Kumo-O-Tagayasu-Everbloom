@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "createrailwaysnavigator:navigator",
+    "#irons_spellbooks:add_to_lectern_and_bookshelf",
+    "patchouli:guide_book"
+  ]
+}

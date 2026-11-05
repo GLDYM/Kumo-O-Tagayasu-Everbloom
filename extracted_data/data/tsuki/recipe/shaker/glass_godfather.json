@@ -1,0 +1,22 @@
+{
+  "type": "tsuki:shaker",
+  "experience": 0,
+  "ingredients": [
+    {
+      "item": "tsuki:glass_whiskey"
+    },
+    {
+      "item": "tsuki:glass_liqueur"
+    },
+    {
+      "item": "tsuki:almond"
+    },
+    {
+      "item": "tsuki:ice_cube"
+    }
+  ],
+  "result": {
+    "id": "tsuki:glass_godfather"
+  },
+  "shake_count": 12
+}

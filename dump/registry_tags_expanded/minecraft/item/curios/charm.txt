@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: curios:charm
-# Entries: 19
+# Entries: 20
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.0917557+08:00
+# Generated: 2026-11-05T11:35:51.8398618+08:00
 
 artifacts:charm_of_sinking
 artifacts:chorus_totem
@@ -24,3 +24,4 @@ tsuki:magatama_pink
 tsuki:magatama_purple
 tsuki:magatama_red
 tsuki:magatama_white
+tsuki:yata_no_kagami

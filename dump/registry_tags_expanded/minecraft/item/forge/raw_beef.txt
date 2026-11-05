@@ -1,9 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: forge:raw_beef
-# Entries: 2
+# Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.7380325+08:00
+# Generated: 2026-11-05T11:35:52.9295201+08:00
 
+farmersdelight:minced_beef
 immortalers_delight:raw_sniffer_slice
 immortalers_delight:raw_sniffer_steak
+minecraft:beef

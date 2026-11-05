@@ -1,0 +1,15 @@
+{
+  "values": [
+    "create:capacity",
+    "create:potato_recovery",
+    "#minecraft:non_treasure",
+    "create_ltab:enchantment_luck",
+    "kaleidoscope_cookery:quick_knife",
+    "kaleidoscope_cookery:sweep"
+  ],
+  "replace": false,
+  "remove": [
+    "tsuki:omnitool",
+    "tsuki:fresh_food"
+  ]
+}

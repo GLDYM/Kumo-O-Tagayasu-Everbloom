@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: ati_structures:gnome_hut
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.3284412+08:00
+
+minecraft:bamboo_jungle
+minecraft:dark_forest
+minecraft:jungle
+minecraft:mushroom_fields
+minecraft:old_growth_spruce_taiga
+minecraft:sparse_jungle

@@ -1,0 +1,11 @@
+# Registry dump
+# Registry: vanillabackport:spawn_condition_type
+# Minecraft: 1.21.1
+# Entries: 5
+# Generated: 2026-11-05T11:31:33.1890146+08:00
+
+minecraft:biome raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:moon_brightness raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:raw_biome raw_id=3 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:raw_structure raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+minecraft:structure raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

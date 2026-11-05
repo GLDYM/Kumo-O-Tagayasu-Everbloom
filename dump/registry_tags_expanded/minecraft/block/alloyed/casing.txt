@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: alloyed:casing
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:42.1630404+08:00
+
+alloyed:bronze_casing
+alloyed:steel_casing

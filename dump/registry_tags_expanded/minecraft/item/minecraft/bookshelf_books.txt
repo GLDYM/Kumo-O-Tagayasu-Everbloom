@@ -1,12 +1,14 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:bookshelf_books
-# Entries: 35
+# Entries: 36
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.1398463+08:00
+# Generated: 2026-11-05T11:35:53.8865957+08:00
 
-exposure:album
-exposure:signed_album
+abyss_sonata:sakura_spell_book
+farmers_spell:lasagnowledge
+farmers_spell:tiramisu
+farmers_spell:wheat_book
 irons_spellbooks:archevoker_logbook_translated
 irons_spellbooks:archevoker_logbook_untranslated
 irons_spellbooks:blaze_spell_book
@@ -38,5 +40,4 @@ minecraft:knowledge_book
 minecraft:writable_book
 minecraft:written_book
 patchouli:guide_book
-quark:ancient_tome
 tofucraft:tofu_crafters_book

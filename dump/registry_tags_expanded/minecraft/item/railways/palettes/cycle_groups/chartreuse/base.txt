@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/chartreuse/base
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.0562699+08:00
+
+railways:chartreuse_flat_riveted_locometal
+railways:chartreuse_flat_slashed_locometal
+railways:chartreuse_locometal_pillar
+railways:chartreuse_locometal_smokebox
+railways:chartreuse_locometal_vent
+railways:chartreuse_plated_locometal
+railways:chartreuse_riveted_locometal
+railways:chartreuse_slashed_locometal

@@ -1,10 +1,14 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: irons_spellbooks:add_to_lectern_and_bookshelf
-# Entries: 22
+# Entries: 26
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.8671671+08:00
+# Generated: 2026-11-05T11:35:53.2558787+08:00
 
+abyss_sonata:sakura_spell_book
+farmers_spell:lasagnowledge
+farmers_spell:tiramisu
+farmers_spell:wheat_book
 irons_spellbooks:archevoker_logbook_translated
 irons_spellbooks:archevoker_logbook_untranslated
 irons_spellbooks:blaze_spell_book

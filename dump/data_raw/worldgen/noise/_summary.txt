@@ -1,11 +1,11 @@
 # Raw resource rule dump summary
 # Mod ID: registry_dumper_3000
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:51.5797799+08:00
+# Generated: 2026-11-05T11:36:09.8530635+08:00
 
 # Rule name: Worldgen noise
 # Side: data/server
 # Source prefix: worldgen/noise
-# Files written: 63
+# Files written: 97
 # Stack files written (optional): 0
 # Path collisions observed: 0

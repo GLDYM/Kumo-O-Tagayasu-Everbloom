@@ -1,0 +1,12 @@
+{
+  "values": [
+    "bakeries:bread_knife",
+    "bakeries:eternal_baguette",
+    "bakeries:flour_sieve",
+    "corn_delight:cob_pipe",
+    "supplementaries:wrench",
+    "supplementaries:bubble_blower",
+    "supplementaries:slingshot"
+  ],
+  "replace": false
+}

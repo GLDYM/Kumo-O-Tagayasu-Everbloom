@@ -3,6 +3,6 @@
 # Tag: c:crops/pineapple
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.6645436+08:00
+# Generated: 2026-11-05T11:35:48.8177344+08:00
 
-fruitsdelight:pineapple
+pineapple_delight:pineapple

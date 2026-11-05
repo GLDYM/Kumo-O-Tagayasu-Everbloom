@@ -1,10 +1,13 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:wither_immune
-# Entries: 19
+# Entries: 22
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.0431938+08:00
+# Generated: 2026-11-05T11:35:45.4487866+08:00
 
+createendergateway:abandoned_gateway
+createendergateway:gateway_portal
+createendergateway:mechanical_gateway
 irons_spellbooks:pocket_dimension_portal_frame
 irons_spellbooks:voidstone
 minecraft:barrier

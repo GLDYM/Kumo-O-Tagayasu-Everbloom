@@ -1,11 +1,20 @@
 # Expanded runtime tag dump
 # Registry: minecraft:damage_type
 # Tag: minecraft:panic_causes
-# Entries: 28
+# Entries: 37
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.4905093+08:00
+# Generated: 2026-11-05T11:35:46.4895276+08:00
 
 farmersdelight:stove_burn
+irons_spellbooks:blood_magic
+irons_spellbooks:eldritch_magic
+irons_spellbooks:ender_magic
+irons_spellbooks:evocation_magic
+irons_spellbooks:fire_magic
+irons_spellbooks:holy_magic
+irons_spellbooks:ice_magic
+irons_spellbooks:lightning_magic
+irons_spellbooks:nature_magic
 minecraft:arrow
 minecraft:cactus
 minecraft:dragon_breath

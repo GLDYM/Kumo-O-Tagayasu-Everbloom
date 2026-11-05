@@ -1,0 +1,12 @@
+{
+  "values": [
+    "bakeries:bread_knife",
+    "bakeries:flour_sieve",
+    "create:potato_cannon",
+    "#create:pressurized_air_sources",
+    "supplementaries:wrench",
+    "supplementaries:bubble_blower",
+    "supplementaries:slingshot"
+  ],
+  "replace": false
+}

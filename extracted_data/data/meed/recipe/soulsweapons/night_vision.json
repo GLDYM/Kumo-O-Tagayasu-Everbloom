@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "soulsweapons"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "emiffect"
+      }
+    }
+  ],
+  "type": "jeed:effect_provider",
+  "effect": "minecraft:night_vision",
+  "providers": [
+    {
+      "item": "soulsweapons:soul_robes_helmet"
+    },
+    {
+      "item": "soulsweapons:soul_robes_chestplate"
+    },
+    {
+      "item": "soulsweapons:soul_robes_leggings"
+    },
+    {
+      "item": "soulsweapons:soul_robes_boots"
+    },
+    {
+      "item": "soulsweapons:excalibur"
+    }
+  ]
+}

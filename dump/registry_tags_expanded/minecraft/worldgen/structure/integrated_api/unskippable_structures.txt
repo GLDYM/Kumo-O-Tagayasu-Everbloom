@@ -1,7 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:worldgen/structure
-# Tag: integrated_api:unskippable_structures
-# Entries: 0
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.4509016+08:00
-

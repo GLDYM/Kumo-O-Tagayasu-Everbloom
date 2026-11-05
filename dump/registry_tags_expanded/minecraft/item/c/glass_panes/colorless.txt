@@ -1,11 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:glass_panes/colorless
-# Entries: 6
+# Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.1885903+08:00
+# Generated: 2026-11-05T11:35:49.8337622+08:00
 
-atmospheric:arid_glass_pane
 create:framed_glass_pane
 create:horizontal_framed_glass_pane
 create:tiled_glass_pane

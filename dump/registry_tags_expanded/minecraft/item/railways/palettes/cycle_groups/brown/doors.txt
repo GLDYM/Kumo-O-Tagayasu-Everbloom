@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/brown/doors
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.0215692+08:00
+
+railways:brown_folding_locometal_door
+railways:brown_hinged_locometal_door
+railways:brown_sliding_locometal_door

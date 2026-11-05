@@ -1,0 +1,37 @@
+{
+  "values": [
+    {
+      "id": "kaleidoscope_chinesefood:doll_0",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_chinesefood:doll_1",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_chinesefood:doll_2",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_chinesefood:doll_3",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_chinesefood:doll_4",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_chinesefood:doll_5",
+      "required": false
+    },
+    "kaleidoscope_doll:doll_0",
+    "kaleidoscope_doll:doll_1",
+    "kaleidoscope_doll:doll_67",
+    "kaleidoscope_doll:doll_68",
+    "kaleidoscope_doll:doll_599",
+    "kaleidoscope_doll:doll_601",
+    "kaleidoscope_doll:doll_614",
+    "kaleidoscope_doll:doll_692",
+    "kaleidoscope_doll:doll_708"
+  ]
+}

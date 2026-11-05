@@ -1,10 +1,9 @@
 {
+  "replace": false,
   "values": [
-    "atmospheric:fateful_outing",
-    "atmospheric:monsoon",
-    "atmospheric:not_so_still_life",
-    "atmospheric:wayward",
-    "atmospheric:canyon",
-    "atmospheric:lost"
+    "riichi_mahjong:aka_manbou_1",
+    "riichi_mahjong:aka_manbou_2",
+    "riichi_mahjong:aka_manbou_3",
+    "riichi_mahjong:zundamon_happy"
   ]
 }

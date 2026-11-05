@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "trailandtales_delight:lantern_fruit"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "trailandtales_delight:lantern_fruit_seeds"
+  }
+}

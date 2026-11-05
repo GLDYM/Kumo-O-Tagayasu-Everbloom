@@ -1,16 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: displaydelight:displayable
-# Entries: 106
+# Entries: 100
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.1586111+08:00
+# Generated: 2026-11-05T11:35:51.9525758+08:00
 
-brewinandchewin:cheesy_pasta
-brewinandchewin:creamy_onion_soup
-brewinandchewin:fiery_fondue
-brewinandchewin:horror_lasagna
-brewinandchewin:scarlet_pierogi
-brewinandchewin:vegetable_omelet
 corn_delight:corn_soup
 corn_delight:cornbread_stuffing
 corn_delight:creamed_corn

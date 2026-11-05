@@ -1,0 +1,10 @@
+{
+  "values": {
+    "kaleidoscope_cookery:chef": {
+      "loot_table": "kaleidoscope_cookery:gameplay/hero_of_the_village/chef_gift"
+    },
+    "tofucraft:tofu_craftsman": {
+      "loot_table": "tofucraft:gameplay/hero_of_the_village/tofu_craftsman_gift"
+    }
+  }
+}

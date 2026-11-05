@@ -1,0 +1,15 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "type": "neoforge:tag",
+      "amount": 100,
+      "tag": "createnuclear:uranium"
+    }
+  ],
+  "results": [
+    {
+      "id": "createnuclear:yellowcake"
+    }
+  ]
+}

@@ -1,10 +1,14 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: curios:spellbook
-# Entries: 17
+# Entries: 21
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.1109873+08:00
+# Generated: 2026-11-05T11:35:51.8609293+08:00
 
+abyss_sonata:sakura_spell_book
+farmers_spell:lasagnowledge
+farmers_spell:tiramisu
+farmers_spell:wheat_book
 irons_spellbooks:blaze_spell_book
 irons_spellbooks:copper_spell_book
 irons_spellbooks:cursed_doll_spell_book

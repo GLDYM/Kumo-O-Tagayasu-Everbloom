@@ -1,9 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:worldgen/biome
-# Tag: fruitsdelight:vanilla/swamp
-# Entries: 2
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.7348046+08:00
-
-minecraft:mangrove_swamp
-minecraft:swamp

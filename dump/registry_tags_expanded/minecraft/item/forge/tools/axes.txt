@@ -3,7 +3,7 @@
 # Tag: forge:tools/axes
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.7632309+08:00
+# Generated: 2026-11-05T11:35:53.0141711+08:00
 
 minecraft:diamond_axe
 minecraft:golden_axe

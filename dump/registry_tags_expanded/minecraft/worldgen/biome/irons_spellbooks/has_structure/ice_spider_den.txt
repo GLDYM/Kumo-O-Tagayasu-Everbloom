@@ -3,7 +3,7 @@
 # Tag: irons_spellbooks:has_structure/ice_spider_den
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.1121558+08:00
+# Generated: 2026-11-05T11:35:59.0343905+08:00
 
 minecraft:ice_spikes
 minecraft:snowy_beach

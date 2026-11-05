@@ -3,7 +3,7 @@
 # Tag: handcrafted:table_connectable
 # Entries: 33
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.3718229+08:00
+# Generated: 2026-11-05T11:35:44.0645619+08:00
 
 handcrafted:acacia_desk
 handcrafted:acacia_nightstand

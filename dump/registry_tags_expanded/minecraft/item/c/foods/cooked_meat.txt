@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:foods/cooked_meat
-# Entries: 27
+# Entries: 25
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.8913071+08:00
+# Generated: 2026-11-05T11:35:49.3071789+08:00
 
 farmersdelight:beef_patty
 farmersdelight:cooked_bacon
@@ -25,8 +25,6 @@ minecraft:cooked_rabbit
 minecraft:cooked_salmon
 mynethersdelight:cooked_loin
 mynethersdelight:roasted_sausage
-neapolitan:cooked_mint_chops
-tofudelight:cooked_soymeat
 tsuki:chikuwa
 tsuki:fishcake
 tsuki:kamaboko

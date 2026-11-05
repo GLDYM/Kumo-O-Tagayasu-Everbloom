@@ -1,0 +1,19 @@
+{
+  "type": "tsuki:shaker",
+  "experience": 0,
+  "ingredients": [
+    {
+      "item": "tsuki:glass_gin"
+    },
+    {
+      "item": "tsuki:lime_juice"
+    },
+    {
+      "item": "tsuki:ice_cube"
+    }
+  ],
+  "result": {
+    "id": "tsuki:glass_gimlet"
+  },
+  "shake_count": 12
+}

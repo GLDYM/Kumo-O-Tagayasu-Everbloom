@@ -1,5 +1,8 @@
 {
   "values": [
-    "handcrafted:orange_cushion"
+    "minecraft:orange_wool_stairs",
+    "minecraft:orange_wool_slab",
+    "minecraft:orange_concrete_stairs",
+    "minecraft:orange_concrete_slab"
   ]
 }

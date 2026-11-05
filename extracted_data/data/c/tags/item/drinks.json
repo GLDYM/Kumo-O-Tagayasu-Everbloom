@@ -1,0 +1,14 @@
+{
+  "values": [
+    "crabbersdelight:kelp_shake",
+    "crabbersdelight:sea_pickle_juice",
+    "crabbersdelight:coconut_milk",
+    "create:builders_tea",
+    "create_bic_bit:ketchup_bottle",
+    "create_bic_bit:mayonnaise_bottle",
+    "create_bic_bit:frying_oil_bottle",
+    "#farmersdelight:drinks",
+    "supplementaries:lumisene_bottle"
+  ],
+  "replace": false
+}

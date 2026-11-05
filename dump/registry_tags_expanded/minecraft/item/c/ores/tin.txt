@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:ores/tin
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:50.26782+08:00
+
+simplemetals_tin:deepslate_tin_ore
+simplemetals_tin:tin_ore

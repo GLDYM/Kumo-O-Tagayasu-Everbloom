@@ -1,15 +1,8 @@
 # Expanded runtime tag dump
 # Registry: minecraft:worldgen/biome
 # Tag: minecraft:has_structure/ruined_portal_desert
-# Entries: 8
+# Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.1850659+08:00
+# Generated: 2026-11-05T11:35:59.2566504+08:00
 
-atmospheric:dunes
-atmospheric:flourishing_dunes
-atmospheric:petrified_dunes
-atmospheric:rocky_dunes
-atmospheric:scrubland
-atmospheric:snowy_scrubland
-atmospheric:spiny_thicket
 minecraft:desert

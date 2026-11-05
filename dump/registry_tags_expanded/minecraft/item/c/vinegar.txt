@@ -3,7 +3,7 @@
 # Tag: c:vinegar
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.7670733+08:00
+# Generated: 2026-11-05T11:35:51.1789504+08:00
 
 tsuki:red_vinegar
 tsuki:vinegar

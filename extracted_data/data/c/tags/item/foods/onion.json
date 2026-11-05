@@ -1,0 +1,10 @@
+{
+  "values": [
+    "farmersdelight:onion",
+    {
+      "id": "farmersdelight:onion",
+      "required": false
+    }
+  ],
+  "replace": false
+}

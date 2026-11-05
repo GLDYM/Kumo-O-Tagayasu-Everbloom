@@ -1,5 +1,4 @@
 {
-  "values": [
-    "atmospheric:village_scrubland"
-  ]
+  "replace": false,
+  "values": []
 }

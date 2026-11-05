@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ingots/steel"
+      }
+    }
+  ],
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "createprism:steel_glass_casing"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    }
+  ],
+  "results": [
+    {
+      "id": "createprism:steel_tinted_glass_casing"
+    }
+  ]
+}

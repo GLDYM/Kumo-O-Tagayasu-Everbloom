@@ -1,0 +1,14 @@
+{
+  "values": [
+    "tsuki:food_oil",
+    "tsuki:food_oil_flowing",
+    {
+      "id": "tfc:flowing_olive_oil",
+      "required": false
+    },
+    {
+      "id": "tfc:olive_oil",
+      "required": false
+    }
+  ]
+}

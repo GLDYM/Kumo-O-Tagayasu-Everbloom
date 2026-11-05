@@ -1,9 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:item
-# Tag: c:crops/citrus
-# Entries: 2
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.5914467+08:00
-
-atmospheric:blood_orange
-atmospheric:orange

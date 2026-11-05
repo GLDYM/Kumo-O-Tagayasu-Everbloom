@@ -1,24 +1,31 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:dyed/orange
-# Entries: 20
+# Entries: 27
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.7702446+08:00
+# Generated: 2026-11-05T11:35:49.0403091+08:00
 
 handcrafted:orange_cushion
 handcrafted:orange_sheet
 minecraft:orange_banner
 minecraft:orange_bed
+minecraft:orange_bundle
 minecraft:orange_candle
 minecraft:orange_carpet
 minecraft:orange_concrete
 minecraft:orange_concrete_powder
+minecraft:orange_concrete_slab
+minecraft:orange_concrete_stairs
+minecraft:orange_cushion
 minecraft:orange_glazed_terracotta
+minecraft:orange_harness
 minecraft:orange_shulker_box
 minecraft:orange_stained_glass
 minecraft:orange_stained_glass_pane
 minecraft:orange_terracotta
 minecraft:orange_wool
+minecraft:orange_wool_slab
+minecraft:orange_wool_stairs
 supplementaries:awning_orange
 supplementaries:bunting_orange
 supplementaries:candle_holder_orange

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      {
+        "tag": "c:foods/dough"
+      },
+      {
+        "tag": "c:doughs"
+      }
+    ],
+    {
+      "tag": "c:seeds"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "someassemblyrequired:raw_burger_bun"
+  }
+}

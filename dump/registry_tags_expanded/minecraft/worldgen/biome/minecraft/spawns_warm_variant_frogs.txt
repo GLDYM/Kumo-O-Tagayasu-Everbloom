@@ -1,20 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:worldgen/biome
 # Tag: minecraft:spawns_warm_variant_frogs
-# Entries: 27
+# Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.2524691+08:00
+# Generated: 2026-11-05T11:35:59.5606377+08:00
 
-atmospheric:dunes
-atmospheric:flourishing_dunes
-atmospheric:petrified_dunes
-atmospheric:rainforest
-atmospheric:rainforest_basin
-atmospheric:rocky_dunes
-atmospheric:scrubland
-atmospheric:sparse_rainforest
-atmospheric:sparse_rainforest_basin
-atmospheric:spiny_thicket
 minecraft:badlands
 minecraft:bamboo_jungle
 minecraft:basalt_deltas

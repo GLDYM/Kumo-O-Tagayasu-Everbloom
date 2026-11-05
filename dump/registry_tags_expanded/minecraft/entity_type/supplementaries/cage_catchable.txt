@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:entity_type
 # Tag: supplementaries:cage_catchable
-# Entries: 18
+# Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.8113904+08:00
+# Generated: 2026-11-05T11:35:47.1594701+08:00
 
 minecraft:allay
 minecraft:armadillo
@@ -20,6 +20,3 @@ minecraft:parrot
 minecraft:rabbit
 minecraft:slime
 minecraft:vex
-quark:crab
-quark:foxhound
-quark:stoneling

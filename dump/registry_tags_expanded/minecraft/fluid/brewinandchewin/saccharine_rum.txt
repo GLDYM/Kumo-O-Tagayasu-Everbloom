@@ -1,8 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:fluid
-# Tag: brewinandchewin:saccharine_rum
-# Entries: 1
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.8761317+08:00
-
-brewinandchewin:saccharine_rum

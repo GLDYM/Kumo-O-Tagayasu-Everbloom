@@ -1,0 +1,11 @@
+{
+  "values": [
+    "createnuclear:raw_uranium",
+    "createnuclear:raw_lead",
+    "createnuclear:raw_thorium",
+    {
+      "id": "create:crushed_raw_tin",
+      "required": false
+    }
+  ]
+}

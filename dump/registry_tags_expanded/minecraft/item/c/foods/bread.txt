@@ -1,13 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:foods/bread
-# Entries: 6
+# Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.8443097+08:00
+# Generated: 2026-11-05T11:35:49.2481487+08:00
 
 corn_delight:cornbread
 minecraft:bread
 mynethersdelight:slices_of_bread
 mynethersdelight:toasts
-neapolitan:adzuki_bun
-neapolitan:banana_bread

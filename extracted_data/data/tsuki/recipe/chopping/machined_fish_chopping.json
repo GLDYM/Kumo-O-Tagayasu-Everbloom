@@ -1,0 +1,31 @@
+{
+  "type": "tsuki:chopping",
+  "byproducts": [
+    {
+      "id": "tsuki:machined_fish"
+    },
+    {
+      "chance": 0.5,
+      "id": "minecraft:bone_meal"
+    }
+  ],
+  "experience": 1,
+  "ingredient": [
+    {
+      "item": "minecraft:cod"
+    },
+    {
+      "item": "minecraft:salmon"
+    },
+    {
+      "item": "minecraft:tropical_fish"
+    }
+  ],
+  "recipeTime": 1,
+  "result": {
+    "id": "tsuki:machined_fish"
+  },
+  "tool": {
+    "tag": "tsuki:tools/knives/fish"
+  }
+}

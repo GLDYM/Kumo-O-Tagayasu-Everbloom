@@ -3,7 +3,7 @@
 # Tag: tsuki:soups
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.2961692+08:00
+# Generated: 2026-11-05T11:35:57.9025429+08:00
 
 tsuki:osuimono
 tsuki:soup_miso

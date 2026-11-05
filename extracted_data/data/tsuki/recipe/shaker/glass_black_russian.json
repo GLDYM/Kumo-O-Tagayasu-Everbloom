@@ -1,0 +1,19 @@
+{
+  "type": "tsuki:shaker",
+  "experience": 0,
+  "ingredients": [
+    {
+      "item": "tsuki:glass_vodka"
+    },
+    {
+      "item": "tsuki:glass_cocoa_liqueur"
+    },
+    {
+      "item": "tsuki:ice_cube"
+    }
+  ],
+  "result": {
+    "id": "tsuki:glass_black_russian"
+  },
+  "shake_count": 12
+}

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:fluid
+# Tag: createendergateway:dormant_ender_fluid
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:47.5629529+08:00
+
+createendergateway:dormant_ender_solution
+createendergateway:flowing_dormant_ender_solution

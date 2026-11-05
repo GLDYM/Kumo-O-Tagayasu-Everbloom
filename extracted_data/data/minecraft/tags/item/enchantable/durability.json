@@ -1,0 +1,53 @@
+{
+  "values": [
+    "bakeries:bread_knife",
+    "bakeries:eternal_baguette",
+    "bakeries:flour_sieve",
+    "bakeries:baguette",
+    "crabbersdelight:coconut_helmet",
+    "crabbersdelight:crab_claw",
+    "crabbersdelight:pearl_necklace",
+    "crabbersdelight:barbed_lure",
+    "crabbersdelight:double_lure",
+    "crabbersdelight:magnetic_lure",
+    "crabbersdelight:automatic_lure",
+    "crabbersdelight:storm_lure",
+    "create:super_glue",
+    "create:potato_cannon",
+    "create:extendo_grip",
+    "#create:sandpaper",
+    "#farmersdelight:tools/knives",
+    "farmersdelight:skillet",
+    "irons_spellbooks:autoloader_crossbow",
+    "iss_magicfromtheeast:soulpiercer",
+    "iss_magicfromtheeast:repeating_crossbow",
+    "l2complements:reinforced_warp_stone",
+    "l2complements:sonic_shooter",
+    "l2complements:hellfire_wand",
+    "l2complements:winterstorm_wand",
+    "supplementaries:wrench",
+    "supplementaries:slingshot",
+    "tofucraft:zunda_bow",
+    "#tofucraft:fukumame_enchantable",
+    {
+      "id": "touhou_little_maid_spell:star_shadow_staff",
+      "required": false
+    },
+    {
+      "id": "touhou_little_maid_spell:star_shadow_spear",
+      "required": false
+    },
+    "touhou_little_maid:hakurei_gohei",
+    "touhou_little_maid:sanae_gohei",
+    "touhou_little_maid:ultramarine_orb_elixir",
+    "touhou_little_maid:explosion_protect_bauble",
+    "touhou_little_maid:fire_protect_bauble",
+    "touhou_little_maid:projectile_protect_bauble",
+    "touhou_little_maid:magic_protect_bauble",
+    "touhou_little_maid:fall_protect_bauble",
+    "touhou_little_maid:drown_protect_bauble",
+    "touhou_little_maid:nimble_fabric",
+    "#minecraft:spears"
+  ],
+  "replace": false
+}

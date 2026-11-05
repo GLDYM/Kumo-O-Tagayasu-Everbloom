@@ -1,14 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:sandstone/uncolored_blocks
-# Entries: 8
+# Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.4625005+08:00
+# Generated: 2026-11-05T11:35:50.6049328+08:00
 
-atmospheric:arid_sandstone
-atmospheric:chiseled_arid_sandstone
-atmospheric:cut_arid_sandstone
-atmospheric:smooth_arid_sandstone
 minecraft:chiseled_sandstone
 minecraft:cut_sandstone
 minecraft:sandstone

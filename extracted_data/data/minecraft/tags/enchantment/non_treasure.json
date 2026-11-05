@@ -1,0 +1,20 @@
+{
+  "values": [
+    "create:capacity",
+    "create:potato_recovery",
+    "farmersdelight:backstabbing",
+    "iss_magicfromtheeast:spiritual_focus",
+    "iss_magicfromtheeast:wisely_will",
+    "iss_magicfromtheeast:soul_flame",
+    "iss_magicfromtheeast:ghostly_cold",
+    "iss_magicfromtheeast:inner_impact",
+    "iss_magicfromtheeast:expanding",
+    "kaleidoscope_cookery:quick_knife",
+    "kaleidoscope_cookery:sweep",
+    "tofucraft:shaped_bean",
+    "touhou_little_maid:impeding",
+    "touhou_little_maid:speedy",
+    "minecraft:lunge"
+  ],
+  "replace": false
+}

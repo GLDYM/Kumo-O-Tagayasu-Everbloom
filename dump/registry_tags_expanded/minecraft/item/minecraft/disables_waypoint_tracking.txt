@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:disables_waypoint_tracking
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:54.0627901+08:00
+
+minecraft:carved_pumpkin
+minecraft:creeper_head
+minecraft:dragon_head
+minecraft:piglin_head
+minecraft:player_head
+minecraft:skeleton_skull
+minecraft:wither_skeleton_skull
+minecraft:zombie_head
+supplementaries:enderman_head
+supplementaries:spider_head

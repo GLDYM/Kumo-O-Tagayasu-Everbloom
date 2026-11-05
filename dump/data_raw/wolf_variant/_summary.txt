@@ -1,11 +1,11 @@
 # Raw resource rule dump summary
 # Mod ID: registry_dumper_3000
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:52.701506+08:00
+# Generated: 2026-11-05T11:36:12.5388969+08:00
 
 # Rule name: Wolf variant (optional/version-dependent)
 # Side: data/server
 # Source prefix: wolf_variant
-# Files written: 14
+# Files written: 9
 # Stack files written (optional): 0
 # Path collisions observed: 0

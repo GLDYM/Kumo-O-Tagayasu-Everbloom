@@ -1,21 +1,22 @@
 # Expanded runtime tag dump
 # Registry: minecraft:entity_type
 # Tag: minecraft:sensitive_to_impaling
-# Entries: 14
+# Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.779385+08:00
+# Generated: 2026-11-05T11:35:47.1131234+08:00
 
-atmospheric:tetra
 minecraft:axolotl
 minecraft:cod
 minecraft:dolphin
 minecraft:elder_guardian
 minecraft:glow_squid
 minecraft:guardian
+minecraft:nautilus
 minecraft:pufferfish
 minecraft:salmon
 minecraft:squid
 minecraft:tadpole
 minecraft:tropical_fish
 minecraft:turtle
+minecraft:zombie_nautilus
 tofucraft:tofufish

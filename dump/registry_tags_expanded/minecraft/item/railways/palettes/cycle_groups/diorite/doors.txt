@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/diorite/doors
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.1387504+08:00
+
+railways:diorite_folding_locometal_door
+railways:diorite_hinged_locometal_door
+railways:diorite_sliding_locometal_door

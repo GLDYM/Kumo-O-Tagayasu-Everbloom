@@ -1,11 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:worldgen/biome
 # Tag: minecraft:has_structure/pillager_outpost
-# Entries: 13
+# Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.1850659+08:00
+# Generated: 2026-11-05T11:35:59.2542449+08:00
 
-atmospheric:scrubland
 minecraft:cherry_grove
 minecraft:desert
 minecraft:frozen_peaks

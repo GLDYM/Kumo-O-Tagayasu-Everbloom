@@ -1,0 +1,20 @@
+{
+  "values": [
+    "handcrafted:yellow_cushion",
+    "handcrafted:yellow_sheet",
+    "supplementaries:flag_yellow",
+    "supplementaries:present_yellow",
+    "supplementaries:trapped_present_yellow",
+    "supplementaries:candle_holder_yellow",
+    "supplementaries:awning_yellow",
+    "supplementaries:bunting_yellow",
+    "minecraft:yellow_wool_stairs",
+    "minecraft:yellow_wool_slab",
+    "minecraft:yellow_concrete_stairs",
+    "minecraft:yellow_concrete_slab",
+    "minecraft:yellow_bundle",
+    "minecraft:yellow_harness",
+    "minecraft:yellow_cushion"
+  ],
+  "replace": false
+}

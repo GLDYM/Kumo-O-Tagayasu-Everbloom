@@ -1,15 +1,16 @@
 # Registry dump
 # Registry: minecraft:worldgen/flat_level_generator_preset
 # Minecraft: 1.21.1
-# Entries: 9
-# Generated: 2026-06-18T20:43:28.5542123+08:00
+# Entries: 10
+# Generated: 2026-11-05T11:35:22.8035699+08:00
 
 minecraft:bottomless_pit raw_id=0 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
 minecraft:classic_flat raw_id=1 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
-minecraft:desert raw_id=2 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
-minecraft:overworld raw_id=3 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
-minecraft:redstone_ready raw_id=4 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
-minecraft:snowy_kingdom raw_id=5 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
-minecraft:the_void raw_id=6 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
-minecraft:tunnelers_dream raw_id=7 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
-minecraft:water_world raw_id=8 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
+minecraft:create raw_id=2 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
+minecraft:desert raw_id=3 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
+minecraft:overworld raw_id=4 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
+minecraft:redstone_ready raw_id=5 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
+minecraft:snowy_kingdom raw_id=6 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
+minecraft:the_void raw_id=7 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
+minecraft:tunnelers_dream raw_id=8 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset
+minecraft:water_world raw_id=9 class=net.minecraft.world.level.levelgen.flat.FlatLevelGeneratorPreset

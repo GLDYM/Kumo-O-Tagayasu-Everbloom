@@ -1,0 +1,18 @@
+{
+  "values": [
+    "farmersdelight:fried_egg",
+    {
+      "id": "farmersdelight:fried_egg",
+      "required": false
+    },
+    "immortalers_delight:fried_sniffer_egg",
+    {
+      "id": "#forge:cooked_eggs",
+      "required": false
+    },
+    "#c:foods/boiled_egg",
+    "mynethersdelight:golden_egg",
+    "mynethersdelight:enchanted_golden_egg"
+  ],
+  "replace": false
+}

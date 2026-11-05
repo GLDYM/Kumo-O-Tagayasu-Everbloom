@@ -1,11 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: displaydelight:plate_displayable
-# Entries: 42
+# Entries: 41
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.1596127+08:00
+# Generated: 2026-11-05T11:35:51.9556074+08:00
 
-brewinandchewin:ham_and_cheese_sandwich
 corn_delight:classic_corn_dog
 corn_delight:grilled_corn
 corn_delight:taco

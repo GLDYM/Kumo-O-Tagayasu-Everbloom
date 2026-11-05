@@ -1,14 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:glass_blocks/colorless
-# Entries: 7
+# Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.1855872+08:00
+# Generated: 2026-11-05T11:35:49.8143975+08:00
 
-atmospheric:arid_glass
 create:framed_glass
 create:horizontal_framed_glass
 create:tiled_glass
 create:vertical_framed_glass
 minecraft:glass
-quark:framed_glass

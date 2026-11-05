@@ -1,0 +1,13 @@
+{
+  "display_item": {
+    "components": {
+      "minecraft:custom_model_data": 10
+    },
+    "count": 1,
+    "id": "someassemblyrequired:spread"
+  },
+  "display_name": {
+    "translate": "someassemblyrequired.ingredient.sliced_onion"
+  },
+  "item": "someassemblyrequired:sliced_onion"
+}

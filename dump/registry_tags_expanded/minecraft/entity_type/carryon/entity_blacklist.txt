@@ -3,7 +3,7 @@
 # Tag: carryon:entity_blacklist
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.6439285+08:00
+# Generated: 2026-11-05T11:35:46.8424272+08:00
 
 touhou_little_maid:broom
 touhou_little_maid:sit

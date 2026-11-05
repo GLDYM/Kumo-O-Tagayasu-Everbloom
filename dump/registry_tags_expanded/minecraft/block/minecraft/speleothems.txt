@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:speleothems
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:45.2952661+08:00
+
+minecraft:pointed_dripstone
+minecraft:sulfur_spike

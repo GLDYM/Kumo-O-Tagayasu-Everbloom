@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:transport_item_source_blocks
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:45.372555+08:00
+
+minecraft:copper_chest
+minecraft:exposed_copper_chest
+minecraft:oxidized_copper_chest
+minecraft:waxed_copper_chest
+minecraft:waxed_exposed_copper_chest
+minecraft:waxed_oxidized_copper_chest
+minecraft:waxed_weathered_copper_chest
+minecraft:weathered_copper_chest

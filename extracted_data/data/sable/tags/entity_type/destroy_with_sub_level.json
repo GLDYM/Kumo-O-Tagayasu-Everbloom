@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "interiors:big_seat",
+      "required": false
+    },
+    "kaleidoscope_cookery:sit"
+  ]
+}

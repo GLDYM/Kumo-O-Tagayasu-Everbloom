@@ -1,16 +1,18 @@
 # Expanded runtime tag dump
 # Registry: minecraft:entity_type
 # Tag: minecraft:sensitive_to_smite
-# Entries: 17
+# Entries: 20
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.7803865+08:00
+# Generated: 2026-11-05T11:35:47.1152229+08:00
 
 irons_spellbooks:necromancer
 iss_magicfromtheeast:jiangshi
 iss_magicfromtheeast:summoned_jiangshi
 minecraft:bogged
+minecraft:camel_husk
 minecraft:drowned
 minecraft:husk
+minecraft:parched
 minecraft:phantom
 minecraft:skeleton
 minecraft:skeleton_horse
@@ -20,5 +22,6 @@ minecraft:wither_skeleton
 minecraft:zoglin
 minecraft:zombie
 minecraft:zombie_horse
+minecraft:zombie_nautilus
 minecraft:zombie_villager
 minecraft:zombified_piglin

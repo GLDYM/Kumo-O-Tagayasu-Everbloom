@@ -1,11 +1,11 @@
 # Raw resource rule dump summary
 # Mod ID: registry_dumper_3000
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:52.3075799+08:00
+# Generated: 2026-11-05T11:36:11.5974838+08:00
 
 # Rule name: Trim pattern
 # Side: data/server
 # Source prefix: trim_pattern
-# Files written: 23
+# Files written: 19
 # Stack files written (optional): 0
 # Path collisions observed: 0

@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_end:enchantable/ranged_weapon
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.5710594+08:00
+
+create:potato_cannon
+irons_spellbooks:autoloader_crossbow
+iss_magicfromtheeast:repeating_crossbow
+minecraft:bow
+minecraft:crossbow
+tofucraft:zunda_bow
+touhou_little_maid:hakurei_gohei
+touhou_little_maid:sanae_gohei

@@ -1,33 +1,16 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:piglin_loved
-# Entries: 76
+# Entries: 51
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.2556583+08:00
+# Generated: 2026-11-05T11:35:54.376534+08:00
 
 artifacts:antidote_vessel
 artifacts:cross_necklace
 artifacts:golden_hook
 artifacts:universal_attractor
-atmospheric:golden_dragon_fruit
-atmospheric:golden_dragon_fruit_crate
-atmospheric:shimmering_passion_fruit
-atmospheric:shimmering_passion_fruit_crate
 create:crushed_raw_gold
 create:golden_sheet
-create_sa:brass_axe
-create_sa:brass_boots
-create_sa:brass_chestplate
-create_sa:brass_exoskeleton_chestplate
-create_sa:brass_helmet
-create_sa:brass_hoe
-create_sa:brass_jetpack_chestplate
-create_sa:brass_leggings
-create_sa:brass_pickaxe
-create_sa:brass_shovel
-create_sa:brass_sword
-create_sa:incomplete_steam_engine
-create_sa:steam_engine
 farmersdelight:golden_knife
 immortalers_delight:enchanted_golden_himekaido
 immortalers_delight:golden_himekaido
@@ -61,14 +44,6 @@ minecraft:raw_gold_block
 mynethersdelight:enchanted_golden_egg
 mynethersdelight:golden_egg
 mynethersdelight:golden_trophy
-quark:gold_bars
-quark:gold_button
-quark:golden_apple_crate
-quark:golden_carrot_crate
-quark:raw_gold_bricks
-quark:raw_gold_bricks_slab
-quark:raw_gold_bricks_stairs
-quark:raw_gold_bricks_vertical_slab
 someassemblyrequired:chopped_golden_carrot
 someassemblyrequired:enchanted_golden_apple_slices
 someassemblyrequired:golden_apple_slices

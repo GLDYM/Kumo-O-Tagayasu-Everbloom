@@ -1,0 +1,6 @@
+{
+  "amountConsumedPerTick": 1,
+  "burnTime": 24,
+  "fluid": "tsuki:shouchu",
+  "superHeat": true
+}

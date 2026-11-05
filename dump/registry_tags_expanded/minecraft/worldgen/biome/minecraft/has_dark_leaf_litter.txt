@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:has_dark_leaf_litter
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:59.1140433+08:00
+
+minecraft:dark_forest
+minecraft:mangrove_swamp
+minecraft:swamp

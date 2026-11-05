@@ -1,10 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: create:plough_blacklist
-# Entries: 4
+# Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.0125065+08:00
+# Generated: 2026-11-05T11:35:43.3397384+08:00
 
+createendergateway:gateway_portal
 minecraft:end_gateway
 minecraft:end_portal
 minecraft:nether_portal

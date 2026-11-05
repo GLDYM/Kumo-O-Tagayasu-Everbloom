@@ -3,7 +3,7 @@
 # Tag: minecraft:cat_food
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.1463938+08:00
+# Generated: 2026-11-05T11:35:53.9162603+08:00
 
 farmersdelight:cod_slice
 farmersdelight:salmon_slice

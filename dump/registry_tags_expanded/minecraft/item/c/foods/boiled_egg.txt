@@ -3,6 +3,6 @@
 # Tag: c:foods/boiled_egg
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.8432987+08:00
+# Generated: 2026-11-05T11:35:49.2455562+08:00
 
 mynethersdelight:boiled_egg

@@ -1,0 +1,21 @@
+{
+  "display_item": {
+    "components": {
+      "someassemblyrequired:spread_color": "#EEFDFF"
+    },
+    "count": 1,
+    "id": "someassemblyrequired:spread"
+  },
+  "food": {
+    "nutrition": 0,
+    "saturation": 0.0,
+    "using_converts_to": {
+      "id": "minecraft:bucket"
+    }
+  },
+  "full_name": {
+    "translate": "someassemblyrequired.ingredient.milk_bucket"
+  },
+  "item": "minecraft:milk_bucket",
+  "sound": "someassemblyrequired:block.sandwich.add_item.moist"
+}

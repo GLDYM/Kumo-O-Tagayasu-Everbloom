@@ -1,13 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: create:stone_types/granite
-# Entries: 18
+# Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.904762+08:00
+# Generated: 2026-11-05T11:35:51.4989465+08:00
 
-bits_n_bobs:granite_tile_stairs
-bits_n_bobs:granite_tile_wall
-bits_n_bobs:granite_tiles
 create:cut_granite
 create:cut_granite_brick_stairs
 create:cut_granite_brick_wall

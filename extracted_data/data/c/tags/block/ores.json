@@ -1,0 +1,28 @@
+{
+  "values": [
+    "create:zinc_ore",
+    "create:deepslate_zinc_ore",
+    "createnuclear:deepslate_uranium_ore",
+    "createnuclear:deepslate_lead_ore",
+    "createnuclear:deepslate_thorium_ore",
+    "createnuclear:uranium_ore",
+    "createnuclear:lead_ore",
+    "createnuclear:thorium_ore",
+    "createnuclear:nitrate_ore",
+    "createnuclear:deepslate_nitrate_ore",
+    "expores:experience_ore",
+    "expores:deepslate_experience_ore",
+    "expores:nether_experience_ore",
+    "expores:end_experience_ore",
+    "#c:ores/mithril",
+    "#c:ores/jade",
+    "simplemetals_tin:tin_ore",
+    "simplemetals_tin:deepslate_tin_ore",
+    "tofucraft:ore_tofugem",
+    "tofucraft:ore_tofu_diamond",
+    "tofucraft:tofuslate_tofu_diamond_ore",
+    "#c:ores/iron",
+    "#c:ores/sakura_diamond"
+  ],
+  "replace": false
+}

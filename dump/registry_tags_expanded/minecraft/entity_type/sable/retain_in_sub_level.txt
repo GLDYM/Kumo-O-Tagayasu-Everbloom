@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: sable:retain_in_sub_level
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:47.140935+08:00
+
+another_furniture:seat
+immersive_furniture:sitting
+immersive_paintings:glow_graffiti
+immersive_paintings:glow_painting
+immersive_paintings:graffiti
+immersive_paintings:painting
+interiors:big_seat
+kaleidoscope_cookery:sit
+minecraft:cushion
+supplementaries:hat_stand

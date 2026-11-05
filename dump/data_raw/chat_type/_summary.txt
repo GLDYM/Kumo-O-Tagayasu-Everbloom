@@ -1,7 +1,7 @@
 # Raw resource rule dump summary
 # Mod ID: registry_dumper_3000
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:52.1973335+08:00
+# Generated: 2026-11-05T11:36:11.4155959+08:00
 
 # Rule name: Chat type
 # Side: data/server

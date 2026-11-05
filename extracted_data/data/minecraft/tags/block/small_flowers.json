@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "corn_delight:wild_corn",
+    "farmersdelight:wild_carrots",
+    "farmersdelight:wild_potatoes",
+    "farmersdelight:wild_beetroots",
+    "farmersdelight:wild_cabbages",
+    "farmersdelight:wild_tomatoes",
+    "farmersdelight:wild_onions",
+    "mynethersdelight:bullet_pepper",
+    "supplementaries:wild_flax",
+    "tofucraft:tofu_flower",
+    "touhou_little_maid_spell:scarlet_zhuhua",
+    "touhou_little_maid_spell:yue_linglan",
+    "touhou_little_maid_spell:jingxu_youlan",
+    "minecraft:open_eyeblossom",
+    "minecraft:closed_eyeblossom"
+  ]
+}

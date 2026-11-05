@@ -1,13 +1,7 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: dramaticdoors:categories/tall_abnormals_doors
-# Entries: 6
+# Entries: 0
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.436853+08:00
+# Generated: 2026-11-05T11:35:52.3041575+08:00
 
-dramaticdoors:tall_aspen_door
-dramaticdoors:tall_grimwood_door
-dramaticdoors:tall_kousa_door
-dramaticdoors:tall_morado_door
-dramaticdoors:tall_rosewood_door
-dramaticdoors:tall_yucca_door

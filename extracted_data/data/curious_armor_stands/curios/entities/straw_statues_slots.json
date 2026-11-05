@@ -1,0 +1,10 @@
+{
+  "entities": ["strawstatues:straw_statue"],
+  "slots": ["curio"],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "strawstatues"
+    }
+  ]
+}

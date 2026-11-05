@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "#c:nuggets/bronze",
+    "#c:nuggets/steel",
+    "#cagedmobs:nuggets/star_infused_netherite",
+    "create:copper_nugget",
+    "create:zinc_nugget",
+    "create:brass_nugget",
+    "create:experience_nugget",
+    "create_enchantment_industry:super_experience_nugget",
+    "createdeco:netherite_nugget",
+    "createdeco:industrial_iron_nugget",
+    "createnuclear:steel_nugget",
+    "createnuclear:lead_nugget",
+    "createnuclear:thorium_nugget",
+    "l2complements:totemic_gold_nugget",
+    "l2complements:poseidite_nugget",
+    "l2complements:shulkerate_nugget",
+    "l2complements:sculkium_nugget",
+    "l2complements:eternium_nugget",
+    "simplemetals_tin:tin_nugget",
+    "minecraft:copper_nugget"
+  ]
+}

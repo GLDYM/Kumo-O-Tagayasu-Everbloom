@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:spawns_dry_grass_rarely
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:59.4951476+08:00
+
+minecraft:badlands
+minecraft:eroded_badlands
+minecraft:wooded_badlands

@@ -3,6 +3,6 @@
 # Tag: c:is_snowy_plains
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.5904246+08:00
+# Generated: 2026-11-05T11:35:58.7397722+08:00
 
 minecraft:snowy_plains

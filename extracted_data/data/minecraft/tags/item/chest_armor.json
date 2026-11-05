@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "alloyed:steel_chestplate",
+    "create:copper_backtank",
+    "create:netherite_backtank",
+    "create:cardboard_chestplate",
+    "farmers_spell:gluttony_chef_apron",
+    "#irons_spellbooks:armors/chestplates",
+    "#iss_magicfromtheeast:armors/chestplates",
+    "l2complements:totemic_gold_chestplate",
+    "l2complements:poseidite_chestplate",
+    "l2complements:shulkerate_chestplate",
+    "l2complements:sculkium_chestplate",
+    "l2complements:eternium_chestplate",
+    "majobroom:majo_cloth",
+    "tofucraft:tofu_kinu_chestplate",
+    "tofucraft:tofu_momen_chestplate",
+    "tofucraft:tofu_metal_chestplate",
+    "tofucraft:tofu_diamond_chestplate",
+    "#tsuki:samurai_chestplate",
+    "#tsuki:soldier_chestplate",
+    "minecraft:copper_chestplate"
+  ]
+}

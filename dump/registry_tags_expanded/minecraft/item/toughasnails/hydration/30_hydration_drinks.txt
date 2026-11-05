@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: toughasnails:hydration/30_hydration_drinks
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:57.7222624+08:00
+
+pineapple_delight:pineapple_milk_shake

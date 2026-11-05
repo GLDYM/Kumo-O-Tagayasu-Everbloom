@@ -1,12 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:entity_type
 # Tag: minecraft:arrows
-# Entries: 5
+# Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.7538022+08:00
+# Generated: 2026-11-05T11:35:47.0023949+08:00
 
 minecraft:arrow
 minecraft:spectral_arrow
-neapolitan:bananarrow
 supplementaries:rope_arrow
 tofucraft:zunda_arrow

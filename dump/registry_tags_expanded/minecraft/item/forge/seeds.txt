@@ -1,12 +1,13 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: forge:seeds
-# Entries: 5
+# Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.7556966+08:00
+# Generated: 2026-11-05T11:35:52.9726706+08:00
 
 immortalers_delight:alfalfa_seeds
 immortalers_delight:evolutcorn_grains
 immortalers_delight:himekaido_seed
 immortalers_delight:kwat_wheat_seeds
+immortalers_delight:obsidian_walnut
 immortalers_delight:pearlipearl

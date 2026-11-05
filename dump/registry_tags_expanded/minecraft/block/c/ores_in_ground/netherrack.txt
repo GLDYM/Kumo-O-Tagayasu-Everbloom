@@ -3,7 +3,7 @@
 # Tag: c:ores_in_ground/netherrack
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.7691551+08:00
+# Generated: 2026-11-05T11:35:42.8958513+08:00
 
 minecraft:nether_gold_ore
 minecraft:nether_quartz_ore

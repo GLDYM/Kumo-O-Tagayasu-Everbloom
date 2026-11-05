@@ -3,7 +3,7 @@
 # Tag: minecraft:screaming_goat_horns
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.0643881+08:00
+# Generated: 2026-11-05T11:35:47.6533832+08:00
 
 minecraft:admire_goat_horn
 minecraft:call_goat_horn

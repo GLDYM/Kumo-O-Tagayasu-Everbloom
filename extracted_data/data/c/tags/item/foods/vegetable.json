@@ -1,0 +1,35 @@
+{
+  "values": [
+    "corn_delight:corn",
+    "farmersdelight:onion",
+    "farmersdelight:tomato",
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:beetroot",
+    "minecraft:sweet_berries",
+    {
+      "id": "farmersdelight:cabbage",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cabbage_leaf",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:tomato",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:onion",
+      "required": false
+    },
+    {
+      "id": "#forge:vegetables",
+      "required": false
+    },
+    "vintagedelight:cucumber",
+    "vintagedelight:ghost_pepper",
+    "vintagedelight:peanut"
+  ],
+  "replace": false
+}

@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "createimp:feature_enabled",
+      "feature": "template_system"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    " C ",
+    " E "
+  ],
+  "key": {
+    "S": {
+      "item": "create:stock_link"
+    },
+    "C": {
+      "item": "create:railway_casing"
+    },
+    "E": {
+      "item": "create:electron_tube"
+    }
+  },
+  "result": {
+    "id": "createimp:process_manager",
+    "count": 1
+  }
+}

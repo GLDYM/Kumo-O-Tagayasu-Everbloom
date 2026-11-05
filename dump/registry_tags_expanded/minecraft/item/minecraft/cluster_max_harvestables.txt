@@ -1,15 +1,14 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:cluster_max_harvestables
-# Entries: 8
+# Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.1513815+08:00
+# Generated: 2026-11-05T11:35:53.9494838+08:00
 
+minecraft:copper_pickaxe
 minecraft:diamond_pickaxe
 minecraft:golden_pickaxe
 minecraft:iron_pickaxe
 minecraft:netherite_pickaxe
 minecraft:stone_pickaxe
 minecraft:wooden_pickaxe
-quark:flamerang
-quark:pickarang

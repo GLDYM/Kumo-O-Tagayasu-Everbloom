@@ -3,7 +3,7 @@
 # Tag: touhou_little_maid:maid_eat_blocklist_item
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.2221308+08:00
+# Generated: 2026-11-05T11:35:57.7444279+08:00
 
 kaleidoscope_cookery:green_chili
 kaleidoscope_cookery:red_chili

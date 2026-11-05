@@ -1,8 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:worldgen/biome
-# Tag: integrated_api:collections/stony_shores
-# Entries: 1
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.9960507+08:00
-
-minecraft:stony_shore

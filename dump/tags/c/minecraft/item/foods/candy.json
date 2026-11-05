@@ -1,8 +1,6 @@
 {
+  "replace": false,
   "values": [
-    "neapolitan:chocolate_bar",
-    "neapolitan:mint_chocolate",
-    "neapolitan:mint_candies",
-    "neapolitan:strawberry_bean_bonbons"
+    "supplementaries:candy"
   ]
 }

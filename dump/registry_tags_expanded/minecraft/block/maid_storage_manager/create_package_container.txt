@@ -3,7 +3,7 @@
 # Tag: maid_storage_manager:create_package_container
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.5483857+08:00
+# Generated: 2026-11-05T11:35:44.434177+08:00
 
 create:basin
 create:belt

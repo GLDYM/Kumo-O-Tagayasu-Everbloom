@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "soulsweapons"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "emiffect"
+      }
+    }
+  ],
+  "type": "jeed:effect_provider",
+  "effect": "soulsweapons:chungus_tonic_effect",
+  "providers": [
+    {
+      "item": "soulsweapons:chungus_staff"
+    },
+    {
+      "item": "soulsweapons:withered_wabbajack"
+    }
+  ]
+}

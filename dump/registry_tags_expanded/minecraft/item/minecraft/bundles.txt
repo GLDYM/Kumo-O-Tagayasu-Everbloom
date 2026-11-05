@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:bundles
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.8931268+08:00
+
+minecraft:black_bundle
+minecraft:blue_bundle
+minecraft:brown_bundle
+minecraft:bundle
+minecraft:cyan_bundle
+minecraft:gray_bundle
+minecraft:green_bundle
+minecraft:light_blue_bundle
+minecraft:light_gray_bundle
+minecraft:lime_bundle
+minecraft:magenta_bundle
+minecraft:orange_bundle
+minecraft:pink_bundle
+minecraft:purple_bundle
+minecraft:red_bundle
+minecraft:white_bundle
+minecraft:yellow_bundle

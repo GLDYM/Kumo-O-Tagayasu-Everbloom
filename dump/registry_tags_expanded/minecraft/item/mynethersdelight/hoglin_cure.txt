@@ -3,6 +3,6 @@
 # Tag: mynethersdelight:hoglin_cure
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.4259954+08:00
+# Generated: 2026-11-05T11:35:54.6920077+08:00
 
 minecraft:ghast_tear

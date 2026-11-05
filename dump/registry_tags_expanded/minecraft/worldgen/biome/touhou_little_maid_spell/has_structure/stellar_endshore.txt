@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: touhou_little_maid_spell:has_structure/stellar_endshore
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:59.7120104+08:00
+
+minecraft:end_barrens
+minecraft:small_end_islands

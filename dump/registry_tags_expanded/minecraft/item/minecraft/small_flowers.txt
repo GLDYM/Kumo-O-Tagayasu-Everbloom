@@ -1,18 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:small_flowers
-# Entries: 33
+# Entries: 30
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.3045867+08:00
+# Generated: 2026-11-05T11:35:54.4297369+08:00
 
-atmospheric:firethorn
-atmospheric:forsythia
-atmospheric:gilia
-atmospheric:hot_monkey_brush
-atmospheric:scalding_monkey_brush
-atmospheric:warm_monkey_brush
-atmospheric:water_hyacinth
-atmospheric:yucca_flower
 farmersdelight:wild_beetroots
 farmersdelight:wild_cabbages
 farmersdelight:wild_carrots
@@ -22,9 +14,11 @@ farmersdelight:wild_tomatoes
 minecraft:allium
 minecraft:azure_bluet
 minecraft:blue_orchid
+minecraft:closed_eyeblossom
 minecraft:cornflower
 minecraft:dandelion
 minecraft:lily_of_the_valley
+minecraft:open_eyeblossom
 minecraft:orange_tulip
 minecraft:oxeye_daisy
 minecraft:pink_tulip
@@ -34,6 +28,9 @@ minecraft:torchflower
 minecraft:white_tulip
 minecraft:wither_rose
 tofucraft:tofu_flower
+touhou_little_maid_spell:jingxu_youlan
+touhou_little_maid_spell:scarlet_zhuhua
+touhou_little_maid_spell:yue_linglan
 vintagedelight:wild_cucumbers
 vintagedelight:wild_ghost_peppers
 vintagedelight:wild_oats

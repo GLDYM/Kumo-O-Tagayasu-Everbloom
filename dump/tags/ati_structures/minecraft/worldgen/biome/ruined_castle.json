@@ -1,0 +1,60 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:plains",
+        "minecraft:sunflower_plains",
+        "minecraft:taiga",
+        "minecraft:snowy_taiga",
+        "minecraft:old_growth_pine_taiga",
+        "minecraft:old_growth_spruce_taiga",
+        "minecraft:forest",
+        {
+            "id": "terralith:alpine_highlands",
+            "required": false
+        },
+        {
+            "id": "terralith:cold_shrubland",
+            "required": false
+        },
+        {
+            "id": "terralith:shrubland",
+            "required": false
+        },
+        {
+            "id": "terralith:highlands",
+            "required": false
+        },
+        {
+            "id": "terralith:forested_highlands",
+            "required": false
+        },
+        {
+            "id": "terralith:shield",
+            "required": false
+        },
+        {
+            "id": "#c:is_taiga",
+            "required": false
+        },
+        {
+            "id": "#minecraft:is_taiga",
+            "required": false
+        },
+        {
+            "id": "#c:is_plains",
+            "required": false
+        },
+        {
+            "id": "#minecraft:is_plains",
+            "required": false
+        },
+        {
+            "id": "#c:forest",
+            "required": false
+        },
+        {
+            "id": "#c:tree_deciduous",
+            "required": false
+        }
+    ]
+}

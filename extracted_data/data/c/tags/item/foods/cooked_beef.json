@@ -1,0 +1,18 @@
+{
+  "values": [
+    "minecraft:cooked_beef",
+    "farmersdelight:beef_patty",
+    {
+      "id": "farmersdelight:beef_patty",
+      "required": false
+    },
+    "immortalers_delight:cooked_sniffer_steak",
+    "immortalers_delight:cooked_sniffer_slice",
+    {
+      "id": "#forge:cooked_beef",
+      "required": false
+    },
+    "kaleidoscope_cookery:cooked_cow_offal"
+  ],
+  "replace": false
+}

@@ -1,37 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:worldgen/structure
 # Tag: supplementaries:adventure_map_destinations
-# Entries: 53
+# Entries: 26
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.5467559+08:00
+# Generated: 2026-11-05T11:36:00.098413+08:00
 
-atmospheric:village_scrubland
-idas:ancient_mines
-idas:ars_nouveau/archmages_tower
-idas:bazaar
-idas:collectors_museum
-idas:desert_pyramid
-idas:iceandfire/dread_citadel
-idas:labyrinth
-idas:nexus
-idas:pillager_fortress
-idas:ruins_of_the_deep
-idas:tinkers_citadel
-idas:tinkers_workshop
-idas:tree_of_wisdom
-idas:windswept_shrine
-integrated_villages:airship_village
-integrated_villages:cabin_village
-integrated_villages:clockwork_village
-integrated_villages:kutcha_village
-integrated_villages:marketstead_village
-integrated_villages:mediterranean_village
-integrated_villages:mossy_mounds
-integrated_villages:oasis_village
-integrated_villages:pirate_village
-integrated_villages:quark/minka_village
-integrated_villages:sunken_village
-integrated_villages:tavern_village
 minecraft:bastion_remnant
 minecraft:desert_pyramid
 minecraft:end_city

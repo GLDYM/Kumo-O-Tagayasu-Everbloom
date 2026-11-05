@@ -1,19 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:damage_type
 # Tag: minecraft:is_projectile
-# Entries: 18
+# Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.4845044+08:00
+# Generated: 2026-11-05T11:35:46.4699527+08:00
 
-atmospheric:passion_fruit_seed
 iss_magicfromtheeast:spirit_arrow
-l2weaponry:trident-bypass_armor
-l2weaponry:trident-bypass_armor-bypass_magic
-l2weaponry:trident-bypass_armor-bypass_magic-no_anger
-l2weaponry:trident-bypass_armor-no_anger
-l2weaponry:trident-bypass_magic
-l2weaponry:trident-bypass_magic-no_anger
-l2weaponry:trident-no_anger
 minecraft:arrow
 minecraft:fireball
 minecraft:mob_projectile

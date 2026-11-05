@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:spawns_leaf_litter
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:59.5395055+08:00
+
+minecraft:dappled_forest
+minecraft:dark_forest
+minecraft:forest
+minecraft:wooded_badlands

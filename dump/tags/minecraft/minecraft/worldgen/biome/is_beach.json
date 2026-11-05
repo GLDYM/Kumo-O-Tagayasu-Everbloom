@@ -1,6 +1,4 @@
 {
-  "values": [
-    "minecraft:beach",
-    "minecraft:snowy_beach"
-  ]
+  "replace": false,
+  "values": []
 }

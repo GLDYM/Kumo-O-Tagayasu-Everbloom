@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:damage_type
 # Tag: dummmmmmy:is_fire
-# Entries: 11
+# Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.3837481+08:00
+# Generated: 2026-11-05T11:35:46.2916936+08:00
 
 amendments:boiling
 create:fan_fire
@@ -15,4 +15,5 @@ minecraft:hot_floor
 minecraft:in_fire
 minecraft:lava
 minecraft:on_fire
+minecraft:sulfur_cube_hot
 minecraft:unattributed_fireball

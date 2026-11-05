@@ -1,0 +1,7 @@
+# Registry dump
+# Registry: beyonddimensions:net_data_type
+# Minecraft: 1.21.1
+# Entries: 1
+# Generated: 2026-11-05T11:31:32.5868973+08:00
+
+beyonddimensions:energy_history raw_id=0 class=com.wintercogs.beyonddimensions.api.dimensionnet.data.NetDataType

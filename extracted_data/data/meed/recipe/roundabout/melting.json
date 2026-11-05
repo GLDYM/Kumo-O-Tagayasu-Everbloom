@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "roundabout"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "emiffect"
+      }
+    }
+  ],
+  "type": "jeed:effect_provider",
+  "effect": "roundabout:melting",
+  "providers": [
+    {
+      "item": "roundabout:ratt_disc"
+    },
+    {
+      "item": "roundabout:max_ratt_disc"
+    }
+  ]
+}

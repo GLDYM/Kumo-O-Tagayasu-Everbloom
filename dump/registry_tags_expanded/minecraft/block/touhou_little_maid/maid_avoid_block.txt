@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: touhou_little_maid:maid_avoid_block
-# Entries: 18
+# Entries: 19
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.3207427+08:00
+# Generated: 2026-11-05T11:35:46.150971+08:00
 
 create:crushing_wheel
 create:crushing_wheel_controller
@@ -11,6 +11,7 @@ create:mechanical_saw
 farmersdelight:stove
 irons_spellbooks:brazier
 irons_spellbooks:brazier_soul
+kaleidoscope_cookery:eight_immortals_table
 kaleidoscope_cookery:table_acacia
 kaleidoscope_cookery:table_bamboo
 kaleidoscope_cookery:table_birch

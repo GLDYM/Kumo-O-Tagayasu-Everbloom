@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:armors/humanoid
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:47.8972323+08:00
+
+alloyed:steel_boots
+alloyed:steel_chestplate
+alloyed:steel_helmet
+alloyed:steel_leggings

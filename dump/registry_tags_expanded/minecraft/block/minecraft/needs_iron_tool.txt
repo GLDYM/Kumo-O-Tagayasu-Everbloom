@@ -1,22 +1,29 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:needs_iron_tool
-# Entries: 41
+# Entries: 44
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.8976967+08:00
+# Generated: 2026-11-05T11:35:45.0865472+08:00
 
 create:brass_block
 create:deepslate_zinc_ore
 create:raw_zinc_block
 create:zinc_block
 create:zinc_ore
-create_compressed:brass_sheet_block
-create_compressed:gold_sheet_block
-create_compressed:sturdy_sheet_block
+createendergateway:gateway_corner
+createendergateway:mechanical_gateway
 createnuclear:deepslate_lead_ore
+createnuclear:deepslate_nitrate_ore
+createnuclear:deepslate_thorium_ore
 createnuclear:deepslate_uranium_ore
 createnuclear:lead_ore
+createnuclear:nitrate_ore
+createnuclear:thorium_ore
 createnuclear:uranium_ore
+expores:deepslate_experience_ore
+expores:end_experience_ore
+expores:experience_ore
+expores:nether_experience_ore
 immortalers_delight:enchantal_cooler
 immortalers_delight:gelpitaya_crop
 iss_magicfromtheeast:refined_jade_block
@@ -32,10 +39,6 @@ minecraft:gold_block
 minecraft:gold_ore
 minecraft:raw_gold_block
 minecraft:redstone_ore
-quark:raw_gold_bricks
-quark:raw_gold_bricks_slab
-quark:raw_gold_bricks_stairs
-quark:raw_gold_bricks_vertical_slab
 supplementaries:gold_door
 supplementaries:gold_trapdoor
 tofucraft:blocktofudiamond

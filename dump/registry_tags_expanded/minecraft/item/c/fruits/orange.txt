@@ -1,9 +1,7 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:fruits/orange
-# Entries: 2
+# Entries: 0
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.143422+08:00
+# Generated: 2026-11-05T11:35:49.7321895+08:00
 
-atmospheric:blood_orange
-fruitsdelight:orange

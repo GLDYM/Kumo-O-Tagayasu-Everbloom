@@ -1,0 +1,13 @@
+# Registry dump
+# Registry: create_enchantment_industry:printing_behaviour
+# Minecraft: 1.21.1
+# Entries: 7
+# Generated: 2026-11-05T11:31:32.6540405+08:00
+
+create_enchantment_industry:banner_pattern raw_id=6 class=plus.dragons.createenchantmentindustry.common.fluids.printer.behaviour.PrintingBehaviourProvider
+create_enchantment_industry:copy raw_id=2 class=plus.dragons.createenchantmentindustry.common.fluids.printer.behaviour.PrintingBehaviourProvider
+create_enchantment_industry:custom_name raw_id=3 class=plus.dragons.createenchantmentindustry.common.fluids.printer.behaviour.PrintingBehaviourProvider
+create_enchantment_industry:enchanted_book raw_id=4 class=plus.dragons.createenchantmentindustry.common.fluids.printer.behaviour.PrintingBehaviourProvider
+create_enchantment_industry:package_address raw_id=0 class=plus.dragons.createenchantmentindustry.common.fluids.printer.behaviour.PrintingBehaviourProvider
+create_enchantment_industry:package_pattern raw_id=1 class=plus.dragons.createenchantmentindustry.common.fluids.printer.behaviour.PrintingBehaviourProvider
+create_enchantment_industry:written_book raw_id=5 class=plus.dragons.createenchantmentindustry.common.fluids.printer.behaviour.PrintingBehaviourProvider

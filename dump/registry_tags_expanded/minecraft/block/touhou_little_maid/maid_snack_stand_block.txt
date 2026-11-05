@@ -1,10 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: touhou_little_maid:maid_snack_stand_block
-# Entries: 12
+# Entries: 13
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.3217498+08:00
+# Generated: 2026-11-05T11:35:46.1675951+08:00
 
+kaleidoscope_cookery:eight_immortals_table
 kaleidoscope_cookery:table_acacia
 kaleidoscope_cookery:table_bamboo
 kaleidoscope_cookery:table_birch

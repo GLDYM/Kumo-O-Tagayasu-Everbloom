@@ -1,7 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:worldgen/biome
-# Tag: beautify:has_structure/botanist_house_plains_biomes
-# Entries: 0
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.5043405+08:00
-

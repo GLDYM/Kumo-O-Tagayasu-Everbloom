@@ -3,6 +3,6 @@
 # Tag: c:dyes/purple
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.7853005+08:00
+# Generated: 2026-11-05T11:35:49.1130424+08:00
 
 minecraft:purple_dye

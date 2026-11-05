@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/olive_green/base
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.6530679+08:00
+
+railways:olive_green_flat_riveted_locometal
+railways:olive_green_flat_slashed_locometal
+railways:olive_green_locometal_pillar
+railways:olive_green_locometal_smokebox
+railways:olive_green_locometal_vent
+railways:olive_green_plated_locometal
+railways:olive_green_riveted_locometal
+railways:olive_green_slashed_locometal

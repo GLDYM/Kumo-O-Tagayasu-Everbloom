@@ -1,8 +1,9 @@
 {
+  "replace": false,
   "values": [
     "minecraft:string",
     {
-      "id": "#forge:strings",
+      "id": "#forge:string",
       "required": false
     }
   ]

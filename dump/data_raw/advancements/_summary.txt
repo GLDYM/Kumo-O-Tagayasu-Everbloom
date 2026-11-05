@@ -1,11 +1,11 @@
 # Raw resource rule dump summary
 # Mod ID: registry_dumper_3000
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:46.3395423+08:00
+# Generated: 2026-11-05T11:36:01.0475965+08:00
 
 # Rule name: Advancements
 # Side: data/server
 # Source prefix: advancements
-# Files written: 33
+# Files written: 60
 # Stack files written (optional): 0
 # Path collisions observed: 0

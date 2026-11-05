@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: trailandtales_delight:ancient_seeds
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:57.7605427+08:00
+
+minecraft:pitcher_pod
+minecraft:torchflower_seeds
+trailandtales_delight:lantern_fruit_seeds

@@ -1,0 +1,10 @@
+{
+  "values": {
+    "supplementaries:plunderer": {
+      "sound": "supplementaries:entity.parrot.imitate.plunderer"
+    },
+    "touhou_little_maid:maid": {
+      "sound": "touhou_little_maid:maid.mode.idle"
+    }
+  }
+}

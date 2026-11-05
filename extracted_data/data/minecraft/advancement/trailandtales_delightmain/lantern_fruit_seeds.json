@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:trailandtales_delightmain/tat_delight",
+  "criteria": {
+    "seeds": {
+      "conditions": {
+        "items": [
+          {
+            "items": "trailandtales_delight:lantern_fruit_seeds"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.lantern_fruit_seeds.descr"
+    },
+    "icon": {
+      "count": 1,
+      "id": "trailandtales_delight:lantern_fruit_seeds"
+    },
+    "title": {
+      "translate": "advancements.lantern_fruit_seeds.title"
+    }
+  },
+  "requirements": [
+    [
+      "seeds"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

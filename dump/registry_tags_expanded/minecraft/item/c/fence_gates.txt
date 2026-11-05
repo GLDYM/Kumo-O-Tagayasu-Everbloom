@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:fence_gates
-# Entries: 17
+# Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.7997999+08:00
+# Generated: 2026-11-05T11:35:49.1473802+08:00
 
 crabbersdelight:palm_fence_gate
 farmersdelight:rope_fence_gate
@@ -16,9 +16,7 @@ minecraft:dark_oak_fence_gate
 minecraft:jungle_fence_gate
 minecraft:mangrove_fence_gate
 minecraft:oak_fence_gate
+minecraft:pale_oak_fence_gate
+minecraft:poplar_fence_gate
 minecraft:spruce_fence_gate
 minecraft:warped_fence_gate
-quark:ancient_fence_gate
-quark:azalea_fence_gate
-quark:blossom_fence_gate
-quark:nether_brick_fence_gate

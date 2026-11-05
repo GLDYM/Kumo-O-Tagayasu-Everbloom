@@ -1,0 +1,22 @@
+{
+  "values": [
+    {
+      "id": "vinery:straw_hat",
+      "required": false
+    },
+    {
+      "id": "sakura:strawhat",
+      "required": false
+    },
+    {
+      "id": "artifacts:villager_hat",
+      "required": false
+    },
+    {
+      "id": "overweight_farming:straw_hat",
+      "required": false
+    },
+    "kaleidoscope_cookery:straw_hat",
+    "kaleidoscope_cookery:straw_hat_flower"
+  ]
+}

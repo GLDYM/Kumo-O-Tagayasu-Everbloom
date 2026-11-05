@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:pale_oak_logs
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:54.3509823+08:00
+
+minecraft:pale_oak_log
+minecraft:pale_oak_wood
+minecraft:stripped_pale_oak_log
+minecraft:stripped_pale_oak_wood

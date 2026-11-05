@@ -3,6 +3,6 @@
 # Tag: c:dusts/emerald
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.7376096+08:00
+# Generated: 2026-11-05T11:35:48.9615403+08:00
 
 createmoredrillheads:emerald_dusts

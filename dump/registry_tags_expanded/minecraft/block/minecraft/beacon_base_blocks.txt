@@ -3,8 +3,9 @@
 # Tag: minecraft:beacon_base_blocks
 # Entries: 14
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.6584268+08:00
+# Generated: 2026-11-05T11:35:44.6063926+08:00
 
+alloyed:steel_block
 cagedmobs:star_infused_netherite_block
 create:brass_block
 create:experience_block
@@ -16,6 +17,5 @@ minecraft:emerald_block
 minecraft:gold_block
 minecraft:iron_block
 minecraft:netherite_block
-quark:golden_apple_crate
 tsuki:sakura_diamond_block
 ultramarine:jade_block

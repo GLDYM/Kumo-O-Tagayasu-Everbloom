@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_tavern:cocktail_ingredient_light_purple
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.6657094+08:00
+
+kaleidoscope_tavern:brandy
+kaleidoscope_tavern:carignan
+kaleidoscope_tavern:champagne
+kaleidoscope_tavern:sakura_wine
+kaleidoscope_tavern:wine

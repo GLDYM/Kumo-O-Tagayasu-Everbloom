@@ -1,16 +1,14 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: sereneseasons:spring_crops
-# Entries: 11
+# Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.0707888+08:00
+# Generated: 2026-11-05T11:35:57.3530683+08:00
 
 delighto_flight:lotus_seeds
 farmersdelight:onion
-fruitsdelight:blueberry
-fruitsdelight:peach_sapling
-fruitsdelight:pear_sapling
 kaleidoscope_cookery:lettuce_seed
+kaleidoscope_cookery:tea_seed
 supplementaries:flax
 supplementaries:flax_seeds
 vintagedelight:cucumber_seeds

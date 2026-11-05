@@ -1,13 +1,22 @@
 # Expanded runtime tag dump
 # Registry: minecraft:damage_type
 # Tag: minecraft:bypasses_wolf_armor
-# Entries: 18
+# Entries: 27
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.4601226+08:00
+# Generated: 2026-11-05T11:35:46.4249498+08:00
 
-brewinandchewin:cardiac_arrest
+immortalers_delight:black_snake
 immortalers_delight:drunk
 immortalers_delight:gas
+irons_spellbooks:blood_magic
+irons_spellbooks:eldritch_magic
+irons_spellbooks:ender_magic
+irons_spellbooks:evocation_magic
+irons_spellbooks:fire_magic
+irons_spellbooks:holy_magic
+irons_spellbooks:ice_magic
+irons_spellbooks:lightning_magic
+irons_spellbooks:nature_magic
 l2complements:void_eye
 minecraft:cramming
 minecraft:drown

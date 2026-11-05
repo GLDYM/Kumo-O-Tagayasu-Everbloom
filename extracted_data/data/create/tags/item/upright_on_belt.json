@@ -1,0 +1,196 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "amendments:dye_bottle",
+      "required": false
+    },
+    "create:blaze_cake_base",
+    "create:blaze_cake",
+    "create:creative_blaze_cake",
+    "create:builders_tea",
+    "minecraft:glass_bottle",
+    "minecraft:potion",
+    "minecraft:splash_potion",
+    "minecraft:lingering_potion",
+    "minecraft:honey_bottle",
+    "minecraft:cake",
+    "minecraft:bowl",
+    "minecraft:mushroom_stew",
+    "minecraft:rabbit_stew",
+    "minecraft:beetroot_soup",
+    "minecraft:suspicious_stew",
+    {
+      "id": "atmospheric:orange_pudding",
+      "required": false
+    },
+    {
+      "id": "atmospheric:orange_sorbet",
+      "required": false
+    },
+    {
+      "id": "atmospheric:passion_fruit_sorbet",
+      "required": false
+    },
+    {
+      "id": "atmospheric:aloe_gel_bottle",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:blue_glow_bottle",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:green_glow_bottle",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:red_glow_bottle",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:yellow_glow_bottle",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:allium_oddion_soup",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:white_puffball_stew",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:aloe_vera_juice",
+      "required": false
+    },
+    {
+      "id": "silentgems:cup_of_coffee",
+      "required": false
+    },
+    {
+      "id": "silentgems:uncooked_meaty_stew",
+      "required": false
+    },
+    {
+      "id": "silentgems:meaty_stew",
+      "required": false
+    },
+    {
+      "id": "silentgems:uncooked_fishy_stew",
+      "required": false
+    },
+    {
+      "id": "silentgems:fishy_stew",
+      "required": false
+    },
+    {
+      "id": "autumnity:foul_soup",
+      "required": false
+    },
+    {
+      "id": "autumnity:syrup_bottle",
+      "required": false
+    },
+    {
+      "id": "autumnity:sap_bottle",
+      "required": false
+    },
+    "#c:foods/edible_when_placed",
+    "minecraft:pumpkin_pie",
+    {
+      "id": "brewinandchewin:tankard",
+      "required": false
+    },
+    {
+      "id": "#brewinandchewin:cheese_wheels/unripe",
+      "required": false
+    },
+    {
+      "id": "trailsandtails_delight:pottery_bowl",
+      "required": false
+    },
+    {
+      "id": "trailsandtails_delight:sniffer_eggshell",
+      "required": false
+    },
+    "create_enchantment_industry:experience_cake_base",
+    "create_enchantment_industry:experience_cake",
+    {
+      "id": "apothic_enchanting:infused_breath",
+      "required": false
+    },
+    "create_bic_bit:stamppot_bowl",
+    "create_bic_bit:curdled_milk_bucket",
+    "create_bic_bit:ketchup_bucket",
+    "create_bic_bit:mayonnaise_bucket",
+    "create_bic_bit:frying_oil_bucket",
+    "create_bic_bit:frying_oil_bottle",
+    "create_bic_bit:ketchup_bottle",
+    "create_bic_bit:mayonnaise_bottle",
+    "kaleidoscope_tavern:empty_bottle",
+    "kaleidoscope_tavern:empty_glassware",
+    "ends_delight:chorus_fruit_wine",
+    "ends_delight:chorus_fruit_milk_tea",
+    "ends_delight:bubble_tea",
+    "ends_delight:dragon_breath_soda",
+    "ends_delight:chorus_flower_tea",
+    "ends_delight:chorus_fruit_pie",
+    "#farmersdelight:meals",
+    "#farmersdelight:drinks",
+    "#farmersdelight:feasts",
+    "farmersdelight:tomato_sauce",
+    "farmersdelight:dog_food",
+    "farmersdelight:fruit_salad",
+    "farmersdelight:nether_salad",
+    "farmersdelight:pie_crust",
+    "farmersdelight:apple_pie",
+    "farmersdelight:sweet_berry_cheesecake",
+    "farmersdelight:chocolate_pie",
+    "railways:empty_paint_pitcher",
+    "railways:sandy_paint_pitcher",
+    "railways:brown_paint_pitcher",
+    "railways:maroon_paint_pitcher",
+    "railways:red_paint_pitcher",
+    "railways:vermilion_paint_pitcher",
+    "railways:orange_paint_pitcher",
+    "railways:granite_paint_pitcher",
+    "railways:dripstone_paint_pitcher",
+    "railways:ochrum_paint_pitcher",
+    "railways:yellow_paint_pitcher",
+    "railways:chartreuse_paint_pitcher",
+    "railways:olive_green_paint_pitcher",
+    "railways:lime_paint_pitcher",
+    "railways:green_paint_pitcher",
+    "railways:pine_green_paint_pitcher",
+    "railways:cyan_paint_pitcher",
+    "railways:sea_green_paint_pitcher",
+    "railways:turquoise_paint_pitcher",
+    "railways:light_blue_paint_pitcher",
+    "railways:blue_paint_pitcher",
+    "railways:royal_blue_paint_pitcher",
+    "railways:purple_paint_pitcher",
+    "railways:magenta_paint_pitcher",
+    "railways:pink_paint_pitcher",
+    "railways:white_paint_pitcher",
+    "railways:diorite_paint_pitcher",
+    "railways:limestone_paint_pitcher",
+    "railways:light_gray_paint_pitcher",
+    "railways:tuff_paint_pitcher",
+    "railways:gray_paint_pitcher",
+    "railways:scorchia_paint_pitcher",
+    "railways:black_paint_pitcher",
+    {
+      "id": "supplementaries:lumisene_bottle",
+      "required": false
+    },
+    {
+      "id": "supplementaries:antique_ink",
+      "required": false
+    },
+    {
+      "id": "supplementaries:lumisene_bucket",
+      "required": false
+    }
+  ]
+}

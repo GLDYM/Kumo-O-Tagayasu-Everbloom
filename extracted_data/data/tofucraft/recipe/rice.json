@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/rice"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "tofucraft:rice"
+  }
+}

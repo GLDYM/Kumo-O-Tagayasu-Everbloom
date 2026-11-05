@@ -1,21 +1,25 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:needs_diamond_tool
-# Entries: 22
+# Entries: 26
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.8946988+08:00
+# Generated: 2026-11-05T11:35:45.0826719+08:00
 
 cagedmobs:star_infused_netherite_block
+createnuclear:deepslate_thorium_ore
 createnuclear:deepslate_uranium_ore
 createnuclear:enriched_soul_soil
+createnuclear:raw_thorium_block
 createnuclear:raw_uranium_block
 createnuclear:reactor_casing
 createnuclear:reactor_controller
 createnuclear:reactor_cooler
 createnuclear:reactor_core
+createnuclear:reactor_fluid_input
 createnuclear:reactor_frame
-createnuclear:reactor_input
 createnuclear:reactor_output
+createnuclear:reactor_rod_input
+createnuclear:thorium_ore
 createnuclear:uranium_ore
 dramaticdoors:short_netherite_door
 dramaticdoors:tall_netherite_door

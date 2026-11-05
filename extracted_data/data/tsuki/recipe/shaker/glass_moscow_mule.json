@@ -1,0 +1,22 @@
+{
+  "type": "tsuki:shaker",
+  "experience": 0,
+  "ingredients": [
+    {
+      "item": "tsuki:glass_vodka"
+    },
+    {
+      "item": "tsuki:glass_beer"
+    },
+    {
+      "item": "tsuki:lemon_juice"
+    },
+    {
+      "item": "tsuki:ice_cube"
+    }
+  ],
+  "result": {
+    "id": "tsuki:glass_moscow_mule"
+  },
+  "shake_count": 12
+}

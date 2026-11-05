@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_cookery:enchantable/kitchen_knives
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.4634011+08:00
+
+kaleidoscope_cookery:diamond_kitchen_knife
+kaleidoscope_cookery:gold_kitchen_knife
+kaleidoscope_cookery:iron_kitchen_knife
+kaleidoscope_cookery:netherite_kitchen_knife

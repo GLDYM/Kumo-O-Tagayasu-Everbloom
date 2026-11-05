@@ -1,12 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:oak_logs
-# Entries: 6
+# Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.2385757+08:00
+# Generated: 2026-11-05T11:35:54.3439445+08:00
 
-atmospheric:laurel_log
-atmospheric:laurel_wood
 minecraft:oak_log
 minecraft:oak_wood
 minecraft:stripped_oak_log

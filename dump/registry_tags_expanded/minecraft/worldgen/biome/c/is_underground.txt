@@ -3,9 +3,9 @@
 # Tag: c:is_underground
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.6155441+08:00
+# Generated: 2026-11-05T11:35:58.799044+08:00
 
 minecraft:deep_dark
 minecraft:dripstone_caves
 minecraft:lush_caves
-quark:glimmering_weald
+minecraft:sulfur_caves

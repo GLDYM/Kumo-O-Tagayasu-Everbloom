@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "corn_delight:corn_crop",
+    "delighto_flight:cloud_berry_bush",
+    "farmersdelight:cabbages",
+    "farmersdelight:onions",
+    "farmersdelight:rice",
+    "farmersdelight:rice_panicles",
+    "kaleidoscope_cookery:tomato_crop",
+    "kaleidoscope_cookery:rice_crop",
+    "kaleidoscope_cookery:lettuce_crop",
+    "kaleidoscope_cookery:chili_crop",
+    "kaleidoscope_cookery:tea_tree",
+    "kaleidoscope_tavern:grape_crop",
+    "vintagedelight:oat_crop",
+    "vintagedelight:peanut_crop",
+    "vintagedelight:gearo_berry_bush"
+  ]
+}

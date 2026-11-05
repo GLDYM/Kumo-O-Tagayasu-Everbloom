@@ -1,0 +1,9 @@
+# Registry dump
+# Registry: createnuclear:fluids/type
+# Minecraft: 1.21.1
+# Entries: 3
+# Generated: 2026-11-05T11:35:22.0259235+08:00
+
+createnuclear:fallback raw_id=0 class=net.nuclearteam.createnuclear.api.multiblock.fluid.ReactorFluidType
+createnuclear:nitrogen raw_id=1 class=net.nuclearteam.createnuclear.api.multiblock.fluid.ReactorFluidType
+createnuclear:water raw_id=2 class=net.nuclearteam.createnuclear.api.multiblock.fluid.ReactorFluidType

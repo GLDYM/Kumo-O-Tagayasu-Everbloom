@@ -1,0 +1,27 @@
+{
+  "type": "tsuki:cooking",
+  "container": {
+    "id": "minecraft:stick"
+  },
+  "experience": 0,
+  "fluid": {
+    "amount": 200,
+    "fluidTag": "c:water/water"
+  },
+  "ingredients": [
+    {
+      "item": "tsuki:fishcake"
+    },
+    {
+      "tag": "c:crops/radish"
+    },
+    {
+      "tag": "c:eggs"
+    }
+  ],
+  "recipeTime": 200,
+  "result": {
+    "count": 2,
+    "id": "tsuki:oden"
+  }
+}

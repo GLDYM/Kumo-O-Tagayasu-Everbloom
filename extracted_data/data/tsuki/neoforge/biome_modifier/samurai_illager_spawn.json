@@ -1,0 +1,10 @@
+{
+  "biomes": "#tsuki:has_samurai_spawns",
+  "spawners": {
+    "maxCount": 2,
+    "minCount": 1,
+    "type": "tsuki:samurai_illager",
+    "weight": 8
+  },
+  "type": "neoforge:add_spawns"
+}

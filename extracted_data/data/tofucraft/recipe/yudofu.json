@@ -1,0 +1,29 @@
+{
+  "type": "tofucraft:tofu_pot_shapeless",
+  "category": "fast_food",
+  "cook_time": 100,
+  "experience": 0.1,
+  "fluid": {
+    "amount": 200,
+    "ingredient": {
+      "fluid": "minecraft:water"
+    }
+  },
+  "ingredients": [
+    [
+      {
+        "item": "tofucraft:tofukinu"
+      },
+      {
+        "item": "tofucraft:tofumomen"
+      }
+    ],
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "tofucraft:yudofu"
+  }
+}

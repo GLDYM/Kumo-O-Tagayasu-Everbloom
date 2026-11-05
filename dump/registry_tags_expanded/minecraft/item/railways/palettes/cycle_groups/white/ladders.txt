@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/white/ladders
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:57.1016152+08:00
+
+railways:white_locometal_end_ladder
+railways:white_locometal_rung_ladder

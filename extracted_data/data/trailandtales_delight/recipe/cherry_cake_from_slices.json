@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "tatd_cherry_cake",
+  "key": {
+    "#": {
+      "item": "trailandtales_delight:cherry_cake_slice"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:cherry_cake"
+  }
+}

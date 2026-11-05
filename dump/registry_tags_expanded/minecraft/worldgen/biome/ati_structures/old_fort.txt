@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: ati_structures:old_fort
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.3963979+08:00
+
+minecraft:frozen_peaks
+minecraft:frozen_river
+minecraft:grove
+minecraft:ice_spikes
+minecraft:jagged_peaks
+minecraft:snowy_beach
+minecraft:snowy_plains
+minecraft:snowy_slopes
+minecraft:snowy_taiga

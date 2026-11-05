@@ -3,7 +3,7 @@
 # Tag: c:ores/lead
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.3451627+08:00
+# Generated: 2026-11-05T11:35:50.2452475+08:00
 
 createnuclear:deepslate_lead_ore
 createnuclear:lead_ore

@@ -3,7 +3,7 @@
 # Tag: minecraft:has_structure/jungle_temple
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.1664889+08:00
+# Generated: 2026-11-05T11:35:59.2152554+08:00
 
 minecraft:bamboo_jungle
 minecraft:jungle

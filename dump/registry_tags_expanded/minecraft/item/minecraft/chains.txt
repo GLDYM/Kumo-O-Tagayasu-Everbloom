@@ -1,0 +1,16 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:chains
+# Entries: 9
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.9187699+08:00
+
+minecraft:chain
+minecraft:copper_chain
+minecraft:exposed_copper_chain
+minecraft:oxidized_copper_chain
+minecraft:waxed_copper_chain
+minecraft:waxed_exposed_copper_chain
+minecraft:waxed_oxidized_copper_chain
+minecraft:waxed_weathered_copper_chain
+minecraft:weathered_copper_chain

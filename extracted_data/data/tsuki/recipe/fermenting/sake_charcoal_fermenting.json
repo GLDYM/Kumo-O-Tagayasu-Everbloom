@@ -1,0 +1,24 @@
+{
+  "type": "tsuki:fermenting",
+  "experience": 10,
+  "fluid": {
+    "amount": 1000,
+    "fluid": "tsuki:doburoku"
+  },
+  "ingredients": [
+    {
+      "tag": "c:dusts/charcoal"
+    }
+  ],
+  "recipeTime": 500,
+  "result_fluid": {
+    "amount": 500,
+    "fluid": "tsuki:sake"
+  },
+  "results": [
+    {
+      "count": 2,
+      "id": "tsuki:sake_kasu"
+    }
+  ]
+}

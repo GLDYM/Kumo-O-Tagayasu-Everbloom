@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "trailandtales_delight:crystal_crabapple"
+  },
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:crimson_crystal_ingot"
+  }
+}

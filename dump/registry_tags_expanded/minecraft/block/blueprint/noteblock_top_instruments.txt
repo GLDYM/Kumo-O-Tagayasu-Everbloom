@@ -1,8 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:block
-# Tag: blueprint:noteblock_top_instruments
-# Entries: 1
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.5374062+08:00
-
-neapolitan:chimpanzee_head

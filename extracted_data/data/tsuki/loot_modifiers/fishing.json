@@ -1,0 +1,13 @@
+{
+  "conditions": [
+    {
+      "chance": 0.25,
+      "condition": "minecraft:random_chance"
+    },
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:gameplay/fishing"
+    }
+  ],
+  "type": "tsuki:fishing_catch"
+}

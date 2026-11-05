@@ -1,0 +1,29 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: immortalers_delight:vegetables
+# Entries: 22
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.2429538+08:00
+
+bakeries:tomato
+corn_delight:corn
+farmersdelight:cabbage
+farmersdelight:cabbage_leaf
+farmersdelight:onion
+farmersdelight:tomato
+kaleidoscope_cookery:tomato
+minecraft:beetroot
+minecraft:carrot
+minecraft:golden_carrot
+minecraft:potato
+minecraft:pumpkin
+minecraft:sweet_berries
+tsuki:cabbage
+tsuki:eggplant
+tsuki:imogara
+tsuki:onion
+tsuki:radish
+tsuki:tomato
+vintagedelight:cucumber
+vintagedelight:ghost_pepper
+vintagedelight:peanut

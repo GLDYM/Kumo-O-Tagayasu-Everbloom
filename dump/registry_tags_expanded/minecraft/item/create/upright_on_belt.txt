@@ -1,24 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: create:upright_on_belt
-# Entries: 149
+# Entries: 124
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.9190179+08:00
+# Generated: 2026-11-05T11:35:51.5289325+08:00
 
 amendments:dye_bottle
-atmospheric:aloe_gel_bottle
-atmospheric:orange_pudding
-atmospheric:orange_sorbet
-atmospheric:passion_fruit_sorbet
-atmospheric:yucca_gateau
-brewinandchewin:fiery_fondue_pot
-brewinandchewin:flaxen_cheese_wheel
-brewinandchewin:pizza
-brewinandchewin:quiche
-brewinandchewin:scarlet_cheese_wheel
-brewinandchewin:tankard
-brewinandchewin:unripe_flaxen_cheese_wheel
-brewinandchewin:unripe_scarlet_cheese_wheel
 ccw:glazed_meat_rice
 create:blaze_cake
 create:blaze_cake_base
@@ -85,47 +72,8 @@ farmersdelight:sweet_berry_cheesecake
 farmersdelight:tomato_sauce
 farmersdelight:vegetable_noodles
 farmersdelight:vegetable_soup
-kaleidoscope_dim_wine:abyssal_porter
-kaleidoscope_dim_wine:black_bone_lafite
-kaleidoscope_dim_wine:blaze_martell
-kaleidoscope_dim_wine:chorus_cognac
-kaleidoscope_dim_wine:crimson_crescendo
-kaleidoscope_dim_wine:divine_embryo_port
-kaleidoscope_dim_wine:draconic_blood_wine
-kaleidoscope_dim_wine:dragons_breath_brandy
-kaleidoscope_dim_wine:end_starlight
-kaleidoscope_dim_wine:ethereal_noble
-kaleidoscope_dim_wine:forgotten_margarita
-kaleidoscope_dim_wine:magma_royal_salute
-kaleidoscope_dim_wine:phantom_dream_bubble
-kaleidoscope_dim_wine:pop_can
-kaleidoscope_dim_wine:silent_sherry
-kaleidoscope_dim_wine:wart_hennessy
-kaleidoscope_tavern:brandy
-kaleidoscope_tavern:carignan
-kaleidoscope_tavern:champagne
 kaleidoscope_tavern:empty_bottle
-kaleidoscope_tavern:glowflower_brew
-kaleidoscope_tavern:honey_wine
-kaleidoscope_tavern:ice_wine
-kaleidoscope_tavern:luminous_bride
-kaleidoscope_tavern:madame_shexiang
-kaleidoscope_tavern:miners_star
-kaleidoscope_tavern:mother_snow
-kaleidoscope_tavern:plum_wine
-kaleidoscope_tavern:polaris_sweet_white
-kaleidoscope_tavern:red_queen
-kaleidoscope_tavern:riesling_dry_white
-kaleidoscope_tavern:rum
-kaleidoscope_tavern:sakura_wine
-kaleidoscope_tavern:sauvignon_blanc_dry_white
-kaleidoscope_tavern:sherry
-kaleidoscope_tavern:sunset_glow
-kaleidoscope_tavern:sweet_berry_wine
-kaleidoscope_tavern:vinegar
-kaleidoscope_tavern:vodka
-kaleidoscope_tavern:whiskey
-kaleidoscope_tavern:wine
+kaleidoscope_tavern:empty_glassware
 minecraft:beetroot_soup
 minecraft:bowl
 minecraft:cake
@@ -144,12 +92,39 @@ mynethersdelight:ghasta_with_cream
 mynethersdelight:magma_cake_block
 mynethersdelight:roast_stuffed_hoglin
 mynethersdelight:striderloaf
-neapolitan:adzuki_cake
-neapolitan:banana_cake
-neapolitan:chocolate_cake
-neapolitan:mint_cake
-neapolitan:strawberry_cake
-neapolitan:vanilla_cake
+railways:black_paint_pitcher
+railways:blue_paint_pitcher
+railways:brown_paint_pitcher
+railways:chartreuse_paint_pitcher
+railways:cyan_paint_pitcher
+railways:diorite_paint_pitcher
+railways:dripstone_paint_pitcher
+railways:empty_paint_pitcher
+railways:granite_paint_pitcher
+railways:gray_paint_pitcher
+railways:green_paint_pitcher
+railways:light_blue_paint_pitcher
+railways:light_gray_paint_pitcher
+railways:lime_paint_pitcher
+railways:limestone_paint_pitcher
+railways:magenta_paint_pitcher
+railways:maroon_paint_pitcher
+railways:ochrum_paint_pitcher
+railways:olive_green_paint_pitcher
+railways:orange_paint_pitcher
+railways:pine_green_paint_pitcher
+railways:pink_paint_pitcher
+railways:purple_paint_pitcher
+railways:red_paint_pitcher
+railways:royal_blue_paint_pitcher
+railways:sandy_paint_pitcher
+railways:scorchia_paint_pitcher
+railways:sea_green_paint_pitcher
+railways:tuff_paint_pitcher
+railways:turquoise_paint_pitcher
+railways:vermilion_paint_pitcher
+railways:white_paint_pitcher
+railways:yellow_paint_pitcher
 supplementaries:antique_ink
 supplementaries:lumisene_bottle
 supplementaries:lumisene_bucket

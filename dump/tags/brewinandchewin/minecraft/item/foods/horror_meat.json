@@ -1,12 +1,7 @@
 {
   "values": [
-    {
-      "id": "#c:foods/raw_beef",
-      "required": false
-    },
-    {
-      "id": "#c:foods/raw_chicken",
-      "required": false
-    }
+    "mynethersdelight:minced_strider",
+    "mynethersdelight:hoglin_loin",
+    "mynethersdelight:hoglin_sausage"
   ]
 }

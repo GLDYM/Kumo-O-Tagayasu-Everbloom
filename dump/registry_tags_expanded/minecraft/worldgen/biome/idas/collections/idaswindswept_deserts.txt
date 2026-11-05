@@ -1,7 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:worldgen/biome
-# Tag: idas:collections/idaswindswept_deserts
-# Entries: 0
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.8138269+08:00
-

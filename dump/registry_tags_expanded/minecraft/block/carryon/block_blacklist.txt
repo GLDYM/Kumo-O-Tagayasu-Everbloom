@@ -1,11 +1,20 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: carryon:block_blacklist
-# Entries: 253
+# Entries: 309
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.9372598+08:00
+# Generated: 2026-11-05T11:35:43.2573184+08:00
 
+kaleidoscope_chinesefood:couplet
+kaleidoscope_chinesefood:freezer
+kaleidoscope_chinesefood:freezer_green
+kaleidoscope_chinesefood:freezer_light_blue
+kaleidoscope_chinesefood:freezer_orange
+kaleidoscope_chinesefood:freezer_pink
+kaleidoscope_chinesefood:freezer_yellow
+kaleidoscope_chinesefood:horizontal_banner
 kaleidoscope_cookery:apple_platter
+kaleidoscope_cookery:bamboo_tray
 kaleidoscope_cookery:bamboo_tube_rice
 kaleidoscope_cookery:baozi_plate
 kaleidoscope_cookery:barley_tea
@@ -15,6 +24,7 @@ kaleidoscope_cookery:blaze_lamb_chop
 kaleidoscope_cookery:braised_pork_ribs
 kaleidoscope_cookery:brown_mushroom_pot_soup
 kaleidoscope_cookery:buddha_jumps_over_the_wall
+kaleidoscope_cookery:butter_tea
 kaleidoscope_cookery:candied_potato
 kaleidoscope_cookery:chair_acacia
 kaleidoscope_cookery:chair_bamboo
@@ -32,6 +42,7 @@ kaleidoscope_cookery:chili_ristra
 kaleidoscope_cookery:chopping_board
 kaleidoscope_cookery:chorus_fried_egg
 kaleidoscope_cookery:chorus_fruit_platter
+kaleidoscope_cookery:clay_pot_milk_tea
 kaleidoscope_cookery:cold_cut_ham_slices
 kaleidoscope_cookery:cold_roasted_meat
 kaleidoscope_cookery:cold_style_sashimi
@@ -52,6 +63,7 @@ kaleidoscope_cookery:dark_cuisine
 kaleidoscope_cookery:desert_style_sashimi
 kaleidoscope_cookery:dongpo_pork
 kaleidoscope_cookery:dough_drop_soup
+kaleidoscope_cookery:eight_immortals_table
 kaleidoscope_cookery:empty_cup
 kaleidoscope_cookery:enamel_basin
 kaleidoscope_cookery:end_style_sashimi
@@ -66,7 +78,9 @@ kaleidoscope_cookery:fruit_basket
 kaleidoscope_cookery:golden_salad
 kaleidoscope_cookery:kitchenware_racks
 kaleidoscope_cookery:lettuce_crop
+kaleidoscope_cookery:long_bench
 kaleidoscope_cookery:millstone
+kaleidoscope_cookery:mystery_tea
 kaleidoscope_cookery:nether_style_sashimi
 kaleidoscope_cookery:numbing_spicy_chicken
 kaleidoscope_cookery:oil_block
@@ -77,6 +91,7 @@ kaleidoscope_cookery:pan_seared_knight_steak
 kaleidoscope_cookery:pot
 kaleidoscope_cookery:qingtuan_plate
 kaleidoscope_cookery:recipe_block
+kaleidoscope_cookery:red_lantern
 kaleidoscope_cookery:red_mushroom_pot_soup
 kaleidoscope_cookery:rice_crop
 kaleidoscope_cookery:sakura_fubuki
@@ -108,6 +123,8 @@ kaleidoscope_cookery:table_mangrove
 kaleidoscope_cookery:table_oak
 kaleidoscope_cookery:table_spruce
 kaleidoscope_cookery:table_warped
+kaleidoscope_cookery:tea_banner
+kaleidoscope_cookery:tea_tree
 kaleidoscope_cookery:teapot
 kaleidoscope_cookery:tieguanyin
 kaleidoscope_cookery:tomato_crop
@@ -117,43 +134,61 @@ kaleidoscope_cookery:tundra_style_sashimi
 kaleidoscope_cookery:warped_fungus_pot_soup
 kaleidoscope_cookery:watermelon_platter
 kaleidoscope_cookery:zongzi_plate
+kaleidoscope_tavern:allium_garden
 kaleidoscope_tavern:allium_sandwich_board
 kaleidoscope_tavern:azure_bluet_sandwich_board
 kaleidoscope_tavern:bar_cabinet
 kaleidoscope_tavern:bar_counter
 kaleidoscope_tavern:barrel
 kaleidoscope_tavern:base_sandwich_board
+kaleidoscope_tavern:bell_pendant_lamp
 kaleidoscope_tavern:black_bar_stool
 kaleidoscope_tavern:black_sofa
+kaleidoscope_tavern:bloody_mary
 kaleidoscope_tavern:blue_bar_stool
+kaleidoscope_tavern:blue_pendant_lamp
 kaleidoscope_tavern:blue_sofa
 kaleidoscope_tavern:brandy
+kaleidoscope_tavern:brass_heart
 kaleidoscope_tavern:brown_bar_stool
 kaleidoscope_tavern:brown_sofa
+kaleidoscope_tavern:butterfly_incense
 kaleidoscope_tavern:carignan
+kaleidoscope_tavern:catnip_incense
+kaleidoscope_tavern:cellar_cabinet
 kaleidoscope_tavern:chalkboard
 kaleidoscope_tavern:champagne
+kaleidoscope_tavern:circular_rack
 kaleidoscope_tavern:cornflower_sandwich_board
 kaleidoscope_tavern:cr019_painting
 kaleidoscope_tavern:cyan_bar_stool
 kaleidoscope_tavern:cyan_sofa
 kaleidoscope_tavern:david_painting
+kaleidoscope_tavern:depth_charge
 kaleidoscope_tavern:dragon_breath_bottle
+kaleidoscope_tavern:emerald
 kaleidoscope_tavern:empty_bottle
+kaleidoscope_tavern:empty_glassware
 kaleidoscope_tavern:father_painting
+kaleidoscope_tavern:firefly_incense
+kaleidoscope_tavern:ginkgo_incense
 kaleidoscope_tavern:girl_with_pearl_earring_painting
 kaleidoscope_tavern:glass_bar_cabinet
+kaleidoscope_tavern:glassware_holder
 kaleidoscope_tavern:glowflower_brew
+kaleidoscope_tavern:godfather
 kaleidoscope_tavern:gold_grape_crop
 kaleidoscope_tavern:gold_grapevine_trellis
 kaleidoscope_tavern:grape_crop
 kaleidoscope_tavern:grapevine_trellis
 kaleidoscope_tavern:grass_sandwich_board
+kaleidoscope_tavern:grasshopper
 kaleidoscope_tavern:gray_bar_stool
 kaleidoscope_tavern:gray_sofa
 kaleidoscope_tavern:great_wave_painting
 kaleidoscope_tavern:green_bar_stool
 kaleidoscope_tavern:green_sofa
+kaleidoscope_tavern:holder
 kaleidoscope_tavern:honey_bottle
 kaleidoscope_tavern:honey_wine
 kaleidoscope_tavern:ice_grape_crop
@@ -171,14 +206,18 @@ kaleidoscope_tavern:magenta_bar_stool
 kaleidoscope_tavern:magenta_sofa
 kaleidoscope_tavern:master_marisa_painting
 kaleidoscope_tavern:miners_star
+kaleidoscope_tavern:mojito
 kaleidoscope_tavern:molotov
 kaleidoscope_tavern:mona_lisa_painting
 kaleidoscope_tavern:mondrian_painting
 kaleidoscope_tavern:mother_snow
+kaleidoscope_tavern:mystery_cocktail
+kaleidoscope_tavern:nether_special
 kaleidoscope_tavern:orange_bar_stool
 kaleidoscope_tavern:orange_sofa
 kaleidoscope_tavern:orchid_sandwich_board
 kaleidoscope_tavern:peony_sandwich_board
+kaleidoscope_tavern:pine_incense
 kaleidoscope_tavern:pink_bar_stool
 kaleidoscope_tavern:pink_petals_sandwich_board
 kaleidoscope_tavern:pink_sofa
@@ -186,6 +225,7 @@ kaleidoscope_tavern:pitcher_plant_sandwich_board
 kaleidoscope_tavern:plum_wine
 kaleidoscope_tavern:polaris_sweet_white
 kaleidoscope_tavern:poppy_sandwich_board
+kaleidoscope_tavern:potion_bottle
 kaleidoscope_tavern:pressing_tub
 kaleidoscope_tavern:purple_bar_stool
 kaleidoscope_tavern:purple_sofa
@@ -194,10 +234,17 @@ kaleidoscope_tavern:red_queen
 kaleidoscope_tavern:red_sofa
 kaleidoscope_tavern:riesling_dry_white
 kaleidoscope_tavern:rum
+kaleidoscope_tavern:sakura_incense
 kaleidoscope_tavern:sakura_wine
 kaleidoscope_tavern:sauvignon_blanc_dry_white
+kaleidoscope_tavern:screwdriver
+kaleidoscope_tavern:sculk_special
+kaleidoscope_tavern:shaker
 kaleidoscope_tavern:sherry
+kaleidoscope_tavern:signature_cocktail
+kaleidoscope_tavern:snow_incense
 kaleidoscope_tavern:son_of_man_painting
+kaleidoscope_tavern:spore_incense
 kaleidoscope_tavern:starry_night_painting
 kaleidoscope_tavern:stepladder
 kaleidoscope_tavern:string_lights_black
@@ -223,6 +270,7 @@ kaleidoscope_tavern:sweet_berry_wine
 kaleidoscope_tavern:table
 kaleidoscope_tavern:tap
 kaleidoscope_tavern:tartaric_acid_painting
+kaleidoscope_tavern:tilted_rack
 kaleidoscope_tavern:torchflower_sandwich_board
 kaleidoscope_tavern:trellis
 kaleidoscope_tavern:tulip_sandwich_board
@@ -234,14 +282,22 @@ kaleidoscope_tavern:water_bottle
 kaleidoscope_tavern:watermelon_juice
 kaleidoscope_tavern:whiskey
 kaleidoscope_tavern:white_bar_stool
+kaleidoscope_tavern:white_lady
 kaleidoscope_tavern:white_sofa
 kaleidoscope_tavern:wild_grapevine
 kaleidoscope_tavern:wild_grapevine_plant
 kaleidoscope_tavern:wine
 kaleidoscope_tavern:wither_rose_sandwich_board
+kaleidoscope_tavern:xp_bottle
 kaleidoscope_tavern:yellow_bar_stool
+kaleidoscope_tavern:yellow_pendant_lamp
 kaleidoscope_tavern:yellow_sofa
 kaleidoscope_tavern:ysbb_painting
+sophisticatedbackpacks:backpack
+sophisticatedbackpacks:diamond_backpack
+sophisticatedbackpacks:gold_backpack
+sophisticatedbackpacks:iron_backpack
+sophisticatedbackpacks:netherite_backpack
 touhou_little_maid:altar
 touhou_little_maid:bookshelf
 touhou_little_maid:cchess

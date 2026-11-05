@@ -1,0 +1,25 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "farmers_spell:wheat_book"
+        }
+    ],
+    "result": [
+        {
+            "item": {
+                "count": 3,
+                "id": "farmersdelight:wheat_dough"
+            }
+        },
+        {
+            "item": {
+                "count": 5,
+                "id": "irons_spellbooks:arcane_essence"
+            }
+        }
+    ],
+    "tool": {
+        "tag": "c:tools/knife"
+    }
+}

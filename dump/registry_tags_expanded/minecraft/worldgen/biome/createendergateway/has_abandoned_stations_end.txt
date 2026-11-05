@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: createendergateway:has_abandoned_stations_end
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.9142348+08:00
+
+minecraft:end_highlands
+minecraft:end_midlands
+minecraft:small_end_islands

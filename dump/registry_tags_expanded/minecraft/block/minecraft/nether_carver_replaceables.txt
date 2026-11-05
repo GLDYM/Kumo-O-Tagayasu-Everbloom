@@ -1,11 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:nether_carver_replaceables
-# Entries: 35
+# Entries: 33
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.9067304+08:00
+# Generated: 2026-11-05T11:35:45.097554+08:00
 
-atmospheric:crustose
+crabbersdelight:wormy_dirt
 delighto_flight:weather_soil
 farmersdelight:rich_soil
 minecraft:andesite
@@ -24,6 +24,7 @@ minecraft:muddy_mangrove_roots
 minecraft:mycelium
 minecraft:nether_wart_block
 minecraft:netherrack
+minecraft:pale_moss_block
 minecraft:podzol
 minecraft:rooted_dirt
 minecraft:soul_sand
@@ -35,8 +36,5 @@ minecraft:warped_wart_block
 mynethersdelight:letios_compost
 mynethersdelight:resurgent_soil
 mynethersdelight:resurgent_soil_farmland
-quark:jasper
-quark:limestone
-quark:shale
 supplementaries:ashen_basalt
 vintagedelight:lush_grass_block

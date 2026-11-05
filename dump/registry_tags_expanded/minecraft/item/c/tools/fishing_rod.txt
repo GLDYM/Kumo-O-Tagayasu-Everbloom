@@ -1,8 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:tools/fishing_rod
-# Entries: 1
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.7096793+08:00
+# Generated: 2026-11-05T11:35:51.017561+08:00
 
+alloyed:steel_fishing_rod
 minecraft:fishing_rod

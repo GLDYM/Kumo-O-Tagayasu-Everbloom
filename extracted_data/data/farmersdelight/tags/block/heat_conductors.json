@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:hopper",
+    {
+      "id": "create:chute",
+      "required": false
+    }
+  ],
+  "replace": false
+}

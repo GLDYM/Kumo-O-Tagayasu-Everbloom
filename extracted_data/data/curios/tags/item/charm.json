@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "beyonddimensions:net_terminal_item",
+    "beyonddimensions:net_magnet_item",
+    "beyonddimensions:net_feeder_item",
+    "beyonddimensions:net_restocker_item",
+    "beyonddimensions:xp_exchange_item",
+    "l2complements:totem_of_dream",
+    "l2complements:totem_of_the_sea",
+    "l2complements:eternal_totem_of_dream",
+    "tsuki:magatama_orange",
+    "tsuki:magatama_pink",
+    "tsuki:magatama_purple",
+    "tsuki:magatama_red",
+    "tsuki:magatama_white",
+    "tsuki:yata_no_kagami"
+  ]
+}

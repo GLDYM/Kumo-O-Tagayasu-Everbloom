@@ -1,0 +1,20 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "display_item": {
+    "components": {
+      "minecraft:custom_model_data": 21
+    },
+    "count": 1,
+    "id": "someassemblyrequired:spread"
+  },
+  "display_name": {
+    "translate": "someassemblyrequired.ingredient.farmersdelight.cod_slice"
+  },
+  "item": "farmersdelight:cod_slice",
+  "sound": "someassemblyrequired:block.sandwich.add_item.wet"
+}

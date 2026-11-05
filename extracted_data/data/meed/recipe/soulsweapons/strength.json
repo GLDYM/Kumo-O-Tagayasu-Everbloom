@@ -1,0 +1,31 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "soulsweapons"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "emiffect"
+      }
+    }
+  ],
+  "type": "jeed:effect_provider",
+  "effect": "minecraft:strength",
+  "providers": [
+    {
+      "item": "soulsweapons:guts_sword"
+    },
+    {
+      "item": "soulsweapons:excalibur"
+    },
+    {
+      "item": "soulsweapons:bloodlust"
+    },
+    {
+      "item": "soulsweapons:warmth_entity_spawn_egg"
+    }
+  ]
+}

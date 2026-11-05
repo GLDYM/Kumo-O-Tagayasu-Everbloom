@@ -1,0 +1,18 @@
+{
+  "type": "tsuki:stone_mortar",
+  "experience": 0,
+  "ingredient": {
+    "tag": "c:bones"
+  },
+  "recipeTime": 200,
+  "results": [
+    {
+      "count": 3,
+      "id": "minecraft:bone_meal"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:bone_meal"
+    }
+  ]
+}

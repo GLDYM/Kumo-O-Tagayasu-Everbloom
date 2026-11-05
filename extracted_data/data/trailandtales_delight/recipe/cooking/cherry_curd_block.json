@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 600,
+  "experience": 0.8,
+  "ingredients": [
+    {
+      "item": "trailandtales_delight:curd_block"
+    },
+    {
+      "item": "trailandtales_delight:cherry_petal"
+    },
+    {
+      "item": "trailandtales_delight:cherry_petal"
+    },
+    {
+      "item": "trailandtales_delight:cherry_petal"
+    },
+    {
+      "item": "trailandtales_delight:cherry_petal"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:cherry_curd_block"
+  }
+}

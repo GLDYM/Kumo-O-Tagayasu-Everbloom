@@ -1,32 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:mineable/shovel
-# Entries: 191
+# Entries: 157
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.886969+08:00
+# Generated: 2026-11-05T11:35:45.0559545+08:00
 
-atmospheric:arid_sand
-atmospheric:crustose
-atmospheric:crustose_path
-atmospheric:red_arid_sand
-atmospheric:suspicious_arid_sand
-atmospheric:suspicious_red_arid_sand
-create_compressed:cinder_flour_pile
-create_compressed:crushed_aluminum_pile
-create_compressed:crushed_copper_pile
-create_compressed:crushed_gold_pile
-create_compressed:crushed_iron_pile
-create_compressed:crushed_lead_pile
-create_compressed:crushed_nickel_pile
-create_compressed:crushed_osmium_pile
-create_compressed:crushed_platinum_pile
-create_compressed:crushed_quicksilver_pile
-create_compressed:crushed_silver_pile
-create_compressed:crushed_tin_pile
-create_compressed:crushed_uranium_pile
-create_compressed:crushed_zinc_pile
-create_compressed:powdered_obsidian_pile
-create_compressed:wheat_flour_pile
+crabbersdelight:wormy_dirt
 createnuclear:enriched_soul_soil
 delighto_flight:weather_soil
 delighto_flight:weather_soil_farmland
@@ -74,19 +53,6 @@ minecraft:yellow_concrete_powder
 mynethersdelight:letios_compost
 mynethersdelight:resurgent_soil
 mynethersdelight:resurgent_soil_farmland
-neapolitan:adzuki_ice_cream_block
-neapolitan:adzuki_soil
-neapolitan:banana_ice_cream_block
-neapolitan:chocolate_ice_cream_block
-neapolitan:mint_ice_cream_block
-neapolitan:strawberry_ice_cream_block
-neapolitan:vanilla_ice_cream_block
-quark:dirt_bricks
-quark:dirt_bricks_slab
-quark:dirt_bricks_stairs
-quark:dirt_bricks_vertical_slab
-quark:dirt_bricks_wall
-quark:gravisand
 supplementaries:ash
 supplementaries:gravel_bricks
 supplementaries:raked_gravel

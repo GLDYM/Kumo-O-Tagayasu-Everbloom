@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "irons_spellbooks:autoloader_crossbow",
+    "iss_magicfromtheeast:repeating_crossbow",
+    "#touhou_little_maid:gohei_enchantable"
+  ]
+}

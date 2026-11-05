@@ -3,7 +3,7 @@
 # Tag: c:soul_speed_blocks
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.5492246+08:00
+# Generated: 2026-11-05T11:35:50.7570519+08:00
 
 minecraft:soul_sand
 minecraft:soul_soil

@@ -1,19 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: diet:grains
-# Entries: 72
+# Entries: 63
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.153601+08:00
+# Generated: 2026-11-05T11:35:51.9373019+08:00
 
-fruitsdelight:blueberry_muffin
-fruitsdelight:bowl_of_pineapple_fried_rice
-fruitsdelight:cranberry_muffin
-fruitsdelight:durian_pie
-fruitsdelight:fig_tart
-fruitsdelight:jam_bread
-fruitsdelight:lemon_tart
-fruitsdelight:mangosteen_cake
-fruitsdelight:pineapple_pie
 kaleidoscope_cookery:rice
 kaleidoscope_cookery:rice_panicle
 youkaishomecoming:assorted_dango

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/magenta/hazard_stripes_white
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.5180337+08:00
+
+railways:magenta_hazard_stripes_chevron_on_white
+railways:magenta_hazard_stripes_diagonal_on_white

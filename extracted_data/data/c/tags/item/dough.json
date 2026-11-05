@@ -1,0 +1,10 @@
+{
+  "values": [
+    "kaleidoscope_cookery:raw_dough",
+    "#c:doughs",
+    "#c:foods/dough",
+    "#c:dough/wheat",
+    "#c:dough/buckwheat",
+    "#c:dough/rice"
+  ]
+}

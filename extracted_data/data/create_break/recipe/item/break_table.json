@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "bab",
+    "bcb",
+    "bbb"
+  ],
+  "key": {
+    "b": { "tag": "minecraft:planks" },
+    "c": { "item": "minecraft:crafting_table" },
+    "a": { "tag": "c:storage_blocks/copper" }
+  },
+  "result": { "id": "create_break:break_table", "count": 1 }
+}

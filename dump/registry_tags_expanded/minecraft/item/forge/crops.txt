@@ -1,12 +1,13 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: forge:crops
-# Entries: 5
+# Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.6993623+08:00
+# Generated: 2026-11-05T11:35:52.8665883+08:00
 
 immortalers_delight:alfalfa
 immortalers_delight:evolutcorn
 immortalers_delight:himekaido
 immortalers_delight:kwat_wheat
+immortalers_delight:obsidian_walnut
 immortalers_delight:pearlip

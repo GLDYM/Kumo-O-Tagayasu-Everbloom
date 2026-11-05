@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:spawns_fallen_jungle_trees
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:59.5108169+08:00
+
+minecraft:bamboo_jungle
+minecraft:jungle
+minecraft:sparse_jungle

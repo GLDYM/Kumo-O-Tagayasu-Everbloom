@@ -1,13 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: create:stone_types/andesite
-# Entries: 18
+# Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.8832181+08:00
+# Generated: 2026-11-05T11:35:51.4658725+08:00
 
-bits_n_bobs:andesite_tile_stairs
-bits_n_bobs:andesite_tile_wall
-bits_n_bobs:andesite_tiles
 create:andesite_pillar
 create:cut_andesite
 create:cut_andesite_brick_stairs

@@ -1,8 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: forge:raw_pork
-# Entries: 1
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.746566+08:00
+# Generated: 2026-11-05T11:35:52.9438525+08:00
 
+farmersdelight:bacon
 minecraft:porkchop

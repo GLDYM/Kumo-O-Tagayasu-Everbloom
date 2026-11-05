@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "#c:plates/bronze",
+    "#c:plates/steel",
+    "create:sturdy_sheet",
+    "create:cardboard",
+    "create:copper_sheet",
+    "create:brass_sheet",
+    "create:iron_sheet",
+    "create:golden_sheet",
+    "createdeco:andesite_sheet",
+    "createdeco:zinc_sheet",
+    "createdeco:industrial_iron_sheet",
+    "simplemetals_tin:tin_sheet",
+    "tofucreate:tofumetal_plate"
+  ]
+}

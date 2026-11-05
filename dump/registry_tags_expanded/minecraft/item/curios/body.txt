@@ -1,8 +1,23 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: curios:body
-# Entries: 1
+# Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.089673+08:00
+# Generated: 2026-11-05T11:35:51.8378462+08:00
 
-cmpackagecouriers:portable_stock_ticker
+create:black_toolbox
+create:blue_toolbox
+create:brown_toolbox
+create:cyan_toolbox
+create:gray_toolbox
+create:green_toolbox
+create:light_blue_toolbox
+create:light_gray_toolbox
+create:lime_toolbox
+create:magenta_toolbox
+create:orange_toolbox
+create:pink_toolbox
+create:purple_toolbox
+create:red_toolbox
+create:white_toolbox
+create:yellow_toolbox

@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: trailandtales_delight:crystal_wood_logs
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:46.1835069+08:00
+
+trailandtales_delight:crystal_wood
+trailandtales_delight:crystal_wood_log
+trailandtales_delight:stripped_crystal_wood
+trailandtales_delight:stripped_crystal_wood_log

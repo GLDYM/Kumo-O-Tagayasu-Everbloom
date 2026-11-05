@@ -1,0 +1,9 @@
+{
+  "values": [
+    "create_connected:fan_sanding_catalyst",
+    {
+      "id": "#c:quicksands",
+      "required": false
+    }
+  ]
+}

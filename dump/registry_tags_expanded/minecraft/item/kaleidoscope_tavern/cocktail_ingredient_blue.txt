@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_tavern:cocktail_ingredient_blue
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.6308017+08:00
+
+kaleidoscope_tavern:ice_wine
+kaleidoscope_tavern:mother_snow
+kaleidoscope_tavern:polaris_sweet_white
+kaleidoscope_tavern:sherry

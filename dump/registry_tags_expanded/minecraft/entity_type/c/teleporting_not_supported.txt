@@ -1,11 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:entity_type
 # Tag: c:teleporting_not_supported
-# Entries: 5
+# Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.6394262+08:00
+# Generated: 2026-11-05T11:35:46.8378934+08:00
 
-bits_n_bobs:inert_stationary_contraption
 create:carriage_contraption
 create:contraption
 create:gantry_contraption

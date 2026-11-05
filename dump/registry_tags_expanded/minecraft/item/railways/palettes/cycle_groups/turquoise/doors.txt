@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/turquoise/doors
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:57.0243285+08:00
+
+railways:turquoise_folding_locometal_door
+railways:turquoise_hinged_locometal_door
+railways:turquoise_sliding_locometal_door

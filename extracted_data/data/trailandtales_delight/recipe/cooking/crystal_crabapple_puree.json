@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "count": 1,
+    "id": "trailandtales_delight:pottery_bowl"
+  },
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredients": [
+    {
+      "item": "trailandtales_delight:crystal_crabapple"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:crystal_crabapple_puree"
+  }
+}

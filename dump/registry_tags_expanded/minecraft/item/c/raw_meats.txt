@@ -1,22 +1,30 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:raw_meats
-# Entries: 26
+# Entries: 49
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.4169168+08:00
+# Generated: 2026-11-05T11:35:50.4737286+08:00
 
+crabbersdelight:raw_frog_leg
+create_bic_bit:raw_herring
+ends_delight:raw_dragon_meat
+ends_delight:raw_dragon_meat_cuts
+ends_delight:raw_ender_mite_meat
 farmersdelight:bacon
 farmersdelight:chicken_cuts
 farmersdelight:cod_slice
 farmersdelight:minced_beef
 farmersdelight:mutton_chops
 farmersdelight:salmon_slice
+immortalers_delight:raw_sniffer_slice
 immortalers_delight:raw_sniffer_steak
 kaleidoscope_cookery:raw_cow_offal
 kaleidoscope_cookery:raw_cut_small_meats
 kaleidoscope_cookery:raw_lamb_chops
 kaleidoscope_cookery:raw_pork_belly
 kaleidoscope_cookery:sashimi
+kaleidoscope_end:raw_ender_dragon_meat
+kaleidoscope_end:raw_endermite_meat
 kaleidoscope_nether:ham
 kaleidoscope_nether:ham_slice
 kaleidoscope_nether:raw_piglin_meat
@@ -26,8 +34,23 @@ minecraft:chicken
 minecraft:cod
 minecraft:mutton
 minecraft:porkchop
+minecraft:rabbit
 minecraft:salmon
 minecraft:tropical_fish
 mynethersdelight:hoglin_loin
 mynethersdelight:hoglin_sausage
-tofucraft:soymeat
+mynethersdelight:minced_strider
+tofucraft:raw_tofufish
+tsuki:bonito
+tsuki:chikuwa
+tsuki:fishcake
+tsuki:kamaboko
+tsuki:machined_bonito
+tsuki:machined_fish
+tsuki:satsumaage
+youkaishomecoming:raw_lamprey
+youkaishomecoming:raw_lamprey_fillet
+youkaishomecoming:raw_tuna
+youkaishomecoming:raw_tuna_slice
+youkaishomecoming:raw_venison
+youkaishomecoming:raw_venison_slice

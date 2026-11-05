@@ -1,10 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:enchantment
 # Tag: minecraft:treasure
-# Entries: 15
+# Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.5791212+08:00
+# Generated: 2026-11-05T11:35:46.7748688+08:00
 
+create_ltab:enchantment_luck
+create_ltab:wanderer
 minecraft:binding_curse
 minecraft:frost_walker
 minecraft:mending

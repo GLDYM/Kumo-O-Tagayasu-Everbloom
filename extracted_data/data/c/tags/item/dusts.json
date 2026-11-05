@@ -1,0 +1,9 @@
+{
+  "values": [
+    "createnuclear:uranium_powder",
+    "createnuclear:coal_dust",
+    "createnuclear:thorium_dust",
+    "supplementaries:ash"
+  ],
+  "replace": false
+}

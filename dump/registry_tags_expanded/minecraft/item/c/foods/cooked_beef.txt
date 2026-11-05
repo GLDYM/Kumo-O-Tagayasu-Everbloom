@@ -1,11 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:foods/cooked_beef
-# Entries: 4
+# Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.871228+08:00
+# Generated: 2026-11-05T11:35:49.2824084+08:00
 
 farmersdelight:beef_patty
+immortalers_delight:cooked_sniffer_slice
+immortalers_delight:cooked_sniffer_steak
 kaleidoscope_cookery:cooked_cow_offal
 minecraft:cooked_beef
-tofudelight:cooked_soymeat

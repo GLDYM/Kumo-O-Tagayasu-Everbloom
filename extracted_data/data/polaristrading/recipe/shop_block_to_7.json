@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "polaristrading:shop_block_item_oak"
+    },
+    {
+      "item": "polaristrading:shop_block_item_birch"
+    },
+    {
+      "item": "polaristrading:shop_block_item_spruce"
+    },
+    {
+      "item": "polaristrading:shop_block_item_cherry"
+    },
+    {
+      "item": "polaristrading:shop_block_item_quartz"
+    },
+    {
+      "item": "polaristrading:shop_block_item_cat"
+    },
+    {
+      "item": "polaristrading:shop_block_item_dog"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "polaristrading:shop_block_item_rabbit"
+  }
+}

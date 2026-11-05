@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_cookery:warmth_heat_source_blocks
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.4741085+08:00
+# Generated: 2026-11-05T11:35:44.2213782+08:00
 
 minecraft:fire
 minecraft:lava

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "abyss_sonata:abyss_sonata",
+    "irons_spellbooks:graybeard_staff",
+    "irons_spellbooks:artificer_cane",
+    "irons_spellbooks:ice_staff",
+    "irons_spellbooks:lightning_rod",
+    "irons_spellbooks:blood_staff",
+    "irons_spellbooks:pyrium_staff",
+    {
+      "id": "touhou_little_maid_spell:star_shadow_staff",
+      "required": false
+    }
+  ]
+}

@@ -1,7 +1,5 @@
 {
   "values": [
-    "kaleidoscope_cookery:fried_egg",
-    "minecraft:egg",
-    "minecraft:turtle_egg"
+    "bakeries:whole_egg"
   ]
 }

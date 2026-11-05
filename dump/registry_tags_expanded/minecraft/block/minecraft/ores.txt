@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:ores
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:45.1181746+08:00
+
+expores:deepslate_experience_ore
+expores:end_experience_ore
+expores:experience_ore
+expores:nether_experience_ore

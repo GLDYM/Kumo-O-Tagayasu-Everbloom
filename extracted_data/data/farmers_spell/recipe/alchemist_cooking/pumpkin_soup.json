@@ -1,0 +1,32 @@
+{
+    "type": "farmers_spell:alchemist_cooking",
+    "ingredients": [
+        {
+            "item": "irons_spellbooks:oakskin_elixir"
+        },
+        {
+            "item": "farmersdelight:pumpkin_slice"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "tag": "c:crops/onion"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "farmers_spell:pumpkin_soup"
+    },
+    "container": {
+        "id": "minecraft:pumpkin"
+    },
+    "experience": 1.0,
+    "cookingtime": 200
+}

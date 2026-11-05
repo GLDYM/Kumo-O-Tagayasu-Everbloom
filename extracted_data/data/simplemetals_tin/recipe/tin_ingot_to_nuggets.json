@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "simplemetals_tin:tin_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "simplemetals_tin:tin_nugget"
+  }
+}

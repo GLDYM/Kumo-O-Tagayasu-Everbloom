@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: gensouworks:human_village
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.9901359+08:00
+
+minecraft:plains

@@ -3,7 +3,7 @@
 # Tag: supplementaries:bamboo_spikes
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.0971177+08:00
+# Generated: 2026-11-05T11:35:57.4088291+08:00
 
 supplementaries:bamboo_spikes
 supplementaries:bamboo_spikes_tipped

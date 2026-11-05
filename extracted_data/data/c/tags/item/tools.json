@@ -1,0 +1,17 @@
+{
+  "values": [
+    "bakeries:bread_knife",
+    "bakeries:flour_sieve",
+    "#c:tools/knife",
+    "fluidlogistics:hand_pointer",
+    "#immortalers_delight:tools/immortal_knives",
+    "kaleidoscope_chinesefood:mooncake_mold",
+    "supplementaries:wrench",
+    "supplementaries:bubble_blower",
+    "supplementaries:slingshot",
+    "#c:tools/hammers",
+    "#tsuki:tools/katanas",
+    "#minecraft:spears"
+  ],
+  "replace": false
+}

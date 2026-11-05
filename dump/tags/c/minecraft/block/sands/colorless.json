@@ -1,5 +1,9 @@
 {
   "values": [
-    "atmospheric:arid_sand"
+    "minecraft:sand",
+    {
+      "id": "#forge:sand/colorless",
+      "required": false
+    }
   ]
 }

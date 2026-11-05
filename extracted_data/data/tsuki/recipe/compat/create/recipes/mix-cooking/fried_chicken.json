@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "modid": "create",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "c:foods/raw_chicken"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "amount": 125,
+      "tag": "c:food_oil",
+      "type": "neoforge:tag"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "tsuki:fried_chicken"
+    }
+  ]
+}

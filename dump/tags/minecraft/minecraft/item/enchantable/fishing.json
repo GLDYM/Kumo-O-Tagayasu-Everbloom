@@ -1,5 +1,6 @@
 {
+  "replace": false,
   "values": [
-    "minecraft:fishing_rod"
+    "alloyed:steel_fishing_rod"
   ]
 }

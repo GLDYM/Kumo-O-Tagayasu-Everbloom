@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:nautilus_food
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:54.3313769+08:00
+
+create_bic_bit:cooked_herring
+create_bic_bit:raw_herring
+kaleidoscope_chinesefood:yellow_croaker
+minecraft:cod
+minecraft:cod_bucket
+minecraft:cooked_cod
+minecraft:cooked_salmon
+minecraft:pufferfish
+minecraft:pufferfish_bucket
+minecraft:salmon
+minecraft:salmon_bucket
+minecraft:tropical_fish
+minecraft:tropical_fish_bucket
+youkaishomecoming:raw_lamprey
+youkaishomecoming:raw_lamprey_fillet
+youkaishomecoming:roasted_lamprey_fillet

@@ -1,15 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: diet:proteins
-# Entries: 93
+# Entries: 88
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.155611+08:00
+# Generated: 2026-11-05T11:35:51.9404795+08:00
 
-fruitsdelight:fig_chicken_stew
-fruitsdelight:lychee_chicken
-fruitsdelight:orange_chicken
-fruitsdelight:orange_marinated_pork
-fruitsdelight:pineapple_marinated_pork
 kaleidoscope_cookery:caterpillar
 kaleidoscope_cookery:raw_cut_small_meats
 kaleidoscope_end:end_caterpillar

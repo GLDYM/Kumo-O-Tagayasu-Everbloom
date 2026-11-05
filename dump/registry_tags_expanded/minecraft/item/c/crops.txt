@@ -1,47 +1,40 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:crops
-# Entries: 89
+# Entries: 88
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.5567981+08:00
+# Generated: 2026-11-05T11:35:48.5970911+08:00
 
-atmospheric:aloe_leaves
-atmospheric:blood_orange
-atmospheric:currant
-atmospheric:dragon_fruit
-atmospheric:orange
-atmospheric:passion_fruit
-atmospheric:yucca_fruit
+bakeries:olive
+bakeries:taro
 bakeries:tomato
 corn_delight:corn
+corn_delight:corn_seeds
+corn_delight:corncob
+crabbersdelight:coconut
+delighto_flight:cloud_berries
+delighto_flight:thunder_fruit
 farmersdelight:cabbage
 farmersdelight:cabbage_leaf
 farmersdelight:onion
+farmersdelight:pumpkin_slice
 farmersdelight:rice
+farmersdelight:rice_panicle
+farmersdelight:rotten_tomato
 farmersdelight:tomato
-fruitsdelight:blueberry
-fruitsdelight:cranberry
-fruitsdelight:hamimelon_slice
-fruitsdelight:hawberry
-fruitsdelight:lemon
-fruitsdelight:lychee
-fruitsdelight:mango
-fruitsdelight:orange
-fruitsdelight:peach
-fruitsdelight:pear
-fruitsdelight:persimmon
-fruitsdelight:pineapple
 immortalers_delight:alfalfa
 immortalers_delight:evolutcorn
 immortalers_delight:himekaido
 immortalers_delight:kwat_wheat
+immortalers_delight:obsidian_walnut
 immortalers_delight:pearlip
+kaleidoscope_chinesefood:eggplant
 kaleidoscope_cookery:green_chili
 kaleidoscope_cookery:lettuce
 kaleidoscope_cookery:red_chili
 kaleidoscope_cookery:rice
 kaleidoscope_cookery:tomato
-kaleidoscope_dim_wine:hop
+kaleidoscope_end:dream_berry
 kaleidoscope_nether:soul_pepper
 minecraft:apple
 minecraft:beetroot
@@ -60,8 +53,7 @@ minecraft:sweet_berries
 minecraft:wheat
 mynethersdelight:bullet_pepper
 mynethersdelight:ghasmati
-neapolitan:adzuki_beans
-neapolitan:mint_leaves
+pineapple_delight:pineapple
 supplementaries:flax
 tofucraft:apricot
 tofucraft:chili
@@ -71,9 +63,14 @@ trailandtales_delight:lantern_fruit
 trailandtales_delight:pitcher_taro
 tsuki:buckwheat
 tsuki:cabbage
+tsuki:chestnut
 tsuki:eggplant
 tsuki:grape
+tsuki:grape_green
 tsuki:hop
+tsuki:lemon
+tsuki:lime
+tsuki:mint
 tsuki:onion
 tsuki:peppercorn_green
 tsuki:peppercorn_red
@@ -90,7 +87,9 @@ vintagedelight:ghost_pepper
 vintagedelight:oat
 vintagedelight:peanut
 youkaishomecoming:black_grape
+youkaishomecoming:coffee_berries
 youkaishomecoming:cucumber
 youkaishomecoming:red_grape
 youkaishomecoming:redbean
+youkaishomecoming:soybean
 youkaishomecoming:white_grape

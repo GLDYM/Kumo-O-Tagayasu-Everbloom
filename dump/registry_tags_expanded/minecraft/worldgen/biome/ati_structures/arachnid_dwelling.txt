@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: ati_structures:arachnid_dwelling
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.2946993+08:00
+
+minecraft:bamboo_jungle
+minecraft:dark_forest
+minecraft:jungle
+minecraft:mangrove_swamp
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:snowy_taiga
+minecraft:sparse_jungle
+minecraft:swamp
+minecraft:taiga

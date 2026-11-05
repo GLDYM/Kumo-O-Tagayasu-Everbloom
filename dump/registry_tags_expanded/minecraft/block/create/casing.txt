@@ -1,10 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: create:casing
-# Entries: 18
+# Entries: 23
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.9632964+08:00
+# Generated: 2026-11-05T11:35:43.282898+08:00
 
+alloyed:bronze_casing
+alloyed:steel_casing
 create:andesite_casing
 create:brass_casing
 create:copper_casing
@@ -20,6 +22,9 @@ createprism:brass_illumination_casing
 createprism:copper_clear_glass_casing
 createprism:copper_glass_casing
 createprism:copper_illumination_casing
+createprism:steel_clear_glass_casing
+createprism:steel_glass_casing
+createprism:steel_tinted_glass_casing
 createprism:train_clear_glass_casing
 createprism:train_glass_casing
 createprism:train_illumination_casing

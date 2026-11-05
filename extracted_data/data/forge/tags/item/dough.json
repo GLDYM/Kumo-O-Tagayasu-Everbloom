@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "farmersdelight:wheat_dough",
+      "required": false
+    },
+    "immortalers_delight:kwat_wheat_dough"
+  ]
+}

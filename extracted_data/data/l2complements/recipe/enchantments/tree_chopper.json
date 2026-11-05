@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "type": "l2core:enchantment",
+      "enchantment": "minecraft:efficiency",
+      "minLevel": 1
+    },
+    "B": {
+      "item": "minecraft:iron_axe"
+    },
+    "D": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "pattern": [
+    " D ",
+    " A ",
+    "DBD"
+  ],
+  "result": {
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "l2complements:tree_chopper": 1
+        }
+      }
+    },
+    "count": 1,
+    "id": "minecraft:enchanted_book"
+  }
+}

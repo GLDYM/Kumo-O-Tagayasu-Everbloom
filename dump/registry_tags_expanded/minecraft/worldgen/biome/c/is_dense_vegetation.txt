@@ -3,7 +3,7 @@
 # Tag: c:is_dense_vegetation
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.5233937+08:00
+# Generated: 2026-11-05T11:35:58.5792012+08:00
 
 minecraft:bamboo_jungle
 minecraft:dark_forest

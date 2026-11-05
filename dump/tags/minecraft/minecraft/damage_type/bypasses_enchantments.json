@@ -1,6 +1,6 @@
 {
-  "values": [
-      "immortalers_delight:drunk",
-      "immortalers_delight:gas"
-  ]
+    "replace": false,
+    "values": [
+        "irons_spellbooks:eldritch_magic"
+    ]
 }

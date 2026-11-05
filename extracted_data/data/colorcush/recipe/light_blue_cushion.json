@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:light_blue_carpet"
+    }
+  },
+  "result": {
+    "id": "colorcush:light_blue_cushion",
+    "count": 1
+  }
+}

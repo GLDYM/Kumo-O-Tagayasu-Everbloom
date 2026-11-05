@@ -3,6 +3,6 @@
 # Tag: c:buckets/dye/magenta
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.4096148+08:00
+# Generated: 2026-11-05T11:35:48.2844016+08:00
 
 create_dragons_plus:magenta_dye_bucket

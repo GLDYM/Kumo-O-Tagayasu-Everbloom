@@ -1,8 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:raw_ham
-# Entries: 1
+# Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.4030682+08:00
+# Generated: 2026-11-05T11:35:50.4259945+08:00
 
+farmers_spell:cinderoous_ham
+farmersdelight:ham
 kaleidoscope_nether:ham
+kaleidoscope_nether:ham_slice

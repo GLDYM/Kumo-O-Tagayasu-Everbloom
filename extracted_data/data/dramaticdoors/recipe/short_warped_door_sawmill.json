@@ -1,0 +1,16 @@
+{
+  "type": "woodworks:sawmill",
+  "ingredient": {
+    "item": "minecraft:warped_door"
+  },
+  "result": {
+    "id": "dramaticdoors:short_warped_door",
+    "count": 2
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "woodworks"
+    }
+  ]
+}

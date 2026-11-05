@@ -3,6 +3,6 @@
 # Tag: iss_magicfromtheeast:dune_focus
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.9234122+08:00
+# Generated: 2026-11-05T11:35:53.3929856+08:00
 
 iss_magicfromtheeast:arcane_relics

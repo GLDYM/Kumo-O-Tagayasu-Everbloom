@@ -1,0 +1,51 @@
+{
+  "replace": false,
+  "values": [
+    "corn_delight:corn_crop",
+    "farmersdelight:cabbages",
+    "farmersdelight:onions",
+    "farmersdelight:rice_panicles",
+    "farmersdelight:budding_tomatoes",
+    "farmersdelight:tomatoes",
+    "farmersdelight:tomatoes_on_rope",
+    "kaleidoscope_cookery:tomato_crop",
+    "kaleidoscope_cookery:rice_crop",
+    "kaleidoscope_cookery:chili_crop",
+    "kaleidoscope_cookery:lettuce_crop",
+    "kaleidoscope_cookery:tea_tree",
+    "supplementaries:flax",
+    {
+      "id": "supplementaries:rope_tomatoes",
+      "required": false
+    },
+    {
+      "id": "supplementaries:stick_tomatoes",
+      "required": false
+    },
+    "tofucraft:rice",
+    "tofucraft:soybean",
+    "tofucraft:soybean_nether",
+    "tofucraft:soybean_soul",
+    "tofucraft:leek_crop",
+    "tsuki:rice_crop",
+    "tsuki:buckwheat_crop",
+    "tsuki:cabbage_crop",
+    "tsuki:eggplant_crop",
+    "tsuki:onion_crop",
+    "tsuki:radish_crop",
+    "tsuki:rapeseed_crop",
+    "tsuki:redbean_crop",
+    "tsuki:rice_crop_root",
+    "tsuki:taro_crop",
+    "tsuki:tomato_crop",
+    "tsuki:pepper_crop",
+    "tsuki:vanilla_crop",
+    "tsuki:hops_crop",
+    "tsuki:wild_pepper",
+    "tsuki:wild_vanilla",
+    "vintagedelight:oat_crop",
+    "vintagedelight:peanut_crop",
+    "vintagedelight:ghost_pepper_crop",
+    "vintagedelight:cucumber_crop"
+  ]
+}

@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: irons_spellbooks:gluttony_magic
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:46.3214604+08:00
+
+farmers_spell:gluttony_magic

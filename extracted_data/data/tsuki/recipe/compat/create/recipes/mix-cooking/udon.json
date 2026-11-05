@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "modid": "create",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "tsuki:udon_raw"
+    },
+    {
+      "item": "tsuki:noodle_soup"
+    },
+    {
+      "amount": 250,
+      "fluid": "minecraft:water",
+      "type": "neoforge:single"
+    }
+  ],
+  "results": [
+    {
+      "id": "tsuki:udon"
+    }
+  ]
+}

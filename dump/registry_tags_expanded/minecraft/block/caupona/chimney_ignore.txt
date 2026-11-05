@@ -1,13 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: caupona:chimney_ignore
-# Entries: 86
+# Entries: 72
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.9402841+08:00
+# Generated: 2026-11-05T11:35:43.2608326+08:00
 
 dramaticdoors:short_acacia_door
 dramaticdoors:short_andesite_door
-dramaticdoors:short_aspen_door
 dramaticdoors:short_bamboo_door
 dramaticdoors:short_birch_door
 dramaticdoors:short_brass_door
@@ -18,36 +17,29 @@ dramaticdoors:short_crimson_door
 dramaticdoors:short_dark_oak_door
 dramaticdoors:short_exposed_copper_door
 dramaticdoors:short_gold_door
-dramaticdoors:short_grimwood_door
 dramaticdoors:short_iron_door
 dramaticdoors:short_jungle_door
-dramaticdoors:short_kousa_door
-dramaticdoors:short_laurel_door
 dramaticdoors:short_locked_andesite_door
 dramaticdoors:short_locked_brass_door
+dramaticdoors:short_locked_steel_door
 dramaticdoors:short_locked_zinc_door
 dramaticdoors:short_mangrove_door
-dramaticdoors:short_morado_door
 dramaticdoors:short_netherite_door
 dramaticdoors:short_oak_door
 dramaticdoors:short_oxidized_copper_door
+dramaticdoors:short_pale_oak_door
 dramaticdoors:short_powdery_door
-dramaticdoors:short_quark_ancient_door
-dramaticdoors:short_quark_azalea_door
-dramaticdoors:short_quark_blossom_door
-dramaticdoors:short_rosewood_door
 dramaticdoors:short_spruce_door
+dramaticdoors:short_steel_door
 dramaticdoors:short_warped_door
 dramaticdoors:short_waxed_copper_door
 dramaticdoors:short_waxed_exposed_copper_door
 dramaticdoors:short_waxed_oxidized_copper_door
 dramaticdoors:short_waxed_weathered_copper_door
 dramaticdoors:short_weathered_copper_door
-dramaticdoors:short_yucca_door
 dramaticdoors:short_zinc_door
 dramaticdoors:tall_acacia_door
 dramaticdoors:tall_andesite_door
-dramaticdoors:tall_aspen_door
 dramaticdoors:tall_bamboo_door
 dramaticdoors:tall_birch_door
 dramaticdoors:tall_brass_door
@@ -63,31 +55,25 @@ dramaticdoors:tall_crimson_door
 dramaticdoors:tall_dark_oak_door
 dramaticdoors:tall_exposed_copper_door
 dramaticdoors:tall_gold_door
-dramaticdoors:tall_grimwood_door
 dramaticdoors:tall_iron_door
 dramaticdoors:tall_jungle_door
-dramaticdoors:tall_kousa_door
-dramaticdoors:tall_laurel_door
 dramaticdoors:tall_locked_andesite_door
 dramaticdoors:tall_locked_brass_door
 dramaticdoors:tall_locked_industrial_iron_door
+dramaticdoors:tall_locked_steel_door
 dramaticdoors:tall_locked_zinc_door
 dramaticdoors:tall_mangrove_door
-dramaticdoors:tall_morado_door
 dramaticdoors:tall_netherite_door
 dramaticdoors:tall_oak_door
 dramaticdoors:tall_oxidized_copper_door
+dramaticdoors:tall_pale_oak_door
 dramaticdoors:tall_powdery_door
-dramaticdoors:tall_quark_ancient_door
-dramaticdoors:tall_quark_azalea_door
-dramaticdoors:tall_quark_blossom_door
-dramaticdoors:tall_rosewood_door
 dramaticdoors:tall_spruce_door
+dramaticdoors:tall_steel_door
 dramaticdoors:tall_warped_door
 dramaticdoors:tall_waxed_copper_door
 dramaticdoors:tall_waxed_exposed_copper_door
 dramaticdoors:tall_waxed_oxidized_copper_door
 dramaticdoors:tall_waxed_weathered_copper_door
 dramaticdoors:tall_weathered_copper_door
-dramaticdoors:tall_yucca_door
 dramaticdoors:tall_zinc_door

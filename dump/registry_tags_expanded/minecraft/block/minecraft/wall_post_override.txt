@@ -1,31 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:wall_post_override
-# Entries: 186
+# Entries: 171
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.029528+08:00
+# Generated: 2026-11-05T11:35:45.4268908+08:00
 
-atmospheric:aspen_pressure_plate
-atmospheric:aspen_sign
-atmospheric:aspen_wall_sign
-atmospheric:grimwood_pressure_plate
-atmospheric:grimwood_sign
-atmospheric:grimwood_wall_sign
-atmospheric:kousa_pressure_plate
-atmospheric:kousa_sign
-atmospheric:kousa_wall_sign
-atmospheric:laurel_pressure_plate
-atmospheric:laurel_sign
-atmospheric:laurel_wall_sign
-atmospheric:morado_pressure_plate
-atmospheric:morado_sign
-atmospheric:morado_wall_sign
-atmospheric:rosewood_pressure_plate
-atmospheric:rosewood_sign
-atmospheric:rosewood_wall_sign
-atmospheric:yucca_pressure_plate
-atmospheric:yucca_sign
-atmospheric:yucca_wall_sign
 copycats:copycat_heavy_weighted_pressure_plate
 copycats:copycat_light_weighted_pressure_plate
 copycats:copycat_stone_pressure_plate
@@ -90,9 +69,11 @@ minecraft:blue_banner
 minecraft:blue_wall_banner
 minecraft:brown_banner
 minecraft:brown_wall_banner
+minecraft:cactus_flower
 minecraft:cherry_pressure_plate
 minecraft:cherry_sign
 minecraft:cherry_wall_sign
+minecraft:copper_torch
 minecraft:crimson_pressure_plate
 minecraft:crimson_sign
 minecraft:crimson_wall_sign
@@ -126,9 +107,15 @@ minecraft:oak_sign
 minecraft:oak_wall_sign
 minecraft:orange_banner
 minecraft:orange_wall_banner
+minecraft:pale_oak_pressure_plate
+minecraft:pale_oak_sign
+minecraft:pale_oak_wall_sign
 minecraft:pink_banner
 minecraft:pink_wall_banner
 minecraft:polished_blackstone_pressure_plate
+minecraft:poplar_pressure_plate
+minecraft:poplar_sign
+minecraft:poplar_wall_sign
 minecraft:purple_banner
 minecraft:purple_wall_banner
 minecraft:red_banner
@@ -151,15 +138,6 @@ minecraft:yellow_wall_banner
 mynethersdelight:powdery_pressure_plate
 mynethersdelight:powdery_sign
 mynethersdelight:powdery_wall_sign
-quark:ancient_pressure_plate
-quark:ancient_sign
-quark:ancient_wall_sign
-quark:azalea_pressure_plate
-quark:azalea_sign
-quark:azalea_wall_sign
-quark:blossom_pressure_plate
-quark:blossom_sign
-quark:blossom_wall_sign
 supplementaries:candle_holder
 supplementaries:candle_holder_black
 supplementaries:candle_holder_blue
@@ -191,3 +169,10 @@ tofucraft:leek_sign
 tofucraft:leek_wall_sign
 tofucraft:tofustem_sign
 tofucraft:tofustem_wall_sign
+trailandtales_delight:crystal_wood_pressure_plate
+trailandtales_delight:crystal_wood_sign
+trailandtales_delight:crystal_wood_wall_sign
+tsuki:pressure_plate_plank_bamboo
+tsuki:pressure_plate_plank_maple
+tsuki:pressure_plate_plank_sakura
+tsuki:pressure_plate_plank_ume

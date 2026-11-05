@@ -1,8 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:entity_type
-# Tag: neapolitan:explosion_heals_in_strawberry
-# Entries: 1
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.79508+08:00
-
-minecraft:creeper

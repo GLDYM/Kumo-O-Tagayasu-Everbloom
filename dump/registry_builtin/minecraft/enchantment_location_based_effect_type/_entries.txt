@@ -1,8 +1,8 @@
 # Registry dump
 # Registry: minecraft:enchantment_location_based_effect_type
 # Minecraft: 1.21.1
-# Entries: 14
-# Generated: 2026-06-18T20:40:59.1620087+08:00
+# Entries: 17
+# Generated: 2026-11-05T11:31:32.8320552+08:00
 
 minecraft:all_of raw_id=0 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 minecraft:apply_mob_effect raw_id=1 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
@@ -18,3 +18,6 @@ minecraft:run_function raw_id=10 class=com.mojang.serialization.codecs.RecordCod
 minecraft:set_block_properties raw_id=11 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 minecraft:spawn_particles raw_id=12 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 minecraft:summon_entity raw_id=13 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+vanillabackport:apply_entity_impulse raw_id=14 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+vanillabackport:apply_exhaustion raw_id=15 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+vanillabackport:play_sound raw_id=16 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

@@ -1,8 +1,8 @@
 # Registry dump
 # Registry: minecraft:enchantment_entity_effect_type
 # Minecraft: 1.21.1
-# Entries: 16
-# Generated: 2026-06-18T20:40:59.1590047+08:00
+# Entries: 19
+# Generated: 2026-11-05T11:31:32.8255332+08:00
 
 iss_magicfromtheeast:ghostly_cold raw_id=14 class=com.mojang.serialization.MapCodec$2
 iss_magicfromtheeast:soul_flame raw_id=13 class=com.mojang.serialization.MapCodec$2
@@ -20,3 +20,6 @@ minecraft:set_block_properties raw_id=10 class=com.mojang.serialization.codecs.R
 minecraft:spawn_particles raw_id=11 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 minecraft:summon_entity raw_id=12 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 tofucraft:no_item_damage_explode raw_id=15 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+vanillabackport:apply_entity_impulse raw_id=16 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+vanillabackport:apply_exhaustion raw_id=17 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
+vanillabackport:play_sound raw_id=18 class=com.mojang.serialization.codecs.RecordCodecBuilder$2

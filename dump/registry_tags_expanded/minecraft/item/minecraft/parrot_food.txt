@@ -1,11 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:parrot_food
-# Entries: 17
+# Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.2451671+08:00
+# Generated: 2026-11-05T11:35:54.3579895+08:00
 
-atmospheric:aloe_kernels
 corn_delight:corn
 corn_delight:corn_seeds
 corn_delight:corncob
@@ -18,7 +17,6 @@ minecraft:pitcher_pod
 minecraft:pumpkin_seeds
 minecraft:torchflower_seeds
 minecraft:wheat_seeds
-neapolitan:strawberry_pips
 supplementaries:flax_seeds
 tofucraft:seeds_rice
 tofucraft:soybeans_parched

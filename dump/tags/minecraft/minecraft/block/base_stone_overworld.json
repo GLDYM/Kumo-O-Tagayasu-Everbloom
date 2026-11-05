@@ -1,8 +1,10 @@
 {
-  "replace": false,
   "values": [
-    "quark:jasper",
-    "quark:limestone",
-    "quark:shale"
+    "minecraft:stone",
+    "minecraft:granite",
+    "minecraft:diorite",
+    "minecraft:andesite",
+    "minecraft:tuff",
+    "minecraft:deepslate"
   ]
 }

@@ -1,37 +1,8 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: sereneseasons:unbreakable_infertile_crops
-# Entries: 30
+# Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.1932845+08:00
+# Generated: 2026-11-05T11:35:45.8352391+08:00
 
 farmersdelight:onions
-fruitsdelight:apple_leaves
-fruitsdelight:apple_sapling
-fruitsdelight:bayberry_leaves
-fruitsdelight:bayberry_sapling
-fruitsdelight:blueberry_bush
-fruitsdelight:cranberry_bush
-fruitsdelight:durian_leaves
-fruitsdelight:durian_sapling
-fruitsdelight:fig_leaves
-fruitsdelight:fig_sapling
-fruitsdelight:hawberry_leaves
-fruitsdelight:hawberry_sapling
-fruitsdelight:kiwi_leaves
-fruitsdelight:kiwi_sapling
-fruitsdelight:lemon_tree
-fruitsdelight:lychee_leaves
-fruitsdelight:lychee_sapling
-fruitsdelight:mango_leaves
-fruitsdelight:mango_sapling
-fruitsdelight:mangosteen_leaves
-fruitsdelight:mangosteen_sapling
-fruitsdelight:orange_leaves
-fruitsdelight:orange_sapling
-fruitsdelight:peach_leaves
-fruitsdelight:peach_sapling
-fruitsdelight:pear_leaves
-fruitsdelight:pear_sapling
-fruitsdelight:persimmon_leaves
-fruitsdelight:persimmon_sapling

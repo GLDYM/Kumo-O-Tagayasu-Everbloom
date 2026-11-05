@@ -3,7 +3,7 @@
 # Tag: c:foods/pie
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.9456277+08:00
+# Generated: 2026-11-05T11:35:49.417154+08:00
 
 farmersdelight:apple_pie_slice
 farmersdelight:chocolate_pie_slice

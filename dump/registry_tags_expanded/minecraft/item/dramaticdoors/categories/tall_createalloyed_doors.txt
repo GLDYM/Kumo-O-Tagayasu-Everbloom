@@ -1,7 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: dramaticdoors:categories/tall_createalloyed_doors
-# Entries: 0
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.5151392+08:00
+# Generated: 2026-11-05T11:35:52.4667896+08:00
 
+dramaticdoors:tall_locked_steel_door
+dramaticdoors:tall_steel_door

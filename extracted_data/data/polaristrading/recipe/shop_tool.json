@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "shop",
+  "key": {
+    "s": {
+      "item": "minecraft:iron_ingot"
+    },
+    "x": {
+      "item": "minecraft:stick"
+    },
+    "y": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "  y",
+    " x ",
+    "s  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "polaristrading:shop_tool"
+  }
+}

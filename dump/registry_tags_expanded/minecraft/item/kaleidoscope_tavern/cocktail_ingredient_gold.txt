@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_tavern:cocktail_ingredient_gold
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.6568573+08:00
+
+kaleidoscope_tavern:honey_wine
+kaleidoscope_tavern:madame_shexiang
+kaleidoscope_tavern:miners_star
+kaleidoscope_tavern:sunset_glow

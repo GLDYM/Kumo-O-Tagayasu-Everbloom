@@ -3,9 +3,9 @@
 # Tag: createnuclear:anti_radiation_armor
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.073231+08:00
+# Generated: 2026-11-05T11:35:51.8070523+08:00
 
-createnuclear:anti_radiation_boots
-createnuclear:white_anti_radiation_chestplate
-createnuclear:white_anti_radiation_helmet
-createnuclear:white_anti_radiation_leggings
+createnuclear:default_anti_radiation_boots
+createnuclear:default_anti_radiation_chestplate
+createnuclear:default_anti_radiation_helmet
+createnuclear:default_anti_radiation_leggings

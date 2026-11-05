@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/pink/doors
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.7731045+08:00
+
+railways:pink_folding_locometal_door
+railways:pink_hinged_locometal_door
+railways:pink_sliding_locometal_door

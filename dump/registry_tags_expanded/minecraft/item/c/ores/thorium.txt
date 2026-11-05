@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:ores/thorium
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:50.2653029+08:00
+
+createnuclear:deepslate_thorium_ore
+createnuclear:thorium_ore

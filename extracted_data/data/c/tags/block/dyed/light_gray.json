@@ -1,0 +1,17 @@
+{
+  "values": [
+    "handcrafted:light_gray_cushion",
+    "supplementaries:flag_light_gray",
+    "supplementaries:present_light_gray",
+    "supplementaries:trapped_present_light_gray",
+    "supplementaries:candle_holder_light_gray",
+    "supplementaries:awning_light_gray",
+    "supplementaries:bunting_light_gray",
+    "supplementaries:bunting_wall_light_gray",
+    "minecraft:light_gray_wool_stairs",
+    "minecraft:light_gray_wool_slab",
+    "minecraft:light_gray_concrete_stairs",
+    "minecraft:light_gray_concrete_slab"
+  ],
+  "replace": false
+}

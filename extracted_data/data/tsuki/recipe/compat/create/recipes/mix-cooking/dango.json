@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "modid": "create",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "tsuki:dough_rice"
+    },
+    {
+      "amount": 125,
+      "fluid": "minecraft:water",
+      "type": "neoforge:single"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "tsuki:dango"
+    }
+  ]
+}

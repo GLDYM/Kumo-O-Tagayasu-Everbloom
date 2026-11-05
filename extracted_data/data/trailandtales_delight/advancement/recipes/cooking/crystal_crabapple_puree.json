@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_crystal_apple": {
+      "conditions": {
+        "items": [
+          {
+            "items": "trailandtales_delight:crystal_crabapple"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "trailandtales_delight:cooking/crystal_crabapple_puree"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_crystal_apple"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "trailandtales_delight:cooking/crystal_crabapple_puree"
+    ]
+  }
+}

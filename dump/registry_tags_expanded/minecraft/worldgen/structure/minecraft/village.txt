@@ -1,23 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:worldgen/structure
 # Tag: minecraft:village
-# Entries: 18
+# Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.5011036+08:00
+# Generated: 2026-11-05T11:36:00.0954059+08:00
 
-atmospheric:village_scrubland
-integrated_villages:airship_village
-integrated_villages:cabin_village
-integrated_villages:clockwork_village
-integrated_villages:kutcha_village
-integrated_villages:marketstead_village
-integrated_villages:mediterranean_village
-integrated_villages:mossy_mounds
-integrated_villages:oasis_village
-integrated_villages:pirate_village
-integrated_villages:quark/minka_village
-integrated_villages:sunken_village
-integrated_villages:tavern_village
 minecraft:village_desert
 minecraft:village_plains
 minecraft:village_savanna

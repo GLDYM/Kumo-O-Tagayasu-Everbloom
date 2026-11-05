@@ -1,0 +1,14 @@
+{
+  "values": [
+    "minecraft:shulker_shell",
+    "kaleidoscope_end:dragon_egg_shell",
+    "minecraft:stick",
+    {
+      "id": "betternether:stalagnate_bowl",
+      "required": false
+    },
+    "minecraft:bucket",
+    "minecraft:bowl",
+    "minecraft:glass_bottle"
+  ]
+}

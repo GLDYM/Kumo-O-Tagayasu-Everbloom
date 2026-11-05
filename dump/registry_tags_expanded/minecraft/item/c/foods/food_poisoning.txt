@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:foods/food_poisoning
-# Entries: 10
+# Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.9083829+08:00
+# Generated: 2026-11-05T11:35:49.3586102+08:00
 
 farmersdelight:chicken_cuts
 farmersdelight:nether_salad
@@ -14,4 +14,3 @@ minecraft:poisonous_potato
 minecraft:pufferfish
 minecraft:rotten_flesh
 minecraft:spider_eye
-neapolitan:chocolate_spider_eye

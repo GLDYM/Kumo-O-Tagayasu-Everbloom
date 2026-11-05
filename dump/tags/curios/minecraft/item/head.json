@@ -1,17 +1,11 @@
 {
-  "replace": false,
   "values": [
-    {
-      "id": "#kaleidoscope_doll:all_dolls",
-      "required": false
-    },
-    {
-      "id": "kaleidoscope_cookery:straw_hat_flower",
-      "required": false
-    },
-    {
-      "id": "kaleidoscope_cookery:straw_hat",
-      "required": false
-    }
+    "youkaishomecoming:reimu_hairband",
+    "youkaishomecoming:rumia_hairband",
+    "youkaishomecoming:cirno_hairband",
+    "youkaishomecoming:koishi_hat",
+    "youkaishomecoming:suwako_hat",
+    "youkaishomecoming:straw_hat",
+    "youkaishomecoming:camellia"
   ]
 }

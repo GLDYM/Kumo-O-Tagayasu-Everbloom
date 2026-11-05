@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: forge:mushrooms
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:52.9260084+08:00
+
+minecraft:brown_mushroom
+minecraft:red_mushroom

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/white/wrapped_copper
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:57.1130215+08:00
+
+railways:white_copper_wrapped_locometal
+railways:white_copper_wrapped_locometal_smokebox

@@ -1,19 +1,21 @@
 # Expanded runtime tag dump
 # Registry: minecraft:entity_type
 # Tag: minecraft:not_scary_for_pufferfish
-# Entries: 12
+# Entries: 14
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.7743597+08:00
+# Generated: 2026-11-05T11:35:47.0940534+08:00
 
-atmospheric:tetra
 minecraft:cod
 minecraft:dolphin
 minecraft:elder_guardian
 minecraft:glow_squid
 minecraft:guardian
+minecraft:nautilus
 minecraft:pufferfish
 minecraft:salmon
 minecraft:squid
+minecraft:sulfur_cube
 minecraft:tadpole
 minecraft:tropical_fish
 minecraft:turtle
+minecraft:zombie_nautilus

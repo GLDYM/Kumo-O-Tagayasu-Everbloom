@@ -3,7 +3,7 @@
 # Tag: c:ore_rates/dense
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.748413+08:00
+# Generated: 2026-11-05T11:35:42.788271+08:00
 
 minecraft:copper_ore
 minecraft:deepslate_copper_ore

@@ -1,0 +1,21 @@
+{
+  "values": [
+    "create:blaze_burner",
+    "create:lit_blaze_burner",
+    "minecraft:fire",
+    "minecraft:campfire",
+    "create_enchantment_industry:blaze_enchanter",
+    "create_enchantment_industry:blaze_forger",
+    "create_enchantment_industry:classic_blaze_enchanter",
+    {
+      "id": "create_enchantment_industry:blaze_composer",
+      "required": false
+    },
+    "create_connected:fan_smoking_catalyst",
+    {
+      "id": "supplementaries:fire_pit",
+      "required": false
+    }
+  ],
+  "replace": false
+}

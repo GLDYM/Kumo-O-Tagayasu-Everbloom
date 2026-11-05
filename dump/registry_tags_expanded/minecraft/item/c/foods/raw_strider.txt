@@ -3,7 +3,7 @@
 # Tag: c:foods/raw_strider
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.0019134+08:00
+# Generated: 2026-11-05T11:35:49.4967069+08:00
 
 kaleidoscope_nether:raw_strider_meat
 mynethersdelight:minced_strider

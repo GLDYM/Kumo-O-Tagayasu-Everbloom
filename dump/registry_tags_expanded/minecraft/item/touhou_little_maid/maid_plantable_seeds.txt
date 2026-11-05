@@ -3,27 +3,29 @@
 # Tag: touhou_little_maid:maid_plantable_seeds
 # Entries: 65
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.2252506+08:00
+# Generated: 2026-11-05T11:35:57.7499476+08:00
 
-atmospheric:aloe_kernels
 corn_delight:corn_seeds
 create_bic_bit:sunflower_seeds
 delighto_flight:thunder_fruit_seeds
 farmersdelight:cabbage_seeds
 farmersdelight:onion
 farmersdelight:rice
+farmersdelight:rice_panicle
 farmersdelight:tomato_seeds
 immortalers_delight:alfalfa_seeds
 immortalers_delight:evolutcorn_grains
 immortalers_delight:himekaido_seed
 immortalers_delight:kwat_wheat_seeds
+immortalers_delight:obsidian_walnut
 immortalers_delight:pearlipearl
+kaleidoscope_chinesefood:eggplant_seed
 kaleidoscope_cookery:chili_seed
 kaleidoscope_cookery:lettuce_seed
 kaleidoscope_cookery:rice
+kaleidoscope_cookery:tea_seed
 kaleidoscope_cookery:tomato_seed
 kaleidoscope_cookery:wild_rice
-kaleidoscope_dim_wine:hop_seed
 minecraft:beetroot_seeds
 minecraft:carrot
 minecraft:melon_seeds
@@ -33,8 +35,6 @@ minecraft:potato
 minecraft:pumpkin_seeds
 minecraft:torchflower_seeds
 minecraft:wheat_seeds
-neapolitan:adzuki_beans
-neapolitan:strawberry_pips
 supplementaries:flax_seeds
 tofucraft:seeds_chili
 tofucraft:seeds_rice

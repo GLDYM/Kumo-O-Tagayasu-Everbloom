@@ -1,0 +1,22 @@
+{
+  "type": "tsuki:shaker",
+  "experience": 0,
+  "ingredients": [
+    {
+      "item": "tsuki:glass_brandy"
+    },
+    {
+      "item": "tsuki:glass_cocoa_liqueur"
+    },
+    {
+      "tag": "c:milk"
+    },
+    {
+      "item": "tsuki:ice_cube"
+    }
+  ],
+  "result": {
+    "id": "tsuki:glass_alexander"
+  },
+  "shake_count": 12
+}

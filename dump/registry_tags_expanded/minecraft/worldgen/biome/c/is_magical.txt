@@ -1,8 +1,7 @@
 # Expanded runtime tag dump
 # Registry: minecraft:worldgen/biome
 # Tag: c:is_magical
-# Entries: 1
+# Entries: 0
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.5602931+08:00
+# Generated: 2026-11-05T11:35:58.6638075+08:00
 
-quark:glimmering_weald

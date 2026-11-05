@@ -3,7 +3,7 @@
 # Tag: minecraft:snow_layer_cannot_survive_on
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.9851531+08:00
+# Generated: 2026-11-05T11:35:45.2741959+08:00
 
 minecraft:barrier
 minecraft:ice

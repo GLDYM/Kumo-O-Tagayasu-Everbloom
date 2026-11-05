@@ -1,0 +1,20 @@
+{
+  "values": [
+    "handcrafted:blue_cushion",
+    "handcrafted:blue_sheet",
+    "supplementaries:flag_blue",
+    "supplementaries:present_blue",
+    "supplementaries:trapped_present_blue",
+    "supplementaries:candle_holder_blue",
+    "supplementaries:awning_blue",
+    "supplementaries:bunting_blue",
+    "minecraft:blue_wool_stairs",
+    "minecraft:blue_wool_slab",
+    "minecraft:blue_concrete_stairs",
+    "minecraft:blue_concrete_slab",
+    "minecraft:blue_bundle",
+    "minecraft:blue_harness",
+    "minecraft:blue_cushion"
+  ],
+  "replace": false
+}

@@ -1,11 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:salt
-# Entries: 4
+# Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.4444662+08:00
+# Generated: 2026-11-05T11:35:50.5603092+08:00
 
 bakeries:salt
+kaleidoscope_chinesefood:salt
 tofucraft:salt
 tsuki:salt
 vintagedelight:salt_dust

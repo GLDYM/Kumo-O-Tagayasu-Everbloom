@@ -1,12 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:point_of_interest_type
 # Tag: minecraft:village
-# Entries: 24
+# Entries: 23
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.4688546+08:00
+# Generated: 2026-11-05T11:35:58.2463954+08:00
 
 bakeries:dough_crafting_table_poi
-beautify:botanist_workbench_poi
 chefsdelight:chef_poi
 chefsdelight:cook_poi
 kaleidoscope_cookery:stove

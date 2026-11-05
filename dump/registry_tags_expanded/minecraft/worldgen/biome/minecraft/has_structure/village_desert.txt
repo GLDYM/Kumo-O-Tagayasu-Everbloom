@@ -3,6 +3,6 @@
 # Tag: minecraft:has_structure/village_desert
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.216421+08:00
+# Generated: 2026-11-05T11:35:59.3146182+08:00
 
 minecraft:desert

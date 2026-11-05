@@ -1,0 +1,22 @@
+{
+  "values": [
+    "immortalers_delight:drunk",
+    "immortalers_delight:black_snake",
+    "immortalers_delight:gas",
+    "l2complements:bleed",
+    "l2complements:life_sync",
+    "l2complements:void_eye",
+    "l2damagetracker:mob_attack-bypass_magic",
+    "l2damagetracker:mob_attack-bypass_cooldown-bypass_magic",
+    "l2damagetracker:mob_attack-bypass_armor-bypass_magic",
+    "l2damagetracker:mob_attack-bypass_armor-bypass_cooldown-bypass_magic",
+    "l2damagetracker:player_attack-bypass_magic",
+    "l2damagetracker:player_attack-bypass_cooldown-bypass_magic",
+    "l2damagetracker:player_attack-bypass_armor-bypass_magic",
+    "l2damagetracker:player_attack-bypass_armor-bypass_cooldown-bypass_magic",
+    "supplementaries:xp_extracting",
+    "youkaishomecoming:koishi_attack",
+    "youkaishomecoming:rumia_attack",
+    "danmaku_api:abyssal_danmaku"
+  ]
+}

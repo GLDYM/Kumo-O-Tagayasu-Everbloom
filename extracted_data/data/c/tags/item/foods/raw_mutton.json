@@ -1,0 +1,17 @@
+{
+  "values": [
+    "minecraft:mutton",
+    "farmersdelight:mutton_chops",
+    {
+      "id": "farmersdelight:mutton_chops",
+      "required": false
+    },
+    {
+      "id": "#forge:raw_mutton",
+      "required": false
+    },
+    "#c:raw_mutton",
+    "kaleidoscope_cookery:raw_lamb_chops"
+  ],
+  "replace": false
+}

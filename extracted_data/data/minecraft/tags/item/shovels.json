@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "alloyed:steel_shovel",
+    "kaleidoscope_cookery:kitchen_shovel",
+    "l2complements:totemic_gold_shovel",
+    "l2complements:poseidite_shovel",
+    "l2complements:shulkerate_shovel",
+    "l2complements:sculkium_shovel",
+    "l2complements:eternium_shovel",
+    "tofucraft:tofu_kinu_shovel",
+    "tofucraft:tofu_momen_shovel",
+    "tofucraft:tofu_solid_shovel",
+    "tofucraft:tofu_metal_shovel",
+    "tofucraft:tofu_diamond_shovel",
+    "tsuki:sakura_shovel",
+    "tsuki:broom",
+    "minecraft:copper_shovel"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "values": [
+    "#c:foods/cooked_chicken",
+    "#c:foods/cooked_pork",
+    "#c:foods/cooked_beef",
+    "#c:foods/cooked_mutton",
+    "minecraft:cooked_beef",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_rabbit",
+    {
+      "id": "farmersdelight:beef_patty",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_chicken_cuts",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_bacon",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooked_mutton_chops",
+      "required": false
+    },
+    "immortalers_delight:cooked_sniffer_steak",
+    "immortalers_delight:cooked_sniffer_slice",
+    {
+      "id": "#forge:cooked_meat",
+      "required": false
+    },
+    {
+      "id": "#forge:cooked_meats",
+      "required": false
+    },
+    {
+      "id": "#forge:cookedmeat",
+      "required": false
+    },
+    {
+      "id": "#forge:cookedmeats",
+      "required": false
+    },
+    "#c:foods/cooked_hoglin",
+    "#c:cooked_fishes",
+    "#c:cooked_mutton",
+    "#c:cooked_pork",
+    "#c:cooked_chicken",
+    "#c:cooked_beef"
+  ],
+  "replace": false
+}

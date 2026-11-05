@@ -1,25 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:animal_foods
-# Entries: 155
+# Entries: 145
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.2241007+08:00
+# Generated: 2026-11-05T11:35:47.8801462+08:00
 
-atmospheric:aloe_kernels
-atmospheric:currant
-atmospheric:dragon_fruit
-atmospheric:firethorn
-atmospheric:flowering_morado_leaves
-atmospheric:forsythia
-atmospheric:gilia
-atmospheric:golden_dragon_fruit
-atmospheric:hot_monkey_brush
-atmospheric:scalding_monkey_brush
-atmospheric:tall_yucca_flower
-atmospheric:warm_monkey_brush
-atmospheric:water_hyacinth
-atmospheric:yellow_blossoms
-atmospheric:yucca_flower
 corn_delight:corn
 corn_delight:corn_seeds
 corn_delight:corncob
@@ -48,13 +33,17 @@ farmersdelight:wild_onions
 farmersdelight:wild_potatoes
 farmersdelight:wild_rice
 farmersdelight:wild_tomatoes
-fruitsdelight:blueberry
-fruitsdelight:cranberry
 immortalers_delight:alfalfa
 immortalers_delight:himekaido
 immortalers_delight:kwat_wheat_toast
 immortalers_delight:kwat_wheat_toast_slice
 immortalers_delight:piglin_odori_sake
+kaleidoscope_cookery:chili_seed
+kaleidoscope_cookery:lettuce_seed
+kaleidoscope_cookery:rice
+kaleidoscope_cookery:tea_seed
+kaleidoscope_cookery:tomato_seed
+kaleidoscope_cookery:wild_rice
 kaleidoscope_end:dream_berry
 kaleidoscope_nether:raw_strider_meat
 minecraft:allium
@@ -66,10 +55,12 @@ minecraft:beetroot
 minecraft:beetroot_seeds
 minecraft:blue_orchid
 minecraft:cactus
+minecraft:cactus_flower
 minecraft:carrot
 minecraft:cherry_leaves
 minecraft:chicken
 minecraft:chorus_flower
+minecraft:closed_eyeblossom
 minecraft:cod
 minecraft:cooked_beef
 minecraft:cooked_chicken
@@ -91,6 +82,7 @@ minecraft:lily_of_the_valley
 minecraft:mangrove_propagule
 minecraft:melon_seeds
 minecraft:mutton
+minecraft:open_eyeblossom
 minecraft:orange_tulip
 minecraft:oxeye_daisy
 minecraft:peony
@@ -121,6 +113,7 @@ minecraft:warped_fungus
 minecraft:wheat
 minecraft:wheat_seeds
 minecraft:white_tulip
+minecraft:wildflowers
 minecraft:wither_rose
 mynethersdelight:bullet_pepper
 mynethersdelight:cooked_loin
@@ -136,12 +129,6 @@ mynethersdelight:plate_of_stuffed_hoglin_snout
 mynethersdelight:roast_ear
 mynethersdelight:roasted_sausage
 mynethersdelight:strider_slice
-neapolitan:banana_bunch
-neapolitan:cooked_mint_chops
-neapolitan:mint_chops
-neapolitan:strawberries
-neapolitan:strawberry_pips
-neapolitan:white_strawberries
 supplementaries:flax
 supplementaries:flax_block
 supplementaries:flax_seeds
@@ -151,7 +138,10 @@ tofucraft:rice
 tofucraft:seeds_rice
 tofucraft:soybeans_parched
 tofucraft:tofu_flower
-tofudelight:soy_chicken_piece
+touhou_little_maid_spell:jingxu_youlan
+touhou_little_maid_spell:scarlet_zhuhua
+touhou_little_maid_spell:star_glow_flower_cluster
+touhou_little_maid_spell:yue_linglan
 vintagedelight:gearo_berry
 vintagedelight:wild_cucumbers
 vintagedelight:wild_ghost_peppers

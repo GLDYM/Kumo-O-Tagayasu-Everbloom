@@ -1,0 +1,7 @@
+# Registry dump
+# Registry: createnuclear:rods/type
+# Minecraft: 1.21.1
+# Entries: 1
+# Generated: 2026-11-05T11:35:22.0327709+08:00
+
+createnuclear:fallback raw_id=0 class=net.nuclearteam.createnuclear.api.multiblock.rods.RodType

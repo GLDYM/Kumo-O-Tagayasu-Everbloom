@@ -1,0 +1,11 @@
+{
+  "values": [
+    "bakeries:bread_knife",
+    "bakeries:eternal_baguette",
+    "#farmersdelight:tools/knives",
+    "farmersdelight:skillet",
+    "#irons_spellbooks:staff",
+    "#minecraft:spears"
+  ],
+  "replace": false
+}

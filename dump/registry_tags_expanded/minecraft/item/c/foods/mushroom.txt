@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/mushroom
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:49.403692+08:00
+
+minecraft:brown_mushroom
+minecraft:red_mushroom

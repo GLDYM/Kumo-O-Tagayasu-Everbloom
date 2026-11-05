@@ -1,38 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:all_signs
-# Entries: 176
+# Entries: 148
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.6189383+08:00
+# Generated: 2026-11-05T11:35:44.5532705+08:00
 
-atmospheric:aspen_hanging_sign
-atmospheric:aspen_sign
-atmospheric:aspen_wall_hanging_sign
-atmospheric:aspen_wall_sign
-atmospheric:grimwood_hanging_sign
-atmospheric:grimwood_sign
-atmospheric:grimwood_wall_hanging_sign
-atmospheric:grimwood_wall_sign
-atmospheric:kousa_hanging_sign
-atmospheric:kousa_sign
-atmospheric:kousa_wall_hanging_sign
-atmospheric:kousa_wall_sign
-atmospheric:laurel_hanging_sign
-atmospheric:laurel_sign
-atmospheric:laurel_wall_hanging_sign
-atmospheric:laurel_wall_sign
-atmospheric:morado_hanging_sign
-atmospheric:morado_sign
-atmospheric:morado_wall_hanging_sign
-atmospheric:morado_wall_sign
-atmospheric:rosewood_hanging_sign
-atmospheric:rosewood_sign
-atmospheric:rosewood_wall_hanging_sign
-atmospheric:rosewood_wall_sign
-atmospheric:yucca_hanging_sign
-atmospheric:yucca_sign
-atmospheric:yucca_wall_hanging_sign
-atmospheric:yucca_wall_sign
 crabbersdelight:palm_hanging_sign
 crabbersdelight:palm_sign
 crabbersdelight:palm_wall_hanging_sign
@@ -144,6 +116,14 @@ minecraft:oak_hanging_sign
 minecraft:oak_sign
 minecraft:oak_wall_hanging_sign
 minecraft:oak_wall_sign
+minecraft:pale_oak_hanging_sign
+minecraft:pale_oak_sign
+minecraft:pale_oak_wall_hanging_sign
+minecraft:pale_oak_wall_sign
+minecraft:poplar_hanging_sign
+minecraft:poplar_sign
+minecraft:poplar_wall_hanging_sign
+minecraft:poplar_wall_sign
 minecraft:spruce_hanging_sign
 minecraft:spruce_sign
 minecraft:spruce_wall_hanging_sign
@@ -156,18 +136,6 @@ mynethersdelight:powdery_hanging_sign
 mynethersdelight:powdery_sign
 mynethersdelight:powdery_wall_hanging_sign
 mynethersdelight:powdery_wall_sign
-quark:ancient_hanging_sign
-quark:ancient_sign
-quark:ancient_wall_hanging_sign
-quark:ancient_wall_sign
-quark:azalea_hanging_sign
-quark:azalea_sign
-quark:azalea_wall_hanging_sign
-quark:azalea_wall_sign
-quark:blossom_hanging_sign
-quark:blossom_sign
-quark:blossom_wall_hanging_sign
-quark:blossom_wall_sign
 supplementaries:way_sign
 tofucraft:leek_green_hanging_sign
 tofucraft:leek_green_sign
@@ -181,3 +149,7 @@ tofucraft:tofustem_hanging_sign
 tofucraft:tofustem_sign
 tofucraft:tofustem_wall_hanging_sign
 tofucraft:tofustem_wall_sign
+trailandtales_delight:crystal_wood_hanging_sign
+trailandtales_delight:crystal_wood_sign
+trailandtales_delight:crystal_wood_wall_hanging_sign
+trailandtales_delight:crystal_wood_wall_sign

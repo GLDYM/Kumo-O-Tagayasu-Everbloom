@@ -1,19 +1,22 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: kaleidoscope_cookery:cookery_mod_items
-# Entries: 190
+# Entries: 208
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.9415853+08:00
+# Generated: 2026-11-05T11:35:53.4562308+08:00
 
 kaleidoscope_cookery:apple_platter
+kaleidoscope_cookery:bamboo_tray
 kaleidoscope_cookery:bamboo_tube_rice
 kaleidoscope_cookery:baozi
 kaleidoscope_cookery:baozi_plate
 kaleidoscope_cookery:barley_tea
+kaleidoscope_cookery:barley_tea_bag
 kaleidoscope_cookery:beef_meatball_soup
 kaleidoscope_cookery:beef_noodle
 kaleidoscope_cookery:berry_platter
 kaleidoscope_cookery:biluochun
+kaleidoscope_cookery:biluochun_tea_bag
 kaleidoscope_cookery:blaze_lamb_chop
 kaleidoscope_cookery:borscht
 kaleidoscope_cookery:braised_beef
@@ -22,6 +25,8 @@ kaleidoscope_cookery:braised_beef_with_potatoes
 kaleidoscope_cookery:braised_pork_ribs
 kaleidoscope_cookery:brown_mushroom_pot_soup
 kaleidoscope_cookery:buddha_jumps_over_the_wall
+kaleidoscope_cookery:butter_tea
+kaleidoscope_cookery:butter_tea_bag
 kaleidoscope_cookery:candied_potato
 kaleidoscope_cookery:caterpillar
 kaleidoscope_cookery:chair_acacia
@@ -41,6 +46,7 @@ kaleidoscope_cookery:chili_seed
 kaleidoscope_cookery:chopping_board
 kaleidoscope_cookery:chorus_fried_egg
 kaleidoscope_cookery:chorus_fruit_platter
+kaleidoscope_cookery:clay_pot_milk_tea
 kaleidoscope_cookery:cold_cut_ham_slices
 kaleidoscope_cookery:cold_roasted_meat
 kaleidoscope_cookery:cold_style_sashimi
@@ -69,8 +75,10 @@ kaleidoscope_cookery:diamond_kitchen_knife
 kaleidoscope_cookery:dongpo_pork
 kaleidoscope_cookery:donkey_burger
 kaleidoscope_cookery:dough_drop_soup
+kaleidoscope_cookery:dried_tea_leaves
 kaleidoscope_cookery:dumpling
 kaleidoscope_cookery:egg_fried_rice
+kaleidoscope_cookery:eight_immortals_table
 kaleidoscope_cookery:empty_cup
 kaleidoscope_cookery:enamel_basin
 kaleidoscope_cookery:end_style_sashimi
@@ -85,6 +93,7 @@ kaleidoscope_cookery:flower_tea
 kaleidoscope_cookery:fondant_pie
 kaleidoscope_cookery:fondant_spider_eye
 kaleidoscope_cookery:four_joy_meatball_soup
+kaleidoscope_cookery:fresh_tea_leaves
 kaleidoscope_cookery:fried_caterpillar
 kaleidoscope_cookery:fried_egg
 kaleidoscope_cookery:fried_spring_roll
@@ -102,9 +111,11 @@ kaleidoscope_cookery:laba_congee
 kaleidoscope_cookery:lamb_and_radish_soup
 kaleidoscope_cookery:lettuce
 kaleidoscope_cookery:lettuce_seed
+kaleidoscope_cookery:long_bench
 kaleidoscope_cookery:mantou
 kaleidoscope_cookery:meat_pie
 kaleidoscope_cookery:millstone
+kaleidoscope_cookery:mystery_tea
 kaleidoscope_cookery:nether_style_sashimi
 kaleidoscope_cookery:netherite_kitchen_knife
 kaleidoscope_cookery:numbing_spicy_chicken
@@ -113,6 +124,7 @@ kaleidoscope_cookery:oil_block
 kaleidoscope_cookery:oil_pot
 kaleidoscope_cookery:oil_splashed_fish
 kaleidoscope_cookery:oolong
+kaleidoscope_cookery:oolong_tea_bag
 kaleidoscope_cookery:pan_seared_knight_steak
 kaleidoscope_cookery:pork_bone_soup
 kaleidoscope_cookery:pot
@@ -130,10 +142,12 @@ kaleidoscope_cookery:raw_pork_belly
 kaleidoscope_cookery:raw_zongzi
 kaleidoscope_cookery:recipe_item
 kaleidoscope_cookery:red_chili
+kaleidoscope_cookery:red_lantern
 kaleidoscope_cookery:red_mushroom_pot_soup
 kaleidoscope_cookery:rice
 kaleidoscope_cookery:rice_panicle
 kaleidoscope_cookery:sakura_fubuki
+kaleidoscope_cookery:sakura_fubuki_tea_bag
 kaleidoscope_cookery:samsa
 kaleidoscope_cookery:sashimi
 kaleidoscope_cookery:scarecrow
@@ -180,8 +194,12 @@ kaleidoscope_cookery:table_mangrove
 kaleidoscope_cookery:table_oak
 kaleidoscope_cookery:table_spruce
 kaleidoscope_cookery:table_warped
+kaleidoscope_cookery:tea_banner
+kaleidoscope_cookery:tea_egg
+kaleidoscope_cookery:tea_seed
 kaleidoscope_cookery:teapot
 kaleidoscope_cookery:tieguanyin
+kaleidoscope_cookery:tieguanyin_tea_bag
 kaleidoscope_cookery:tomato
 kaleidoscope_cookery:tomato_platter
 kaleidoscope_cookery:tomato_seed

@@ -1,0 +1,30 @@
+{
+  "values": [
+    "farmersdelight:rice",
+    {
+      "id": "farmersdelight:rice",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:rice_panicle",
+      "required": false
+    },
+    {
+      "id": "#forge:crops/rice",
+      "required": false
+    },
+    {
+      "id": "#forge:seeds/rice",
+      "required": false
+    },
+    "kaleidoscope_cookery:rice",
+    "mynethersdelight:ghasmati",
+    "tofucraft:rice",
+    "tsuki:rice_seeds",
+    {
+      "id": "kaleidoscope_cookery:rice",
+      "required": false
+    }
+  ],
+  "replace": false
+}

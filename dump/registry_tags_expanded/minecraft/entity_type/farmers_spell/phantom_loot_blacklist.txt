@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: farmers_spell:phantom_loot_blacklist
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:46.8605744+08:00
+
+irons_spellbooks:dead_king
+irons_spellbooks:fire_boss
+minecraft:elder_guardian
+minecraft:ender_dragon
+minecraft:warden
+minecraft:wither
+tofucraft:shudofuspider

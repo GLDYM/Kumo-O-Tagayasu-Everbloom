@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "soulsweapons"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "emiffect"
+      }
+    }
+  ],
+  "type": "jeed:effect_provider",
+  "effect": "soulsweapons:freezing",
+  "providers": [
+    {
+      "item": "soulsweapons:frostmourne"
+    },
+    {
+      "item": "soulsweapons:leviathan_axe"
+    },
+    {
+      "item": "soulsweapons:rime_spectre_spawn_egg"
+    },
+    {
+      "item": "soulsweapons:nightlords_sword"
+    },
+    {
+      "item": "soulsweapons:dark_moon_greatsword"
+    }
+  ]
+}

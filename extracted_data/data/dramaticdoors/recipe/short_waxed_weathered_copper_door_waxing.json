@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "short_copper_door_waxing",
+  "ingredients": [
+    {
+      "item": "dramaticdoors:short_weathered_copper_door"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "result": {
+    "id": "dramaticdoors:short_waxed_weathered_copper_door"
+  }
+}

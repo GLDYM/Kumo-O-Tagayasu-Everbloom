@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: minecraft:monsters_that_spawn_on_peaceful
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:47.0774502+08:00
+
+minecraft:hoglin
+minecraft:piglin
+minecraft:sulfur_cube

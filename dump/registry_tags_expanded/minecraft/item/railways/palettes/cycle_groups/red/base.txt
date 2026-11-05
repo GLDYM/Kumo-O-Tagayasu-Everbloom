@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/red/base
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.8414304+08:00
+
+railways:red_flat_riveted_locometal
+railways:red_flat_slashed_locometal
+railways:red_locometal_pillar
+railways:red_locometal_smokebox
+railways:red_locometal_vent
+railways:red_plated_locometal
+railways:red_riveted_locometal
+railways:red_slashed_locometal

@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: curios:belt
-# Entries: 15
+# Entries: 14
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.0886741+08:00
+# Generated: 2026-11-05T11:35:51.8323371+08:00
 
 artifacts:antidote_vessel
 artifacts:chorus_totem
@@ -13,7 +13,6 @@ artifacts:helium_flamingo
 artifacts:obsidian_skull
 artifacts:universal_attractor
 artifacts:warp_drive
-cmpackagecouriers:location_transmitter
 iss_magicfromtheeast:bagua_mirror
 iss_magicfromtheeast:coins_sword
 iss_magicfromtheeast:jade_pendant

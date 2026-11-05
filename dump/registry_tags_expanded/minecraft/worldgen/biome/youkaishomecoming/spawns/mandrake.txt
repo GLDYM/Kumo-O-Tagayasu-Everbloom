@@ -3,7 +3,7 @@
 # Tag: youkaishomecoming:spawns/mandrake
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.4004645+08:00
+# Generated: 2026-11-05T11:35:59.8203649+08:00
 
 minecraft:dark_forest
 minecraft:mushroom_fields

@@ -1,0 +1,13 @@
+{
+  "values": [
+    "bakeries:bottle_milk",
+    "ccw:carton_milk",
+    "ccw:calcium_rich_milk",
+    "vintagedelight:nut_milk_bottle",
+    {
+      "id": "farmersdelight:milk_bottle",
+      "required": false
+    },
+    "minecraft:milk_bucket"
+  ]
+}

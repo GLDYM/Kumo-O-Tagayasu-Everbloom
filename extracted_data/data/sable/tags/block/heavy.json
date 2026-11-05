@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#createdeco:train_hulls",
+    "supplementaries:cannonball",
+    "supplementaries:netherite_door",
+    "supplementaries:netherite_trapdoor",
+    "supplementaries:slidy_block"
+  ]
+}

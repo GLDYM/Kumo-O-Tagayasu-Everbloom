@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:foods/egg
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:49.35337+08:00
+
+minecraft:egg

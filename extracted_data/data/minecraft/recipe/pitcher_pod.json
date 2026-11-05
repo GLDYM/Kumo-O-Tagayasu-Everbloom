@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "trailandtales_delight:pitcher_plant"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:pitcher_pod"
+  }
+}

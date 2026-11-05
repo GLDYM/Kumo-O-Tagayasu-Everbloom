@@ -1,8 +1,6 @@
 {
-  "remove": [
-    "minecraft:pufferfish"
-  ],
-  "values": [
-    "#c:foods/raw_fish"
-  ]
+    "replace": false,
+    "values": [
+        "create_bic_bit:raw_herring"
+    ]
 }

@@ -3,6 +3,6 @@
 # Tag: amendments:cant_extinguish
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.5934496+08:00
+# Generated: 2026-11-05T11:36:00.2114049+08:00
 
 moonlight:lava

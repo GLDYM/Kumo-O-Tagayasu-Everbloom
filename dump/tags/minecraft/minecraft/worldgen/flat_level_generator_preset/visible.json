@@ -1,6 +1,8 @@
 {
+  "replace": false,
   "values": [
     "minecraft:classic_flat",
+    "minecraft:create",
     "minecraft:tunnelers_dream",
     "minecraft:water_world",
     "minecraft:overworld",

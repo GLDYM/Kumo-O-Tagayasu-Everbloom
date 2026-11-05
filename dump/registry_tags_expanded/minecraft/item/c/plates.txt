@@ -1,10 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:plates
-# Entries: 10
+# Entries: 13
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.355188+08:00
+# Generated: 2026-11-05T11:35:50.3141209+08:00
 
+alloyed:bronze_sheet
+alloyed:steel_sheet
 create:brass_sheet
 create:cardboard
 create:copper_sheet
@@ -14,4 +16,5 @@ create:sturdy_sheet
 createdeco:andesite_sheet
 createdeco:industrial_iron_sheet
 createdeco:zinc_sheet
+simplemetals_tin:tin_sheet
 tofucreate:tofumetal_plate

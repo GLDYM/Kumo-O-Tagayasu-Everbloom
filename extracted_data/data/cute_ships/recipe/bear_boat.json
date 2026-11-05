@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:cherry_boat"
+  },
+  "result": {
+    "count": 1,
+    "id": "cute_ships:bear_boat"
+  }
+}

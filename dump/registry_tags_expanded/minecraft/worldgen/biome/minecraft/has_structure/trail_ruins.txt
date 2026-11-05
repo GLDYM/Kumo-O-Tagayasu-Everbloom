@@ -1,13 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:worldgen/biome
 # Tag: minecraft:has_structure/trail_ruins
-# Entries: 9
+# Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.2103791+08:00
+# Generated: 2026-11-05T11:35:59.3069281+08:00
 
-atmospheric:aspen_parkland
-atmospheric:kousa_jungle
-atmospheric:rainforest
 minecraft:jungle
 minecraft:old_growth_birch_forest
 minecraft:old_growth_pine_taiga

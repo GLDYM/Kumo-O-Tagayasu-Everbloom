@@ -1,0 +1,314 @@
+{
+  "values": {
+    "#another_furniture:benches": {
+      "burn_time": 300
+    },
+    "#another_furniture:chairs": {
+      "burn_time": 300
+    },
+    "#another_furniture:curtains": {
+      "burn_time": 300
+    },
+    "#another_furniture:drawers": {
+      "burn_time": 300
+    },
+    "#another_furniture:flower_boxes": {
+      "burn_time": 300
+    },
+    "#another_furniture:grandfather_clocks": {
+      "burn_time": 300
+    },
+    "#another_furniture:lamps": {
+      "burn_time": 300
+    },
+    "#another_furniture:shelves": {
+      "burn_time": 300
+    },
+    "#another_furniture:sofas": {
+      "burn_time": 300
+    },
+    "#another_furniture:stools": {
+      "burn_time": 300
+    },
+    "#another_furniture:tables": {
+      "burn_time": 300
+    },
+    "#another_furniture:tall_stools": {
+      "burn_time": 300
+    },
+    "corn_delight:corncob": {
+      "burn_time": 100
+    },
+    "create:blaze_cake": {
+      "burn_time": 6400
+    },
+    "create:bound_cardboard_block": {
+      "burn_time": 4000
+    },
+    "create:cardboard": {
+      "burn_time": 1000
+    },
+    "create:cardboard_block": {
+      "burn_time": 4000
+    },
+    "create:cardboard_boots": {
+      "burn_time": 1000
+    },
+    "create:cardboard_chestplate": {
+      "burn_time": 1000
+    },
+    "create:cardboard_helmet": {
+      "burn_time": 1000
+    },
+    "create:cardboard_leggings": {
+      "burn_time": 1000
+    },
+    "create:cardboard_sword": {
+      "burn_time": 1000
+    },
+    "create:creative_blaze_cake": {
+      "burn_time": 2147483647
+    },
+    "#dramaticdoors:short_wooden_doors": {
+      "burn_time": 100
+    },
+    "#dramaticdoors:tall_wooden_doors": {
+      "burn_time": 300
+    },
+    "#farmersdelight:cabinets/wooden": {
+      "burn_time": 300
+    },
+    "farmersdelight:bamboo_basket": {
+      "burn_time": 300
+    },
+    "farmersdelight:canvas": {
+      "burn_time": 400
+    },
+    "farmersdelight:canvas_rug": {
+      "burn_time": 200
+    },
+    "farmersdelight:cutting_board": {
+      "burn_time": 200
+    },
+    "farmersdelight:full_tatami_mat": {
+      "burn_time": 200
+    },
+    "farmersdelight:half_tatami_mat": {
+      "burn_time": 100
+    },
+    "farmersdelight:rope": {
+      "burn_time": 200
+    },
+    "farmersdelight:rope_fence": {
+      "burn_time": 200
+    },
+    "farmersdelight:rope_fence_gate": {
+      "burn_time": 200
+    },
+    "farmersdelight:safety_net": {
+      "burn_time": 200
+    },
+    "farmersdelight:straw": {
+      "burn_time": 100
+    },
+    "farmersdelight:straw_bale": {
+      "burn_time": 1000
+    },
+    "farmersdelight:tatami": {
+      "burn_time": 400
+    },
+    "farmersdelight:tree_bark": {
+      "burn_time": 200
+    },
+    "farmersdelight:wooden_basket": {
+      "burn_time": 300
+    },
+    "kaleidoscope_chinesefood:bowl_stack": {
+      "burn_time": 300
+    },
+    "kaleidoscope_chinesefood:mooncake_mold": {
+      "burn_time": 200
+    },
+    "kaleidoscope_cookery:stripped_bamboo_bench": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:stripped_bamboo_eight_immortals_table": {
+      "burn_time": 1200
+    },
+    "kaleidoscope_cookery:cook_stool_oak": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:cook_stool_spruce": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:cook_stool_acacia": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:cook_stool_bamboo": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:cook_stool_birch": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:cook_stool_cherry": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:cook_stool_crimson": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:cook_stool_dark_oak": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:cook_stool_jungle": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:cook_stool_mangrove": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:cook_stool_warped": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:chair_oak": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:chair_spruce": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:chair_acacia": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:chair_bamboo": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:chair_birch": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:chair_cherry": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:chair_crimson": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:chair_dark_oak": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:chair_jungle": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:chair_mangrove": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:chair_warped": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:table_oak": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:table_spruce": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:table_acacia": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:table_bamboo": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:table_birch": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:table_cherry": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:table_crimson": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:table_dark_oak": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:table_jungle": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:table_mangrove": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:table_warped": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:long_bench": {
+      "burn_time": 300
+    },
+    "kaleidoscope_cookery:eight_immortals_table": {
+      "burn_time": 1200
+    },
+    "kaleidoscope_tavern:grapevine": {
+      "burn_time": 200
+    },
+    "#supplementaries:item_shelves": {
+      "burn_time": 100
+    },
+    "#supplementaries:bamboo_spikes": {
+      "burn_time": 100
+    },
+    "supplementaries:rope": {
+      "burn_time": 50
+    },
+    "supplementaries:wicker_fence": {
+      "burn_time": 67
+    },
+    "supplementaries:doormat": {
+      "burn_time": 67
+    },
+    "#supplementaries:awnings": {
+      "burn_time": 67
+    },
+    "#supplementaries:flags": {
+      "burn_time": 300
+    },
+    "minecraft:paper": {
+      "burn_time": 25
+    },
+    "#supplementaries:buntings": {
+      "burn_time": 25
+    },
+    "#supplementaries:presents": {
+      "burn_time": 100
+    },
+    "#supplementaries:trapped_presents": {
+      "burn_time": 100
+    },
+    "#supplementaries:timber_frames": {
+      "burn_time": 200
+    },
+    "supplementaries:flower_box": {
+      "burn_time": 200
+    },
+    "supplementaries:notice_board": {
+      "burn_time": 300
+    },
+    "supplementaries:pulley_block": {
+      "burn_time": 300
+    },
+    "supplementaries:speaker_block": {
+      "burn_time": 300
+    },
+    "supplementaries:clock_block": {
+      "burn_time": 300
+    },
+    "supplementaries:lumisene_bucket": {
+      "burn_time": 1000
+    },
+    "#ultramarine:polished_planks": {
+      "burn_time": 200
+    },
+    "ultramarine:wooden_frame": {
+      "burn_time": 200
+    }
+  },
+  "replace": false,
+  "remove": [
+    "#minecraft:non_flammable_wood",
+    "farmersdelight:crimson_cabinet",
+    "farmersdelight:warped_cabinet"
+  ],
+  "moonlight_parse_on_fabric": true
+}

@@ -1,0 +1,20 @@
+{
+    "type": "farmers_spell:alchemist_cooking",
+    "ingredients": [
+        {
+            "item": "farmers_spell:energized_caramel"
+        },
+        {
+            "item": "irons_spellbooks:arcane_essence"
+        }
+    ],
+    "result": {
+        "id": "farmers_spell:mozhao",
+        "count": 1
+    },
+    "container": {
+        "id": "minecraft:glass_bottle"
+    },
+    "experience": 1.0,
+    "cookingtime": 200
+}

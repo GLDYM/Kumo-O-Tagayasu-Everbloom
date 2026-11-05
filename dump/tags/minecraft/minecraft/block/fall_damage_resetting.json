@@ -1,6 +1,7 @@
 {
-    "replace": false,
-    "values": [
-        "quark:cut_vine"
-    ]
+  "values": [
+    "#minecraft:climbable",
+    "minecraft:sweet_berry_bush",
+    "minecraft:cobweb"
+  ]
 }

@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: farmers_spell:amethyst_beetroot_plantable
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:43.6889396+08:00
+
+minecraft:amethyst_block
+minecraft:budding_amethyst
+minecraft:calcite

@@ -1,0 +1,31 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "trailandtales_delight:crystal_crabapple"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 2,
+        "id": "trailandtales_delight:crystal_crabapple_slice"
+      }
+    },
+    {
+      "item": {
+        "count": 1,
+        "id": "trailandtales_delight:crystal_crabapple_seeds"
+      }
+    }
+  ],
+  "tool": [
+    {
+      "type": "farmersdelight:item_ability",
+      "action": "knife_dig"
+    },
+    {
+      "tag": "c:tools/knife"
+    }
+  ]
+}

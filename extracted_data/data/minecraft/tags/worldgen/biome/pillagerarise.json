@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#minecraft:is_forest",
+      "required": false
+    },
+    "forest",
+    "old_growth_birch_forest",
+    "plains",
+    "old_growth_pine_taiga",
+    "taiga",
+    "birch_forest",
+    {
+      "id": "#minecraft:is_jungle",
+      "required": false
+    },
+    {
+      "id": "#minecraft:is_taiga",
+      "required": false
+    },
+    "beach",
+    "dark_forest",
+    "old_growth_spruce_taiga",
+    "jungle",
+    "flower_forest"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "#c:ingots/steel",
+    "#c:ingots/bronze",
+    "#cagedmobs:ingots/star_infused_netherite",
+    "#create:create_ingots",
+    "createdeco:industrial_iron_ingot",
+    "createnuclear:steel_ingot",
+    "createnuclear:lead_ingot",
+    "createnuclear:thorium_ingot",
+    "#c:ingots/mithril",
+    "#c:ingots/pyrium",
+    "irons_spellbooks:arcane_ingot",
+    "#c:ingots/refined_jade",
+    "l2complements:totemic_gold_ingot",
+    "l2complements:poseidite_ingot",
+    "l2complements:shulkerate_ingot",
+    "l2complements:sculkium_ingot",
+    "l2complements:eternium_ingot",
+    "simplemetals_tin:tin_ingot"
+  ]
+}

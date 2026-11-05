@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 100,
+      "fluid": "createendergateway:dormant_ender_solution"
+    }
+  ],
+  "processing_time": 50,
+  "results": [
+    {
+      "chance": 0.9,
+      "id": "minecraft:nether_wart"
+    },
+    {
+      "amount": 100,
+      "id": "createendergateway:active_ender_solution"
+    }
+  ]
+}

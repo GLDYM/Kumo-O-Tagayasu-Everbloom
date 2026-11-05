@@ -1,24 +1,31 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:dyed/light_blue
-# Entries: 20
+# Entries: 27
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.7632127+08:00
+# Generated: 2026-11-05T11:35:49.0156644+08:00
 
 handcrafted:light_blue_cushion
 handcrafted:light_blue_sheet
 minecraft:light_blue_banner
 minecraft:light_blue_bed
+minecraft:light_blue_bundle
 minecraft:light_blue_candle
 minecraft:light_blue_carpet
 minecraft:light_blue_concrete
 minecraft:light_blue_concrete_powder
+minecraft:light_blue_concrete_slab
+minecraft:light_blue_concrete_stairs
+minecraft:light_blue_cushion
 minecraft:light_blue_glazed_terracotta
+minecraft:light_blue_harness
 minecraft:light_blue_shulker_box
 minecraft:light_blue_stained_glass
 minecraft:light_blue_stained_glass_pane
 minecraft:light_blue_terracotta
 minecraft:light_blue_wool
+minecraft:light_blue_wool_slab
+minecraft:light_blue_wool_stairs
 supplementaries:awning_light_blue
 supplementaries:bunting_light_blue
 supplementaries:candle_holder_light_blue

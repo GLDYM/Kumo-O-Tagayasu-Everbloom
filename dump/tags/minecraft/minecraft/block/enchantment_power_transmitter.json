@@ -1,6 +1,5 @@
 {
-    "replace": false,
-    "values": [
-        "quark:cut_vine"
-    ]
+  "values": [
+    "#minecraft:replaceable"
+  ]
 }

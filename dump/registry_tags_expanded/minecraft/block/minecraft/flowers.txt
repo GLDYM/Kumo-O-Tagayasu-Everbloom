@@ -1,23 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:flowers
-# Entries: 51
+# Entries: 45
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.7772174+08:00
+# Generated: 2026-11-05T11:35:44.8526572+08:00
 
-atmospheric:firethorn
-atmospheric:flowering_morado_leaves
-atmospheric:forsythia
-atmospheric:gilia
-atmospheric:hot_monkey_brush
-atmospheric:hot_wall_monkey_brush
-atmospheric:scalding_monkey_brush
-atmospheric:scalding_wall_monkey_brush
-atmospheric:tall_yucca_flower
-atmospheric:warm_monkey_brush
-atmospheric:warm_wall_monkey_brush
-atmospheric:water_hyacinth
-atmospheric:yucca_flower
 corn_delight:wild_corn
 farmersdelight:wild_beetroots
 farmersdelight:wild_cabbages
@@ -29,8 +16,10 @@ farmersdelight:wild_tomatoes
 minecraft:allium
 minecraft:azure_bluet
 minecraft:blue_orchid
+minecraft:cactus_flower
 minecraft:cherry_leaves
 minecraft:chorus_flower
+minecraft:closed_eyeblossom
 minecraft:cornflower
 minecraft:dandelion
 minecraft:flowering_azalea
@@ -38,6 +27,7 @@ minecraft:flowering_azalea_leaves
 minecraft:lilac
 minecraft:lily_of_the_valley
 minecraft:mangrove_propagule
+minecraft:open_eyeblossom
 minecraft:orange_tulip
 minecraft:oxeye_daisy
 minecraft:peony
@@ -51,8 +41,12 @@ minecraft:spore_blossom
 minecraft:sunflower
 minecraft:torchflower
 minecraft:white_tulip
+minecraft:wildflowers
 minecraft:wither_rose
 mynethersdelight:bullet_pepper
-quark:water_pink_petals
 supplementaries:wild_flax
 tofucraft:tofu_flower
+touhou_little_maid_spell:jingxu_youlan
+touhou_little_maid_spell:scarlet_zhuhua
+touhou_little_maid_spell:star_glow_flower_cluster
+touhou_little_maid_spell:yue_linglan

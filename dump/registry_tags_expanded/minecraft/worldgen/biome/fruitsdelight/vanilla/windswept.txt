@@ -1,9 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:worldgen/biome
-# Tag: fruitsdelight:vanilla/windswept
-# Entries: 2
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.7418106+08:00
-
-minecraft:windswept_forest
-minecraft:windswept_hills

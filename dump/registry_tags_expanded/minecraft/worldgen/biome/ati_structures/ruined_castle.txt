@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: ati_structures:ruined_castle
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.424119+08:00
+
+minecraft:forest
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:plains
+minecraft:snowy_taiga
+minecraft:sunflower_plains
+minecraft:taiga

@@ -1,11 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:wolves_spawnable_on
-# Entries: 6
+# Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.0493448+08:00
+# Generated: 2026-11-05T11:35:45.4558161+08:00
 
-atmospheric:crustose
 minecraft:coarse_dirt
 minecraft:grass_block
 minecraft:podzol

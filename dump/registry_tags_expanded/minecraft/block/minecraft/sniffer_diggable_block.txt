@@ -1,18 +1,21 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:sniffer_diggable_block
-# Entries: 13
+# Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.977133+08:00
+# Generated: 2026-11-05T11:35:45.2581278+08:00
 
+minecraft:blackstone
 minecraft:coarse_dirt
 minecraft:crimson_nylium
 minecraft:dirt
 minecraft:grass_block
+minecraft:magma_block
 minecraft:moss_block
 minecraft:mud
 minecraft:muddy_mangrove_roots
 minecraft:netherrack
+minecraft:pale_moss_block
 minecraft:podzol
 minecraft:rooted_dirt
 minecraft:snow_block

@@ -3,7 +3,7 @@
 # Tag: irons_spellbooks:armors/chestplates
 # Entries: 14
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.8777051+08:00
+# Generated: 2026-11-05T11:35:53.2659311+08:00
 
 irons_spellbooks:archevoker_chestplate
 irons_spellbooks:cryomancer_chestplate

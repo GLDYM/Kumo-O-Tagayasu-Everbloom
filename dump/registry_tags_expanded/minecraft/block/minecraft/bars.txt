@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:bars
-# Entries: 11
+# Entries: 20
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.6496804+08:00
+# Generated: 2026-11-05T11:35:44.5973629+08:00
 
 createdeco:andesite_bars
 createdeco:andesite_bars_overlay
@@ -16,3 +16,12 @@ createdeco:industrial_iron_bars_overlay
 createdeco:iron_bars_overlay
 createdeco:zinc_bars
 createdeco:zinc_bars_overlay
+minecraft:copper_bars
+minecraft:exposed_copper_bars
+minecraft:iron_bars
+minecraft:oxidized_copper_bars
+minecraft:waxed_copper_bars
+minecraft:waxed_exposed_copper_bars
+minecraft:waxed_oxidized_copper_bars
+minecraft:waxed_weathered_copper_bars
+minecraft:weathered_copper_bars

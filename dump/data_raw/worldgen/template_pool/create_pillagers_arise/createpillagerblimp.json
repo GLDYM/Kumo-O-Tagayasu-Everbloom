@@ -1,0 +1,53 @@
+{
+  "name": "create_pillagers_arise:createpillagerblimp",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "create_pillagers_arise:ship",
+        "projection": "rigid",
+        "processors": {
+          "processors": [
+            {
+              "processor_type": "minecraft:block_ignore",
+              "blocks": [
+                {
+                  "Name": "minecraft:structure_block"
+                },
+                {
+                  "Name": "minecraft:dirt"
+                },
+                {
+                  "Name": "minecraft:grass_block"
+                },
+                {
+                  "Name": "minecraft:oak_sapling"
+                },
+                {
+                  "Name": "minecraft:spruce_sapling"
+                },
+                {
+                  "Name": "minecraft:birch_sapling"
+                },
+                {
+                  "Name": "minecraft:jungle_sapling"
+                },
+                {
+                  "Name": "minecraft:acacia_sapling"
+                },
+                {
+                  "Name": "minecraft:dark_oak_sapling"
+                },
+                {
+                  "Name": "minecraft:dirt_path"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

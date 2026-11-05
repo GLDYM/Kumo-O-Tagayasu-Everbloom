@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/maroon/base
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.5399801+08:00
+
+railways:maroon_flat_riveted_locometal
+railways:maroon_flat_slashed_locometal
+railways:maroon_locometal_pillar
+railways:maroon_locometal_smokebox
+railways:maroon_locometal_vent
+railways:maroon_plated_locometal
+railways:maroon_riveted_locometal
+railways:maroon_slashed_locometal

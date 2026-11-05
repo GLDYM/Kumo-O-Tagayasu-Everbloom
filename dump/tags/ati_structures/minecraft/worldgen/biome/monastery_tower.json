@@ -1,0 +1,31 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:dark_forest",
+        "minecraft:old_growth_birch_forest",
+        "minecraft:windswept_forest",
+        "minecraft:windswept_hills",
+        "minecraft:taiga",
+        "minecraft:snowy_taiga",
+        "minecraft:jungle",
+        "minecraft:plains",
+        "minecraft:badlands",
+        "minecraft:forest",
+        {
+            "id": "terralith:forested_highlands",
+            "required": false
+        },
+        {
+            "id": "terralith:shield",
+            "required": false
+        },
+        {
+            "id": "#c:forest",
+            "required": false
+        },
+        {
+            "id": "#c:is_taiga",
+            "required": false
+        }
+    ]
+}

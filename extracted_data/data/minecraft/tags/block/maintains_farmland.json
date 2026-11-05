@@ -1,0 +1,33 @@
+{
+  "values": [
+    "farmersdelight:cabbages",
+    "farmersdelight:budding_tomatoes",
+    "farmersdelight:tomatoes",
+    "farmersdelight:onions",
+    "farmersdelight:rice",
+    "immortalers_delight:himekaido_shrub",
+    "immortalers_delight:leisamboo_stalk",
+    "immortalers_delight:evolutcorn",
+    "immortalers_delight:kwat_wheat",
+    "immortalers_delight:alfalfa",
+    "immortalers_delight:warped_laurel_crop",
+    "immortalers_delight:oxygrape",
+    "supplementaries:flax",
+    {
+      "id": "supplementaries:rope_tomatoes",
+      "required": false
+    },
+    {
+      "id": "supplementaries:stick_tomatoes",
+      "required": false
+    },
+    "tofucraft:soybean",
+    "tofucraft:soybean_nether",
+    "tofucraft:soybean_soul",
+    "vintagedelight:oat_crop",
+    "vintagedelight:ghost_pepper_crop",
+    "vintagedelight:cucumber_crop",
+    "vintagedelight:peanut_crop"
+  ],
+  "replace": false
+}

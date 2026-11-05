@@ -1,8 +1,5 @@
 {
-    "replace": false,
-    "values": [
-        "quark:azalea_pressure_plate",
-        "quark:blossom_pressure_plate",
-        "quark:ancient_pressure_plate"
-    ]
+  "values": [
+    "trailandtales_delight:crystal_wood_pressure_plate"
+  ]
 }

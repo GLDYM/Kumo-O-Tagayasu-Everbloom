@@ -1,11 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:moss_replaceable
-# Entries: 37
+# Entries: 32
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.892474+08:00
+# Generated: 2026-11-05T11:35:45.0730228+08:00
 
-atmospheric:crustose
+crabbersdelight:wormy_dirt
 create:asurine
 create:crimsite
 create:limestone
@@ -15,9 +15,6 @@ create:scoria
 create:veridium
 createnuclear:autunite
 delighto_flight:weather_soil
-dndecor:dolomite
-dndecor:gabbro
-dndecor:weathered_limestone
 farmersdelight:rich_soil
 minecraft:andesite
 minecraft:cave_vines
@@ -32,13 +29,11 @@ minecraft:moss_block
 minecraft:mud
 minecraft:muddy_mangrove_roots
 minecraft:mycelium
+minecraft:pale_moss_block
 minecraft:podzol
 minecraft:rooted_dirt
 minecraft:stone
 minecraft:tuff
 mynethersdelight:resurgent_soil
 mynethersdelight:resurgent_soil_farmland
-quark:jasper
-quark:limestone
-quark:shale
 vintagedelight:lush_grass_block

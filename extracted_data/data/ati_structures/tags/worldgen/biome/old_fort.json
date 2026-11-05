@@ -1,0 +1,58 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:jagged_peaks",
+        "minecraft:frozen_peaks",
+        "minecraft:grove",
+        "minecraft:snowy_beach",
+        "minecraft:snowy_plains",
+        "minecraft:snowy_slopes",
+        "minecraft:snowy_taiga",
+        "minecraft:frozen_river",
+        "minecraft:ice_spikes",
+        {
+            "id": "terralith:frozen_clifs",
+            "required": false
+        },
+        {
+            "id": "terralith:siberian_grove",
+            "required": false
+        },
+        {
+            "id": "terralith:skylands_winter",
+            "required": false
+        },
+        {
+            "id": "terralith:snowy_shield",
+            "required": false
+        },
+        {
+            "id": "terralith:snowy_badlands",
+            "required": false
+        },
+        {
+            "id": "terralith:scarlet_mountains",
+            "required": false
+        },
+        {
+            "id": "terralith:glacial_chasm",
+            "required": false
+        },
+        {
+            "id": "terralith:alpine_grove",
+            "required": false
+        },
+        {
+            "id": "terralith:wintry_forest",
+            "required": false
+        },
+        {
+            "id": "terralith:yosemite_lowlands",
+            "required": false
+        },
+        {
+            "id": "#c:climate_cold",
+            "required": false
+        }
+    ]
+}

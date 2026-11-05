@@ -1,13 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:berries
-# Entries: 10
+# Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.2477222+08:00
+# Generated: 2026-11-05T11:35:47.9225609+08:00
 
-atmospheric:currant
-fruitsdelight:blueberry
-fruitsdelight:cranberry
 immortalers_delight:himekaido
 kaleidoscope_end:dream_berry
 minecraft:glow_berries

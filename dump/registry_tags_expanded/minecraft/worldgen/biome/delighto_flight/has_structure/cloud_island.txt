@@ -3,7 +3,7 @@
 # Tag: delighto_flight:has_structure/cloud_island
 # Entries: 20
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.634617+08:00
+# Generated: 2026-11-05T11:35:58.9301673+08:00
 
 minecraft:cold_ocean
 minecraft:deep_cold_ocean

@@ -1,0 +1,13 @@
+{
+  "values": [
+    "delighto_flight:weather_soil",
+    "farmersdelight:organic_compost",
+    "farmersdelight:rich_soil",
+    "mynethersdelight:letios_compost",
+    "mynethersdelight:resurgent_soil",
+    "mynethersdelight:resurgent_soil_farmland",
+    "supplementaries:planter",
+    "vintagedelight:lush_grass_block"
+  ],
+  "replace": false
+}

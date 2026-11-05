@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: minecraft:can_float_while_ridden
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:47.0219778+08:00
+
+minecraft:camel
+minecraft:camel_husk
+minecraft:donkey
+minecraft:horse
+minecraft:mule
+minecraft:zombie_horse

@@ -1,6 +1,8 @@
 {
   "values": [
-    "atmospheric:rainforest_basin",
-    "atmospheric:sparse_rainforest_basin"
+    "#minecraft:is_ocean",
+    "#minecraft:is_river",
+    "minecraft:swamp",
+    "minecraft:mangrove_swamp"
   ]
 }

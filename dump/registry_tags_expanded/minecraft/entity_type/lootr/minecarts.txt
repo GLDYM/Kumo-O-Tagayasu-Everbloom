@@ -1,7 +1,8 @@
 # Expanded runtime tag dump
 # Registry: minecraft:entity_type
 # Tag: lootr:minecarts
-# Entries: 0
+# Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.7507118+08:00
+# Generated: 2026-11-05T11:35:46.9928587+08:00
 
+lootr:lootr_minecart

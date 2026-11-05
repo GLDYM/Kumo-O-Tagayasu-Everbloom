@@ -1,9 +1,18 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: forge:rawmeat
-# Entries: 2
+# Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.7510784+08:00
+# Generated: 2026-11-05T11:35:52.9551982+08:00
 
+farmersdelight:bacon
+farmersdelight:chicken_cuts
+farmersdelight:minced_beef
+farmersdelight:mutton_chops
 immortalers_delight:raw_sniffer_slice
 immortalers_delight:raw_sniffer_steak
+minecraft:beef
+minecraft:chicken
+minecraft:mutton
+minecraft:porkchop
+minecraft:rabbit

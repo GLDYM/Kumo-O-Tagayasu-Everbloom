@@ -1,0 +1,11 @@
+{
+  "values": [
+    "delighto_flight:weather_soil",
+    "farmersdelight:rich_soil",
+    "mynethersdelight:resurgent_soil",
+    "mynethersdelight:powdery_cannon",
+    "supplementaries:planter",
+    "vintagedelight:lush_grass_block"
+  ],
+  "replace": false
+}

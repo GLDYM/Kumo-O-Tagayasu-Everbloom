@@ -1,0 +1,17 @@
+{
+  "values": [
+    "handcrafted:lime_cushion",
+    "supplementaries:flag_lime",
+    "supplementaries:present_lime",
+    "supplementaries:trapped_present_lime",
+    "supplementaries:candle_holder_lime",
+    "supplementaries:awning_lime",
+    "supplementaries:bunting_lime",
+    "supplementaries:bunting_wall_lime",
+    "minecraft:lime_wool_stairs",
+    "minecraft:lime_wool_slab",
+    "minecraft:lime_concrete_stairs",
+    "minecraft:lime_concrete_slab"
+  ],
+  "replace": false
+}

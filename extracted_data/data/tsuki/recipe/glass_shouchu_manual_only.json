@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tsuki:glass_cup"
+    },
+    {
+      "item": "tsuki:shouchu_bottle"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "tsuki:glass_shouchu"
+  }
+}

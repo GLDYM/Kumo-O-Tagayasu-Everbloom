@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "gensouworks:koumakan",
+      "weight": 1
+    },
+    {
+      "structure": "gensouworks:eientei",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 48,
+    "separation": 16,
+    "salt": 20260805
+  }
+}

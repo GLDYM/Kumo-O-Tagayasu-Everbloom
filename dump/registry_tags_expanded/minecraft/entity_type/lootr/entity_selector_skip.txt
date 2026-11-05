@@ -1,8 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:entity_type
 # Tag: lootr:entity_selector_skip
-# Entries: 1
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.7448399+08:00
+# Generated: 2026-11-05T11:35:46.9868265+08:00
 
 lootr:item_frame
+lootr:lootr_minecart

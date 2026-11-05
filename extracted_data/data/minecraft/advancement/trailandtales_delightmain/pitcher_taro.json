@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:trailandtales_delightmain/tat_delight",
+  "criteria": {
+    "seeds": {
+      "conditions": {
+        "items": [
+          {
+            "items": "trailandtales_delight:pitcher_taro"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.pitcher_taro.descr"
+    },
+    "frame": "goal",
+    "icon": {
+      "count": 1,
+      "id": "trailandtales_delight:pitcher_taro"
+    },
+    "title": {
+      "translate": "advancements.pitcher_taro.title"
+    }
+  },
+  "requirements": [
+    [
+      "seeds"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

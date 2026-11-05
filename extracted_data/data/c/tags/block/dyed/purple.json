@@ -1,0 +1,17 @@
+{
+  "values": [
+    "handcrafted:purple_cushion",
+    "supplementaries:flag_purple",
+    "supplementaries:present_purple",
+    "supplementaries:trapped_present_purple",
+    "supplementaries:candle_holder_purple",
+    "supplementaries:awning_purple",
+    "supplementaries:bunting_purple",
+    "supplementaries:bunting_wall_purple",
+    "minecraft:purple_wool_stairs",
+    "minecraft:purple_wool_slab",
+    "minecraft:purple_concrete_stairs",
+    "minecraft:purple_concrete_slab"
+  ],
+  "replace": false
+}

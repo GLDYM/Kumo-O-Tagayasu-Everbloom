@@ -1,23 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:enderman_holdable
-# Entries: 68
+# Entries: 63
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.7571746+08:00
+# Generated: 2026-11-05T11:35:44.8220542+08:00
 
-atmospheric:crustose
-atmospheric:firethorn
-atmospheric:forsythia
-atmospheric:gilia
-atmospheric:hot_monkey_brush
-atmospheric:hot_wall_monkey_brush
-atmospheric:scalding_monkey_brush
-atmospheric:scalding_wall_monkey_brush
-atmospheric:warm_monkey_brush
-atmospheric:warm_wall_monkey_brush
-atmospheric:water_hyacinth
-atmospheric:yucca_flower
 corn_delight:wild_corn
+crabbersdelight:wormy_dirt
 delighto_flight:weather_soil
 farmersdelight:rich_soil
 farmersdelight:wild_beetroots
@@ -26,14 +15,15 @@ farmersdelight:wild_carrots
 farmersdelight:wild_onions
 farmersdelight:wild_potatoes
 farmersdelight:wild_tomatoes
-fruitsdelight:hamimelon
 minecraft:allium
 minecraft:azure_bluet
 minecraft:blue_orchid
 minecraft:brown_mushroom
 minecraft:cactus
+minecraft:cactus_flower
 minecraft:carved_pumpkin
 minecraft:clay
+minecraft:closed_eyeblossom
 minecraft:coarse_dirt
 minecraft:cornflower
 minecraft:crimson_fungus
@@ -49,8 +39,10 @@ minecraft:moss_block
 minecraft:mud
 minecraft:muddy_mangrove_roots
 minecraft:mycelium
+minecraft:open_eyeblossom
 minecraft:orange_tulip
 minecraft:oxeye_daisy
+minecraft:pale_moss_block
 minecraft:pink_tulip
 minecraft:podzol
 minecraft:poppy
@@ -72,4 +64,7 @@ mynethersdelight:resurgent_soil
 mynethersdelight:resurgent_soil_farmland
 supplementaries:wild_flax
 tofucraft:tofu_flower
+touhou_little_maid_spell:jingxu_youlan
+touhou_little_maid_spell:scarlet_zhuhua
+touhou_little_maid_spell:yue_linglan
 vintagedelight:lush_grass_block

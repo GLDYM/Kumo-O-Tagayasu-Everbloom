@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/pine_green/base
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.7224614+08:00
+
+railways:pine_green_flat_riveted_locometal
+railways:pine_green_flat_slashed_locometal
+railways:pine_green_locometal_pillar
+railways:pine_green_locometal_smokebox
+railways:pine_green_locometal_vent
+railways:pine_green_plated_locometal
+railways:pine_green_riveted_locometal
+railways:pine_green_slashed_locometal

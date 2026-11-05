@@ -1,13 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:enchantment_power_transmitter
-# Entries: 32
+# Entries: 28
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.7561737+08:00
+# Generated: 2026-11-05T11:35:44.8195278+08:00
 
-atmospheric:agave
-atmospheric:arid_sprouts
-atmospheric:golden_growths
 farmersdelight:sandy_shrub
 minecraft:air
 minecraft:bubble_column
@@ -33,7 +30,6 @@ minecraft:vine
 minecraft:void_air
 minecraft:warped_roots
 minecraft:water
-quark:cut_vine
 supplementaries:ash
 supplementaries:barnacles
 tofucraft:blockleek

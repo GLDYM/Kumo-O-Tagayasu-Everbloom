@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:trailandtales_delightmain/tat_delight",
+  "criteria": {
+    "seeds": {
+      "conditions": {
+        "items": [
+          {
+            "items": "trailandtales_delight:pottery_bowl"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.pottery_bowl.descr"
+    },
+    "icon": {
+      "count": 1,
+      "id": "trailandtales_delight:pottery_bowl"
+    },
+    "title": {
+      "translate": "advancements.pottery_bowl.title"
+    }
+  },
+  "requirements": [
+    [
+      "seeds"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

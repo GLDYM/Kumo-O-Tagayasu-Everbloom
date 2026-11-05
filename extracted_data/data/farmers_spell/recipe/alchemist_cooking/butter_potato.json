@@ -1,0 +1,29 @@
+{
+    "type": "farmers_spell:alchemist_cooking",
+    "ingredients": [
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "item": "farmers_spell:wsip_butter"
+        },
+        {
+            "item": "farmers_spell:gilded_divine_sauce"
+        },
+        {
+            "item": "minecraft:cooked_beef"
+        }
+    ],
+    "result": {
+        "count": 3,
+        "id": "farmers_spell:butter_potato"
+    },
+    "experience": 1.0,
+    "cookingtime": 200
+}

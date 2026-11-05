@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: c:dyed/black
-# Entries: 21
+# Entries: 25
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.6159979+08:00
+# Generated: 2026-11-05T11:35:42.3942951+08:00
 
 handcrafted:black_cushion
 minecraft:black_banner
@@ -12,6 +12,8 @@ minecraft:black_candle
 minecraft:black_carpet
 minecraft:black_concrete
 minecraft:black_concrete_powder
+minecraft:black_concrete_slab
+minecraft:black_concrete_stairs
 minecraft:black_glazed_terracotta
 minecraft:black_shulker_box
 minecraft:black_stained_glass
@@ -19,6 +21,8 @@ minecraft:black_stained_glass_pane
 minecraft:black_terracotta
 minecraft:black_wall_banner
 minecraft:black_wool
+minecraft:black_wool_slab
+minecraft:black_wool_stairs
 supplementaries:awning_black
 supplementaries:bunting_black
 supplementaries:bunting_wall_black

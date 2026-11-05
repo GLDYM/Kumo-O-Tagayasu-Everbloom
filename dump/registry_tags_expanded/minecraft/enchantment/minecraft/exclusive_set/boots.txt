@@ -3,7 +3,7 @@
 # Tag: minecraft:exclusive_set/boots
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.5450526+08:00
+# Generated: 2026-11-05T11:35:46.667929+08:00
 
 minecraft:depth_strider
 minecraft:frost_walker

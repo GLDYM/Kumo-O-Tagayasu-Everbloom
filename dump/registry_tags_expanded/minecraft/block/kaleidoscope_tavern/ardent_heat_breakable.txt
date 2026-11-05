@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: kaleidoscope_tavern:ardent_heat_breakable
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:44.2546043+08:00
+
+minecraft:andesite
+minecraft:basalt
+minecraft:blackstone
+minecraft:deepslate
+minecraft:diorite
+minecraft:end_stone
+minecraft:granite
+minecraft:netherrack
+minecraft:stone
+minecraft:tuff
+supplementaries:ashen_basalt

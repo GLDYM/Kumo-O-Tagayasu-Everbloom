@@ -1,14 +1,15 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: cagedmobs:cage_upgrades
-# Entries: 9
+# Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.7822745+08:00
+# Generated: 2026-11-05T11:35:51.2179503+08:00
 
 cagedmobs:arrow_upgrade
 cagedmobs:cooking_upgrade
 cagedmobs:creative_upgrade
 cagedmobs:experience_upgrade
+cagedmobs:knife_upgrade
 cagedmobs:lightning_upgrade
 cagedmobs:looting_upgrade
 cagedmobs:speed_i_upgrade

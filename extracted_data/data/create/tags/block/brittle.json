@@ -1,0 +1,95 @@
+{
+  "values": [
+    "create:nozzle",
+    "create:hand_crank",
+    "create:copper_valve_handle",
+    "create:white_valve_handle",
+    "create:orange_valve_handle",
+    "create:magenta_valve_handle",
+    "create:light_blue_valve_handle",
+    "create:yellow_valve_handle",
+    "create:lime_valve_handle",
+    "create:pink_valve_handle",
+    "create:gray_valve_handle",
+    "create:light_gray_valve_handle",
+    "create:cyan_valve_handle",
+    "create:purple_valve_handle",
+    "create:blue_valve_handle",
+    "create:brown_valve_handle",
+    "create:green_valve_handle",
+    "create:red_valve_handle",
+    "create:black_valve_handle",
+    "create:rope",
+    "create:pulley_magnet",
+    "create:redstone_link",
+    "create:peculiar_bell",
+    "create:haunted_bell",
+    "minecraft:bell",
+    "minecraft:cocoa",
+    "minecraft:flower_pot",
+    "minecraft:moss_carpet",
+    "minecraft:bamboo_sapling",
+    "minecraft:big_dripleaf",
+    "minecraft:vine",
+    "minecraft:twisting_vines_plant",
+    "minecraft:twisting_vines",
+    "minecraft:weeping_vines_plant",
+    "minecraft:weeping_vines",
+    "minecraft:cake",
+    "#create:corals",
+    "#minecraft:cave_vines",
+    "#minecraft:banners",
+    "#minecraft:beds",
+    "#minecraft:doors",
+    "create_connected:crank_wheel",
+    "create_connected:large_crank_wheel",
+    "#dramaticdoors:short_doors",
+    "#dramaticdoors:tall_doors",
+    "farmersdelight:cutting_board",
+    "farmersdelight:full_tatami_mat",
+    "farmersdelight:half_tatami_mat",
+    "#farmersdelight:feasts",
+    "#farmersdelight:pies",
+    {
+      "id": "#supplementaries:candle_holders",
+      "required": false
+    },
+    {
+      "id": "#supplementaries:sconces",
+      "required": false
+    },
+    {
+      "id": "#supplementaries:buntings",
+      "required": false
+    },
+    {
+      "id": "supplementaries:ash",
+      "required": false
+    },
+    {
+      "id": "supplementaries:barnacles",
+      "required": false
+    },
+    {
+      "id": "supplementaries:crank",
+      "required": false
+    },
+    {
+      "id": "supplementaries:doormat",
+      "required": false
+    },
+    {
+      "id": "supplementaries:item_shelf",
+      "required": false
+    },
+    {
+      "id": "supplementaries:pancake",
+      "required": false
+    },
+    {
+      "id": "supplementaries:sconce_lever",
+      "required": false
+    }
+  ],
+  "replace": false
+}

@@ -1,0 +1,35 @@
+{
+  "replace": false,
+  "values": [
+    "#createdeco:cage_lamps",
+    "#createdeco:catwalks",
+    "#createdeco:ladders",
+    "#createdeco:placards",
+    "#createdeco:railings",
+    "#createdeco:support_wedges",
+    "farmersdelight:cutting_board",
+    "farmersdelight:canvas_rug",
+    "farmersdelight:full_tatami_mat",
+    "farmersdelight:half_tatami_mat",
+    "farmersdelight:safety_net",
+    "supplementaries:feather_block",
+    "supplementaries:ash",
+    "supplementaries:wicker_fence",
+    "supplementaries:doormat",
+    "#supplementaries:awnings",
+    "supplementaries:stick",
+    "supplementaries:blaze_rod",
+    {
+      "id": "supplementaries:gold_gate",
+      "required": false
+    },
+    {
+      "id": "supplementaries:iron_gate",
+      "required": false
+    },
+    {
+      "id": "supplementaries:rope",
+      "required": false
+    }
+  ]
+}

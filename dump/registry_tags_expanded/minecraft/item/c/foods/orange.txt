@@ -1,8 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:item
-# Tag: c:foods/orange
-# Entries: 1
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.9436197+08:00
-
-atmospheric:orange

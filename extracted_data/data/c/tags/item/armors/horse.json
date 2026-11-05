@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "alloyed:steel_horse_armor",
+    "minecraft:copper_horse_armor",
+    "minecraft:netherite_horse_armor"
+  ]
+}

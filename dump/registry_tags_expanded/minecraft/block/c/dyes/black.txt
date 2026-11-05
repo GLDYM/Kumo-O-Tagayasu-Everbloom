@@ -3,6 +3,6 @@
 # Tag: c:dyes/black
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.6397403+08:00
+# Generated: 2026-11-05T11:35:42.5063492+08:00
 
 create_connected:black_fan_dyeing_catalyst

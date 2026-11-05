@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:wolf_food
-# Entries: 32
+# Entries: 29
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.3845659+08:00
+# Generated: 2026-11-05T11:35:54.5991766+08:00
 
 farmersdelight:bacon
 farmersdelight:beef_patty
@@ -34,6 +34,3 @@ mynethersdelight:hotdog
 mynethersdelight:minced_strider
 mynethersdelight:roast_ear
 mynethersdelight:roasted_sausage
-neapolitan:cooked_mint_chops
-neapolitan:mint_chops
-tofudelight:soy_chicken_piece

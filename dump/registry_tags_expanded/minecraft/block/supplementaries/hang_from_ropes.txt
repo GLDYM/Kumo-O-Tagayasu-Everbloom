@@ -1,29 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: supplementaries:hang_from_ropes
-# Entries: 103
+# Entries: 80
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.2507114+08:00
+# Generated: 2026-11-05T11:35:45.9725755+08:00
 
 amendments:hanging_flower_pot
-atmospheric:aspen_hanging_sign
-atmospheric:aspen_leaves
-atmospheric:currant_leaves
-atmospheric:dry_laurel_leaves
-atmospheric:flowering_morado_leaves
-atmospheric:green_aspen_leaves
-atmospheric:grimwood_hanging_sign
-atmospheric:grimwood_leaves
-atmospheric:kousa_hanging_sign
-atmospheric:kousa_leaves
-atmospheric:laurel_hanging_sign
-atmospheric:laurel_leaves
-atmospheric:morado_hanging_sign
-atmospheric:morado_leaves
-atmospheric:rosewood_hanging_sign
-atmospheric:rosewood_leaves
-atmospheric:yucca_hanging_sign
-atmospheric:yucca_leaves
 crabbersdelight:palm_hanging_sign
 crabbersdelight:palm_leaves
 farmersdelight:black_hanging_canvas_sign
@@ -45,19 +27,6 @@ farmersdelight:rope
 farmersdelight:tomatoes
 farmersdelight:white_hanging_canvas_sign
 farmersdelight:yellow_hanging_canvas_sign
-fruitsdelight:apple_leaves
-fruitsdelight:bayberry_leaves
-fruitsdelight:durian_leaves
-fruitsdelight:fig_leaves
-fruitsdelight:hawberry_leaves
-fruitsdelight:kiwi_leaves
-fruitsdelight:lychee_leaves
-fruitsdelight:mango_leaves
-fruitsdelight:mangosteen_leaves
-fruitsdelight:orange_leaves
-fruitsdelight:peach_leaves
-fruitsdelight:pear_leaves
-fruitsdelight:persimmon_leaves
 immortalers_delight:himekaido_flowering_leaves
 immortalers_delight:himekaido_fruited_leaves
 immortalers_delight:himekaido_leaves
@@ -71,9 +40,11 @@ minecraft:birch_hanging_sign
 minecraft:birch_leaves
 minecraft:cherry_hanging_sign
 minecraft:cherry_leaves
+minecraft:copper_lantern
 minecraft:crimson_hanging_sign
 minecraft:dark_oak_hanging_sign
 minecraft:dark_oak_leaves
+minecraft:exposed_copper_lantern
 minecraft:flowering_azalea_leaves
 minecraft:jungle_hanging_sign
 minecraft:jungle_leaves
@@ -82,26 +53,32 @@ minecraft:mangrove_hanging_sign
 minecraft:mangrove_leaves
 minecraft:oak_hanging_sign
 minecraft:oak_leaves
+minecraft:orange_poplar_leaves
+minecraft:oxidized_copper_lantern
+minecraft:pale_oak_hanging_sign
+minecraft:pale_oak_leaves
+minecraft:poplar_hanging_sign
+minecraft:red_poplar_leaves
 minecraft:soul_lantern
 minecraft:spruce_hanging_sign
 minecraft:spruce_leaves
 minecraft:warped_hanging_sign
+minecraft:waxed_copper_lantern
+minecraft:waxed_exposed_copper_lantern
+minecraft:waxed_oxidized_copper_lantern
+minecraft:waxed_weathered_copper_lantern
+minecraft:weathered_copper_lantern
+minecraft:yellow_poplar_leaves
 mynethersdelight:powdery_hanging_sign
-quark:ancient_hanging_sign
-quark:ancient_leaves
-quark:azalea_hanging_sign
-quark:blossom_hanging_sign
-quark:blue_blossom_leaves
-quark:lavender_blossom_leaves
-quark:orange_blossom_leaves
-quark:red_blossom_leaves
-quark:yellow_blossom_leaves
+supplementaries:pignata_anchor
 supplementaries:rope
 tofucraft:leaves_apricot
 tofucraft:leaves_tofu
 tofucraft:leek_green_hanging_sign
 tofucraft:leek_hanging_sign
 tofucraft:tofustem_hanging_sign
+trailandtales_delight:crystal_leaves
+trailandtales_delight:crystal_wood_hanging_sign
 tsuki:mapleleaves_green
 tsuki:mapleleaves_orange
 tsuki:mapleleaves_red

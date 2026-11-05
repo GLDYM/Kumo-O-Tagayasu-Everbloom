@@ -1,14 +1,13 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:leg_armor
-# Entries: 39
+# Entries: 40
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.2208354+08:00
+# Generated: 2026-11-05T11:35:54.2954873+08:00
 
+alloyed:steel_leggings
 create:cardboard_leggings
-create_sa:brass_leggings
-create_sa:copper_leggings
-create_sa:zinc_leggings
+farmers_spell:gluttony_chef_leggings
 irons_spellbooks:archevoker_leggings
 irons_spellbooks:cryomancer_leggings
 irons_spellbooks:cultist_leggings
@@ -29,7 +28,9 @@ l2complements:poseidite_leggings
 l2complements:sculkium_leggings
 l2complements:shulkerate_leggings
 l2complements:totemic_gold_leggings
+majobroom:majo_stocking
 minecraft:chainmail_leggings
+minecraft:copper_leggings
 minecraft:diamond_leggings
 minecraft:golden_leggings
 minecraft:iron_leggings

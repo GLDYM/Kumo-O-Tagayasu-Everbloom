@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: irons_spellbooks:pocket_dimension_prevent_placement
-# Entries: 32
+# Entries: 33
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.4384849+08:00
+# Generated: 2026-11-05T11:35:44.1592079+08:00
 
 delighto_flight:cloud_silk_bed
 handcrafted:acacia_fancy_bed
@@ -18,6 +18,7 @@ handcrafted:oak_fancy_bed
 handcrafted:spruce_fancy_bed
 handcrafted:warped_fancy_bed
 irons_spellbooks:portal_frame
+kaleidoscope_chinesefood:straw_bed
 minecraft:black_bed
 minecraft:blue_bed
 minecraft:brown_bed

@@ -1,0 +1,11 @@
+{
+  "values": [
+    "create:zinc_ore",
+    "createnuclear:uranium_ore",
+    "createnuclear:lead_ore",
+    "createnuclear:thorium_ore",
+    "createnuclear:nitrate_ore",
+    "irons_spellbooks:mithril_ore",
+    "iss_magicfromtheeast:jade_ore"
+  ]
+}

@@ -3,7 +3,7 @@
 # Tag: iss_magicfromtheeast:has_structure/taoist_house
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.1237846+08:00
+# Generated: 2026-11-05T11:35:59.0607115+08:00
 
 minecraft:bamboo_jungle
 minecraft:sparse_jungle

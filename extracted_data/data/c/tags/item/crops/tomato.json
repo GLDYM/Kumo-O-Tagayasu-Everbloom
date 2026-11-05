@@ -1,0 +1,25 @@
+{
+  "values": [
+    "bakeries:tomato",
+    "farmersdelight:tomato",
+    {
+      "id": "farmersdelight:tomato",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:rotten_tomato",
+      "required": false
+    },
+    {
+      "id": "#forge:crops/tomato",
+      "required": false
+    },
+    {
+      "id": "#forge:vegetables/tomato",
+      "required": false
+    },
+    "kaleidoscope_cookery:tomato",
+    "tsuki:tomato"
+  ],
+  "replace": false
+}

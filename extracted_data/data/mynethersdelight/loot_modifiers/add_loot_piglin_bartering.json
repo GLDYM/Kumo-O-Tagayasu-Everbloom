@@ -1,0 +1,12 @@
+{
+  "type": "mynethersdelight:piglin_food",
+  "conditions":
+  [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:gameplay/piglin_bartering"
+    }
+  ],
+  "lootTable": "mynethersdelight:gameplay/mnd_piglin_bartering",
+  "lootTableWithoutFood": "mynethersdelight:gameplay/mnd_piglin_bartering_without_food"
+}

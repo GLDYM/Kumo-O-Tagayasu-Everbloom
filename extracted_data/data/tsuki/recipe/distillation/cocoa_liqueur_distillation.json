@@ -1,0 +1,25 @@
+{
+  "type": "tsuki:distillation",
+  "experience": 0,
+  "fluid": {
+    "amount": 1000,
+    "fluidTag": "tsuki:brewers_alcohol"
+  },
+  "ingredients": [
+    {
+      "tag": "c:crops/cocoa_bean"
+    },
+    {
+      "tag": "c:crops/cocoa_bean"
+    },
+    {
+      "tag": "c:crops/vanilla"
+    }
+  ],
+  "recipeTime": 400,
+  "result_fluid": {
+    "amount": 1000,
+    "fluid": "tsuki:cocoa_liqueur"
+  },
+  "results": []
+}

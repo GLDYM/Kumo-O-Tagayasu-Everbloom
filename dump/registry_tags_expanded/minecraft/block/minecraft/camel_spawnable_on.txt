@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:camel_spawnable_on
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:44.6361766+08:00
+
+lootr:suspicious_sand
+minecraft:red_sand
+minecraft:sand
+minecraft:suspicious_sand

@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: epic:plains_obelisk
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.956417+08:00
+
+minecraft:birch_forest
+minecraft:forest
+minecraft:old_growth_birch_forest
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:plains
+minecraft:savanna
+minecraft:sunflower_plains

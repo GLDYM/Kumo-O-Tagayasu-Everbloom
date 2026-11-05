@@ -1,0 +1,35 @@
+{
+  "neoforge:conditions": [
+    {
+      "modid": "farmersdelight",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "tsuki:sakura_log"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 1,
+        "id": "tsuki:stripped_sakura_log"
+      }
+    },
+    {
+      "item": {
+        "count": 1,
+        "id": "farmersdelight:tree_bark"
+      }
+    }
+  ],
+  "sound": {
+    "sound_id": "minecraft:item.axe.strip"
+  },
+  "tool": {
+    "action": "axe_strip",
+    "type": "farmersdelight:item_ability"
+  }
+}

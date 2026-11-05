@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: ati_structures:quarry
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.410061+08:00
+
+minecraft:forest
+minecraft:plains
+minecraft:sunflower_plains

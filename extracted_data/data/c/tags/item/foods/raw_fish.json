@@ -1,0 +1,12 @@
+{
+  "values": [
+    "crabbersdelight:tropical_fish_slice",
+    "create_bic_bit:raw_herring",
+    "#c:foods/raw_cod",
+    "#c:foods/raw_salmon",
+    "mynethersdelight:strider_slice",
+    "mynethersdelight:ghasta",
+    "#vintagedelight:raw_fish"
+  ],
+  "replace": false
+}

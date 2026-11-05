@@ -2,7 +2,7 @@
 # Registry: minecraft:frog_variant
 # Minecraft: 1.21.1
 # Entries: 3
-# Generated: 2026-06-18T20:40:59.173005+08:00
+# Generated: 2026-11-05T11:31:32.8527067+08:00
 
 minecraft:cold raw_id=2 class=net.minecraft.world.entity.animal.FrogVariant
 minecraft:temperate raw_id=0 class=net.minecraft.world.entity.animal.FrogVariant

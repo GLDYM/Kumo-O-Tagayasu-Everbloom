@@ -3,7 +3,7 @@
 # Tag: bakeries:sofa
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.5273801+08:00
+# Generated: 2026-11-05T11:35:42.2939394+08:00
 
 bakeries:sofa_light_gray
 bakeries:sofa_red

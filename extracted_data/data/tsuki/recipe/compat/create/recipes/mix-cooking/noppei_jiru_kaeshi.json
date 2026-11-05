@@ -1,0 +1,35 @@
+{
+  "neoforge:conditions": [
+    {
+      "modid": "create",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "c:foods/raw_chicken"
+    },
+    {
+      "tag": "c:crops/taro"
+    },
+    {
+      "tag": "c:vegetables"
+    },
+    {
+      "item": "tsuki:kaeshi"
+    },
+    {
+      "amount": 250,
+      "fluid": "minecraft:water",
+      "type": "neoforge:single"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "tsuki:noppei_jiru"
+    }
+  ]
+}

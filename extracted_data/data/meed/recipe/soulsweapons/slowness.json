@@ -1,0 +1,38 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "soulsweapons"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "emiffect"
+      }
+    }
+  ],
+  "type": "jeed:effect_provider",
+  "effect": "minecraft:slowness",
+  "providers": [
+    {
+      "item": "soulsweapons:nightlords_sword"
+    },
+    {
+      "item": "soulsweapons:draugr_boss_spawn_egg"
+    },
+    {
+      "item": "soulsweapons:returning_knight_spawn_egg"
+    },
+    {
+      "item": "soulsweapons:moonknight_spawn_egg"
+    },
+    {
+      "item": "soulsweapons:night_prowler_spawn_egg"
+    },
+    {
+      "item": "soulsweapons:soulmass_spawn_egg"
+    }
+
+  ]
+}

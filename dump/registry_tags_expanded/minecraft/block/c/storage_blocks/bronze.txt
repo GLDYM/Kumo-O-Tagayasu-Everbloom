@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:storage_blocks/bronze
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:43.0432065+08:00
+
+alloyed:bronze_block
+alloyed:waxed_bronze_block

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "wool_stairs",
+  "ingredients": [
+    {
+      "item": "minecraft:purple_dye"
+    },
+    {
+      "tag": "minecraft:wool_stairs"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:purple_wool_stairs"
+  }
+}

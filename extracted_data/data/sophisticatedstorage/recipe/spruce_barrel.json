@@ -1,0 +1,33 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedstorage:barrel"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "minecraft:lever"
+    },
+    "P": {
+      "item": "minecraft:spruce_planks"
+    },
+    "S": {
+      "item": "minecraft:spruce_slab"
+    }
+  },
+  "pattern": [
+    "PSP",
+    "PLP",
+    "PSP"
+  ],
+  "result": {
+    "components": {
+      "sophisticatedstorage:wood_type": "spruce"
+    },
+    "count": 1,
+    "id": "sophisticatedstorage:barrel"
+  }
+}

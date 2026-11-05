@@ -1,5 +1,9 @@
 {
   "values": [
-    "atmospheric:red_arid_sand"
+    "minecraft:red_sand",
+    {
+      "id": "#forge:sand/red",
+      "required": false
+    }
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "values": [
+    "bakeries:bread_knife",
+    "ends_delight:dragon_egg_shell_knife",
+    "ends_delight:end_stone_knife",
+    "ends_delight:purpur_knife",
+    "ends_delight:dragon_tooth_knife",
+    "farmers_spell:gospel",
+    "farmers_spell:hell_knife",
+    "farmers_spell:grow_knife",
+    "farmers_spell:twilight_blade",
+    "farmers_spell:boreal_knife",
+    "farmers_spell:echoing_knife",
+    "farmers_spell:mithril_knife",
+    "farmersdelight:flint_knife",
+    "farmersdelight:iron_knife",
+    "farmersdelight:diamond_knife",
+    "farmersdelight:golden_knife",
+    "farmersdelight:netherite_knife",
+    {
+      "id": "farmersdelight:flint_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:iron_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:diamond_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:netherite_knife",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:golden_knife",
+      "required": false
+    },
+    "immortalers_delight:bone_knife",
+    "#immortalers_delight:tools/immortal_knives",
+    {
+      "id": "#forge:tools/knives",
+      "required": false
+    },
+    "kaleidoscope_cookery:iron_kitchen_knife",
+    "kaleidoscope_cookery:gold_kitchen_knife",
+    "kaleidoscope_cookery:diamond_kitchen_knife",
+    "kaleidoscope_cookery:netherite_kitchen_knife",
+    "#tsuki:tools/knives/fish",
+    "#tsuki:tools/knives/noodle"
+  ],
+  "replace": false
+}

@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/magenta/doors
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.5099855+08:00
+
+railways:magenta_folding_locometal_door
+railways:magenta_hinged_locometal_door
+railways:magenta_sliding_locometal_door

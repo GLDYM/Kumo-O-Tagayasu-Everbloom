@@ -3,7 +3,7 @@
 # Tag: create_enchantment_industry:sable/light_machines
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.0721032+08:00
+# Generated: 2026-11-05T11:35:43.4301792+08:00
 
 create_enchantment_industry:experience_hatch
 create_enchantment_industry:experience_lantern

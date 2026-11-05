@@ -3,9 +3,8 @@
 # Tag: minecraft:can_breathe_under_water
 # Entries: 41
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.7592925+08:00
+# Generated: 2026-11-05T11:35:47.0164266+08:00
 
-atmospheric:tetra
 dummmmmmy:target_dummy
 irons_spellbooks:dead_king
 irons_spellbooks:necromancer
@@ -14,13 +13,16 @@ iss_magicfromtheeast:summoned_jiangshi
 minecraft:armor_stand
 minecraft:axolotl
 minecraft:bogged
+minecraft:camel_husk
 minecraft:cod
+minecraft:copper_golem
 minecraft:drowned
 minecraft:elder_guardian
 minecraft:frog
 minecraft:glow_squid
 minecraft:guardian
 minecraft:husk
+minecraft:parched
 minecraft:phantom
 minecraft:pufferfish
 minecraft:salmon
@@ -36,11 +38,9 @@ minecraft:wither_skeleton
 minecraft:zoglin
 minecraft:zombie
 minecraft:zombie_horse
+minecraft:zombie_nautilus
 minecraft:zombie_villager
 minecraft:zombified_piglin
-quark:crab
-quark:stoneling
-quark:toretoise
 supplementaries:hat_stand
 tofucraft:shudofuspider
 tofucraft:tofu_gandlem

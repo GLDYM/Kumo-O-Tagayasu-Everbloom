@@ -1,39 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: another_furniture:flower_box_placeables
-# Entries: 160
+# Entries: 88
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.1119042+08:00
+# Generated: 2026-11-05T11:35:47.7548088+08:00
 
-atmospheric:aspen_leaves
-atmospheric:aspen_sapling
-atmospheric:currant_leaves
-atmospheric:currant_seedling
-atmospheric:dry_laurel_leaves
-atmospheric:dry_laurel_sapling
-atmospheric:firethorn
-atmospheric:flowering_morado_leaves
-atmospheric:forsythia
-atmospheric:gilia
-atmospheric:green_aspen_leaves
-atmospheric:green_aspen_sapling
-atmospheric:grimwood_leaves
-atmospheric:grimwood_sapling
-atmospheric:hot_monkey_brush
-atmospheric:kousa_leaves
-atmospheric:kousa_sapling
-atmospheric:laurel_leaves
-atmospheric:laurel_sapling
-atmospheric:morado_leaves
-atmospheric:morado_sapling
-atmospheric:rosewood_leaves
-atmospheric:rosewood_sapling
-atmospheric:scalding_monkey_brush
-atmospheric:warm_monkey_brush
-atmospheric:water_hyacinth
-atmospheric:yucca_flower
-atmospheric:yucca_leaves
-atmospheric:yucca_sapling
 crabbersdelight:palm_leaves
 crabbersdelight:palm_sapling
 delighto_flight:clear_cloudshroom
@@ -45,32 +16,6 @@ farmersdelight:wild_carrots
 farmersdelight:wild_onions
 farmersdelight:wild_potatoes
 farmersdelight:wild_tomatoes
-fruitsdelight:apple_leaves
-fruitsdelight:apple_sapling
-fruitsdelight:bayberry_leaves
-fruitsdelight:bayberry_sapling
-fruitsdelight:durian_leaves
-fruitsdelight:durian_sapling
-fruitsdelight:fig_leaves
-fruitsdelight:fig_sapling
-fruitsdelight:hawberry_leaves
-fruitsdelight:hawberry_sapling
-fruitsdelight:kiwi_leaves
-fruitsdelight:kiwi_sapling
-fruitsdelight:lychee_leaves
-fruitsdelight:lychee_sapling
-fruitsdelight:mango_leaves
-fruitsdelight:mango_sapling
-fruitsdelight:mangosteen_leaves
-fruitsdelight:mangosteen_sapling
-fruitsdelight:orange_leaves
-fruitsdelight:orange_sapling
-fruitsdelight:peach_leaves
-fruitsdelight:peach_sapling
-fruitsdelight:pear_leaves
-fruitsdelight:pear_sapling
-fruitsdelight:persimmon_leaves
-fruitsdelight:persimmon_sapling
 immortalers_delight:himekaido_flowering_leaves
 immortalers_delight:himekaido_fruited_leaves
 immortalers_delight:himekaido_leaves
@@ -90,6 +35,7 @@ minecraft:blue_orchid
 minecraft:brown_mushroom
 minecraft:cherry_leaves
 minecraft:cherry_sapling
+minecraft:closed_eyeblossom
 minecraft:cornflower
 minecraft:crimson_fungus
 minecraft:dandelion
@@ -106,11 +52,17 @@ minecraft:mangrove_propagule
 minecraft:mangrove_roots
 minecraft:oak_leaves
 minecraft:oak_sapling
+minecraft:open_eyeblossom
+minecraft:orange_poplar_leaves
 minecraft:orange_tulip
 minecraft:oxeye_daisy
+minecraft:pale_oak_leaves
+minecraft:pale_oak_sapling
 minecraft:pink_tulip
+minecraft:poplar_sapling
 minecraft:poppy
 minecraft:red_mushroom
+minecraft:red_poplar_leaves
 minecraft:red_tulip
 minecraft:sea_pickle
 minecraft:spruce_leaves
@@ -119,38 +71,14 @@ minecraft:torchflower
 minecraft:warped_fungus
 minecraft:white_tulip
 minecraft:wither_rose
-quark:acacia_hedge
-quark:ancient_hedge
-quark:ancient_leaves
-quark:ancient_sapling
-quark:azalea_hedge
-quark:birch_hedge
-quark:blue_blossom_hedge
-quark:blue_blossom_leaves
-quark:blue_blossom_sapling
-quark:cherry_hedge
-quark:dark_oak_hedge
-quark:flowering_azalea_hedge
-quark:glow_lichen_growth
-quark:glow_shroom
-quark:jungle_hedge
-quark:lavender_blossom_hedge
-quark:lavender_blossom_leaves
-quark:lavender_blossom_sapling
-quark:mangrove_hedge
-quark:oak_hedge
-quark:orange_blossom_hedge
-quark:orange_blossom_leaves
-quark:orange_blossom_sapling
-quark:red_blossom_hedge
-quark:red_blossom_leaves
-quark:red_blossom_sapling
-quark:spruce_hedge
-quark:yellow_blossom_hedge
-quark:yellow_blossom_leaves
-quark:yellow_blossom_sapling
+minecraft:yellow_poplar_leaves
 tofucraft:tofu_flower
 tofucraft:zundatofu_mushroom
+touhou_little_maid_spell:jingxu_youlan
+touhou_little_maid_spell:scarlet_zhuhua
+touhou_little_maid_spell:yue_linglan
+trailandtales_delight:crystal_leaves
+trailandtales_delight:crystal_sapling
 tsuki:edodes
 tsuki:maple_sapling_green
 tsuki:maple_sapling_orange

@@ -1,5 +1,9 @@
 {
+  "replace": false,
   "values": [
-    "kaleidoscope_cookery:rice"
+    {
+      "id": "kaleidoscope_cookery:rice",
+      "required": false
+    }
   ]
 }

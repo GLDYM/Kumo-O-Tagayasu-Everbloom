@@ -3,15 +3,14 @@
 # Tag: diet:vegetables
 # Entries: 77
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.15761+08:00
+# Generated: 2026-11-05T11:35:51.9464973+08:00
 
-atmospheric:aloe_leaves
 bakeries:tomato
 farmersdelight:cabbage
 farmersdelight:cabbage_leaf
-fruitsdelight:bowl_of_pineapple_fried_rice
 immortalers_delight:evolutcorn
 immortalers_delight:evolutcorn_grains
+kaleidoscope_chinesefood:eggplant
 kaleidoscope_cookery:green_chili
 kaleidoscope_cookery:lettuce
 kaleidoscope_cookery:red_chili
@@ -22,13 +21,13 @@ minecraft:carrot
 minecraft:potato
 minecraft:pumpkin
 mynethersdelight:bullet_pepper
-neapolitan:mint_leaves
 tofucraft:chili
 tofucraft:leek
 trailandtales_delight:pitcher_taro
 tsuki:cabbage
 tsuki:eggplant
 tsuki:imogara
+tsuki:mint
 tsuki:onion
 tsuki:radish
 tsuki:sliced_cabbage
@@ -47,6 +46,7 @@ youkaishomecoming:cucumber_slice
 youkaishomecoming:flesh_stew
 youkaishomecoming:han_palace
 youkaishomecoming:higan_soup
+youkaishomecoming:honey_glazed_cucumber
 youkaishomecoming:kaguya_hime
 youkaishomecoming:kappa_maki
 youkaishomecoming:kappa_maki_slice

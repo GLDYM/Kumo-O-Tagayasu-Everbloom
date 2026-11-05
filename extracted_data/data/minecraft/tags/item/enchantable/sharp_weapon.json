@@ -1,0 +1,15 @@
+{
+  "values": [
+    "bakeries:bread_knife",
+    "bakeries:eternal_baguette",
+    "#farmersdelight:tools/knives",
+    "farmersdelight:skillet",
+    "#irons_spellbooks:staff",
+    "#minecraft:spears"
+  ],
+  "replace": false,
+  "remove": [
+    "iss_magicfromtheeast:soul_breaker",
+    "iss_magicfromtheeast:spirit_crusher"
+  ]
+}

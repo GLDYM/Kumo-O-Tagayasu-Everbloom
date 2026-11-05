@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:lightning_rods
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:44.9995401+08:00
+
+minecraft:exposed_lightning_rod
+minecraft:lightning_rod
+minecraft:oxidized_lightning_rod
+minecraft:waxed_exposed_lightning_rod
+minecraft:waxed_lightning_rod
+minecraft:waxed_oxidized_lightning_rod
+minecraft:waxed_weathered_lightning_rod
+minecraft:weathered_lightning_rod

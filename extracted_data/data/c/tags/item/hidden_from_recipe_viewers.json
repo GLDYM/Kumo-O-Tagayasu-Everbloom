@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "moonlight:placeable_item",
+    "supplementaries:jar_boat",
+    "#danmaku_api:danmaku",
+    "#danmaku_api:laser"
+  ]
+}

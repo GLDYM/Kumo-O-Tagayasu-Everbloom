@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "tatd_lantern_fruit_cheesecake",
+  "key": {
+    "#": {
+      "item": "minecraft:wheat"
+    },
+    "O": {
+      "item": "farmersdelight:pie_crust"
+    },
+    "a": {
+      "item": "trailandtales_delight:cheese_slice"
+    },
+    "c": {
+      "item": "trailandtales_delight:lantern_fruit"
+    },
+    "x": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "#c#",
+    "aca",
+    "xOx"
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:lantern_fruit_cheesecake"
+  }
+}

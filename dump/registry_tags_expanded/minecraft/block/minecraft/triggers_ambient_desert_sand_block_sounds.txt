@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:triggers_ambient_desert_sand_block_sounds
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:45.3902102+08:00
+
+minecraft:red_sand
+minecraft:sand

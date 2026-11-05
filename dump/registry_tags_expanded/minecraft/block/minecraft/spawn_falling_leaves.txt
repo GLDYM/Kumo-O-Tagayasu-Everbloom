@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:spawn_falling_leaves
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:45.2867249+08:00
+
+minecraft:acacia_leaves
+minecraft:azalea_leaves
+minecraft:birch_leaves
+minecraft:dark_oak_leaves
+minecraft:flowering_azalea_leaves
+minecraft:jungle_leaves
+minecraft:oak_leaves

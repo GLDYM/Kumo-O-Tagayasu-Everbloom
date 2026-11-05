@@ -1,0 +1,18 @@
+{
+  "type": "tofucraft:tofu_pot_shapeless",
+  "category": "fast_food",
+  "cook_time": 300,
+  "experience": 0.1,
+  "ingredients": [
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "tofucraft:bottle_dashi"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "tofucraft:tofuegg"
+  }
+}

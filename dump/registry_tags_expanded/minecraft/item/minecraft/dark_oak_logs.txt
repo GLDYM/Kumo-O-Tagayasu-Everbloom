@@ -1,11 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:dark_oak_logs
-# Entries: 5
+# Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.162272+08:00
+# Generated: 2026-11-05T11:35:54.0405749+08:00
 
-atmospheric:grimwood_log
 minecraft:dark_oak_log
 minecraft:dark_oak_wood
 minecraft:stripped_dark_oak_log

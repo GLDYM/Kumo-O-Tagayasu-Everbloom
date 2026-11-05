@@ -1,6 +1,8 @@
 {
   "values": [
-    "create:train_trapdoor",
-    "create:framed_glass_trapdoor"
+    "createdeco:andesite_trapdoor",
+    "createdeco:brass_trapdoor",
+    "createdeco:industrial_iron_trapdoor",
+    "createdeco:zinc_trapdoor"
   ]
 }

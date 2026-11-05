@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:plains",
+        "minecraft:savanna",
+        "minecraft:sunflower_plains",
+        "minecraft:forest",
+        "minecraft:badlands",
+        "minecraft:old_growth_birch_forest",
+        "minecraft:old_growth_spruce_taiga",
+        "minecraft:old_growth_pine_taiga",
+        {
+            "id": "#terralith:has_structure/fortified_village",
+            "required": false
+        },
+        {
+            "id": "#c:is_plains",
+            "required": false
+        },
+        {
+            "id": "#c:forest",
+            "required": false
+        }
+    ]
+}

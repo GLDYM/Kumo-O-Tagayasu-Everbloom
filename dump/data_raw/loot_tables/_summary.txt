@@ -1,11 +1,11 @@
 # Raw resource rule dump summary
 # Mod ID: registry_dumper_3000
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:46.2535837+08:00
+# Generated: 2026-11-05T11:36:00.7029164+08:00
 
 # Rule name: Loot tables
 # Side: data/server
 # Source prefix: loot_tables
-# Files written: 162
+# Files written: 61
 # Stack files written (optional): 0
 # Path collisions observed: 0

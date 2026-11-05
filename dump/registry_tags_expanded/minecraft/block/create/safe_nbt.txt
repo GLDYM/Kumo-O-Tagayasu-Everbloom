@@ -1,44 +1,24 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: create:safe_nbt
-# Entries: 331
+# Entries: 315
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.0252678+08:00
+# Generated: 2026-11-05T11:35:43.3572666+08:00
 
+amendments:immortalers_delight/wall_sextlotus_lantern
+amendments:tofucraft/wall_tofu_metal_lantern
+amendments:tofucraft/wall_tofu_metal_soul_lantern
+amendments:wall_copper_lantern
+amendments:wall_exposed_copper_lantern
 amendments:wall_lantern
-atmospheric:aspen_hanging_sign
-atmospheric:aspen_sign
-atmospheric:aspen_wall_hanging_sign
-atmospheric:aspen_wall_sign
-atmospheric:grimwood_hanging_sign
-atmospheric:grimwood_sign
-atmospheric:grimwood_wall_hanging_sign
-atmospheric:grimwood_wall_sign
-atmospheric:kousa_hanging_sign
-atmospheric:kousa_sign
-atmospheric:kousa_wall_hanging_sign
-atmospheric:kousa_wall_sign
-atmospheric:laurel_hanging_sign
-atmospheric:laurel_sign
-atmospheric:laurel_wall_hanging_sign
-atmospheric:laurel_wall_sign
-atmospheric:morado_hanging_sign
-atmospheric:morado_sign
-atmospheric:morado_wall_hanging_sign
-atmospheric:morado_wall_sign
-atmospheric:rosewood_hanging_sign
-atmospheric:rosewood_sign
-atmospheric:rosewood_wall_hanging_sign
-atmospheric:rosewood_wall_sign
-atmospheric:yucca_hanging_sign
-atmospheric:yucca_sign
-atmospheric:yucca_wall_hanging_sign
-atmospheric:yucca_wall_sign
-bits_n_bobs:chain_pulley
-bits_n_bobs:flywheel_bearing
-bits_n_bobs:girder_strut
-bits_n_bobs:headlamp
-bits_n_bobs:weathered_girder_strut
+amendments:wall_oxidized_copper_lantern
+amendments:wall_soul_lantern
+amendments:wall_waxed_copper_lantern
+amendments:wall_waxed_exposed_copper_lantern
+amendments:wall_waxed_oxidized_copper_lantern
+amendments:wall_waxed_weathered_copper_lantern
+amendments:wall_weathered_copper_lantern
+amendments:youkaishomecoming/wall_moon_lantern
 crabbersdelight:palm_hanging_sign
 crabbersdelight:palm_sign
 crabbersdelight:palm_wall_hanging_sign
@@ -104,9 +84,13 @@ createadditionallogistics:red_flexible_shaft
 createadditionallogistics:white_flexible_shaft
 createadditionallogistics:yellow_flexible_shaft
 createnuclear:reactor_output
-dndecor:breaker_switch
-dndecor:stepped_lever
-dndecor:text_plate
+createrailwaysnavigator:advanced_display
+createrailwaysnavigator:advanced_display_block
+createrailwaysnavigator:advanced_display_half_panel
+createrailwaysnavigator:advanced_display_panel
+createrailwaysnavigator:advanced_display_slab
+createrailwaysnavigator:advanced_display_sloped
+createrailwaysnavigator:advanced_display_small
 escalated:glass_escalator_handrail
 escalated:glass_walkway_handrail
 escalated:metal_escalator_handrail
@@ -242,8 +226,16 @@ minecraft:oak_wall_hanging_sign
 minecraft:oak_wall_sign
 minecraft:orange_banner
 minecraft:orange_wall_banner
+minecraft:pale_oak_hanging_sign
+minecraft:pale_oak_sign
+minecraft:pale_oak_wall_hanging_sign
+minecraft:pale_oak_wall_sign
 minecraft:pink_banner
 minecraft:pink_wall_banner
+minecraft:poplar_hanging_sign
+minecraft:poplar_sign
+minecraft:poplar_wall_hanging_sign
+minecraft:poplar_wall_sign
 minecraft:purple_banner
 minecraft:purple_wall_banner
 minecraft:red_banner
@@ -264,18 +256,6 @@ mynethersdelight:powdery_hanging_sign
 mynethersdelight:powdery_sign
 mynethersdelight:powdery_wall_hanging_sign
 mynethersdelight:powdery_wall_sign
-quark:ancient_hanging_sign
-quark:ancient_sign
-quark:ancient_wall_hanging_sign
-quark:ancient_wall_sign
-quark:azalea_hanging_sign
-quark:azalea_sign
-quark:azalea_wall_hanging_sign
-quark:azalea_wall_sign
-quark:blossom_hanging_sign
-quark:blossom_sign
-quark:blossom_wall_hanging_sign
-quark:blossom_wall_sign
 railways:doubleaxle_bogey
 railways:invisible_bogey
 railways:invisible_mono_bogey
@@ -336,3 +316,7 @@ tofucraft:tofustem_hanging_sign
 tofucraft:tofustem_sign
 tofucraft:tofustem_wall_hanging_sign
 tofucraft:tofustem_wall_sign
+trailandtales_delight:crystal_wood_hanging_sign
+trailandtales_delight:crystal_wood_sign
+trailandtales_delight:crystal_wood_wall_hanging_sign
+trailandtales_delight:crystal_wood_wall_sign

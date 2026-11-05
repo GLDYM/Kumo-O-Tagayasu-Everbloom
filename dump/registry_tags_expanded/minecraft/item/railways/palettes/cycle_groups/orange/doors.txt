@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/orange/doors
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.6933085+08:00
+
+railways:orange_folding_locometal_door
+railways:orange_hinged_locometal_door
+railways:orange_sliding_locometal_door

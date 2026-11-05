@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "tatd_cherry_cheese_pie",
+  "key": {
+    "#": {
+      "item": "trailandtales_delight:cherry_cheese_pie_slice"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:cherry_cheese_pie"
+  }
+}

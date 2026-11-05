@@ -1,0 +1,17 @@
+{
+  "values": [
+    "handcrafted:light_blue_cushion",
+    "supplementaries:flag_light_blue",
+    "supplementaries:present_light_blue",
+    "supplementaries:trapped_present_light_blue",
+    "supplementaries:candle_holder_light_blue",
+    "supplementaries:awning_light_blue",
+    "supplementaries:bunting_light_blue",
+    "supplementaries:bunting_wall_light_blue",
+    "minecraft:light_blue_wool_stairs",
+    "minecraft:light_blue_wool_slab",
+    "minecraft:light_blue_concrete_stairs",
+    "minecraft:light_blue_concrete_slab"
+  ],
+  "replace": false
+}

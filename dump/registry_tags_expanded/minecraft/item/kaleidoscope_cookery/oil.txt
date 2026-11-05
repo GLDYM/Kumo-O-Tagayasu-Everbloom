@@ -3,6 +3,6 @@
 # Tag: kaleidoscope_cookery:oil
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.9591491+08:00
+# Generated: 2026-11-05T11:35:53.5011461+08:00
 
 kaleidoscope_cookery:oil

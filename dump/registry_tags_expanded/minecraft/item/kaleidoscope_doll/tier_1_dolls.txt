@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: kaleidoscope_doll:tier_1_dolls
-# Entries: 10
+# Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.974205+08:00
+# Generated: 2026-11-05T11:35:53.5542448+08:00
 
 kaleidoscope_doll:doll_10
 kaleidoscope_doll:doll_12
@@ -15,3 +15,4 @@ kaleidoscope_doll:doll_326
 kaleidoscope_doll:doll_34
 kaleidoscope_doll:doll_35
 kaleidoscope_doll:doll_66
+kaleidoscope_doll:doll_704

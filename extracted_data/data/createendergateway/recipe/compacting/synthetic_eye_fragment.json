@@ -1,0 +1,13 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "createendergateway:saturated_eye_fragment"
+    }
+  ],
+  "results": [
+    {
+      "id": "createendergateway:synthetic_eye_fragment"
+    }
+  ]
+}

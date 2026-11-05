@@ -1,9 +1,18 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: forge:cooked_meat
-# Entries: 2
+# Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.6878182+08:00
+# Generated: 2026-11-05T11:35:52.8528286+08:00
 
+farmersdelight:beef_patty
+farmersdelight:cooked_bacon
+farmersdelight:cooked_chicken_cuts
+farmersdelight:cooked_mutton_chops
 immortalers_delight:cooked_sniffer_slice
 immortalers_delight:cooked_sniffer_steak
+minecraft:cooked_beef
+minecraft:cooked_chicken
+minecraft:cooked_mutton
+minecraft:cooked_porkchop
+minecraft:cooked_rabbit

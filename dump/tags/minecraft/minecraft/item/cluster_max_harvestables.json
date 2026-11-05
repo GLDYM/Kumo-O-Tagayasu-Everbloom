@@ -1,7 +1,5 @@
 {
-  "replace": false,
   "values": [
-    "quark:pickarang",
-    "quark:flamerang"
+    "minecraft:copper_pickaxe"
   ]
 }

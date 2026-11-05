@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/brown/windows
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.045337+08:00
+
+railways:brown_four_pane_locometal_window
+railways:brown_round_pane_locometal_window
+railways:brown_single_pane_locometal_window
+railways:brown_two_pane_locometal_window

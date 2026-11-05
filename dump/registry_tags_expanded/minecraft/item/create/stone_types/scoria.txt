@@ -1,13 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: create:stone_types/scoria
-# Entries: 18
+# Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.9110078+08:00
+# Generated: 2026-11-05T11:35:51.5103335+08:00
 
-bits_n_bobs:scoria_tile_stairs
-bits_n_bobs:scoria_tile_wall
-bits_n_bobs:scoria_tiles
 create:cut_scoria
 create:cut_scoria_brick_stairs
 create:cut_scoria_brick_wall

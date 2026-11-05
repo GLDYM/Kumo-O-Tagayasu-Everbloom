@@ -3,7 +3,7 @@
 # Tag: touhou_little_maid_spell:has_structure/enchantress_footsteps_igloo
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.33458+08:00
+# Generated: 2026-11-05T11:35:59.664881+08:00
 
 minecraft:snowy_plains
 minecraft:snowy_slopes

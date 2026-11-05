@@ -1,9 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:worldgen/biome
-# Tag: atmospheric:spawns_bush_wolves
-# Entries: 2
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.4998113+08:00
-
-atmospheric:rainforest
-atmospheric:rainforest_basin

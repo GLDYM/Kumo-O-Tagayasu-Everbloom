@@ -1,10 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:fluid
 # Tag: minecraft:water
-# Entries: 36
+# Entries: 38
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.0480644+08:00
+# Generated: 2026-11-05T11:35:47.5907092+08:00
 
+createnuclear:flowing_nitrogen
+createnuclear:nitrogen
 minecraft:flowing_water
 minecraft:water
 tsuki:beer

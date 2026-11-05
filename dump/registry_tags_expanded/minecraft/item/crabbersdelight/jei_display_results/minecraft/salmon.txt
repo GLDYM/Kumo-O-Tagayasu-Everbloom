@@ -1,13 +1,14 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: crabbersdelight:jei_display_results/minecraft/salmon
-# Entries: 7
+# Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.8304868+08:00
+# Generated: 2026-11-05T11:35:51.3574297+08:00
 
 crabbersdelight:can
 crabbersdelight:clawster
 crabbersdelight:fish_bones
+crabbersdelight:message_bottle
 farmersdelight:rope
 minecraft:copper_ingot
 minecraft:nautilus_shell

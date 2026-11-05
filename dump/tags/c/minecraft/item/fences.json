@@ -1,8 +1,6 @@
 {
-    "replace": false,
-    "values": [
-        "quark:azalea_fence",
-        "quark:blossom_fence",
-        "quark:ancient_fence"
-    ]
+  "replace": false,
+  "values": [
+    "alloyed:steel_mesh_fence"
+  ]
 }

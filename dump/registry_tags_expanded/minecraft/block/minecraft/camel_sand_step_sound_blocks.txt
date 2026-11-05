@@ -1,14 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:camel_sand_step_sound_blocks
-# Entries: 24
+# Entries: 20
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.6867726+08:00
+# Generated: 2026-11-05T11:35:44.6331701+08:00
 
-atmospheric:arid_sand
-atmospheric:red_arid_sand
-atmospheric:suspicious_arid_sand
-atmospheric:suspicious_red_arid_sand
 lootr:suspicious_sand
 minecraft:black_concrete_powder
 minecraft:blue_concrete_powder

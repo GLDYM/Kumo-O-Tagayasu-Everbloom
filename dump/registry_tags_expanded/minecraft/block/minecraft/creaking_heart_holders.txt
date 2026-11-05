@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:creaking_heart_holders
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:44.7461486+08:00
+
+minecraft:pale_oak_log
+minecraft:pale_oak_wood
+minecraft:stripped_pale_oak_log
+minecraft:stripped_pale_oak_wood

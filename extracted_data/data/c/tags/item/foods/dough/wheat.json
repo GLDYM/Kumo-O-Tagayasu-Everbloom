@@ -1,0 +1,16 @@
+{
+  "values": [
+    "create:dough",
+    "farmersdelight:wheat_dough",
+    {
+      "id": "farmersdelight:wheat_dough",
+      "required": false
+    },
+    "immortalers_delight:kwat_wheat_dough",
+    {
+      "id": "#forge:dough",
+      "required": false
+    }
+  ],
+  "replace": false
+}

@@ -1,24 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:all_hanging_signs
-# Entries: 86
+# Entries: 72
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.6179377+08:00
+# Generated: 2026-11-05T11:35:44.5497437+08:00
 
-atmospheric:aspen_hanging_sign
-atmospheric:aspen_wall_hanging_sign
-atmospheric:grimwood_hanging_sign
-atmospheric:grimwood_wall_hanging_sign
-atmospheric:kousa_hanging_sign
-atmospheric:kousa_wall_hanging_sign
-atmospheric:laurel_hanging_sign
-atmospheric:laurel_wall_hanging_sign
-atmospheric:morado_hanging_sign
-atmospheric:morado_wall_hanging_sign
-atmospheric:rosewood_hanging_sign
-atmospheric:rosewood_wall_hanging_sign
-atmospheric:yucca_hanging_sign
-atmospheric:yucca_wall_hanging_sign
 crabbersdelight:palm_hanging_sign
 crabbersdelight:palm_wall_hanging_sign
 farmersdelight:black_hanging_canvas_sign
@@ -73,21 +59,21 @@ minecraft:mangrove_hanging_sign
 minecraft:mangrove_wall_hanging_sign
 minecraft:oak_hanging_sign
 minecraft:oak_wall_hanging_sign
+minecraft:pale_oak_hanging_sign
+minecraft:pale_oak_wall_hanging_sign
+minecraft:poplar_hanging_sign
+minecraft:poplar_wall_hanging_sign
 minecraft:spruce_hanging_sign
 minecraft:spruce_wall_hanging_sign
 minecraft:warped_hanging_sign
 minecraft:warped_wall_hanging_sign
 mynethersdelight:powdery_hanging_sign
 mynethersdelight:powdery_wall_hanging_sign
-quark:ancient_hanging_sign
-quark:ancient_wall_hanging_sign
-quark:azalea_hanging_sign
-quark:azalea_wall_hanging_sign
-quark:blossom_hanging_sign
-quark:blossom_wall_hanging_sign
 tofucraft:leek_green_hanging_sign
 tofucraft:leek_green_wall_hanging_sign
 tofucraft:leek_hanging_sign
 tofucraft:leek_wall_hanging_sign
 tofucraft:tofustem_hanging_sign
 tofucraft:tofustem_wall_hanging_sign
+trailandtales_delight:crystal_wood_hanging_sign
+trailandtales_delight:crystal_wood_wall_hanging_sign

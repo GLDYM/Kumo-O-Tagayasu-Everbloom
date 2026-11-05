@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: create_ltab:has_structure/grass_structure
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.872119+08:00
+
+minecraft:birch_forest
+minecraft:dappled_forest
+minecraft:dark_forest
+minecraft:flower_forest
+minecraft:forest
+minecraft:grove
+minecraft:meadow
+minecraft:old_growth_birch_forest
+minecraft:pale_garden
+minecraft:plains
+minecraft:sunflower_plains
+tsuki:maple_forest

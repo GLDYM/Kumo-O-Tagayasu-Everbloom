@@ -1,0 +1,38 @@
+{
+  "type": "youkaishomecoming:unordered_cooking",
+  "input": [
+    {
+      "type": "youkaishomecoming:slip_bottle",
+      "fluid": "youkaishomecoming:soy_sauce"
+    },
+    {
+      "item": "youkaishomecoming:soybean"
+    },
+    {
+      "tag": "youkaishomecoming:raw_boar"
+    },
+    {
+      "tag": "youkaishomecoming:raw_venison"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "c:foods/tomato"
+    },
+    {
+      "tag": "c:foods/cabbage"
+    },
+    {
+      "tag": "c:foods/onion"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "youkaishomecoming:pot_of_power_soup"
+  },
+  "time": 400
+}

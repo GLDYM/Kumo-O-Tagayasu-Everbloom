@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: kaleidoscope_nether:mod_items
-# Entries: 92
+# Entries: 88
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.9827154+08:00
+# Generated: 2026-11-05T11:35:53.5866585+08:00
 
 kaleidoscope_nether:black_apple_salad
 kaleidoscope_nether:blaze_heart
@@ -36,10 +36,6 @@ kaleidoscope_nether:ghast_pudding
 kaleidoscope_nether:ghast_tentacle
 kaleidoscope_nether:gilded_barbaric_roast
 kaleidoscope_nether:gilded_fragment
-kaleidoscope_nether:glowing_kabob
-kaleidoscope_nether:glowing_pudding
-kaleidoscope_nether:glowing_salad
-kaleidoscope_nether:glowing_soup
 kaleidoscope_nether:golden_kabob
 kaleidoscope_nether:golden_roast
 kaleidoscope_nether:ham

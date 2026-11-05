@@ -1,0 +1,20 @@
+{
+  "values": [
+    "handcrafted:green_cushion",
+    "handcrafted:green_sheet",
+    "supplementaries:flag_green",
+    "supplementaries:present_green",
+    "supplementaries:trapped_present_green",
+    "supplementaries:candle_holder_green",
+    "supplementaries:awning_green",
+    "supplementaries:bunting_green",
+    "minecraft:green_wool_stairs",
+    "minecraft:green_wool_slab",
+    "minecraft:green_concrete_stairs",
+    "minecraft:green_concrete_slab",
+    "minecraft:green_bundle",
+    "minecraft:green_harness",
+    "minecraft:gray_cushion"
+  ],
+  "replace": false
+}

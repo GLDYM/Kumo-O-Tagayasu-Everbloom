@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "modid": "create",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "tsuki:fried_chicken"
+    },
+    {
+      "item": "tsuki:kaeshi"
+    },
+    {
+      "item": "tsuki:mayo"
+    },
+    {
+      "amount": 125,
+      "tag": "c:food_oil",
+      "type": "neoforge:tag"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "tsuki:chicken_nanban"
+    }
+  ]
+}

@@ -1,6 +1,5 @@
 {
   "values": [
-    "atmospheric:crustose",
-    "atmospheric:arid_sand"
+    "minecraft:grass_block"
   ]
 }

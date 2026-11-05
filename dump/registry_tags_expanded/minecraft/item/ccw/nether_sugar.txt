@@ -3,6 +3,6 @@
 # Tag: ccw:nether_sugar
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.8003363+08:00
+# Generated: 2026-11-05T11:35:51.2622856+08:00
 
 ccw:nether_sugar

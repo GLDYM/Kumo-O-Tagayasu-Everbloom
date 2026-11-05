@@ -1,7 +1,6 @@
 {
+  "replace": false,
   "values": [
-    "create:copper_backtank",
-    "create:netherite_backtank",
-    "create:cardboard_chestplate"
+    "alloyed:steel_chestplate"
   ]
 }

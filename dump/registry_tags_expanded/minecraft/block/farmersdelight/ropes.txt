@@ -1,10 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: farmersdelight:ropes
-# Entries: 3
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.2292843+08:00
+# Generated: 2026-11-05T11:35:43.7653291+08:00
 
 farmersdelight:rope
-quark:rope
 supplementaries:rope

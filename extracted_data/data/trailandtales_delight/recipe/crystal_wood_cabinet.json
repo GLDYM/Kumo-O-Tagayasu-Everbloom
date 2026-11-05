@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "fd_cabinet",
+  "key": {
+    "D": {
+      "item": "trailandtales_delight:crystal_wood_trapdoor"
+    },
+    "_": {
+      "item": "trailandtales_delight:crystal_wood_slab"
+    }
+  },
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:crystal_wood_cabinet"
+  }
+}

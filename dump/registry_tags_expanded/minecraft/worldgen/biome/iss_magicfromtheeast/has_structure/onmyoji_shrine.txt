@@ -3,7 +3,7 @@
 # Tag: iss_magicfromtheeast:has_structure/onmyoji_shrine
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.1222705+08:00
+# Generated: 2026-11-05T11:35:59.0591699+08:00
 
 minecraft:cherry_grove
 minecraft:meadow

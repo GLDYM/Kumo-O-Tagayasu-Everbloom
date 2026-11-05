@@ -1,0 +1,26 @@
+{
+  "values": [
+    "trailandtales_delight:crystal_wood_planks",
+    "crabbersdelight:palm_planks",
+    "immortalers_delight:himekaido_planks",
+    "immortalers_delight:leisamboo_planks",
+    "immortalers_delight:pearlip_shell_planks",
+    "immortalers_delight:ancient_wood_planks",
+    "immortalers_delight:trava_planks",
+    "immortalers_delight:a_bush_planks",
+    "interiors:seatwood_planks",
+    "mynethersdelight:powdery_planks",
+    "tofucraft:tofustem_planks",
+    "tofucraft:leek_planks",
+    "tofucraft:leek_green_planks",
+    "tsuki:plank_sakura",
+    "tsuki:plank_bamboo",
+    "tsuki:plank_maple",
+    "tsuki:plank_ume",
+    "ultramarine:rosewood_planks",
+    "minecraft:pale_oak_planks",
+    "minecraft:poplar_planks",
+    "vintagedelight:vine_tile"
+  ],
+  "replace": false
+}

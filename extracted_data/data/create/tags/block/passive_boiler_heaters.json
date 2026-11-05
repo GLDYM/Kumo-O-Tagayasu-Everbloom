@@ -1,0 +1,16 @@
+{
+  "values": [
+    "create:blaze_burner",
+    "create:lit_blaze_burner",
+    "minecraft:magma_block",
+    "minecraft:lava",
+    "#minecraft:campfires",
+    "#minecraft:fire",
+    {
+      "id": "#farmersdelight:heat_sources",
+      "required": false
+    },
+    "ends_delight:end_stove",
+    "farmersdelight:stove"
+  ]
+}

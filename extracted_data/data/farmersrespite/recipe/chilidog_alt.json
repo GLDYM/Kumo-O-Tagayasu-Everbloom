@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersrespite"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farmersrespite:blazing_chili"
+    },
+    {
+      "item": "mynethersdelight:hotdog"
+    },
+    {
+      "item": "mynethersdelight:hotdog"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "mynethersdelight:chilidog"
+  }
+}

@@ -1,26 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: supplementaries:barnacles_blacklist
-# Entries: 132
+# Entries: 87
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.201427+08:00
+# Generated: 2026-11-05T11:35:45.8724972+08:00
 
-atmospheric:arid_glass
-atmospheric:arid_sand
-atmospheric:aspen_leaves
-atmospheric:crustose
-atmospheric:currant_leaves
-atmospheric:dry_laurel_leaves
-atmospheric:flowering_morado_leaves
-atmospheric:green_aspen_leaves
-atmospheric:grimwood_leaves
-atmospheric:kousa_leaves
-atmospheric:laurel_leaves
-atmospheric:morado_leaves
-atmospheric:red_arid_sand
-atmospheric:rosewood_leaves
-atmospheric:yucca_leaves
 crabbersdelight:palm_leaves
+crabbersdelight:wormy_dirt
 create:framed_glass
 create:horizontal_framed_glass
 create:tiled_glass
@@ -34,19 +20,6 @@ createdeco:zinc_window
 createnuclear:reinforced_glass
 delighto_flight:weather_soil
 farmersdelight:rich_soil
-fruitsdelight:apple_leaves
-fruitsdelight:bayberry_leaves
-fruitsdelight:durian_leaves
-fruitsdelight:fig_leaves
-fruitsdelight:hawberry_leaves
-fruitsdelight:kiwi_leaves
-fruitsdelight:lychee_leaves
-fruitsdelight:mango_leaves
-fruitsdelight:mangosteen_leaves
-fruitsdelight:orange_leaves
-fruitsdelight:peach_leaves
-fruitsdelight:pear_leaves
-fruitsdelight:persimmon_leaves
 immortalers_delight:himekaido_flowering_leaves
 immortalers_delight:himekaido_fruited_leaves
 immortalers_delight:himekaido_leaves
@@ -85,12 +58,16 @@ minecraft:muddy_mangrove_roots
 minecraft:mycelium
 minecraft:nether_wart_block
 minecraft:oak_leaves
+minecraft:orange_poplar_leaves
 minecraft:orange_stained_glass
 minecraft:packed_ice
+minecraft:pale_moss_block
+minecraft:pale_oak_leaves
 minecraft:pink_stained_glass
 minecraft:podzol
 minecraft:powder_snow
 minecraft:purple_stained_glass
+minecraft:red_poplar_leaves
 minecraft:red_sand
 minecraft:red_stained_glass
 minecraft:rooted_dirt
@@ -101,35 +78,13 @@ minecraft:spruce_leaves
 minecraft:tinted_glass
 minecraft:warped_wart_block
 minecraft:white_stained_glass
+minecraft:yellow_poplar_leaves
 minecraft:yellow_stained_glass
 mynethersdelight:resurgent_soil
 mynethersdelight:resurgent_soil_farmland
-quark:ancient_leaves
-quark:black_framed_glass
-quark:blue_blossom_leaves
-quark:blue_framed_glass
-quark:brown_framed_glass
-quark:cyan_framed_glass
-quark:dirty_glass
-quark:framed_glass
-quark:gray_framed_glass
-quark:green_framed_glass
-quark:lavender_blossom_leaves
-quark:light_blue_framed_glass
-quark:light_gray_framed_glass
-quark:lime_framed_glass
-quark:magenta_framed_glass
-quark:orange_blossom_leaves
-quark:orange_framed_glass
-quark:pink_framed_glass
-quark:purple_framed_glass
-quark:red_blossom_leaves
-quark:red_framed_glass
-quark:white_framed_glass
-quark:yellow_blossom_leaves
-quark:yellow_framed_glass
 tofucraft:leaves_apricot
 tofucraft:leaves_tofu
+trailandtales_delight:crystal_leaves
 tsuki:mapleleaves_green
 tsuki:mapleleaves_orange
 tsuki:mapleleaves_red

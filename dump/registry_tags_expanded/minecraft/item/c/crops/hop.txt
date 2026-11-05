@@ -1,9 +1,8 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:crops/hop
-# Entries: 2
+# Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.6151207+08:00
+# Generated: 2026-11-05T11:35:48.7328289+08:00
 
-kaleidoscope_dim_wine:hop
 tsuki:hop

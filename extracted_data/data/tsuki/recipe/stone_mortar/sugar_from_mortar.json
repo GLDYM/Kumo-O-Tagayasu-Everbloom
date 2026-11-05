@@ -1,0 +1,17 @@
+{
+  "type": "tsuki:stone_mortar",
+  "experience": 0,
+  "ingredient": {
+    "tag": "c:crops/sugar_cane"
+  },
+  "recipeTime": 200,
+  "results": [
+    {
+      "count": 3,
+      "id": "minecraft:sugar"
+    },
+    {
+      "id": "tsuki:molasses"
+    }
+  ]
+}

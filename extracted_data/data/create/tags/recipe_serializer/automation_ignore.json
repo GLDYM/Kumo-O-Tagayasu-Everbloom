@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "occultism:spirit_trade",
+      "required": false
+    },
+    {
+      "id": "occultism:ritual",
+      "required": false
+    },
+    {
+      "id": "touhou_little_maid:altar_recipe_serializers",
+      "required": false
+    }
+  ]
+}

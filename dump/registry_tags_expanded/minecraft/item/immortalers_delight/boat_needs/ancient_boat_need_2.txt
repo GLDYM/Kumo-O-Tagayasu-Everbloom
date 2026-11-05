@@ -3,7 +3,7 @@
 # Tag: immortalers_delight:boat_needs/ancient_boat_need_2
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.8295032+08:00
+# Generated: 2026-11-05T11:35:53.2126505+08:00
 
 minecraft:bamboo
 minecraft:stick

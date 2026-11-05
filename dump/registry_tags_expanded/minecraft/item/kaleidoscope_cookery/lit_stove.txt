@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_cookery:lit_stove
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.9571445+08:00
+# Generated: 2026-11-05T11:35:53.4956909+08:00
 
 minecraft:fire_charge
 minecraft:flint_and_steel

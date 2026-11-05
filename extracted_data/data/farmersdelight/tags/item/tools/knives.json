@@ -1,0 +1,40 @@
+{
+  "values": [
+    "trailandtales_delight:cherry_iron_knife",
+    "trailandtales_delight:sniffer_eggshell_knife",
+    "trailandtales_delight:crimson_crystal_knife",
+    "trailandtales_delight:cyan_crystal_knife",
+    {
+      "id": "alloyed:steel_knife",
+      "required": false
+    },
+    "ends_delight:dragon_egg_shell_knife",
+    "ends_delight:end_stone_knife",
+    "ends_delight:purpur_knife",
+    "ends_delight:dragon_tooth_knife",
+    "farmers_spell:gospel",
+    "farmers_spell:hell_knife",
+    "farmers_spell:grow_knife",
+    "farmers_spell:twilight_blade",
+    "farmers_spell:boreal_knife",
+    "farmers_spell:echoing_knife",
+    "farmers_spell:mithril_knife",
+    "farmersdelight:flint_knife",
+    "farmersdelight:iron_knife",
+    "farmersdelight:diamond_knife",
+    "farmersdelight:golden_knife",
+    "farmersdelight:netherite_knife",
+    "#immortalers_delight:tools/immortal_knives",
+    "immortalers_delight:rusty_ancient_blade",
+    "immortalers_delight:ancient_blade",
+    "kaleidoscope_cookery:iron_kitchen_knife",
+    "kaleidoscope_cookery:gold_kitchen_knife",
+    "kaleidoscope_cookery:diamond_kitchen_knife",
+    "kaleidoscope_cookery:netherite_kitchen_knife",
+    "tsuki:knife_noodle",
+    "tsuki:sakura_knife_noodle",
+    "tsuki:knife_fish",
+    "tsuki:sakura_knife_fish"
+  ],
+  "replace": false
+}

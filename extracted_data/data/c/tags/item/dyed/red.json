@@ -1,0 +1,20 @@
+{
+  "values": [
+    "handcrafted:red_cushion",
+    "handcrafted:red_sheet",
+    "supplementaries:flag_red",
+    "supplementaries:present_red",
+    "supplementaries:trapped_present_red",
+    "supplementaries:candle_holder_red",
+    "supplementaries:awning_red",
+    "supplementaries:bunting_red",
+    "minecraft:red_wool_stairs",
+    "minecraft:red_wool_slab",
+    "minecraft:red_concrete_stairs",
+    "minecraft:red_concrete_slab",
+    "minecraft:red_bundle",
+    "minecraft:red_harness",
+    "minecraft:red_cushion"
+  ],
+  "replace": false
+}

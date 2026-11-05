@@ -1,6 +1,8 @@
 {
   "values": [
-    "minecraft:deepslate",
-    "minecraft:tuff"
+    {
+      "id": "simplemetals_tin:deepslate_tin_ore",
+      "required": false
+    }
   ]
 }

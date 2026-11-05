@@ -1560,7 +1560,7 @@
                 "yfmqTm7YrV3TNJom"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "bettertab",
                 "modrinth": "better-tab"
@@ -1769,7 +1769,7 @@
         {
             "pakku_id": "ANaxEwTkAlY8sYO3",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "biomespy",
                 "modrinth": "biomespy"
@@ -5200,6 +5200,47 @@
             ]
         },
         {
+            "pakku_id": "fvgk5zqLuYbuCibt",
+            "pakku_links": [
+                "Vy12xXWcFO1oKyQL"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "create-meowchanics"
+            },
+            "name": {
+                "curseforge": "Create: Meowchanics"
+            },
+            "id": {
+                "curseforge": "1645794"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create-meowchanics-2.3.2-neoforge-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9379/977/create-meowchanics-2.3.2-neoforge-1.21.1.jar",
+                    "id": "9379977",
+                    "parent_id": "1645794",
+                    "hashes": {
+                        "sha1": "868d26e05b2455923d68180f316ee09dc186ad23",
+                        "md5": "0798391900b8a6b1cefb20c921878858"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 8247358,
+                    "date_published": "2026-10-31T02:57:14.220Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "GXJA5yYcsZVJV0ov",
             "type": "MOD",
             "side": "BOTH",
@@ -6556,6 +6597,43 @@
             ]
         },
         {
+            "pakku_id": "vR9LvCFilar8IYLU",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "dimension-viewer-kots"
+            },
+            "name": {
+                "curseforge": "Dimension Viewer - KOTS"
+            },
+            "id": {
+                "curseforge": "1438283"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "dimensionviewer-2.3.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8211/34/dimensionviewer-2.3.0.jar",
+                    "id": "8211034",
+                    "parent_id": "1438283",
+                    "hashes": {
+                        "sha1": "8374b828b5427020612cdcaf17890f17afd96288",
+                        "md5": "ce7d9e1c564581fb283da595d668934a"
+                    },
+                    "required_dependencies": [],
+                    "size": 215418,
+                    "date_published": "2026-06-07T14:17:07.637Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ZMidoeSczBj8iCdn",
             "type": "MOD",
             "side": "BOTH",
@@ -6845,7 +6923,7 @@
         {
             "pakku_id": "HxMcJRYMYW74O5D3",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "easy-mob-spawn-control",
                 "modrinth": "easy-mob-spawn-control"
@@ -9563,6 +9641,7 @@
             "id": {
                 "curseforge": "1283531"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "curseforge",
@@ -12587,6 +12666,69 @@
             ]
         },
         {
+            "pakku_id": "sOvCpOvPjsOZghUP",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "luck-all-bonus",
+                "modrinth": "luck-all-bonus"
+            },
+            "name": {
+                "curseforge": "Luck All Bonus",
+                "modrinth": "Luck All Bonus"
+            },
+            "id": {
+                "curseforge": "1748291",
+                "modrinth": "5qOEjgCD"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "LuckAllBonus-1.21.1-Neo-0.4.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9394/398/LuckAllBonus-1.21.1-Neo-0.4.1.jar",
+                    "id": "9394398",
+                    "parent_id": "1748291",
+                    "hashes": {
+                        "sha1": "fce8d690d5358684c9d8c15ef6b4cb093062bbf2",
+                        "md5": "a8915ec19fdc6a6afaad5df6a36bbe3b"
+                    },
+                    "required_dependencies": [],
+                    "size": 144264,
+                    "date_published": "2026-11-01T12:25:44.617Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "LuckAllBonus-1.21.1-Neo-0.4.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5qOEjgCD/versions/wCOiONBd/LuckAllBonus-1.21.1-Neo-0.4.1.jar",
+                    "id": "wCOiONBd",
+                    "parent_id": "5qOEjgCD",
+                    "hashes": {
+                        "sha512": "185316268e8248f0cf2798cfe2f18c9fce46e7be78c3149dad510938b132f2b917838a71276cf8c9e6d75245c8eb615e68d33ef7604d0c29de9dd72922f46ea4",
+                        "sha1": "fce8d690d5358684c9d8c15ef6b4cb093062bbf2"
+                    },
+                    "required_dependencies": [],
+                    "size": 144264,
+                    "date_published": "2026-11-01T12:24:14.161011Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ughpfeZwTN1cxMDZ",
             "type": "MOD",
             "side": "BOTH",
@@ -14503,6 +14645,68 @@
             ]
         },
         {
+            "pakku_id": "E2A7TwEo28z8GlXc",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "omnisearch",
+                "modrinth": "omnisearch"
+            },
+            "name": {
+                "curseforge": "Omnisearch",
+                "modrinth": "Omnisearch"
+            },
+            "id": {
+                "curseforge": "1382629",
+                "modrinth": "vvWPliwJ"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "omnisearch-2.2.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9201/591/omnisearch-2.2.0.jar",
+                    "id": "9201591",
+                    "parent_id": "1382629",
+                    "hashes": {
+                        "sha1": "863ce3579d8b0a906411113b9b87946c08b75dd5",
+                        "md5": "e41c0482dc2166da7bba9da82f1a1327"
+                    },
+                    "required_dependencies": [],
+                    "size": 1841171,
+                    "date_published": "2026-10-15T22:28:12.303Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "omnisearch-2.2.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vvWPliwJ/versions/pY9XhqQR/omnisearch-2.2.0.jar",
+                    "id": "pY9XhqQR",
+                    "parent_id": "vvWPliwJ",
+                    "hashes": {
+                        "sha512": "732a86523205d99fd66d5c756167b9aa5ecfb88f302d7a0b764e34ce10d1d28a6cd1038a515fd3c0e3a2facc6b05919e62d7ab1ba5f1ad0da501d8a5638bb302",
+                        "sha1": "863ce3579d8b0a906411113b9b87946c08b75dd5"
+                    },
+                    "required_dependencies": [],
+                    "size": 1841171,
+                    "date_published": "2026-10-15T22:29:54.976901Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "5tzgv956A2YZERXk",
             "pakku_links": [
                 "XjDOCAPnao1fOuFX"
@@ -16255,7 +16459,7 @@
                 "yfmqTm7YrV3TNJom"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "server-plus-plus",
                 "modrinth": "server-plus-plus"

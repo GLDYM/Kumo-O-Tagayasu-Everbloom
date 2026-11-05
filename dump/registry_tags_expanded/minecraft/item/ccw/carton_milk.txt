@@ -3,7 +3,7 @@
 # Tag: ccw:carton_milk
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.7973178+08:00
+# Generated: 2026-11-05T11:35:51.2537515+08:00
 
 ccw:calcium_rich_milk
 ccw:carton_milk

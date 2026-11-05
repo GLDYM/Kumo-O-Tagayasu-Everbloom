@@ -1,10 +1,8 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:animals_spawnable_on
-# Entries: 3
+# Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.6232613+08:00
+# Generated: 2026-11-05T11:35:44.5652147+08:00
 
-atmospheric:arid_sand
-atmospheric:crustose
 minecraft:grass_block

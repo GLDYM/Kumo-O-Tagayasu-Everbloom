@@ -1,9 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:invalid_spawn_inside
-# Entries: 2
+# Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.8278818+08:00
+# Generated: 2026-11-05T11:35:44.9729267+08:00
 
+createendergateway:gateway_portal
 minecraft:end_gateway
 minecraft:end_portal

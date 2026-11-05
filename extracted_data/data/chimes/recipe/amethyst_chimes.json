@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+
+    "pattern": [
+        "#",
+        "/",
+        "&"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_ingot"
+        },
+        "/": {
+            "item": "minecraft:string"
+        },
+        "&": {
+            "item": "minecraft:amethyst_shard"
+        }
+    },
+    "result": {
+        "count": 1,
+        "id": "chimes:amethyst_chimes"
+	}
+}

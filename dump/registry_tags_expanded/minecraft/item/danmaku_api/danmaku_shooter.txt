@@ -1,14 +1,16 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: danmaku_api:danmaku_shooter
-# Entries: 154
+# Entries: 186
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.1404983+08:00
+# Generated: 2026-11-05T11:35:51.9060956+08:00
 
 danmaku_api:black_ball_danmaku
 danmaku_api:black_bubble_danmaku
 danmaku_api:black_butterfly_danmaku
+danmaku_api:black_card_danmaku
 danmaku_api:black_circle_danmaku
+danmaku_api:black_dagger_danmaku
 danmaku_api:black_laser
 danmaku_api:black_mentos_danmaku
 danmaku_api:black_pencil
@@ -17,7 +19,9 @@ danmaku_api:black_star_danmaku
 danmaku_api:blue_ball_danmaku
 danmaku_api:blue_bubble_danmaku
 danmaku_api:blue_butterfly_danmaku
+danmaku_api:blue_card_danmaku
 danmaku_api:blue_circle_danmaku
+danmaku_api:blue_dagger_danmaku
 danmaku_api:blue_laser
 danmaku_api:blue_mentos_danmaku
 danmaku_api:blue_pencil
@@ -26,7 +30,9 @@ danmaku_api:blue_star_danmaku
 danmaku_api:brown_ball_danmaku
 danmaku_api:brown_bubble_danmaku
 danmaku_api:brown_butterfly_danmaku
+danmaku_api:brown_card_danmaku
 danmaku_api:brown_circle_danmaku
+danmaku_api:brown_dagger_danmaku
 danmaku_api:brown_laser
 danmaku_api:brown_mentos_danmaku
 danmaku_api:brown_pencil
@@ -37,7 +43,9 @@ danmaku_api:custom_spell_ring
 danmaku_api:cyan_ball_danmaku
 danmaku_api:cyan_bubble_danmaku
 danmaku_api:cyan_butterfly_danmaku
+danmaku_api:cyan_card_danmaku
 danmaku_api:cyan_circle_danmaku
+danmaku_api:cyan_dagger_danmaku
 danmaku_api:cyan_laser
 danmaku_api:cyan_mentos_danmaku
 danmaku_api:cyan_pencil
@@ -46,7 +54,9 @@ danmaku_api:cyan_star_danmaku
 danmaku_api:gray_ball_danmaku
 danmaku_api:gray_bubble_danmaku
 danmaku_api:gray_butterfly_danmaku
+danmaku_api:gray_card_danmaku
 danmaku_api:gray_circle_danmaku
+danmaku_api:gray_dagger_danmaku
 danmaku_api:gray_laser
 danmaku_api:gray_mentos_danmaku
 danmaku_api:gray_pencil
@@ -55,7 +65,9 @@ danmaku_api:gray_star_danmaku
 danmaku_api:green_ball_danmaku
 danmaku_api:green_bubble_danmaku
 danmaku_api:green_butterfly_danmaku
+danmaku_api:green_card_danmaku
 danmaku_api:green_circle_danmaku
+danmaku_api:green_dagger_danmaku
 danmaku_api:green_laser
 danmaku_api:green_mentos_danmaku
 danmaku_api:green_pencil
@@ -64,7 +76,9 @@ danmaku_api:green_star_danmaku
 danmaku_api:light_blue_ball_danmaku
 danmaku_api:light_blue_bubble_danmaku
 danmaku_api:light_blue_butterfly_danmaku
+danmaku_api:light_blue_card_danmaku
 danmaku_api:light_blue_circle_danmaku
+danmaku_api:light_blue_dagger_danmaku
 danmaku_api:light_blue_laser
 danmaku_api:light_blue_mentos_danmaku
 danmaku_api:light_blue_pencil
@@ -73,7 +87,9 @@ danmaku_api:light_blue_star_danmaku
 danmaku_api:light_gray_ball_danmaku
 danmaku_api:light_gray_bubble_danmaku
 danmaku_api:light_gray_butterfly_danmaku
+danmaku_api:light_gray_card_danmaku
 danmaku_api:light_gray_circle_danmaku
+danmaku_api:light_gray_dagger_danmaku
 danmaku_api:light_gray_laser
 danmaku_api:light_gray_mentos_danmaku
 danmaku_api:light_gray_pencil
@@ -82,7 +98,9 @@ danmaku_api:light_gray_star_danmaku
 danmaku_api:lime_ball_danmaku
 danmaku_api:lime_bubble_danmaku
 danmaku_api:lime_butterfly_danmaku
+danmaku_api:lime_card_danmaku
 danmaku_api:lime_circle_danmaku
+danmaku_api:lime_dagger_danmaku
 danmaku_api:lime_laser
 danmaku_api:lime_mentos_danmaku
 danmaku_api:lime_pencil
@@ -91,7 +109,9 @@ danmaku_api:lime_star_danmaku
 danmaku_api:magenta_ball_danmaku
 danmaku_api:magenta_bubble_danmaku
 danmaku_api:magenta_butterfly_danmaku
+danmaku_api:magenta_card_danmaku
 danmaku_api:magenta_circle_danmaku
+danmaku_api:magenta_dagger_danmaku
 danmaku_api:magenta_laser
 danmaku_api:magenta_mentos_danmaku
 danmaku_api:magenta_pencil
@@ -100,7 +120,9 @@ danmaku_api:magenta_star_danmaku
 danmaku_api:orange_ball_danmaku
 danmaku_api:orange_bubble_danmaku
 danmaku_api:orange_butterfly_danmaku
+danmaku_api:orange_card_danmaku
 danmaku_api:orange_circle_danmaku
+danmaku_api:orange_dagger_danmaku
 danmaku_api:orange_laser
 danmaku_api:orange_mentos_danmaku
 danmaku_api:orange_pencil
@@ -109,7 +131,9 @@ danmaku_api:orange_star_danmaku
 danmaku_api:pink_ball_danmaku
 danmaku_api:pink_bubble_danmaku
 danmaku_api:pink_butterfly_danmaku
+danmaku_api:pink_card_danmaku
 danmaku_api:pink_circle_danmaku
+danmaku_api:pink_dagger_danmaku
 danmaku_api:pink_laser
 danmaku_api:pink_mentos_danmaku
 danmaku_api:pink_pencil
@@ -118,7 +142,9 @@ danmaku_api:pink_star_danmaku
 danmaku_api:purple_ball_danmaku
 danmaku_api:purple_bubble_danmaku
 danmaku_api:purple_butterfly_danmaku
+danmaku_api:purple_card_danmaku
 danmaku_api:purple_circle_danmaku
+danmaku_api:purple_dagger_danmaku
 danmaku_api:purple_laser
 danmaku_api:purple_mentos_danmaku
 danmaku_api:purple_pencil
@@ -127,7 +153,9 @@ danmaku_api:purple_star_danmaku
 danmaku_api:red_ball_danmaku
 danmaku_api:red_bubble_danmaku
 danmaku_api:red_butterfly_danmaku
+danmaku_api:red_card_danmaku
 danmaku_api:red_circle_danmaku
+danmaku_api:red_dagger_danmaku
 danmaku_api:red_laser
 danmaku_api:red_mentos_danmaku
 danmaku_api:red_pencil
@@ -136,7 +164,9 @@ danmaku_api:red_star_danmaku
 danmaku_api:white_ball_danmaku
 danmaku_api:white_bubble_danmaku
 danmaku_api:white_butterfly_danmaku
+danmaku_api:white_card_danmaku
 danmaku_api:white_circle_danmaku
+danmaku_api:white_dagger_danmaku
 danmaku_api:white_laser
 danmaku_api:white_mentos_danmaku
 danmaku_api:white_pencil
@@ -145,7 +175,9 @@ danmaku_api:white_star_danmaku
 danmaku_api:yellow_ball_danmaku
 danmaku_api:yellow_bubble_danmaku
 danmaku_api:yellow_butterfly_danmaku
+danmaku_api:yellow_card_danmaku
 danmaku_api:yellow_circle_danmaku
+danmaku_api:yellow_dagger_danmaku
 danmaku_api:yellow_laser
 danmaku_api:yellow_mentos_danmaku
 danmaku_api:yellow_pencil

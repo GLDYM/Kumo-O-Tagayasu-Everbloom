@@ -1,18 +1,17 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:bread
-# Entries: 11
+# Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.2871599+08:00
+# Generated: 2026-11-05T11:35:47.9767569+08:00
 
 bakeries:cheese_cocoa_toast
 bakeries:ciabatta
 bakeries:country_bread
 bakeries:toast
-immortalers_delight:evolutcorn_bread
 immortalers_delight:kwat_wheat_toast
+immortalers_delight:kwat_wheat_toast_slice
 minecraft:bread
-neapolitan:banana_bread
 tsuki:buckwheat_bread
 tsuki:bun
 tsuki:rice_bread

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/sea_green/wrapped_iron
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.9791745+08:00
+
+railways:sea_green_iron_wrapped_locometal
+railways:sea_green_iron_wrapped_locometal_smokebox

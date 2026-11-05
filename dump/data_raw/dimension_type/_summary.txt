@@ -1,11 +1,11 @@
 # Raw resource rule dump summary
 # Mod ID: registry_dumper_3000
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:51.7882288+08:00
+# Generated: 2026-11-05T11:36:10.9249328+08:00
 
 # Rule name: Dimension type
 # Side: data/server
 # Source prefix: dimension_type
-# Files written: 11
+# Files written: 12
 # Stack files written (optional): 0
 # Path collisions observed: 0

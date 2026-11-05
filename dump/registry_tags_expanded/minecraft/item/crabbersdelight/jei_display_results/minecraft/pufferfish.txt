@@ -1,14 +1,15 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: crabbersdelight:jei_display_results/minecraft/pufferfish
-# Entries: 8
+# Entries: 9
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.827766+08:00
+# Generated: 2026-11-05T11:35:51.3545484+08:00
 
 crabbersdelight:can
 crabbersdelight:clam
 crabbersdelight:coral_fragments
 crabbersdelight:fish_bones
+crabbersdelight:message_bottle
 farmersdelight:rope
 minecraft:copper_ingot
 minecraft:nautilus_shell

@@ -1,0 +1,17 @@
+{
+  "values": [
+    "handcrafted:magenta_cushion",
+    "supplementaries:flag_magenta",
+    "supplementaries:present_magenta",
+    "supplementaries:trapped_present_magenta",
+    "supplementaries:candle_holder_magenta",
+    "supplementaries:awning_magenta",
+    "supplementaries:bunting_magenta",
+    "supplementaries:bunting_wall_magenta",
+    "minecraft:magenta_wool_stairs",
+    "minecraft:magenta_wool_slab",
+    "minecraft:magenta_concrete_stairs",
+    "minecraft:magenta_concrete_slab"
+  ],
+  "replace": false
+}

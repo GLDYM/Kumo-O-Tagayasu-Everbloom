@@ -1,0 +1,26 @@
+{
+  "type": "tsuki:cooking",
+  "container": {
+    "id": "tsuki:bamboo"
+  },
+  "experience": 0,
+  "fluid": {
+    "amount": 125,
+    "fluidTag": "c:water/water"
+  },
+  "ingredients": [
+    {
+      "item": "tsuki:dango"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:sugar"
+    }
+  ],
+  "recipeTime": 200,
+  "result": {
+    "id": "tsuki:danmitarashi"
+  }
+}

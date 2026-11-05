@@ -1,0 +1,79 @@
+{
+	"type": "cagedmobs:entity_data",
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "cagedmobs"
+		}
+	],
+	"entity": "minecraft:piglin",
+	"samplerTier": 2,
+	"environments": ["nether"],
+	"growTicks": 1800,
+	"results": [
+		{
+			"chance": 0.05,
+			"output": {
+				"item": "minecraft:crossbow"
+			},
+			"randomDurability": true,
+			"minAmount": 1,
+			"maxAmount": 1
+		},
+		{
+			"requiredUpgrade": "cagedmobs:lightning_upgrade",
+			"chance": 0.05,
+			"output": {
+				"item": "minecraft:piglin_head"
+			},
+			"randomDurability": true,
+			"minAmount": 1,
+			"maxAmount": 1
+		},
+		{
+			"chance": 0.05,
+			"output": {
+				"item": "minecraft:golden_sword"
+			},
+			"randomDurability": true,
+			"minAmount": 1,
+			"maxAmount": 1
+		},
+		{
+			"chance": 0.02,
+			"output": {
+				"item": "minecraft:golden_helmet"
+			},
+			"randomDurability": true,
+			"minAmount": 1,
+			"maxAmount": 1
+		},
+		{
+			"chance": 0.02,
+			"output": {
+				"item": "minecraft:golden_boots"
+			},
+			"randomDurability": true,
+			"minAmount": 1,
+			"maxAmount": 1
+		},
+		{
+			"chance": 0.02,
+			"output": {
+				"item": "minecraft:golden_chestplate"
+			},
+			"randomDurability": true,
+			"minAmount": 1,
+			"maxAmount": 1
+		},
+		{
+			"chance": 0.02,
+			"output": {
+				"item": "minecraft:golden_leggings"
+			},
+			"randomDurability": true,
+			"minAmount": 1,
+			"maxAmount": 1
+		}
+	]
+}

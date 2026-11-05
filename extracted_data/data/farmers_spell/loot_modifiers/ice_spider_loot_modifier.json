@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_table",
+  "conditions": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "irons_spellbooks:ice_spider"
+      }
+    }
+  ],
+  "table": "farmers_spell:entities/ice_spider_loot"
+}

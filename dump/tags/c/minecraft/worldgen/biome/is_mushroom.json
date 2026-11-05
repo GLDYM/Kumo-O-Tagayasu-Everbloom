@@ -1,6 +1,9 @@
 {
-  "replace": false,
   "values": [
-    "quark:glimmering_weald"
+    "minecraft:mushroom_fields",
+    {
+      "id": "#forge:is_mushroom",
+      "required": false
+    }
   ]
 }

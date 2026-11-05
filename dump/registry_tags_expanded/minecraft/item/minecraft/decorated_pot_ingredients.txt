@@ -1,13 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:decorated_pot_ingredients
-# Entries: 31
+# Entries: 24
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.1632735+08:00
+# Generated: 2026-11-05T11:35:54.0465714+08:00
 
-atmospheric:scythe_pottery_sherd
-atmospheric:succulent_pottery_sherd
-atmospheric:sun_pottery_sherd
 minecraft:angler_pottery_sherd
 minecraft:archer_pottery_sherd
 minecraft:arms_up_pottery_sherd
@@ -32,7 +29,3 @@ minecraft:sheaf_pottery_sherd
 minecraft:shelter_pottery_sherd
 minecraft:skull_pottery_sherd
 minecraft:snort_pottery_sherd
-neapolitan:reflection_pottery_sherd
-neapolitan:scream_pottery_sherd
-neapolitan:snack_pottery_sherd
-neapolitan:spider_pottery_sherd

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "tofucraft:tofumetal"
+    },
+    "N": {
+      "item": "tofucraft:tofu_metal_nugget"
+    }
+  },
+  "pattern": [
+    "N",
+    "M",
+    "N"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tofucraft:tofu_metal_chain"
+  }
+}

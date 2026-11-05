@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:trailandtales_delightmain/lantern_fruit_seeds",
+  "criteria": {
+    "seeds": {
+      "conditions": {
+        "items": [
+          {
+            "items": "trailandtales_delight:golden_lantern_fruit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.golden_lantern_fruit.descr"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "count": 1,
+      "id": "trailandtales_delight:golden_lantern_fruit"
+    },
+    "title": {
+      "translate": "advancements.golden_lantern_fruit.title"
+    }
+  },
+  "requirements": [
+    [
+      "seeds"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

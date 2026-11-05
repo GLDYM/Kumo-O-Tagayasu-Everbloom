@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#another_furniture:shutters",
+    "#another_furniture:drawers",
+    "#dramaticdoors:short_wooden_doors",
+    "#dramaticdoors:tall_wooden_doors"
+  ]
+}

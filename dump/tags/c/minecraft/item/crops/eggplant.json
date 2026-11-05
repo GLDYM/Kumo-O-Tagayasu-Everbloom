@@ -1,5 +1,9 @@
 {
   "values": [
-    "tsuki:eggplant"
+    {
+      "id":"culturaldelights:eggplant",
+      "required": false
+    },
+    "kaleidoscope_chinesefood:eggplant"
   ]
 }

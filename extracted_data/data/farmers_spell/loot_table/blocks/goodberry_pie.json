@@ -1,0 +1,85 @@
+{
+    "pools":  [
+                  {
+                      "entries":  [
+                                      {
+                                          "type":  "minecraft:alternatives",
+                                          "children":  [
+                                                           {
+                                                               "conditions":  [
+                                                                                  {
+                                                                                      "properties":  {
+                                                                                                         "bites":  "0"
+                                                                                                     },
+                                                                                      "condition":  "minecraft:block_state_property",
+                                                                                      "block":  "farmers_spell:goodberry_pie"
+                                                                                  }
+                                                                              ],
+                                                               "name":  "farmers_spell:goodberry_pie",
+                                                               "type":  "minecraft:item"
+                                                           },
+                                                           {
+                                                               "conditions":  [
+                                                                                  {
+                                                                                      "properties":  {
+                                                                                                         "bites":  "1"
+                                                                                                     },
+                                                                                      "condition":  "minecraft:block_state_property",
+                                                                                      "block":  "farmers_spell:goodberry_pie"
+                                                                                  }
+                                                                              ],
+                                                               "name":  "farmers_spell:goodberry_pie_slice",
+                                                               "functions":  [
+                                                                                 {
+                                                                                     "function":  "minecraft:set_count",
+                                                                                     "count":  3
+                                                                                 }
+                                                                             ],
+                                                               "type":  "minecraft:item"
+                                                           },
+                                                           {
+                                                               "conditions":  [
+                                                                                  {
+                                                                                      "properties":  {
+                                                                                                         "bites":  "2"
+                                                                                                     },
+                                                                                      "condition":  "minecraft:block_state_property",
+                                                                                      "block":  "farmers_spell:goodberry_pie"
+                                                                                  }
+                                                                              ],
+                                                               "name":  "farmers_spell:goodberry_pie_slice",
+                                                               "functions":  [
+                                                                                 {
+                                                                                     "function":  "minecraft:set_count",
+                                                                                     "count":  2
+                                                                                 }
+                                                                             ],
+                                                               "type":  "minecraft:item"
+                                                           },
+                                                           {
+                                                               "conditions":  [
+                                                                                  {
+                                                                                      "properties":  {
+                                                                                                         "bites":  "3"
+                                                                                                     },
+                                                                                      "condition":  "minecraft:block_state_property",
+                                                                                      "block":  "farmers_spell:goodberry_pie"
+                                                                                  }
+                                                                              ],
+                                                               "name":  "farmers_spell:goodberry_pie_slice",
+                                                               "functions":  [
+                                                                                 {
+                                                                                     "function":  "minecraft:set_count",
+                                                                                     "count":  1
+                                                                                 }
+                                                                             ],
+                                                               "type":  "minecraft:item"
+                                                           }
+                                                       ]
+                                      }
+                                  ],
+                      "rolls":  1
+                  }
+              ],
+    "type":  "minecraft:block"
+}

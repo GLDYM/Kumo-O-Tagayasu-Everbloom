@@ -1,0 +1,37 @@
+{
+  "parent": "createendergateway:use_synthetic_eye",
+  "criteria": {
+    "station": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "#createendergateway:synthetic_eye_located"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "color": "#DBA213",
+      "translate": "advancement.createendergateway.find_station.desc"
+    },
+    "icon": {
+      "count": 1,
+      "id": "createendergateway:abandoned_gateway"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.createendergateway.find_station"
+    }
+  },
+  "sends_telemetry_event": false
+}

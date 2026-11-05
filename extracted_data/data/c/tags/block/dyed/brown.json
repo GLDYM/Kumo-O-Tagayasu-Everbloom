@@ -1,0 +1,17 @@
+{
+  "values": [
+    "handcrafted:brown_cushion",
+    "supplementaries:flag_brown",
+    "supplementaries:present_brown",
+    "supplementaries:trapped_present_brown",
+    "supplementaries:candle_holder_brown",
+    "supplementaries:awning_brown",
+    "supplementaries:bunting_brown",
+    "supplementaries:bunting_wall_brown",
+    "minecraft:brown_wool_stairs",
+    "minecraft:brown_wool_slab",
+    "minecraft:brown_concrete_stairs",
+    "minecraft:brown_concrete_slab"
+  ],
+  "replace": false
+}

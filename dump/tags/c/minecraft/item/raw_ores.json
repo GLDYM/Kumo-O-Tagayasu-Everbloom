@@ -1,6 +1,8 @@
 {
   "values": [
-    "createnuclear:raw_lead",
-    "createnuclear:raw_uranium"
+    {
+      "id": "create:crushed_raw_tin",
+      "required": false
+    }
   ]
 }

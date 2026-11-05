@@ -3,7 +3,7 @@
 # Tag: tsuki:drink_glasses
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.2631861+08:00
+# Generated: 2026-11-05T11:35:57.8167313+08:00
 
 tsuki:collins_glass
 tsuki:glass_cup

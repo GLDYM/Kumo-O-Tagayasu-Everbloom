@@ -1,0 +1,548 @@
+# 同路径 JSON 已合并；格式：文件  <- 来源 JAR（按扫描顺序，标量冲突时保留先扫描到的值）
+# 共 545 个文件
+
+data/accessories/tags/item/hat.json  <- artifacts-neoforge-13.2.5.jar, kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar
+data/alloyed/recipe/mixing/bronze_ingot.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, simplemetals-tin-kots-4.0.0.jar
+data/alloyed/recipe/mixing/bronze_ingot_x3.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, simplemetals-tin-kots-4.0.0.jar
+data/c/tags/block/barrels.json  <- lootr-neoforge-1.21.1-1.11.38.127.jar, sophisticatedstorage-1.21.1-1.6.15.2219.jar
+data/c/tags/block/chests.json  <- sophisticatedstorage-1.21.1-1.6.15.2219.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/black.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/blue.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/brown.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/cyan.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/gray.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/green.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/light_blue.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/light_gray.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/lime.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/magenta.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/orange.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/pink.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/purple.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/red.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/white.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/dyed/yellow.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/fence_gates.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create_connected-1.3.3-mc1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar
+data/c/tags/block/fence_gates/wooden.json  <- crabbersdelight-1.21.1-1.3.1.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/block/fences.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, create_connected-1.3.3-mc1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar
+data/c/tags/block/glass_blocks.json  <- createdeco-2.1.3.jar, createnuclear-2.0.0-neoforge.jar
+data/c/tags/block/glass_panes.json  <- create-1.21.1-6.0.10.jar, createdeco-2.1.3.jar
+data/c/tags/block/ores.json  <- create-1.21.1-6.0.10.jar, createnuclear-2.0.0-neoforge.jar, expores-1.0.0+mc1.21.1-hf.1.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, simplemetals-tin-kots-4.0.0.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar
+data/c/tags/block/ores_in_ground/deepslate.json  <- create-1.21.1-6.0.10.jar, createnuclear-2.0.0-neoforge.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar
+data/c/tags/block/ores_in_ground/stone.json  <- create-1.21.1-6.0.10.jar, createnuclear-2.0.0-neoforge.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar
+data/c/tags/block/relocation_not_supported.json  <- create-1.21.1-6.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar
+data/c/tags/block/ropes.json  <- FarmersDelight-1.21.1-1.3.4.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/c/tags/block/storage_blocks.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, cagedmobs-kots-1.21.1-3.2.0.jar, crabbersdelight-1.21.1-1.3.1.jar, create-1.21.1-6.0.10.jar, create-enchantment-industry-2.5.4b.jar, createnuclear-2.0.0-neoforge.jar, ends_delight-2.6.1+neoforge.1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, l2complements-3.1.3.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, simplemetals-tin-kots-4.0.0.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/c/tags/block/storage_blocks/steel.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, createnuclear-2.0.0-neoforge.jar
+data/c/tags/block/stripped_logs.json  <- crabbersdelight-1.21.1-1.3.1.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/block/stripped_woods.json  <- crabbersdelight-1.21.1-1.3.1.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/entity_type/bosses.json  <- irons_spellbooks-1.21.1-3.16.3.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/c/tags/fluid/dragon_breath.json  <- create-enchantment-industry-2.5.4b.jar, CreateDragonsPlus-1.11.9.jar
+data/c/tags/fluid/experience.json  <- beyonddimensions-1.21.1-neoforge-0.8.9.jar, riichi_mahjong-neoforge-0.4.1.jar, sophisticatedcore-1.21.1-1.5.25.2451.jar
+data/c/tags/item/armors.json  <- createnuclear-2.0.0-neoforge.jar, majobroom-kots-1.21.1-2.2.6.jar
+data/c/tags/item/armors/horse.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/armors/nautilus.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/bamboo.json  <- Tsuki-1.8.2.jar, youkaishomecoming-4.2.16.jar
+data/c/tags/item/berries.json  <- kaleidoscope_end-1.1.0-neoforge+mc1.21.1.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar
+data/c/tags/item/bread.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, Tsuki-1.8.2.jar
+data/c/tags/item/bricks.json  <- supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/buckets.json  <- create-1.21.1-6.0.10.jar, create-enchantment-industry-2.5.4b.jar, create_bitterballen+1.21.1-1.0.4.jar, CreateDragonsPlus-1.11.9.jar, fluidlogistics-1.3.2-mc1.21.1.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/c/tags/item/buckets/dragon_breath.json  <- create-enchantment-industry-2.5.4b.jar, CreateDragonsPlus-1.11.9.jar
+data/c/tags/item/cheese.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, create_bitterballen+1.21.1-1.0.4.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/chests.json  <- sophisticatedstorage-1.21.1-1.6.15.2219.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/cooked_chicken.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/cooked_eggs.json  <- kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar, kaleidoscope_end-1.1.0-neoforge+mc1.21.1.jar
+data/c/tags/item/cooked_fishes/cod.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/cooked_fishes/salmon.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/cooked_pork.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/crops.json  <- corn_delight-1.2.10-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscope_end-1.1.0-neoforge+mc1.21.1.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/crops/cabbage.json  <- FarmersDelight-1.21.1-1.3.4.jar, Tsuki-1.8.2.jar
+data/c/tags/item/crops/cucumber.json  <- vintagedelight-kots-0.3.3.jar, youkaishomecoming-4.2.16.jar
+data/c/tags/item/crops/eggplant.json  <- kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/crops/grain.json  <- corn_delight-1.2.10-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar
+data/c/tags/item/crops/onion.json  <- FarmersDelight-1.21.1-1.3.4.jar, Tsuki-1.8.2.jar
+data/c/tags/item/crops/pepper.json  <- Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/crops/pumpkin.json  <- kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/crops/rice.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, youkaishomecoming-4.2.16.jar
+data/c/tags/item/crops/soybean.json  <- tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar
+data/c/tags/item/crops/tomato.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/dough.json  <- kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/doughs.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/c/tags/item/drinks.json  <- crabbersdelight-1.21.1-1.3.1.jar, create-1.21.1-6.0.10.jar, create_bitterballen+1.21.1-1.0.4.jar, FarmersDelight-1.21.1-1.3.4.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/c/tags/item/drinks/milk.json  <- ccw-v1.4.2-mc1.21.1.jar, crabbersdelight-1.21.1-1.3.1.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar
+data/c/tags/item/dusts.json  <- createnuclear-2.0.0-neoforge.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/c/tags/item/dusts/salt.json  <- tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar
+data/c/tags/item/dyed/black.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/blue.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/brown.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/cyan.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/gray.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/green.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/light_blue.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/light_gray.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/lime.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/magenta.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/orange.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/pink.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/purple.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/red.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/white.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/dyed/yellow.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/eggs.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/enchantables.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, create-1.21.1-6.0.10.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/c/tags/item/fence_gates/wooden.json  <- crabbersdelight-1.21.1-1.3.1.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/fences.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, FarmersDelight-1.21.1-1.3.4.jar
+data/c/tags/item/flour.json  <- kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/flours.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, create-1.21.1-6.0.10.jar
+data/c/tags/item/flours/wheat.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, create-1.21.1-6.0.10.jar
+data/c/tags/item/foods.json  <- crabbersdelight-1.21.1-1.3.1.jar, create-1.21.1-6.0.10.jar, FarmersDelight-1.21.1-1.3.4.jar
+data/c/tags/item/foods/berry.json  <- [1.3support]trailandtales_delight-2.40.jar, create-1.21.1-6.0.10.jar, DelightoFlight-1.21.1-1.3.4.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/foods/bread.json  <- MyNethersDelight-1.21.1-1.10.4.1.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/foods/cabbage.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar
+data/c/tags/item/foods/cooked_beef.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/c/tags/item/foods/cooked_chicken.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar
+data/c/tags/item/foods/cooked_egg.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/c/tags/item/foods/cooked_fish.json  <- crabbersdelight-1.21.1-1.3.1.jar, create_bitterballen+1.21.1-1.0.4.jar, FarmersDelight-1.21.1-1.3.4.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/foods/cooked_meat.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/foods/cooked_mutton.json  <- FarmersDelight-1.21.1-1.3.4.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/c/tags/item/foods/cooked_pork.json  <- FarmersDelight-1.21.1-1.3.4.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/c/tags/item/foods/cooked_rice.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/c/tags/item/foods/dough.json  <- create-1.21.1-6.0.10.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/foods/dough/wheat.json  <- create-1.21.1-6.0.10.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar
+data/c/tags/item/foods/edible_when_placed.json  <- FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/c/tags/item/foods/fruit.json  <- create-1.21.1-6.0.10.jar, DelightoFlight-1.21.1-1.3.4.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/foods/fruits.json  <- Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/foods/fruits/berries.json  <- Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/foods/milk.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, ccw-v1.4.2-mc1.21.1.jar, vintagedelight-kots-0.3.3.jar, youkaishomecoming-4.2.16.jar
+data/c/tags/item/foods/onion.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, youkaishomecoming-4.2.16.jar
+data/c/tags/item/foods/pasta.json  <- FarmersDelight-1.21.1-1.3.4.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/foods/raw_beef.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/c/tags/item/foods/raw_chicken.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/c/tags/item/foods/raw_cod.json  <- FarmersDelight-1.21.1-1.3.4.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/c/tags/item/foods/raw_fish.json  <- crabbersdelight-1.21.1-1.3.1.jar, create_bitterballen+1.21.1-1.0.4.jar, FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/foods/raw_ghast.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/c/tags/item/foods/raw_meat.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/foods/raw_mutton.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/c/tags/item/foods/raw_pork.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, youkaishomecoming-4.2.16.jar
+data/c/tags/item/foods/raw_salmon.json  <- FarmersDelight-1.21.1-1.3.4.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/c/tags/item/foods/raw_strider.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/c/tags/item/foods/safe_raw_fish.json  <- create_bitterballen+1.21.1-1.0.4.jar, FarmersDelight-1.21.1-1.3.4.jar
+data/c/tags/item/foods/soup.json  <- FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/c/tags/item/foods/tomato.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, youkaishomecoming-4.2.16.jar
+data/c/tags/item/foods/tropical_fish.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/c/tags/item/foods/vegetable.json  <- corn_delight-1.2.10-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/foods/vegetables.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, corn_delight-1.2.10-1.21.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/fruits.json  <- kaleidoscope_end-1.1.0-neoforge+mc1.21.1.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, pineapple_delight-1.2.0-1.21.1-neoforge.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/fruits/berries.json  <- Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/glass_blocks/colorless.json  <- create-1.21.1-6.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/grain.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/grain/rice.json  <- kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/hidden_from_recipe_viewers.json  <- moonlight-1.21.1-3.8.0-neoforge.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/danmaku_api-3.0.5+7.jar
+data/c/tags/item/ingots.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, cagedmobs-kots-1.21.1-3.2.0.jar, create-1.21.1-6.0.10.jar, createdeco-2.1.3.jar, createnuclear-2.0.0-neoforge.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, l2complements-3.1.3.jar, simplemetals-tin-kots-4.0.0.jar
+data/c/tags/item/ingots/brass.json  <- create-1.21.1-6.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar
+data/c/tags/item/ingots/bronze.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, ultramarine-1.21.1-0.7.jar
+data/c/tags/item/ingots/iron.json  <- railways-0.3.0-beta.2+neoforge-mc1.21.1.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/ingots/steel.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, createnuclear-2.0.0-neoforge.jar, Tsuki-1.8.2.jar
+data/c/tags/item/matcha.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, youkaishomecoming-4.2.16.jar
+data/c/tags/item/milk.json  <- kaleidoscope_end-1.1.0-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/milk/milk.json  <- kaleidoscope_end-1.1.0-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/miso.json  <- tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar
+data/c/tags/item/mushrooms.json  <- DelightoFlight-1.21.1-1.3.4.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/music_discs.json  <- create_connected-1.3.3-mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/natto.json  <- tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar
+data/c/tags/item/nuggets.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, cagedmobs-kots-1.21.1-3.2.0.jar, create-1.21.1-6.0.10.jar, create-enchantment-industry-2.5.4b.jar, createdeco-2.1.3.jar, createnuclear-2.0.0-neoforge.jar, l2complements-3.1.3.jar, simplemetals-tin-kots-4.0.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/nuggets/brass.json  <- create-1.21.1-6.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar
+data/c/tags/item/nuggets/copper.json  <- create-1.21.1-6.0.10.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/nuggets/steel.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, createnuclear-2.0.0-neoforge.jar
+data/c/tags/item/nuggets/zinc.json  <- create-1.21.1-6.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar
+data/c/tags/item/ores.json  <- create-1.21.1-6.0.10.jar, createnuclear-2.0.0-neoforge.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, simplemetals-tin-kots-4.0.0.jar, Tsuki-1.8.2.jar
+data/c/tags/item/ores_in_ground/deepslate.json  <- create-1.21.1-6.0.10.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar
+data/c/tags/item/ores_in_ground/stone.json  <- create-1.21.1-6.0.10.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar
+data/c/tags/item/pasta.json  <- kaleidoscope_end-1.1.0-neoforge+mc1.21.1.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar
+data/c/tags/item/pasta/raw_pasta.json  <- kaleidoscope_end-1.1.0-neoforge+mc1.21.1.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar
+data/c/tags/item/plates.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, createdeco-2.1.3.jar, simplemetals-tin-kots-4.0.0.jar, tofucreate-1.21.1-2.1.2.jar
+data/c/tags/item/plates/brass.json  <- create-1.21.1-6.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar
+data/c/tags/item/plates/iron.json  <- create-1.21.1-6.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar
+data/c/tags/item/raw_beef.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/raw_chicken.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/raw_fishes.json  <- create_bitterballen+1.21.1-1.0.4.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/raw_fishes/cod.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/raw_fishes/salmon.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/raw_fishes/tropical_fish.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/raw_ham.json  <- farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar
+data/c/tags/item/raw_materials.json  <- create-1.21.1-6.0.10.jar, createnuclear-2.0.0-neoforge.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, simplemetals-tin-kots-4.0.0.jar
+data/c/tags/item/raw_meats.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/c/tags/item/raw_mutton.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/raw_ores.json  <- createnuclear-2.0.0-neoforge.jar, simplemetals-tin-kots-4.0.0.jar
+data/c/tags/item/raw_pork.json  <- kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/rods/blaze.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar
+data/c/tags/item/ropes.json  <- FarmersDelight-1.21.1-1.3.4.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/c/tags/item/salad_ingredients.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, Tsuki-1.8.2.jar
+data/c/tags/item/salt.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/seeds.json  <- corn_delight-1.2.10-1.21.1.jar, create_bitterballen+1.21.1-1.0.4.jar, DelightoFlight-1.21.1-1.3.4.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar, youkaishomecoming-4.2.16.jar
+data/c/tags/item/seeds/pepper.json  <- Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/seeds/rice.json  <- kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/seeds/tomato.json  <- kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/soysauce.json  <- tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar
+data/c/tags/item/soysauce/soysauce.json  <- tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar
+data/c/tags/item/storage_blocks.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, cagedmobs-kots-1.21.1-3.2.0.jar, create-1.21.1-6.0.10.jar, create-enchantment-industry-2.5.4b.jar, createnuclear-2.0.0-neoforge.jar, ends_delight-2.6.1+neoforge.1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, l2complements-3.1.3.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, simplemetals-tin-kots-4.0.0.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/c/tags/item/storage_blocks/andesite_alloy.json  <- create-1.21.1-6.0.10.jar, createdeco-2.1.3.jar
+data/c/tags/item/storage_blocks/rice.json  <- FarmersDelight-1.21.1-1.3.4.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/c/tags/item/storage_blocks/steel.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, createnuclear-2.0.0-neoforge.jar
+data/c/tags/item/stripped_logs.json  <- crabbersdelight-1.21.1-1.3.1.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/stripped_woods.json  <- crabbersdelight-1.21.1-1.3.1.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/c/tags/item/sugar.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, Tsuki-1.8.2.jar
+data/c/tags/item/tofu.json  <- tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar
+data/c/tags/item/tofu/fried.json  <- tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar
+data/c/tags/item/tools.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, FarmersDelight-1.21.1-1.3.4.jar, fluidlogistics-1.3.2-mc1.21.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/c/tags/item/tools/knife.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, ends_delight-2.6.1+neoforge.1.21.1.jar, farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar, Tsuki-1.8.2.jar
+data/c/tags/item/tools/knives.json  <- [1.3support]trailandtales_delight-2.40.jar, alloyed-3.0.12+1.21.1-neoforge.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/c/tags/item/tools/melee_weapon.json  <- irons_spellbooks-1.21.1-3.16.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/c/tags/item/tools/shear.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/c/tags/item/tools/wrench.json  <- create-1.21.1-6.0.10.jar, riichi_mahjong-neoforge-0.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/c/tags/item/vegetables.json  <- kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar, youkaishomecoming-4.2.16.jar
+data/c/tags/item/vegetables/beetroot.json  <- Tsuki-1.8.2.jar, youkaishomecoming-4.2.16.jar
+data/c/tags/item/vegetables/carrot.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar, youkaishomecoming-4.2.16.jar
+data/c/tags/item/vegetables/potato.json  <- kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/c/tags/item/vegetables/tomato.json  <- kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/carryon/tags/block/block_blacklist.json  <- kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar, sophisticatedbackpacks-1.21.1-3.26.19.2243.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar
+data/copycats/tags/item/copycat_beam.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create_connected-1.3.3-mc1.21.1.jar
+data/copycats/tags/item/copycat_block.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create_connected-1.3.3-mc1.21.1.jar
+data/copycats/tags/item/copycat_board.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create_connected-1.3.3-mc1.21.1.jar
+data/copycats/tags/item/copycat_fence.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create_connected-1.3.3-mc1.21.1.jar
+data/copycats/tags/item/copycat_fence_gate.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create_connected-1.3.3-mc1.21.1.jar
+data/copycats/tags/item/copycat_slab.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create_connected-1.3.3-mc1.21.1.jar
+data/copycats/tags/item/copycat_stairs.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create_connected-1.3.3-mc1.21.1.jar
+data/copycats/tags/item/copycat_vertical_step.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create_connected-1.3.3-mc1.21.1.jar
+data/copycats/tags/item/copycat_wall.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create_connected-1.3.3-mc1.21.1.jar
+data/create/recipe/crushing/tin_ore.json  <- create-1.21.1-6.0.10.jar, simplemetals-tin-kots-4.0.0.jar
+data/create/tags/block/brittle.json  <- create-1.21.1-6.0.10.jar, create_connected-1.3.3-mc1.21.1.jar, DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar, FarmersDelight-1.21.1-1.3.4.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/create/tags/block/casing.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, createprism-1.2.4.jar
+data/create/tags/block/copycat_deny.json  <- create-1.21.1-6.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar
+data/create/tags/block/fan_processing_catalysts/blasting.json  <- create-1.21.1-6.0.10.jar, create_connected-1.3.3-mc1.21.1.jar
+data/create/tags/block/fan_processing_catalysts/haunting.json  <- create-1.21.1-6.0.10.jar, create_connected-1.3.3-mc1.21.1.jar
+data/create/tags/block/fan_processing_catalysts/smoking.json  <- create-1.21.1-6.0.10.jar, create-enchantment-industry-2.5.4b.jar, create_connected-1.3.3-mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/create/tags/block/fan_transparent.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, create-enchantment-industry-2.5.4b.jar, create_connected-1.3.3-mc1.21.1.jar, createdeco-2.1.3.jar, CreateDragonsPlus-1.11.9.jar, FarmersDelight-1.21.1-1.3.4.jar, fluidlogistics-1.3.2-mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/create/tags/block/girdable_tracks.json  <- create-1.21.1-6.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar
+data/create/tags/block/movable_empty_collider.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, create_connected-1.3.3-mc1.21.1.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/create/tags/block/passive_boiler_heaters.json  <- create-1.21.1-6.0.10.jar, create-central-kitchen-2.6.2b.jar, ends_delight-2.6.1+neoforge.1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar
+data/create/tags/block/safe_nbt.json  <- amendments-1.21-2.2.7-neoforge.jar, create-1.21.1-6.0.10.jar, create_connected-1.3.3-mc1.21.1.jar, createadditionallogistics-1.21.1-1.4.5.jar, createnuclear-2.0.0-neoforge.jar, createrailwaysnavigator-neoforge-1.21.1-beta-0.10.0-C6.jar, escalated-1.3.2-mc.1.21.1.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/create/tags/block/seats.json  <- another_furniture-neoforge-4.0.3.jar, create-1.21.1-6.0.10.jar, interiors-0.6.1 v3.jar, kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar
+data/create/tags/block/table_cloths.json  <- create-1.21.1-6.0.10.jar, tradeworks-1.0.7.jar
+data/create/tags/block/tracks.json  <- create-1.21.1-6.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar
+data/create/tags/block/windmill_sails.json  <- create-1.21.1-6.0.10.jar, create-integrated-farming-1.4.3.jar
+data/create/tags/block/wrench_pickup.json  <- create-1.21.1-6.0.10.jar, create-integrated-farming-1.4.3.jar, create_bb-1.0.8-1.21.1.jar, createadditionallogistics-1.21.1-1.4.5.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar
+data/create/tags/fluid/bottomless/deny.json  <- create-enchantment-industry-2.5.4b.jar, createendergateway-1.2.0.jar
+data/create/tags/item/casing.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, createprism-1.2.4.jar
+data/create/tags/item/contraption_controlled.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, create-integrated-farming-1.4.3.jar, create_connected-1.3.3-mc1.21.1.jar, create_power_loader-2.0.5-mc1.21.1.jar, createmoredrillheads-2.1.0-1.21.1.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar
+data/create/tags/item/deployable_drink.json  <- create-1.21.1-6.0.10.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/create/tags/item/dyed_table_cloths.json  <- create-1.21.1-6.0.10.jar, tradeworks-1.0.7.jar
+data/create/tags/item/packages.json  <- create-1.21.1-6.0.10.jar, CreateDragonsPlus-1.11.9.jar, fluidlogistics-1.3.2-mc1.21.1.jar
+data/create/tags/item/table_cloths.json  <- create-1.21.1-6.0.10.jar, tradeworks-1.0.7.jar
+data/create/tags/item/tracks.json  <- create-1.21.1-6.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar
+data/create/tags/item/upright_on_belt.json  <- amendments-1.21-2.2.7-neoforge.jar, create-1.21.1-6.0.10.jar, create-central-kitchen-2.6.2b.jar, create-enchantment-industry-2.5.4b.jar, create_bitterballen+1.21.1-1.0.4.jar, creategearsandtavern-1.1.9-1.21.1.jar, ends_delight-2.6.1+neoforge.1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/create/tags/recipe_serializer/automation_ignore.json  <- create-1.21.1-6.0.10.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar
+data/create_dragons_plus/tags/block/fan_processing_catalysts/ending.json  <- create_connected-1.3.3-mc1.21.1.jar, CreateDragonsPlus-1.11.9.jar
+data/create_dragons_plus/tags/block/fan_processing_catalysts/sanding.json  <- create_connected-1.3.3-mc1.21.1.jar, CreateDragonsPlus-1.11.9.jar
+data/create_dragons_plus/tags/block/passive_block_freezers.json  <- create_connected-1.3.3-mc1.21.1.jar, CreateDragonsPlus-1.11.9.jar
+data/createnuclear/tags/block/fan_processing_catalysts/enriched.json  <- create_connected-1.3.3-mc1.21.1.jar, createnuclear-2.0.0-neoforge.jar
+data/curios/curios/slots/back.json  <- curios-neoforge-9.5.1+1.21.1.jar, youkaishomecoming-4.2.16.jar
+data/curios/curios/slots/head.json  <- curios-neoforge-9.5.1+1.21.1.jar, youkaishomecoming-4.2.16.jar
+data/curios/tags/item/back.json  <- sophisticatedbackpacks-1.21.1-3.26.19.2243.jar, youkaishomecoming-4.2.16.jar
+data/curios/tags/item/belt.json  <- artifacts-neoforge-13.2.5.jar, iss_magicfromtheeast-1.1.5.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/curios/tags/item/charm.json  <- beyonddimensions-1.21.1-neoforge-0.8.9.jar, l2complements-3.1.3.jar, Tsuki-1.8.2.jar
+data/curios/tags/item/head.json  <- artifacts-neoforge-13.2.5.jar, catburger_neoforge_1.21.1-2.0.1.jar, create-1.21.1-6.0.10.jar, kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar, youkaishomecoming-4.2.16.jar
+data/curios/tags/item/necklace.json  <- artifacts-neoforge-13.2.5.jar, irons_spellbooks-1.21.1-3.16.3.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar
+data/curios/tags/item/ring.json  <- farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar
+data/curios/tags/item/spellbook.json  <- abyss_sonata-1.3.1.jar, farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar
+data/danmaku_api/tags/item/preset_spell.json  <- youkaishomecoming-4.2.16.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/danmaku_api-3.0.5+7.jar
+data/diagonalfences/tags/block/non_diagonal_fences.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create_connected-1.3.3-mc1.21.1.jar
+data/diet/tags/item/fruits.json  <- kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar, youkaishomecoming-4.2.16.jar
+data/diet/tags/item/grains.json  <- kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, youkaishomecoming-4.2.16.jar
+data/diet/tags/item/proteins.json  <- kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, youkaishomecoming-4.2.16.jar
+data/diet/tags/item/vegetables.json  <- kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, youkaishomecoming-4.2.16.jar
+data/diet/tags/items/proteins.json  <- tofucraft-1.21.1-12.20.9.0.jar, vintagedelight-kots-0.3.3.jar
+data/eclipticseasons/tags/block/crops/average_moist.json  <- kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar
+data/farmersdelight/tags/block/cabinets.json  <- FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/farmersdelight/tags/block/cabinets/wooden.json  <- crabbersdelight-1.21.1-1.3.1.jar, FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/farmersdelight/tags/block/campfire_signal_smoke.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar
+data/farmersdelight/tags/block/feasts.json  <- FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/farmersdelight/tags/block/heat_conductors.json  <- FarmersDelight-1.21.1-1.3.4.jar, Tsuki-1.8.2.jar
+data/farmersdelight/tags/block/heat_sources.json  <- [1.3support]trailandtales_delight-2.40.jar, ends_delight-2.6.1+neoforge.1.21.1.jar, farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, Tsuki-1.8.2.jar
+data/farmersdelight/tags/block/mineable/knife.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/farmersdelight/tags/block/mushroom_colony_growable_on.json  <- FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/farmersdelight/tags/block/ropes.json  <- FarmersDelight-1.21.1-1.3.4.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/farmersdelight/tags/block/tray_heat_sources.json  <- FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, Tsuki-1.8.2.jar
+data/farmersdelight/tags/block/unaffected_by_rich_soil.json  <- FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/farmersdelight/tags/block/wild_crops.json  <- corn_delight-1.2.10-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, youkaishomecoming-4.2.16.jar
+data/farmersdelight/tags/item/cabinets.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/farmersdelight/tags/item/cabinets/wooden.json  <- crabbersdelight-1.21.1-1.3.1.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/farmersdelight/tags/item/feasts.json  <- FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/farmersdelight/tags/item/flat_on_cutting_board.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar
+data/farmersdelight/tags/item/meals.json  <- ccw-v1.4.2-mc1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar
+data/farmersdelight/tags/item/tools/knives.json  <- [1.3support]trailandtales_delight-2.40.jar, alloyed-3.0.12+1.21.1-neoforge.jar, ends_delight-2.6.1+neoforge.1.21.1.jar, farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/farmersdelight/tags/item/wild_crops.json  <- corn_delight-1.2.10-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, youkaishomecoming-4.2.16.jar
+data/ftbchunks/tags/block/interact_whitelist.json  <- ftb-chunks-neoforge-2101.1.23.jar, lootr-neoforge-1.21.1-1.11.38.127.jar
+data/ftbultimine/tags/block/excluded_blocks.json  <- ftb-ultimine-neoforge-2101.1.15.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/ftbultimine/tags/block/single_crop_harvesting_blacklist.json  <- ftb-ultimine-neoforge-2101.1.15.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/irons_spellbooks/tags/entity_type/summons.json  <- irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar
+data/irons_spellbooks/tags/item/inscribed_rune.json  <- farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar
+data/irons_spellbooks/tags/item/school_focus.json  <- farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar
+data/irons_spellbooks/tags/item/staff.json  <- abyss_sonata-1.3.1.jar, irons_spellbooks-1.21.1-3.16.3.jar, touhou_little_maid_spell-1.21.1-1.9.1-neoforge.jar
+data/kaleidoscope_cookery/tags/block/sickle_harvest_blacklist.json  <- farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/kaleidoscope_cookery/tags/block/sittable.json  <- kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/kaleidoscope_cookery/tags/item/caterpillars.json  <- kaleidoscope_end-1.1.0-neoforge+mc1.21.1.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/kaleidoscope_cookery/tags/item/ingredient_container.json  <- kaleidoscope_end-1.1.0-neoforge+mc1.21.1.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/kaleidoscope_cookery/tags/item/kitchen_knife.json  <- kaleidoscope_end-1.1.0-neoforge+mc1.21.1.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/kaleidoscope_cookery/tags/item/straw_hat.json  <- kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/kaleidoscope_cookery/tags/item/tea_bags.json  <- kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/kaleidoscope_doll/curios/entities/doll_item_slot.json  <- kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar, kaleidoscopedoll-1.4.2-neoforge+mc1.21.1.jar
+data/kaleidoscope_doll/curios/slots/head.json  <- kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar, kaleidoscopedoll-1.4.2-neoforge+mc1.21.1.jar
+data/kaleidoscope_doll/tags/item/all_dolls.json  <- kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscopedoll-1.4.2-neoforge+mc1.21.1.jar
+data/kaleidoscope_doll/tags/item/author_dolls.json  <- kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscopedoll-1.4.2-neoforge+mc1.21.1.jar
+data/kaleidoscope_doll/tags/item/player_dolls.json  <- kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscopedoll-1.4.2-neoforge+mc1.21.1.jar
+data/l2core/tags/mob_effect/tracked_effects.json  <- l2complements-3.1.3.jar, l2library-3.0.9.jar!/META-INF/jarjar/l2core-3.0.9+1.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2core-3.0.8+16.jar
+data/l2damagetracker/damage_type/mob_attack-bypass_armor-bypass_cooldown-bypass_magic.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/damage_type/mob_attack-bypass_armor-bypass_cooldown.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/damage_type/mob_attack-bypass_armor-bypass_magic.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/damage_type/mob_attack-bypass_armor.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/damage_type/mob_attack-bypass_cooldown-bypass_magic.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/damage_type/mob_attack-bypass_cooldown.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/damage_type/mob_attack-bypass_magic.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/damage_type/player_attack-bypass_armor-bypass_cooldown-bypass_magic.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/damage_type/player_attack-bypass_armor-bypass_cooldown.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/damage_type/player_attack-bypass_armor-bypass_magic.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/damage_type/player_attack-bypass_armor.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/damage_type/player_attack-bypass_cooldown-bypass_magic.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/damage_type/player_attack-bypass_cooldown.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/damage_type/player_attack-bypass_magic.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/tags/damage_type/direct.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/tags/damage_type/ignore_scaling.json  <- l2complements-3.1.3.jar, l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2damagetracker/tags/damage_type/material_mux.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/l2menustacker/tags/item/quick_access.json  <- l2library-3.0.9.jar!/META-INF/jarjar/l2menustacker-3.0.10.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2menustacker-3.0.9.jar
+data/l2menustacker/tags/item/quick_access_vanilla.json  <- l2complements-3.1.3.jar, l2library-3.0.9.jar!/META-INF/jarjar/l2menustacker-3.0.10.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2menustacker-3.0.9.jar
+data/l2tabs/data_maps/attribute/attribute_entry.json  <- l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, l2library-3.0.9.jar!/META-INF/jarjar/l2tabs-3.0.5+7.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/locksmith/tags/block/lockable.json  <- another_furniture-neoforge-4.0.3.jar, DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar
+data/minecraft/recipe/food_serving.json  <- crabbersdelight-1.21.1-1.3.1.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/minecraft/tags/block/all_hanging_signs.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar
+data/minecraft/tags/block/all_signs.json  <- [1.3support]trailandtales_delight-2.40.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/block/azalea_root_replaceable.json  <- create-1.21.1-6.0.10.jar, createnuclear-2.0.0-neoforge.jar
+data/minecraft/tags/block/bamboo_plantable_on.json  <- DelightoFlight-1.21.1-1.3.4.jar, FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, vintagedelight-kots-0.3.3.jar
+data/minecraft/tags/block/bars.json  <- createdeco-2.1.3.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/beacon_base_blocks.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, cagedmobs-kots-1.21.1-3.2.0.jar, create-1.21.1-6.0.10.jar, create-enchantment-industry-2.5.4b.jar, createutilities-0.3.7+mc1.21.1.jar, Tsuki-1.8.2.jar, ultramarine-1.21.1-0.7.jar
+data/minecraft/tags/block/beds.json  <- DelightoFlight-1.21.1-1.3.4.jar, handcrafted-neoforge-1.21.1-4.0.3.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar
+data/minecraft/tags/block/bee_growables.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/block/buttons.json  <- [1.3support]trailandtales_delight-2.40.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar
+data/minecraft/tags/block/candles.json  <- amendments-1.21-2.2.7-neoforge.jar, whimsy_deco-1.3-1.21.1.jar
+data/minecraft/tags/block/cauldrons.json  <- amendments-1.21-2.2.7-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/block/ceiling_hanging_signs.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/climbable.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, createdeco-2.1.3.jar, createprism-1.2.4.jar, createutilities-0.3.7+mc1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, vintagedelight-kots-0.3.3.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/block/combination_step_sound_blocks.json  <- create-1.21.1-6.0.10.jar, FarmersDelight-1.21.1-1.3.4.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tradeworks-1.0.7.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/completes_find_tree_tutorial.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/block/crops.json  <- corn_delight-1.2.10-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/minecraft/tags/block/dampens_vibrations.json  <- amendments-1.21-2.2.7-neoforge.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/dirt.json  <- crabbersdelight-1.21.1-1.3.1.jar, Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar, create_pillagers_arise NeoForge 1.21.1-132.36.jar, DelightoFlight-1.21.1-1.3.4.jar, FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar
+data/minecraft/tags/block/doors.json  <- [1.3support]trailandtales_delight-2.40.jar, alloyed-3.0.12+1.21.1-neoforge.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, createdeco-2.1.3.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/block/dragon_immune.json  <- createendergateway-1.2.0.jar, moonlight-1.21.1-3.8.0-neoforge.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/block/dripstone_replaceable_blocks.json  <- create-1.21.1-6.0.10.jar, createnuclear-2.0.0-neoforge.jar
+data/minecraft/tags/block/features_cannot_replace.json  <- irons_spellbooks-1.21.1-3.16.3.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/block/fence_gates.json  <- [1.3support]trailandtales_delight-2.40.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, crabbersdelight-1.21.1-1.3.1.jar, create_connected-1.3.3-mc1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/fences.json  <- [1.3support]trailandtales_delight-2.40.jar, alloyed-3.0.12+1.21.1-neoforge.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, create_connected-1.3.3-mc1.21.1.jar, createdeco-2.1.3.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, Tsuki-1.8.2.jar, ultramarine-1.21.1-0.7.jar
+data/minecraft/tags/block/flower_pots.json  <- [1.3support]trailandtales_delight-2.40.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, touhou_little_maid_spell-1.21.1-1.9.1-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/flowers.json  <- touhou_little_maid_spell-1.21.1-1.9.1-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/guarded_by_piglins.json  <- lootr-neoforge-1.21.1-1.11.38.127.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, sophisticatedstorage-1.21.1-1.6.15.2219.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/block/impermeable.json  <- create-1.21.1-6.0.10.jar, createdeco-2.1.3.jar, createnuclear-2.0.0-neoforge.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar
+data/minecraft/tags/block/inside_step_sound_blocks.json  <- create-1.21.1-6.0.10.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tradeworks-1.0.7.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/leaves.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/logs.json  <- [1.3support]trailandtales_delight-2.40.jar, Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar, create_pillagers_arise NeoForge 1.21.1-132.36.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/minecraft/tags/block/logs_that_burn.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar
+data/minecraft/tags/block/lush_ground_replaceable.json  <- create-1.21.1-6.0.10.jar, createnuclear-2.0.0-neoforge.jar
+data/minecraft/tags/block/maintains_farmland.json  <- FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, vintagedelight-kots-0.3.3.jar
+data/minecraft/tags/block/mineable/axe.json  <- [1.3support]trailandtales_delight-2.40.jar, alloyed-3.0.12+1.21.1-neoforge.jar, amendments-1.21-2.2.7-neoforge.jar, another_furniture-neoforge-4.0.3.jar, bakeries-1.21.1-NeoForge-1.0.6.jar, Chimes-v2.1.1-1.21.1-NeoForge.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, crabbersdelight-1.21.1-1.3.1.jar, cratedelight-26.07.01-1.21-neoforge.jar, create-1.21.1-6.0.10.jar, create-integrated-farming-1.4.3.jar, create_connected-1.3.3-mc1.21.1.jar, create_power_loader-2.0.5-mc1.21.1.jar, createadditionallogistics-1.21.1-1.4.5.jar, createimp-1.4.4 HotFix.jar, createmoredrillheads-2.1.0-1.21.1.jar, createnuclear-2.0.0-neoforge.jar, createprism-1.2.4.jar, createrailwaysnavigator-neoforge-1.21.1-beta-0.10.0-C6.jar, createutilities-0.3.7+mc1.21.1.jar, DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar, ends_delight-2.6.1+neoforge.1.21.1.jar, escalated-1.3.2-mc.1.21.1.jar, farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, handcrafted-neoforge-1.21.1-4.0.3.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, interiors-0.6.1 v3.jar, irons_lib-1.21.1-2.3.0.jar, irons_spellbooks-1.21.1-3.16.3.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar, lootr-neoforge-1.21.1-1.11.38.127.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar, riichi_mahjong-neoforge-0.4.1.jar, someassemblyrequired-5.2.8.jar, sophisticatedstorage-1.21.1-1.6.15.2219.jar, supermartijn642corelib-1.1.26-neoforge-mc1.21.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, tofucreate-1.21.1-2.1.2.jar, tradeworks-1.0.7.jar, trading_floor-3.0.16.jar, Tsuki-1.8.2.jar, ultramarine-1.21.1-0.7.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar, waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar, whimsy_deco-1.3-1.21.1.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/block/mineable/hoe.json  <- [1.3support]trailandtales_delight-2.40.jar, DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, supermartijn642corelib-1.1.26-neoforge-mc1.21.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, ultramarine-1.21.1-0.7.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar
+data/minecraft/tags/block/mineable/pickaxe.json  <- [1.3support]trailandtales_delight-2.40.jar, alloyed-3.0.12+1.21.1-neoforge.jar, amendments-1.21-2.2.7-neoforge.jar, another_furniture-neoforge-4.0.3.jar, bakeries-1.21.1-NeoForge-1.0.6.jar, beyonddimensions-1.21.1-neoforge-0.8.9.jar, cagedmobs-kots-1.21.1-3.2.0.jar, Chimes-v2.1.1-1.21.1-NeoForge.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, crabbersdelight-1.21.1-1.3.1.jar, create-1.21.1-6.0.10.jar, create-enchantment-industry-2.5.4b.jar, create-integrated-farming-1.4.3.jar, create_bb-1.0.8-1.21.1.jar, create_bitterballen+1.21.1-1.0.4.jar, create_connected-1.3.3-mc1.21.1.jar, create_power_loader-2.0.5-mc1.21.1.jar, createadditionallogistics-1.21.1-1.4.5.jar, createdeco-2.1.3.jar, CreateDragonsPlus-1.11.9.jar, createendergateway-1.2.0.jar, createimp-1.4.4 HotFix.jar, createmoredrillheads-2.1.0-1.21.1.jar, createnuclear-2.0.0-neoforge.jar, createprism-1.2.4.jar, createrailwaysnavigator-neoforge-1.21.1-beta-0.10.0-C6.jar, createutilities-0.3.7+mc1.21.1.jar, DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar, enchlibathome-unofficial-1.1.1.jar, ends_delight-2.6.1+neoforge.1.21.1.jar, escalated-1.3.2-mc.1.21.1.jar, expores-1.0.0+mc1.21.1-hf.1.jar, farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, fluidlogistics-1.3.2-mc1.21.1.jar, handcrafted-neoforge-1.21.1-4.0.3.jar, Idealland-Shrine-1.2.2.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, irons_lib-1.21.1-2.3.0.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, jamd-neo-21.1.1+mc1.21.1.jar, javd-neo-9.0.0+mc1.21.1.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, kaleidoscopedoll-1.4.2-neoforge+mc1.21.1.jar, kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar, l2complements-3.1.3.jar, lootr-neoforge-1.21.1-1.11.38.127.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar, riichi_mahjong-neoforge-0.4.1.jar, simplemetals-tin-kots-4.0.0.jar, sophisticatedstorage-1.21.1-1.6.15.2219.jar, supermartijn642corelib-1.1.26-neoforge-mc1.21.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, tofucreate-1.21.1-2.1.2.jar, tradeworks-1.0.7.jar, trading_floor-3.0.16.jar, Tsuki-1.8.2.jar, ultramarine-1.21.1-0.7.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar, waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar, whimsy_deco-1.3-1.21.1.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/block/mineable/shear.json  <- moonlight-1.21.1-3.8.0-neoforge.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/block/mineable/shovel.json  <- crabbersdelight-1.21.1-1.3.1.jar, createnuclear-2.0.0-neoforge.jar, DelightoFlight-1.21.1-1.3.4.jar, FarmersDelight-1.21.1-1.3.4.jar, lootr-neoforge-1.21.1-1.11.38.127.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supermartijn642corelib-1.1.26-neoforge-mc1.21.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/block/moss_replaceable.json  <- create-1.21.1-6.0.10.jar, createnuclear-2.0.0-neoforge.jar
+data/minecraft/tags/block/mushroom_grow_block.json  <- DelightoFlight-1.21.1-1.3.4.jar, FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, vintagedelight-kots-0.3.3.jar
+data/minecraft/tags/block/needs_diamond_tool.json  <- cagedmobs-kots-1.21.1-3.2.0.jar, createnuclear-2.0.0-neoforge.jar, DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar, supermartijn642corelib-1.1.26-neoforge-mc1.21.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/block/needs_iron_tool.json  <- create-1.21.1-6.0.10.jar, createendergateway-1.2.0.jar, createnuclear-2.0.0-neoforge.jar, expores-1.0.0+mc1.21.1-hf.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, iss_magicfromtheeast-1.1.5.jar, supermartijn642corelib-1.1.26-neoforge-mc1.21.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, ultramarine-1.21.1-0.7.jar
+data/minecraft/tags/block/needs_stone_tool.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, cagedmobs-kots-1.21.1-3.2.0.jar, create-1.21.1-6.0.10.jar, DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar, Idealland-Shrine-1.2.2.jar, iss_magicfromtheeast-1.1.5.jar, l2complements-3.1.3.jar, simplemetals-tin-kots-4.0.0.jar, supermartijn642corelib-1.1.26-neoforge-mc1.21.jar, tofucraft-1.21.1-12.20.9.0.jar, ultramarine-1.21.1-0.7.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/non_flammable_wood.json  <- another_furniture-neoforge-4.0.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/block/overworld_carver_replaceables.json  <- simplemetals-tin-kots-4.0.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/overworld_natural_logs.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/piglin_repellents.json  <- amendments-1.21-2.2.7-neoforge.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/block/planks.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, interiors-0.6.1 v3.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, ultramarine-1.21.1-0.7.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar
+data/minecraft/tags/block/portals.json  <- createendergateway-1.2.0.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/block/pressure_plates.json  <- [1.3support]trailandtales_delight-2.40.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar
+data/minecraft/tags/block/replaceable.json  <- FarmersDelight-1.21.1-1.3.4.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/block/replaceable_by_trees.json  <- [1.3support]trailandtales_delight-2.40.jar, FarmersDelight-1.21.1-1.3.4.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/sand.json  <- Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar, create_pillagers_arise NeoForge 1.21.1-132.36.jar, lootr-neoforge-1.21.1-1.11.38.127.jar
+data/minecraft/tags/block/saplings.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/signs.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/minecraft/tags/block/slabs.json  <- [1.3support]trailandtales_delight-2.40.jar, alloyed-3.0.12+1.21.1-neoforge.jar, amendments-1.21-2.2.7-neoforge.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, create_connected-1.3.3-mc1.21.1.jar, createdeco-2.1.3.jar, createnuclear-2.0.0-neoforge.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/block/small_flowers.json  <- corn_delight-1.2.10-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, touhou_little_maid_spell-1.21.1-1.9.1-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/sniffer_diggable_block.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar
+data/minecraft/tags/block/soul_fire_base_blocks.json  <- MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/block/soul_speed_blocks.json  <- MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/block/stairs.json  <- [1.3support]trailandtales_delight-2.40.jar, alloyed-3.0.12+1.21.1-neoforge.jar, amendments-1.21-2.2.7-neoforge.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, create_connected-1.3.3-mc1.21.1.jar, createdeco-2.1.3.jar, createnuclear-2.0.0-neoforge.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/block/standing_signs.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/trapdoors.json  <- [1.3support]trailandtales_delight-2.40.jar, alloyed-3.0.12+1.21.1-neoforge.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, createdeco-2.1.3.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/block/unstable_bottom_center.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create_connected-1.3.3-mc1.21.1.jar
+data/minecraft/tags/block/wall_hanging_signs.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/wall_post_override.json  <- supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/wall_signs.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, FarmersDelight-1.21.1-1.3.4.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/walls.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, create_connected-1.3.3-mc1.21.1.jar, createdeco-2.1.3.jar, createnuclear-2.0.0-neoforge.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, iss_magicfromtheeast-1.1.5.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, ultramarine-1.21.1-0.7.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar
+data/minecraft/tags/block/wither_immune.json  <- createendergateway-1.2.0.jar, irons_spellbooks-1.21.1-3.16.3.jar, moonlight-1.21.1-3.8.0-neoforge.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/block/wooden_buttons.json  <- [1.3support]trailandtales_delight-2.40.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/wooden_doors.json  <- [1.3support]trailandtales_delight-2.40.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, crabbersdelight-1.21.1-1.3.1.jar, create-1.21.1-6.0.10.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/wooden_fences.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/wooden_pressure_plates.json  <- [1.3support]trailandtales_delight-2.40.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/block/wooden_slabs.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/block/wooden_stairs.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/block/wooden_trapdoors.json  <- [1.3support]trailandtales_delight-2.40.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/blocks/dirt.json  <- Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar, create_pillagers_arise NeoForge 1.21.1-132.36.jar
+data/minecraft/tags/blocks/logs.json  <- Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar, create_pillagers_arise NeoForge 1.21.1-132.36.jar
+data/minecraft/tags/blocks/mineable/axe.json  <- ftb-quests-neoforge-2101.1.38.jar, immersive_furniture-neoforge-0.3.3+1.21.1.jar
+data/minecraft/tags/blocks/mineable/pickaxe.json  <- ftb-quests-neoforge-2101.1.38.jar, mechanicalmillstone-1.0.2-1.21.1-neoforge.jar
+data/minecraft/tags/blocks/sand.json  <- Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar, create_pillagers_arise NeoForge 1.21.1-132.36.jar
+data/minecraft/tags/damage_type/always_hurts_ender_dragons.json  <- tofucraft-1.21.1-12.20.9.0.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar
+data/minecraft/tags/damage_type/bypasses_armor.json  <- create-1.21.1-6.0.10.jar, DelightoFlight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, iss_magicfromtheeast-1.1.5.jar, l2complements-3.1.3.jar, l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/danmaku_api-3.0.5+7.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/minecraft/tags/damage_type/bypasses_cooldown.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, iss_magicfromtheeast-1.1.5.jar, l2complements-3.1.3.jar, l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/danmaku_api-3.0.5+7.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/minecraft/tags/damage_type/bypasses_effects.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, l2complements-3.1.3.jar, l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, youkaishomecoming-4.2.16.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/danmaku_api-3.0.5+7.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/minecraft/tags/damage_type/bypasses_enchantments.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, iss_magicfromtheeast-1.1.5.jar, l2complements-3.1.3.jar, l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, tofucraft-1.21.1-12.20.9.0.jar, youkaishomecoming-4.2.16.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/danmaku_api-3.0.5+7.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/minecraft/tags/damage_type/bypasses_invulnerability.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, l2complements-3.1.3.jar
+data/minecraft/tags/damage_type/bypasses_resistance.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, l2complements-3.1.3.jar, l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/danmaku_api-3.0.5+7.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/minecraft/tags/damage_type/bypasses_shield.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/damage_type/damages_helmet.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/damage_type/is_explosion.json  <- create-1.21.1-6.0.10.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/damage_type/is_fire.json  <- amendments-1.21-2.2.7-neoforge.jar, create-1.21.1-6.0.10.jar, FarmersDelight-1.21.1-1.3.4.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/damage_type/is_projectile.json  <- iss_magicfromtheeast-1.1.5.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar
+data/minecraft/tags/damage_type/no_impact.json  <- l2complements-3.1.3.jar, tofucraft-1.21.1-12.20.9.0.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/danmaku_api-3.0.5+7.jar
+data/minecraft/tags/damage_type/no_knockback.json  <- createnuclear-2.0.0-neoforge.jar, FarmersDelight-1.21.1-1.3.4.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, l2complements-3.1.3.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/damage_type/witch_resistant_to.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/enchantment/in_enchanting_table.json  <- create-1.21.1-6.0.10.jar, create_ltab-4.1.0.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/minecraft/tags/enchantment/non_treasure.json  <- create-1.21.1-6.0.10.jar, FarmersDelight-1.21.1-1.3.4.jar, iss_magicfromtheeast-1.1.5.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, tofucraft-1.21.1-12.20.9.0.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/enchantment/tradeable.json  <- create_ltab-4.1.0.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/enchantment/treasure.json  <- create_ltab-4.1.0.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar
+data/minecraft/tags/entity_type/aquatic.json  <- tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/entity_type/arrows.json  <- supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/entity_type/can_breathe_under_water.json  <- dummmmmmy-1.21-2.1.2-neoforge.jar, irons_spellbooks-1.21.1-3.16.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/entity_type/fall_damage_immune.json  <- createnuclear-2.0.0-neoforge.jar, dummmmmmy-1.21-2.1.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/entity_type/freeze_immune_entity_types.json  <- tofucraft-1.21.1-12.20.9.0.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar
+data/minecraft/tags/entity_type/illager.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/entity_type/impact_projectiles.json  <- l2complements-3.1.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar
+data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json  <- tofucraft-1.21.1-12.20.9.0.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar
+data/minecraft/tags/entity_type/raiders.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/entity_type/undead.json  <- irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar
+data/minecraft/tags/fluid/water.json  <- createnuclear-2.0.0-neoforge.jar, Tsuki-1.8.2.jar
+data/minecraft/tags/item/arrows.json  <- supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/item/axes.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, l2complements-3.1.3.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/beds.json  <- handcrafted-neoforge-1.21.1-4.0.3.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, Tsuki-1.8.2.jar
+data/minecraft/tags/item/boats.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/bookshelf_books.json  <- irons_spellbooks-1.21.1-3.16.3.jar, Patchouli-1.21.1-93-NEOFORGE.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/item/buttons.json  <- [1.3support]trailandtales_delight-2.40.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar
+data/minecraft/tags/item/cat_food.json  <- FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/minecraft/tags/item/chest_armor.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, l2complements-3.1.3.jar, majobroom-kots-1.21.1-2.2.6.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/chest_boats.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/chicken_food.json  <- corn_delight-1.2.10-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/item/coals.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, Tsuki-1.8.2.jar
+data/minecraft/tags/item/completes_find_tree_tutorial.json  <- [1.3support]trailandtales_delight-2.40.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar
+data/minecraft/tags/item/cow_food.json  <- corn_delight-1.2.10-1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/item/dirt.json  <- crabbersdelight-1.21.1-1.3.1.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/doors.json  <- [1.3support]trailandtales_delight-2.40.jar, copycats-3.0.9+mc.1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, createdeco-2.1.3.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/item/dyeable.json  <- irons_spellbooks-1.21.1-3.16.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/item/enchantable/bow.json  <- create-1.21.1-6.0.10.jar, iss_magicfromtheeast-1.1.5.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/item/enchantable/crossbow.json  <- irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar
+data/minecraft/tags/item/enchantable/durability.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, crabbersdelight-1.21.1-1.3.1.jar, create-1.21.1-6.0.10.jar, FarmersDelight-1.21.1-1.3.4.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, l2complements-3.1.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, touhou_little_maid_spell-1.21.1-1.9.1-neoforge.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/enchantable/fire_aspect.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, FarmersDelight-1.21.1-1.3.4.jar
+data/minecraft/tags/item/enchantable/mining.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, FarmersDelight-1.21.1-1.3.4.jar
+data/minecraft/tags/item/enchantable/mining_loot.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, FarmersDelight-1.21.1-1.3.4.jar
+data/minecraft/tags/item/enchantable/sharp_weapon.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, FarmersDelight-1.21.1-1.3.4.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/enchantable/sword.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, FarmersDelight-1.21.1-1.3.4.jar, irons_spellbooks-1.21.1-3.16.3.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/enchantable/vanishing.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, corn_delight-1.2.10-1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/item/enchantable/weapon.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, FarmersDelight-1.21.1-1.3.4.jar, irons_spellbooks-1.21.1-3.16.3.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/fence_gates.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/fences.json  <- [1.3support]trailandtales_delight-2.40.jar, createdeco-2.1.3.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar
+data/minecraft/tags/item/fishes.json  <- create_bitterballen+1.21.1-1.0.4.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/item/flowers.json  <- supplementaries-1.21.1-4.0.2-neoforge.jar, touhou_little_maid_spell-1.21.1-1.9.1-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/foot_armor.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, l2complements-3.1.3.jar, majobroom-kots-1.21.1-2.2.6.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/goat_food.json  <- corn_delight-1.2.10-1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/item/hanging_signs.json  <- crabbersdelight-1.21.1-1.3.1.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/head_armor.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, l2complements-3.1.3.jar, majobroom-kots-1.21.1-2.2.6.jar, tofucraft-1.21.1-12.20.9.0.jar, touhou_little_maid_spell-1.21.1-1.9.1-neoforge.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/item/hoes.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, l2complements-3.1.3.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/horse_food.json  <- corn_delight-1.2.10-1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/item/horse_tempt_items.json  <- FarmersDelight-1.21.1-1.3.4.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/item/leaves.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/lectern_books.json  <- createrailwaysnavigator-neoforge-1.21.1-beta-0.10.0-C6.jar, irons_spellbooks-1.21.1-3.16.3.jar, Patchouli-1.21.1-93-NEOFORGE.jar
+data/minecraft/tags/item/leg_armor.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, l2complements-3.1.3.jar, majobroom-kots-1.21.1-2.2.6.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/logs.json  <- [1.3support]trailandtales_delight-2.40.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar
+data/minecraft/tags/item/logs_that_burn.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/meat.json  <- FarmersDelight-1.21.1-1.3.4.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/minecraft/tags/item/non_flammable_wood.json  <- another_furniture-neoforge-4.0.3.jar, DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/item/parrot_food.json  <- corn_delight-1.2.10-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/item/pickaxes.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, l2complements-3.1.3.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/pig_food.json  <- corn_delight-1.2.10-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar
+data/minecraft/tags/item/piglin_food.json  <- immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar
+data/minecraft/tags/item/piglin_loved.json  <- artifacts-neoforge-13.2.5.jar, create-1.21.1-6.0.10.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, someassemblyrequired-5.2.8.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar
+data/minecraft/tags/item/piglin_repellents.json  <- supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/item/planks.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, interiors-0.6.1 v3.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, ultramarine-1.21.1-0.7.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/saplings.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar
+data/minecraft/tags/item/sheep_food.json  <- corn_delight-1.2.10-1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/item/shovels.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, l2complements-3.1.3.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/signs.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, FarmersDelight-1.21.1-1.3.4.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/slabs.json  <- [1.3support]trailandtales_delight-2.40.jar, alloyed-3.0.12+1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, createnuclear-2.0.0-neoforge.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/item/small_flowers.json  <- FarmersDelight-1.21.1-1.3.4.jar, tofucraft-1.21.1-12.20.9.0.jar, touhou_little_maid_spell-1.21.1-1.9.1-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, vintagedelight-kots-0.3.3.jar
+data/minecraft/tags/item/spears.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/stairs.json  <- [1.3support]trailandtales_delight-2.40.jar, alloyed-3.0.12+1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, createdeco-2.1.3.jar, createnuclear-2.0.0-neoforge.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/item/swords.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, l2complements-3.1.3.jar, tofucraft-1.21.1-12.20.9.0.jar, touhou_little_maid_spell-1.21.1-1.9.1-neoforge.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/trapdoors.json  <- [1.3support]trailandtales_delight-2.40.jar, alloyed-3.0.12+1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, createdeco-2.1.3.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/item/trim_materials.json  <- crabbersdelight-1.21.1-1.3.1.jar, l2complements-3.1.3.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/trimmable_armor.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, l2complements-3.1.3.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/item/villager_plantable_seeds.json  <- corn_delight-1.2.10-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/minecraft/tags/item/walls.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, createdeco-2.1.3.jar, createnuclear-2.0.0-neoforge.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/wooden_buttons.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/wooden_doors.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/wooden_fences.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, ultramarine-1.21.1-0.7.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/wooden_pressure_plates.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/item/wooden_slabs.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, ultramarine-1.21.1-0.7.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/item/wooden_stairs.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, ultramarine-1.21.1-0.7.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/item/wooden_trapdoors.json  <- [1.3support]trailandtales_delight-2.40.jar, crabbersdelight-1.21.1-1.3.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, tofucraft-1.21.1-12.20.9.0.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar, youkaishomecoming-4.2.16.jar
+data/minecraft/tags/items/compasses.json  <- ExplorersCompass-1.21.1-3.4.0-neoforge.jar, NaturesCompass-1.21.1-3.4.0-neoforge.jar
+data/minecraft/tags/items/source_blocks.json  <- sourceblock-1.2.0-neoforge+mc1.21.1.jar, super_source_block-1.2.0.jar
+data/minecraft/tags/painting_variant/placeable.json  <- minecraft_style_paintings-1.0.0-neoforge-1.21.1.jar, riichi_mahjong-neoforge-0.4.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, touhou_little_maid_spell-1.21.1-1.9.1-neoforge.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/point_of_interest_type/acquirable_job_site.json  <- bakeries-1.21.1-NeoForge-1.0.6.jar, chefsdelight-1.0.6.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, ultramarine-1.21.1-0.7.jar
+data/minecraft/tags/worldgen/biome/is_forest.json  <- Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar, create_pillagers_arise NeoForge 1.21.1-132.36.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/worldgen/biome/is_overworld.json  <- Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar, create_pillagers_arise NeoForge 1.21.1-132.36.jar, Tsuki-1.8.2.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/worldgen/biome/stronghold_biased_to.json  <- Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/minecraft/tags/worldgen/structure/igloo.json  <- amendments-1.21-2.2.7-neoforge.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/minecraft/tags/worldgen/structure/swamp_hut.json  <- amendments-1.21-2.2.7-neoforge.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/neoforge/data_maps/block/oxidizables.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar
+data/neoforge/data_maps/block/waxables.json  <- alloyed-3.0.12+1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/neoforge/data_maps/entity_type/parrot_imitations.json  <- supplementaries-1.21.1-4.0.2-neoforge.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar
+data/neoforge/data_maps/item/compostables.json  <- [1.3support]trailandtales_delight-2.40.jar, corn_delight-1.2.10-1.21.1.jar, farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, someassemblyrequired-5.2.8.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tofucraft-1.21.1-12.20.9.0.jar, Tsuki-1.8.2.jar, vintagedelight-kots-0.3.3.jar
+data/neoforge/data_maps/item/furnace_fuels.json  <- another_furniture-neoforge-4.0.3.jar, corn_delight-1.2.10-1.21.1.jar, create-1.21.1-6.0.10.jar, DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar, FarmersDelight-1.21.1-1.3.4.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, ultramarine-1.21.1-0.7.jar
+data/neoforge/data_maps/villager_profession/raid_hero_gifts.json  <- kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, tofucraft-1.21.1-12.20.9.0.jar
+data/neoforge/loot_modifiers/global_loot_modifiers.json  <- artifacts-neoforge-13.2.5.jar, corn_delight-1.2.10-1.21.1.jar, crabbersdelight-1.21.1-1.3.1.jar, DelightoFlight-1.21.1-1.3.4.jar, ends_delight-2.6.1+neoforge.1.21.1.jar, farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, FarmersDelight-1.21.1-1.3.4.jar, fluidlogistics-1.3.2-mc1.21.1.jar, immortalers_delight-1.21.1-neoforge-1.0.10.jar, irons_spellbooks-1.21.1-3.16.3.jar, iss_magicfromtheeast-1.1.5.jar, kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar, kaleidoscope_end-1.1.0-neoforge+mc1.21.1.jar, kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, l2complements-3.1.3.jar, MyNethersDelight-1.21.1-1.10.4.1.jar, someassemblyrequired-5.2.8.jar, sophisticatedbackpacks-1.21.1-3.26.19.2243.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, tlm_shogi-1.0.0-neoforge+mc1.21.1.jar, tofucraft-1.21.1-12.20.9.0.jar, touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar, Tsuki-1.8.2.jar, ultramarine-1.21.1-0.7.jar, vintagedelight-kots-0.3.3.jar, youkaishomecoming-4.2.16.jar
+data/neoforge/tags/damage_type/is_magic.json  <- farmers-spell-n-spellbook-1.0.7.1-1.21.1.jar, irons_spellbooks-1.21.1-3.16.3.jar, l2complements-3.1.3.jar, l2complements-3.1.3.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/danmaku_api-3.0.5+7.jar, youkaishomecoming-4.2.16.jar!/META-INF/jarjar/l2damagetracker-3.0.8+3.jar
+data/origins/tags/item/meat.json  <- artifacts-neoforge-13.2.5.jar, FarmersDelight-1.21.1-1.3.4.jar
+data/quark/tags/block/non_double_door.json  <- copycats-3.0.9+mc.1.21.1-neoforge.jar, create-1.21.1-6.0.10.jar, railways-0.3.0-beta.2+neoforge-mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/quark/tags/block/pike_trophies.json  <- amendments-1.21-2.2.7-neoforge.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/sable/tags/block/fragile.json  <- CreateDragonsPlus-1.11.9.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/sable/tags/block/heavy.json  <- createdeco-2.1.3.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/sable/tags/block/light.json  <- createdeco-2.1.3.jar, CreateDragonsPlus-1.11.9.jar, FarmersDelight-1.21.1-1.3.4.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/sable/tags/block/super_light.json  <- createdeco-2.1.3.jar, FarmersDelight-1.21.1-1.3.4.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/sable/tags/entity_type/destroy_with_sub_level.json  <- interiors-0.6.1 v3.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar
+data/sable/tags/entity_type/retain_in_sub_level.json  <- another_furniture-neoforge-4.0.3.jar, immersive_furniture-neoforge-0.3.3+1.21.1.jar, immersive_paintings-neoforge-1.21.1-0.8.0.jar, interiors-0.6.1 v3.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, VanillaBackport-neoforge-1.21.1-1.2.2.jar
+data/sereneseasons/tags/block/autumn_crops.json  <- corn_delight-1.2.10-1.21.1.jar, DelightoFlight-1.21.1-1.3.4.jar, FarmersDelight-1.21.1-1.3.4.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar, vintagedelight-kots-0.3.3.jar
+data/sereneseasons/tags/block/spring_crops.json  <- DelightoFlight-1.21.1-1.3.4.jar, FarmersDelight-1.21.1-1.3.4.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, vintagedelight-kots-0.3.3.jar
+data/sereneseasons/tags/block/summer_crops.json  <- corn_delight-1.2.10-1.21.1.jar, DelightoFlight-1.21.1-1.3.4.jar, FarmersDelight-1.21.1-1.3.4.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar, pineapple_delight-1.2.0-1.21.1-neoforge.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, vintagedelight-kots-0.3.3.jar
+data/sereneseasons/tags/block/winter_crops.json  <- DelightoFlight-1.21.1-1.3.4.jar, FarmersDelight-1.21.1-1.3.4.jar, kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar, vintagedelight-kots-0.3.3.jar
+data/sereneseasons/tags/item/autumn_crops.json  <- corn_delight-1.2.10-1.21.1.jar, DelightoFlight-1.21.1-1.3.4.jar, FarmersDelight-1.21.1-1.3.4.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, vintagedelight-kots-0.3.3.jar
+data/sereneseasons/tags/item/spring_crops.json  <- DelightoFlight-1.21.1-1.3.4.jar, FarmersDelight-1.21.1-1.3.4.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, supplementaries-1.21.1-4.0.2-neoforge.jar, vintagedelight-kots-0.3.3.jar
+data/sereneseasons/tags/item/summer_crops.json  <- corn_delight-1.2.10-1.21.1.jar, DelightoFlight-1.21.1-1.3.4.jar, FarmersDelight-1.21.1-1.3.4.jar, kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar, pineapple_delight-1.2.0-1.21.1-neoforge.jar, vintagedelight-kots-0.3.3.jar
+data/sereneseasons/tags/item/winter_crops.json  <- DelightoFlight-1.21.1-1.3.4.jar, FarmersDelight-1.21.1-1.3.4.jar, vintagedelight-kots-0.3.3.jar
+data/supplementaries/tags/block/column_shape_10x10.json  <- amendments-1.21-2.2.7-neoforge.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/supplementaries/tags/block/column_shape_4x4.json  <- amendments-1.21-2.2.7-neoforge.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/supplementaries/tags/block/column_shape_6x6.json  <- amendments-1.21-2.2.7-neoforge.jar, supplementaries-1.21.1-4.0.2-neoforge.jar
+data/supplementaries/tags/block/column_shape_8x8.json  <- amendments-1.21-2.2.7-neoforge.jar, supplementaries-1.21.1-4.0.2-neoforge.jar

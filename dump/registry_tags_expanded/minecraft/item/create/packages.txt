@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: create:packages
-# Entries: 18
+# Entries: 22
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.8530797+08:00
+# Generated: 2026-11-05T11:35:51.4191366+08:00
 
 create:cardboard_package_10x12
 create:cardboard_package_10x8
@@ -19,7 +19,11 @@ create:rare_starlotte_package
 create:rare_thunder_package
 create:rare_up_package
 create:rare_vector_package
-create_dragons_plus:rare_blaze_pacakge
-create_dragons_plus:rare_marble_gate_pacakge
-fluidlogistics:rare_fluid_package
-fluidlogistics:rare_fluid_package_1
+create_dragons_plus:rare_blaze_package
+create_dragons_plus:rare_marble_gate_package
+fluidlogistics:fluid_package
+fluidlogistics:fluid_package_exposed
+fluidlogistics:fluid_package_oxidized
+fluidlogistics:fluid_package_weathered
+fluidlogistics:rare_fox_package
+fluidlogistics:rare_pig_package

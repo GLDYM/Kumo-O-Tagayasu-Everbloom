@@ -1,6 +1,5 @@
 {
-  "replace": false,
   "values": [
-    "quark:torch_arrow"
+    "tofucraft:zunda_arrow"
   ]
 }

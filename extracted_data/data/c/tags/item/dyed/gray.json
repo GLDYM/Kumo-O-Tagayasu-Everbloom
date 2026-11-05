@@ -1,0 +1,20 @@
+{
+  "values": [
+    "handcrafted:gray_cushion",
+    "handcrafted:gray_sheet",
+    "supplementaries:flag_gray",
+    "supplementaries:present_gray",
+    "supplementaries:trapped_present_gray",
+    "supplementaries:candle_holder_gray",
+    "supplementaries:awning_gray",
+    "supplementaries:bunting_gray",
+    "minecraft:gray_wool_stairs",
+    "minecraft:gray_wool_slab",
+    "minecraft:gray_concrete_stairs",
+    "minecraft:gray_concrete_slab",
+    "minecraft:gray_bundle",
+    "minecraft:gray_harness",
+    "minecraft:gray_cushion"
+  ],
+  "replace": false
+}

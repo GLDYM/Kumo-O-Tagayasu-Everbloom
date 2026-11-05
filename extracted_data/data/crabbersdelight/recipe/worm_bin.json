@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "item": "minecraft:composter"
+    },
+    "i": {
+      "item": "minecraft:copper_ingot"
+    },
+    "w": {
+      "item": "crabbersdelight:wormy_dirt"
+    }
+  },
+  "pattern": [
+    "iwi",
+    "ici"
+  ],
+  "result": {
+    "count": 1,
+    "id": "crabbersdelight:worm_bin"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "amountConsumedPerTick": 2,
+  "burnTime": 24,
+  "fluid": "tsuki:food_oil",
+  "superHeat": false
+}

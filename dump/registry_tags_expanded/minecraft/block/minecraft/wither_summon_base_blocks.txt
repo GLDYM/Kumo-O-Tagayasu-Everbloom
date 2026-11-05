@@ -1,9 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:wither_summon_base_blocks
-# Entries: 2
+# Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.04634+08:00
+# Generated: 2026-11-05T11:35:45.4528135+08:00
 
 minecraft:soul_sand
 minecraft:soul_soil
+mynethersdelight:resurgent_soil

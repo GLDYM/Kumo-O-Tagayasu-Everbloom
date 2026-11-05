@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:spawns_firefly_bushes_swamp
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:59.5339906+08:00
+
+minecraft:mangrove_swamp
+minecraft:swamp

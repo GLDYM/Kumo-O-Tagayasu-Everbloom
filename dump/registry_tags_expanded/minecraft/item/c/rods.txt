@@ -1,11 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:rods
-# Entries: 6
+# Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.4334986+08:00
+# Generated: 2026-11-05T11:35:50.534951+08:00
 
 createnuclear:graphite_rod
+createnuclear:thorium_rod
 createnuclear:uranium_rod
 minecraft:bamboo
 minecraft:blaze_rod

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#",
+        "/",
+        "&"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:wooden_slabs"
+        },
+        "/": {
+            "item": "minecraft:string"
+        },
+        "&": {
+            "item": "minecraft:copper_ingot"
+        }
+    },
+    "result": {
+        "count": 1,
+        "id": "chimes:copper_chimes"
+	}
+}

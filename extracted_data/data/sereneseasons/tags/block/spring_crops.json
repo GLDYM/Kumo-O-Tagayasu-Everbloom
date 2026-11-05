@@ -1,0 +1,16 @@
+{
+  "values": [
+    "delighto_flight:lotus_rhizome",
+    "delighto_flight:lotus_bud",
+    "delighto_flight:lotus_flower",
+    "farmersdelight:onions",
+    "kaleidoscope_cookery:lettuce_crop",
+    "kaleidoscope_cookery:tea_tree",
+    "kaleidoscope_tavern:grapevine_trellis",
+    "supplementaries:flax",
+    "vintagedelight:ghost_pepper_crop",
+    "vintagedelight:cucumber_crop",
+    "vintagedelight:gearo_berry_bush"
+  ],
+  "replace": false
+}

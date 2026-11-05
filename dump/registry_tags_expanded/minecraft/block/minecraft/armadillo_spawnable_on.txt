@@ -1,12 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:armadillo_spawnable_on
-# Entries: 12
+# Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.6307801+08:00
+# Generated: 2026-11-05T11:35:44.5732491+08:00
 
-atmospheric:arid_sand
-atmospheric:crustose
 minecraft:brown_terracotta
 minecraft:coarse_dirt
 minecraft:grass_block

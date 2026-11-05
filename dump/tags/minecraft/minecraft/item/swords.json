@@ -1,6 +1,6 @@
 {
+  "replace": false,
   "values": [
-    "#kaleidoscope_cookery:kitchen_knife",
-    "kaleidoscope_cookery:sickle"
+    "alloyed:steel_sword"
   ]
 }

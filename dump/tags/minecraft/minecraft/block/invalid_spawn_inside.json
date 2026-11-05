@@ -1,6 +1,5 @@
 {
   "values": [
-    "minecraft:end_portal",
-    "minecraft:end_gateway"
+    "createendergateway:gateway_portal"
   ]
 }

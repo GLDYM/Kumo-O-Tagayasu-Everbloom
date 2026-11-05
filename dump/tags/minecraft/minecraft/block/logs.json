@@ -1,16 +1,17 @@
 {
   "values": [
-    "immortalers_delight:himekaido_log",
-    "immortalers_delight:stripped_himekaido_log",
-    "immortalers_delight:himekaido_wood",
-    "immortalers_delight:stripped_himekaido_wood",
-    "immortalers_delight:ancient_wood_log",
-    "immortalers_delight:ancient_wood",
-    "immortalers_delight:stripped_ancient_wood",
-    "immortalers_delight:stripped_ancient_wood_log",
-    "immortalers_delight:travastruggler_log",
-    "immortalers_delight:stripped_travastruggler_log",
-    "immortalers_delight:a_bush_log",
-    "immortalers_delight:stripped_a_bush_log"
+    "tsuki:stripped_sakura_wood",
+    "tsuki:stripped_maple_wood",
+    "tsuki:sakura_wood",
+    "tsuki:maple_wood",
+    "tsuki:stripped_sakura_log",
+    "tsuki:stripped_maple_log",
+    "tsuki:sakura_log",
+    "tsuki:maple_log",
+    "tsuki:maple_sap_log",
+    "tsuki:ume_log",
+    "tsuki:stripped_ume_log",
+    "tsuki:ume_wood",
+    "tsuki:stripped_ume_wood"
   ]
 }

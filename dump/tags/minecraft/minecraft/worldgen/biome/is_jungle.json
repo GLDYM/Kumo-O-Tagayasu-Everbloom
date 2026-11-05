@@ -1,5 +1,4 @@
 {
-  "values": [
-    "#atmospheric:is_rainforest"
-  ]
+  "replace": false,
+  "values": []
 }

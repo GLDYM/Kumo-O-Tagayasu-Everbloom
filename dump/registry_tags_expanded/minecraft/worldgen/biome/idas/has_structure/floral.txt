@@ -1,9 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:worldgen/biome
-# Tag: idas:has_structure/floral
-# Entries: 2
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.8656224+08:00
-
-minecraft:cherry_grove
-minecraft:flower_forest

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "T",
+    "B"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:enchanting_table"
+    },
+    "C": {
+      "tag": "c:chests/wooden"
+    },
+    "B": {
+      "tag": "c:bookshelves"
+    }
+  },
+  "result": {
+    "id": "enchlibathome:library",
+    "count": 1
+  }
+}

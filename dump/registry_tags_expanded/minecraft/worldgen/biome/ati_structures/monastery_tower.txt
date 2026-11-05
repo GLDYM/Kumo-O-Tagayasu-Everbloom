@@ -1,0 +1,19 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: ati_structures:monastery_tower
+# Entries: 12
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.382764+08:00
+
+minecraft:badlands
+minecraft:dark_forest
+minecraft:forest
+minecraft:jungle
+minecraft:old_growth_birch_forest
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:plains
+minecraft:snowy_taiga
+minecraft:taiga
+minecraft:windswept_forest
+minecraft:windswept_hills

@@ -3,14 +3,8 @@
 # Tag: minecraft:placeable
 # Entries: 77
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.4612997+08:00
+# Generated: 2026-11-05T11:35:58.2190199+08:00
 
-atmospheric:canyon
-atmospheric:fateful_outing
-atmospheric:lost
-atmospheric:monsoon
-atmospheric:not_so_still_life
-atmospheric:wayward
 minecraft:alban
 minecraft:aztec
 minecraft:aztec2
@@ -25,6 +19,7 @@ minecraft:changing
 minecraft:cotan
 minecraft:courbet
 minecraft:creebet
+minecraft:dennis
 minecraft:donkey_kong
 minecraft:endboss
 minecraft:fern
@@ -74,11 +69,16 @@ minecraft_style_paintings:olas
 minecraft_style_paintings:persistenciadelamemoria
 minecraft_style_paintings:picasso_self_portrait
 minecraft_style_paintings:sunflowers
+minecraft_style_paintings:the_art_of_living
 minecraft_style_paintings:the_scream
 minecraft_style_paintings:van_goh
-neapolitan:cone
-neapolitan:dawn
-neapolitan:neapoleon
-neapolitan:scream
+riichi_mahjong:aka_manbou_1
+riichi_mahjong:aka_manbou_2
+riichi_mahjong:aka_manbou_3
+riichi_mahjong:zundamon_happy
 supplementaries:bombs
 touhou_little_maid:wine_fox
+touhou_little_maid_spell:astronomical_object
+touhou_little_maid_spell:falling_star
+touhou_little_maid_spell:magic_wine_fox
+touhou_little_maid_spell:starry_flower_sea

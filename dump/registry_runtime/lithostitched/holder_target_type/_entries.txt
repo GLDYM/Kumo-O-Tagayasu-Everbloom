@@ -1,0 +1,11 @@
+# Registry dump
+# Registry: lithostitched:holder_target_type
+# Minecraft: 1.21.1
+# Entries: 5
+# Generated: 2026-11-05T11:35:22.1313604+08:00
+
+lithostitched:any raw_id=2 class=dev.worldgen.lithostitched.impl.worldgen.modifier.target.AnyTarget$1
+lithostitched:biome/climate raw_id=0 class=dev.worldgen.lithostitched.impl.worldgen.modifier.target.biome.ClimateTarget$1
+lithostitched:biome/has_feature raw_id=4 class=dev.worldgen.lithostitched.impl.worldgen.modifier.target.biome.HasFeatureTarget$1
+lithostitched:holder_set raw_id=1 class=dev.worldgen.lithostitched.impl.worldgen.modifier.target.HolderSetTarget$1
+lithostitched:regex raw_id=3 class=dev.worldgen.lithostitched.impl.worldgen.modifier.target.RegexTarget$1

@@ -1,8 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: forge:cooked_eggs
-# Entries: 1
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.6848135+08:00
+# Generated: 2026-11-05T11:35:52.8491094+08:00
 
 farmersdelight:fried_egg
+immortalers_delight:fried_sniffer_egg

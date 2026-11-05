@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: railways:track_casing_whitelist
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:45.7850121+08:00
+
+minecraft:moss_carpet
+minecraft:snow

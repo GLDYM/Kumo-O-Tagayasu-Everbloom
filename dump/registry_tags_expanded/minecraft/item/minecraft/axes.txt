@@ -1,21 +1,17 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:axes
-# Entries: 23
+# Entries: 19
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.1185835+08:00
+# Generated: 2026-11-05T11:35:53.8319095+08:00
 
-create_sa:blazing_axe
-create_sa:brass_axe
-create_sa:copper_axe
-create_sa:experience_axe
-create_sa:rose_quartz_axe
-create_sa:zinc_axe
+alloyed:steel_axe
 l2complements:eternium_axe
 l2complements:poseidite_axe
 l2complements:sculkium_axe
 l2complements:shulkerate_axe
 l2complements:totemic_gold_axe
+minecraft:copper_axe
 minecraft:diamond_axe
 minecraft:golden_axe
 minecraft:iron_axe

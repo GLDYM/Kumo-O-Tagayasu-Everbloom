@@ -3,7 +3,7 @@
 # Tag: handcrafted:wooden_benches
 # Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.8194453+08:00
+# Generated: 2026-11-05T11:35:53.1747498+08:00
 
 handcrafted:acacia_bench
 handcrafted:bamboo_bench

@@ -1,10 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:point_of_interest_type
 # Tag: minecraft:bee_home
-# Entries: 3
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.4678558+08:00
+# Generated: 2026-11-05T11:35:58.2398539+08:00
 
-blueprint:beehive
 minecraft:bee_nest
 minecraft:beehive

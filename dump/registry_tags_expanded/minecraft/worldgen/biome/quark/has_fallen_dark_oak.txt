@@ -1,7 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:worldgen/biome
-# Tag: quark:has_fallen_dark_oak
-# Entries: 0
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.2871517+08:00
-

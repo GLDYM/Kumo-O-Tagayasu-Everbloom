@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: create:girdable_tracks
-# Entries: 61
+# Entries: 52
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.9979577+08:00
+# Generated: 2026-11-05T11:35:43.3258618+08:00
 
 create:track
 railways:generic_crossing
@@ -45,15 +45,6 @@ railways:track_oak_wide
 railways:track_phantom
 railways:track_phantom_narrow
 railways:track_phantom_wide
-railways:track_quark_ancient
-railways:track_quark_ancient_narrow
-railways:track_quark_ancient_wide
-railways:track_quark_azalea
-railways:track_quark_azalea_narrow
-railways:track_quark_azalea_wide
-railways:track_quark_blossom
-railways:track_quark_blossom_narrow
-railways:track_quark_blossom_wide
 railways:track_spruce
 railways:track_spruce_narrow
 railways:track_spruce_wide

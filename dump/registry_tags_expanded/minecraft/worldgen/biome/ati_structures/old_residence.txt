@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: ati_structures:old_residence
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.4019259+08:00
+
+minecraft:bamboo_jungle
+minecraft:dark_forest
+minecraft:forest
+minecraft:jungle
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:sparse_jungle

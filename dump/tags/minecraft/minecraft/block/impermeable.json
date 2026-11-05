@@ -1,5 +1,10 @@
 {
   "values": [
-    "dndecor:ornate_iron_glass"
+    "createdeco:andesite_window",
+    "createdeco:copper_window",
+    "createdeco:iron_window",
+    "createdeco:industrial_iron_window",
+    "createdeco:brass_window",
+    "createdeco:zinc_window"
   ]
 }

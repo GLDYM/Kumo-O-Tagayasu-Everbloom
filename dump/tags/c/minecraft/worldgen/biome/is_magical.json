@@ -1,6 +1,8 @@
 {
-  "replace": false,
   "values": [
-    "quark:glimmering_weald"
+    {
+      "id": "#forge:is_magical",
+      "required": false
+    }
   ]
 }

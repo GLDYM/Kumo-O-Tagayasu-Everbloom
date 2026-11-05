@@ -1,10 +1,6 @@
 {
+  "replace": false,
   "values": [
-    "#atmospheric:monkey_brush",
-    "atmospheric:yucca_flower",
-    "atmospheric:gilia",
-    "atmospheric:water_hyacinth",
-    "atmospheric:firethorn",
-    "atmospheric:forsythia"
+    "corn_delight:wild_corn"
   ]
 }

@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:lanterns
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:44.9829535+08:00
+
+minecraft:copper_lantern
+minecraft:exposed_copper_lantern
+minecraft:lantern
+minecraft:oxidized_copper_lantern
+minecraft:soul_lantern
+minecraft:waxed_copper_lantern
+minecraft:waxed_exposed_copper_lantern
+minecraft:waxed_oxidized_copper_lantern
+minecraft:waxed_weathered_copper_lantern
+minecraft:weathered_copper_lantern

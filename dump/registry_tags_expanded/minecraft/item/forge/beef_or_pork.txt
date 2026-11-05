@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: forge:beef_or_pork
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:52.8237204+08:00
+
+farmersdelight:bacon
+farmersdelight:minced_beef
+minecraft:beef
+minecraft:porkchop

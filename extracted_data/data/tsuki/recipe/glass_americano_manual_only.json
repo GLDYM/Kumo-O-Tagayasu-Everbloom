@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "item": "tsuki:glass_liqueur"
+    },
+    {
+      "item": "tsuki:bitters"
+    },
+    {
+      "item": "tsuki:soda_water"
+    },
+    {
+      "item": "tsuki:ice_cube"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "tsuki:glass_americano"
+  }
+}

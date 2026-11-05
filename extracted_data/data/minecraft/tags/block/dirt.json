@@ -1,0 +1,12 @@
+{
+  "values": [
+    "crabbersdelight:wormy_dirt",
+    "delighto_flight:weather_soil",
+    "farmersdelight:rich_soil",
+    "mynethersdelight:resurgent_soil",
+    "mynethersdelight:resurgent_soil_farmland",
+    "minecraft:pale_moss_block",
+    "vintagedelight:lush_grass_block"
+  ],
+  "replace": false
+}

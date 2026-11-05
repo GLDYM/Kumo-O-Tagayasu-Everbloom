@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "soulsweapons"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "emiffect"
+      }
+    }
+  ],
+  "type": "jeed:effect_provider",
+  "effect": "soulsweapons:disable_heal",
+  "providers": [
+    {
+      "item": "soulsweapons:skofnung"
+    },
+    {
+      "item": "soulsweapons:moonknight_spawn_egg"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:light_gray_carpet"
+    }
+  },
+  "result": {
+    "id": "colorcush:light_gray_cushion",
+    "count": 1
+  }
+}

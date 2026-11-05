@@ -1,0 +1,7 @@
+{
+  "values": [
+    "create:cuckoo_surprise",
+    "supplementaries:bomb_explosion",
+    "supplementaries:player_bomb_explosion"
+  ]
+}

@@ -1,15 +1,22 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: supplementaries:flower_box_tall_plantable
-# Entries: 8
+# Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.1624198+08:00
+# Generated: 2026-11-05T11:35:57.5155882+08:00
 
-atmospheric:tall_yucca_flower
+create_bic_bit:sunflower_seeds
 farmersdelight:wild_rice
+minecraft:glow_berries
+minecraft:large_fern
 minecraft:lilac
 minecraft:peony
 minecraft:pitcher_plant
 minecraft:rose_bush
+minecraft:sugar_cane
 minecraft:sunflower
+minecraft:sweet_berries
 minecraft:tall_grass
+minecraft:twisting_vines
+minecraft:vine
+minecraft:weeping_vines

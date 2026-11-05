@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    "alloyed:steel_sword",
+    "irons_spellbooks:magehunter",
+    "irons_spellbooks:keeper_flamberge",
+    "irons_spellbooks:spellbreaker",
+    "irons_spellbooks:amethyst_rapier",
+    "irons_spellbooks:claymore",
+    "irons_spellbooks:misery",
+    "irons_spellbooks:legionnaire_flamberge",
+    "irons_spellbooks:decrepit_scythe",
+    "irons_spellbooks:hellrazor",
+    "irons_spellbooks:boreal_blade",
+    "irons_spellbooks:twilight_gale",
+    "iss_magicfromtheeast:taiji_sword",
+    "iss_magicfromtheeast:jade_guandao",
+    "iss_magicfromtheeast:muramasa",
+    "iss_magicfromtheeast:soul_katana",
+    "iss_magicfromtheeast:soul_breaker",
+    "iss_magicfromtheeast:spirit_crusher",
+    "#kaleidoscope_cookery:kitchen_knife",
+    "kaleidoscope_cookery:sickle",
+    "l2complements:totemic_gold_sword",
+    "l2complements:poseidite_sword",
+    "l2complements:shulkerate_sword",
+    "l2complements:sculkium_sword",
+    "l2complements:eternium_sword",
+    "tofucraft:tofu_kinu_sword",
+    "tofucraft:tofu_momen_sword",
+    "tofucraft:tofu_solid_sword",
+    "tofucraft:tofu_metal_sword",
+    "tofucraft:tofu_diamond_sword",
+    {
+      "id": "touhou_little_maid_spell:star_shadow_longsword",
+      "required": false
+    },
+    "#tsuki:tools/katanas",
+    "minecraft:copper_sword"
+  ]
+}

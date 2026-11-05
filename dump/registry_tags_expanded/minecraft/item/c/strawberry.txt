@@ -1,8 +1,7 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:strawberry
-# Entries: 1
+# Entries: 0
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.6741514+08:00
+# Generated: 2026-11-05T11:35:50.9319199+08:00
 
-neapolitan:strawberries

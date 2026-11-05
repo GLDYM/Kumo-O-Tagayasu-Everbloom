@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: immortalers_delight:wheat_ingredients
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.2459431+08:00
+
+minecraft:wheat
+minecraft:wheat_seeds

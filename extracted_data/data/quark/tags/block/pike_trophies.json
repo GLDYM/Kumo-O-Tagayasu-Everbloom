@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "amendments:skull_candle_soul",
+      "required": false
+    },
+    "amendments:skull_candle",
+    "amendments:skull_pile",
+    "supplementaries:enderman_head"
+  ]
+}

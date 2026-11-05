@@ -1,9 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: c:ores/iron
-# Entries: 2
+# Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.7596211+08:00
+# Generated: 2026-11-05T11:35:42.8303908+08:00
 
 minecraft:deepslate_iron_ore
 minecraft:iron_ore
+tsuki:iron_sand

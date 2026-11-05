@@ -3,6 +3,6 @@
 # Tag: kaleidoscope_cookery:bucket_oil
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.9400745+08:00
+# Generated: 2026-11-05T11:35:53.4495113+08:00
 
 tsuki:food_oil_bucket

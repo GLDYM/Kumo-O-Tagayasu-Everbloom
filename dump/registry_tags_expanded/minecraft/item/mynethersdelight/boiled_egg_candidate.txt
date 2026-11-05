@@ -3,6 +3,6 @@
 # Tag: mynethersdelight:boiled_egg_candidate
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.4237208+08:00
+# Generated: 2026-11-05T11:35:54.6876648+08:00
 
 mynethersdelight:strider_egg

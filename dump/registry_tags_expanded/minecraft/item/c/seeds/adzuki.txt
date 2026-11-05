@@ -1,9 +1,8 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:seeds/adzuki
-# Entries: 2
+# Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.467525+08:00
+# Generated: 2026-11-05T11:35:50.6164597+08:00
 
-neapolitan:adzuki_beans
 youkaishomecoming:redbean

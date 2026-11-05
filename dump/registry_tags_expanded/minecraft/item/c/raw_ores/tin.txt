@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:raw_ores/tin
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:50.4837749+08:00
+
+create:crushed_raw_tin

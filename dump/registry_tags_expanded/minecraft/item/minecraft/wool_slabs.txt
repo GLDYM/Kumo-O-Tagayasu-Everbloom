@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:wool_slabs
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:54.659072+08:00
+
+minecraft:black_wool_slab
+minecraft:blue_wool_slab
+minecraft:brown_wool_slab
+minecraft:cyan_wool_slab
+minecraft:gray_wool_slab
+minecraft:green_wool_slab
+minecraft:light_blue_wool_slab
+minecraft:light_gray_wool_slab
+minecraft:lime_wool_slab
+minecraft:magenta_wool_slab
+minecraft:orange_wool_slab
+minecraft:pink_wool_slab
+minecraft:purple_wool_slab
+minecraft:red_wool_slab
+minecraft:white_wool_slab
+minecraft:yellow_wool_slab

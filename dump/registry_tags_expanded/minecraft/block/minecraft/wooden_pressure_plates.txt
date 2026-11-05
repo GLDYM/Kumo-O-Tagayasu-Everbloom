@@ -1,17 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:wooden_pressure_plates
-# Entries: 29
+# Entries: 26
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.0572956+08:00
+# Generated: 2026-11-05T11:35:45.478941+08:00
 
-atmospheric:aspen_pressure_plate
-atmospheric:grimwood_pressure_plate
-atmospheric:kousa_pressure_plate
-atmospheric:laurel_pressure_plate
-atmospheric:morado_pressure_plate
-atmospheric:rosewood_pressure_plate
-atmospheric:yucca_pressure_plate
 copycats:copycat_wooden_pressure_plate
 crabbersdelight:palm_pressure_plate
 immortalers_delight:a_bush_pressure_plate
@@ -28,9 +21,13 @@ minecraft:dark_oak_pressure_plate
 minecraft:jungle_pressure_plate
 minecraft:mangrove_pressure_plate
 minecraft:oak_pressure_plate
+minecraft:pale_oak_pressure_plate
+minecraft:poplar_pressure_plate
 minecraft:spruce_pressure_plate
 minecraft:warped_pressure_plate
 mynethersdelight:powdery_pressure_plate
-quark:ancient_pressure_plate
-quark:azalea_pressure_plate
-quark:blossom_pressure_plate
+trailandtales_delight:crystal_wood_pressure_plate
+tsuki:pressure_plate_plank_bamboo
+tsuki:pressure_plate_plank_maple
+tsuki:pressure_plate_plank_sakura
+tsuki:pressure_plate_plank_ume

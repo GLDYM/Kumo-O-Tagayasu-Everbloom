@@ -1,17 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:planks
-# Entries: 52
+# Entries: 31
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.2606695+08:00
+# Generated: 2026-11-05T11:35:54.3841047+08:00
 
-atmospheric:aspen_planks
-atmospheric:grimwood_planks
-atmospheric:kousa_planks
-atmospheric:laurel_planks
-atmospheric:morado_planks
-atmospheric:rosewood_planks
-atmospheric:yucca_planks
 crabbersdelight:palm_planks
 immortalers_delight:ancient_wood_planks
 immortalers_delight:himekaido_planks
@@ -28,29 +21,15 @@ minecraft:dark_oak_planks
 minecraft:jungle_planks
 minecraft:mangrove_planks
 minecraft:oak_planks
+minecraft:pale_oak_planks
+minecraft:poplar_planks
 minecraft:spruce_planks
 minecraft:warped_planks
 mynethersdelight:powdery_planks
-quark:ancient_planks
-quark:azalea_planks
-quark:blossom_planks
-quark:vertical_acacia_planks
-quark:vertical_ancient_planks
-quark:vertical_azalea_planks
-quark:vertical_bamboo_planks
-quark:vertical_birch_planks
-quark:vertical_blossom_planks
-quark:vertical_cherry_planks
-quark:vertical_crimson_planks
-quark:vertical_dark_oak_planks
-quark:vertical_jungle_planks
-quark:vertical_mangrove_planks
-quark:vertical_oak_planks
-quark:vertical_spruce_planks
-quark:vertical_warped_planks
 tofucraft:leek_green_planks
 tofucraft:leek_planks
 tofucraft:tofustem_planks
+trailandtales_delight:crystal_wood_planks
 tsuki:plank_bamboo
 tsuki:plank_maple
 tsuki:plank_sakura

@@ -1,8 +1,12 @@
 # Registry dump
 # Registry: lithostitched:worldgen_modifier
 # Minecraft: 1.21.1
-# Entries: 2
-# Generated: 2026-06-18T20:43:28.2599086+08:00
+# Entries: 6
+# Generated: 2026-11-05T11:35:22.1720286+08:00
 
 lithostitched:compile_raw_templates raw_id=0 class=dev.worldgen.lithostitched.worldgen.modifier.internal.CompileRawTemplatesModifier
-lithostitched:set_trial_chambers_pool_aliases raw_id=1 class=dev.worldgen.lithostitched.worldgen.modifier.SetPoolAliasesModifier
+lithostitched:rereference_noise_settings raw_id=1 class=dev.worldgen.lithostitched.worldgen.modifier.internal.RereferenceNoiseSettingsModifier
+lithostitched:set_trial_chambers_pool_aliases raw_id=3 class=dev.worldgen.lithostitched.worldgen.modifier.SetPoolAliasesModifier
+tectonic:set_height_limits raw_id=2 class=dev.worldgen.tectonic.lithostitched.SetHeightLimitsModifier
+tectonic:underground_river/lanterns raw_id=4 class=dev.worldgen.lithostitched.impl.worldgen.modifier.AddFeaturesModifier
+tectonic:underground_river/lichen raw_id=5 class=dev.worldgen.lithostitched.impl.worldgen.modifier.AddFeaturesModifier

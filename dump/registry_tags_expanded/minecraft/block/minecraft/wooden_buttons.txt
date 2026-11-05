@@ -1,17 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:wooden_buttons
-# Entries: 29
+# Entries: 26
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.0533462+08:00
+# Generated: 2026-11-05T11:35:45.4613351+08:00
 
-atmospheric:aspen_button
-atmospheric:grimwood_button
-atmospheric:kousa_button
-atmospheric:laurel_button
-atmospheric:morado_button
-atmospheric:rosewood_button
-atmospheric:yucca_button
 copycats:copycat_wooden_button
 crabbersdelight:palm_button
 immortalers_delight:a_bush_button
@@ -28,9 +21,13 @@ minecraft:dark_oak_button
 minecraft:jungle_button
 minecraft:mangrove_button
 minecraft:oak_button
+minecraft:pale_oak_button
+minecraft:poplar_button
 minecraft:spruce_button
 minecraft:warped_button
 mynethersdelight:powdery_button
-quark:ancient_button
-quark:azalea_button
-quark:blossom_button
+trailandtales_delight:crystal_wood_button
+tsuki:button_plank_bamboo
+tsuki:button_plank_maple
+tsuki:button_plank_sakura
+tsuki:button_plank_ume

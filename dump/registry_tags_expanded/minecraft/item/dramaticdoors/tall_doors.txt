@@ -1,13 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: dramaticdoors:tall_doors
-# Entries: 46
+# Entries: 39
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.5915632+08:00
+# Generated: 2026-11-05T11:35:52.7205952+08:00
 
 dramaticdoors:tall_acacia_door
 dramaticdoors:tall_andesite_door
-dramaticdoors:tall_aspen_door
 dramaticdoors:tall_bamboo_door
 dramaticdoors:tall_birch_door
 dramaticdoors:tall_brass_door
@@ -23,31 +22,25 @@ dramaticdoors:tall_crimson_door
 dramaticdoors:tall_dark_oak_door
 dramaticdoors:tall_exposed_copper_door
 dramaticdoors:tall_gold_door
-dramaticdoors:tall_grimwood_door
 dramaticdoors:tall_iron_door
 dramaticdoors:tall_jungle_door
-dramaticdoors:tall_kousa_door
-dramaticdoors:tall_laurel_door
 dramaticdoors:tall_locked_andesite_door
 dramaticdoors:tall_locked_brass_door
 dramaticdoors:tall_locked_industrial_iron_door
+dramaticdoors:tall_locked_steel_door
 dramaticdoors:tall_locked_zinc_door
 dramaticdoors:tall_mangrove_door
-dramaticdoors:tall_morado_door
 dramaticdoors:tall_netherite_door
 dramaticdoors:tall_oak_door
 dramaticdoors:tall_oxidized_copper_door
+dramaticdoors:tall_pale_oak_door
 dramaticdoors:tall_powdery_door
-dramaticdoors:tall_quark_ancient_door
-dramaticdoors:tall_quark_azalea_door
-dramaticdoors:tall_quark_blossom_door
-dramaticdoors:tall_rosewood_door
 dramaticdoors:tall_spruce_door
+dramaticdoors:tall_steel_door
 dramaticdoors:tall_warped_door
 dramaticdoors:tall_waxed_copper_door
 dramaticdoors:tall_waxed_exposed_copper_door
 dramaticdoors:tall_waxed_oxidized_copper_door
 dramaticdoors:tall_waxed_weathered_copper_door
 dramaticdoors:tall_weathered_copper_door
-dramaticdoors:tall_yucca_door
 dramaticdoors:tall_zinc_door

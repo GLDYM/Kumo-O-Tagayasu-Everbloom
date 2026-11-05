@@ -1,11 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:bee_growables
-# Entries: 56
+# Entries: 57
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.6609385+08:00
+# Generated: 2026-11-05T11:35:44.6139227+08:00
 
-atmospheric:passion_vine
 corn_delight:corn_crop
 farmersdelight:budding_tomatoes
 farmersdelight:cabbages
@@ -22,8 +21,8 @@ immortalers_delight:oxygrape
 immortalers_delight:warped_laurel_crop
 kaleidoscope_cookery:chili_crop
 kaleidoscope_cookery:lettuce_crop
+kaleidoscope_cookery:tea_tree
 kaleidoscope_cookery:tomato_crop
-kaleidoscope_dim_wine:hop_crop
 minecraft:beetroots
 minecraft:carrots
 minecraft:cave_vines
@@ -36,6 +35,8 @@ minecraft:sweet_berry_bush
 minecraft:torchflower_crop
 minecraft:wheat
 supplementaries:flax
+supplementaries:rope_tomatoes
+supplementaries:stick_tomatoes
 tofucraft:leek_crop
 tofucraft:rice
 tofucraft:soybean

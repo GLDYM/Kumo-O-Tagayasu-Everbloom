@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/vermilion/base
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:57.0589882+08:00
+
+railways:vermilion_flat_riveted_locometal
+railways:vermilion_flat_slashed_locometal
+railways:vermilion_locometal_pillar
+railways:vermilion_locometal_smokebox
+railways:vermilion_locometal_vent
+railways:vermilion_plated_locometal
+railways:vermilion_riveted_locometal
+railways:vermilion_slashed_locometal

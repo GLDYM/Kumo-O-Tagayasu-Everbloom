@@ -1,8 +1,8 @@
 # Expanded runtime tag dump summary
 # Mod ID: registry_dumper_3000
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.5994905+08:00
+# Generated: 2026-11-05T11:36:00.225425+08:00
 
-# Registries visited: 187
-# Registries with tags: 34
-# Tag files written: 4382
+# Registries visited: 184
+# Registries with tags: 30
+# Tag files written: 4366

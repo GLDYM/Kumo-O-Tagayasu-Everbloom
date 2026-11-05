@@ -1,8 +1,7 @@
 {
-  "replace": false,
   "values": [
-    "immortalers_delight:alfalfa",
-    "farmersdelight:cabbage",
-    "farmersdelight:tomato"
+    "corn_delight:corn",
+    "corn_delight:corncob",
+    "corn_delight:corn_seeds"
   ]
 }

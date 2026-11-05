@@ -1,0 +1,22 @@
+{
+  "type": "tsuki:shaker",
+  "experience": 0,
+  "ingredients": [
+    {
+      "item": "tsuki:glass_tequila"
+    },
+    {
+      "item": "tsuki:orange_juice"
+    },
+    {
+      "item": "tsuki:lime_juice"
+    },
+    {
+      "item": "tsuki:ice_cube"
+    }
+  ],
+  "result": {
+    "id": "tsuki:glass_matador"
+  },
+  "shake_count": 12
+}

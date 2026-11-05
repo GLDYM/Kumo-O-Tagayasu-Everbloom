@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "trailandtales_delight:lantern_fruit_cheesecake"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 4,
+        "id": "trailandtales_delight:lantern_fruit_cheesecake_slice"
+      }
+    }
+  ],
+  "tool": [
+    {
+      "type": "farmersdelight:item_ability",
+      "action": "knife_dig"
+    },
+    {
+      "tag": "c:tools/knife"
+    }
+  ]
+}

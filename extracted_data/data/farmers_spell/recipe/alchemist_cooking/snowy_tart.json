@@ -1,0 +1,26 @@
+{
+    "type": "farmers_spell:alchemist_cooking",
+    "ingredients": [
+        {
+            "item": "farmers_spell:icy_egg"
+        },
+        {
+            "item": "farmers_spell:icy_egg"
+        },
+        {
+            "item": "farmersdelight:pie_crust"
+        },
+        {
+            "item": "farmers_spell:amethyst_sugar"
+        },
+        {
+            "tag": "c:drinks/milk"
+        }
+    ],
+    "result": {
+        "count": 4,
+        "id": "farmers_spell:snowy_tart"
+    },
+    "experience": 1.0,
+    "cookingtime": 200
+}

@@ -1,0 +1,50 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: supplementaries:column_shape_4x4
+# Entries: 43
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:45.9154567+08:00
+
+alloyed:steel_mesh_fence
+copycats:copycat_fence
+crabbersdelight:palm_fence
+create_connected:copycat_fence
+create_connected:wrapped_copycat_fence
+createdeco:andesite_mesh_fence
+createdeco:brass_mesh_fence
+createdeco:copper_mesh_fence
+createdeco:industrial_iron_mesh_fence
+createdeco:iron_mesh_fence
+createdeco:zinc_mesh_fence
+farmersdelight:rope_fence
+immortalers_delight:a_bush_fence
+immortalers_delight:ancient_wood_fence
+immortalers_delight:himekaido_fence
+immortalers_delight:leisamboo_fence
+immortalers_delight:pearlip_shell_fence
+minecraft:acacia_fence
+minecraft:bamboo_fence
+minecraft:birch_fence
+minecraft:cherry_fence
+minecraft:crimson_fence
+minecraft:dark_oak_fence
+minecraft:jungle_fence
+minecraft:mangrove_fence
+minecraft:nether_brick_fence
+minecraft:oak_fence
+minecraft:pale_oak_fence
+minecraft:poplar_fence
+minecraft:spruce_fence
+minecraft:warped_fence
+mynethersdelight:powdery_fence
+tofucraft:leek_fence
+tofucraft:leek_green_fence
+tofucraft:tofustem_fence
+trailandtales_delight:crystal_wood_fence
+tsuki:bamboo_fence
+tsuki:bamboo_fence_sunburnt
+tsuki:fence_plank_bamboo
+tsuki:fence_plank_maple
+tsuki:fence_plank_sakura
+tsuki:fence_plank_ume
+ultramarine:rosewood_fence

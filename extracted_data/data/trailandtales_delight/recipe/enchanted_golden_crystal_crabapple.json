@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:gold_block"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "L": {
+      "item": "trailandtales_delight:golden_crystal_crabapple"
+    }
+  },
+  "pattern": [
+    "#D#",
+    "#L#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:enchanted_golden_crystal_crabapple"
+  }
+}

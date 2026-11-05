@@ -1,22 +1,13 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: c:storage_blocks
-# Entries: 116
+# Entries: 72
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.811986+08:00
+# Generated: 2026-11-05T11:35:43.0194219+08:00
 
-atmospheric:aloe_bundle
-atmospheric:barrel_cactus_batch
-atmospheric:blood_orange_crate
-atmospheric:currant_crate
-atmospheric:dragon_fruit_crate
-atmospheric:golden_dragon_fruit_crate
-atmospheric:orange_crate
-atmospheric:passion_fruit_crate
-atmospheric:passion_vine_bundle
-atmospheric:roasted_yucca_cask
-atmospheric:shimmering_passion_fruit_crate
-atmospheric:yucca_cask
+alloyed:bronze_block
+alloyed:steel_block
+alloyed:waxed_bronze_block
 cagedmobs:star_infused_netherite_block
 crabbersdelight:clam_barrel
 crabbersdelight:clawster_barrel
@@ -41,6 +32,12 @@ create:experience_block
 create:raw_zinc_block
 create:zinc_block
 create_enchantment_industry:super_experience_block
+createnuclear:lead_block
+createnuclear:raw_lead_block
+createnuclear:raw_thorium_block
+createnuclear:raw_uranium_block
+createnuclear:steel_block
+createnuclear:thorium_block
 ends_delight:chorus_fruit_crate
 farmersdelight:beetroot_crate
 farmersdelight:cabbage_crate
@@ -51,22 +48,6 @@ farmersdelight:rice_bag
 farmersdelight:rice_bale
 farmersdelight:straw_bale
 farmersdelight:tomato_crate
-fruitsdelight:apple_crate
-fruitsdelight:bayberry_crate
-fruitsdelight:blueberry_crate
-fruitsdelight:cranberry_crate
-fruitsdelight:fig_crate
-fruitsdelight:hawberry_crate
-fruitsdelight:kiwi_crate
-fruitsdelight:lemon_crate
-fruitsdelight:lychee_crate
-fruitsdelight:mango_crate
-fruitsdelight:mangosteen_crate
-fruitsdelight:orange_crate
-fruitsdelight:peach_crate
-fruitsdelight:pear_crate
-fruitsdelight:persimmon_crate
-fruitsdelight:pineapple_crate
 l2complements:eternium_block
 l2complements:poseidite_block
 l2complements:sculkium_block
@@ -88,34 +69,9 @@ minecraft:raw_gold_block
 minecraft:raw_iron_block
 minecraft:redstone_block
 minecraft:slime_block
-neapolitan:adzuki_crate
-neapolitan:banana_crate
-neapolitan:chocolate_block
-neapolitan:dried_vanilla_pod_block
-neapolitan:mint_basket
-neapolitan:roasted_adzuki_crate
-neapolitan:strawberry_basket
-neapolitan:vanilla_pod_block
-neapolitan:white_strawberry_basket
-quark:apple_crate
-quark:beetroot_crate
-quark:berry_sack
-quark:blaze_lantern
-quark:bonded_leather
-quark:bonded_rabbit_hide
-quark:cactus_block
-quark:carrot_crate
-quark:charcoal_block
-quark:chorus_fruit_block
-quark:cocoa_beans_sack
-quark:glowberry_sack
-quark:golden_apple_crate
-quark:golden_carrot_crate
-quark:gunpowder_sack
-quark:nether_wart_sack
-quark:potato_crate
-quark:stick_block
-quark:sugar_cane_block
+mynethersdelight:bullet_pepper_crate
+simplemetals_tin:raw_tin_block
+simplemetals_tin:tin_block
 supplementaries:feather_block
 supplementaries:flax_block
 supplementaries:flint_block

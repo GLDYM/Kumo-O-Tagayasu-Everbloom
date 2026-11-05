@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "create:industrial_iron_block"
+    },
+    ",": {
+      "tag": "c:nuggets/iron"
+    },
+    "I": {
+      "item": "create:shaft"
+    },
+    "_": {
+      "tag": "c:plates/iron"
+    }
+  },
+  "pattern": [
+    "__ ",
+    "#I,",
+    "__ "
+  ],
+  "result": {
+    "count": 4,
+    "id": "railways:link_and_pin"
+  }
+}

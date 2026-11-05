@@ -1,13 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:mob_effect
 # Tag: l2core:tracked_effects
-# Entries: 10
+# Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.4563+08:00
+# Generated: 2026-11-05T11:35:58.2069505+08:00
 
-fruitsdelight:alienating
-fruitsdelight:heal_aura
-fruitsdelight:rage_aura
 l2complements:bleed
 l2complements:cleanse
 l2complements:curse

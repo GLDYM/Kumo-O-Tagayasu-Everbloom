@@ -1,14 +1,16 @@
 # Registry dump
 # Registry: minecraft:worldgen/noise_settings
 # Minecraft: 1.21.1
-# Entries: 8
-# Generated: 2026-06-18T20:43:28.5762701+08:00
+# Entries: 10
+# Generated: 2026-11-05T11:35:22.8350139+08:00
 
+createnuclear:irradiated_noise raw_id=4 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings
 minecraft:amplified raw_id=0 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings
 minecraft:caves raw_id=1 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings
 minecraft:end raw_id=2 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings
 minecraft:floating_islands raw_id=3 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings
-minecraft:large_biomes raw_id=4 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings
-minecraft:nether raw_id=5 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings
-minecraft:overworld raw_id=6 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings
-tofucraft:tofu_world_noise raw_id=7 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings
+minecraft:large_biomes raw_id=5 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings
+minecraft:nether raw_id=6 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings
+minecraft:overworld raw_id=7 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings
+tofucraft:tofu_world_noise raw_id=9 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings
+touhou_little_maid_spell:the_retreat raw_id=8 class=net.minecraft.world.level.levelgen.NoiseGeneratorSettings

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "another_furniture:seat",
+      "required": false
+    },
+    "immersive_furniture:sitting",
+    "immersive_paintings:graffiti",
+    "immersive_paintings:glow_graffiti",
+    "immersive_paintings:painting",
+    "immersive_paintings:glow_painting",
+    {
+      "id": "interiors:big_seat",
+      "required": false
+    },
+    "kaleidoscope_cookery:sit",
+    "supplementaries:hat_stand",
+    "minecraft:cushion"
+  ]
+}

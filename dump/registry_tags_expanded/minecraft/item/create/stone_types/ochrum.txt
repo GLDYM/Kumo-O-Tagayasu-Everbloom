@@ -1,13 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: create:stone_types/ochrum
-# Entries: 18
+# Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.9079739+08:00
+# Generated: 2026-11-05T11:35:51.5058156+08:00
 
-bits_n_bobs:ochrum_tile_stairs
-bits_n_bobs:ochrum_tile_wall
-bits_n_bobs:ochrum_tiles
 create:cut_ochrum
 create:cut_ochrum_brick_stairs
 create:cut_ochrum_brick_wall

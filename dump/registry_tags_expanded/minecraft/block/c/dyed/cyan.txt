@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: c:dyed/cyan
-# Entries: 21
+# Entries: 25
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.6190089+08:00
+# Generated: 2026-11-05T11:35:42.405337+08:00
 
 handcrafted:cyan_cushion
 minecraft:cyan_banner
@@ -12,6 +12,8 @@ minecraft:cyan_candle
 minecraft:cyan_carpet
 minecraft:cyan_concrete
 minecraft:cyan_concrete_powder
+minecraft:cyan_concrete_slab
+minecraft:cyan_concrete_stairs
 minecraft:cyan_glazed_terracotta
 minecraft:cyan_shulker_box
 minecraft:cyan_stained_glass
@@ -19,6 +21,8 @@ minecraft:cyan_stained_glass_pane
 minecraft:cyan_terracotta
 minecraft:cyan_wall_banner
 minecraft:cyan_wool
+minecraft:cyan_wool_slab
+minecraft:cyan_wool_stairs
 supplementaries:awning_cyan
 supplementaries:bunting_cyan
 supplementaries:bunting_wall_cyan

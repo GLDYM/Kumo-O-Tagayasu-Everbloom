@@ -1,0 +1,12 @@
+{
+  "neoforge:conditions": [{
+    "type": "neoforge:not",
+    "value": {
+      "type": "neoforge:tag_empty",
+      "tag": "c:ingots/steel"
+    }
+  }],
+  "type": "minecraft:stonecutting",
+  "ingredient": {"item": "createprism:steel_glass_casing"},
+  "result": {"id": "createprism:steel_clear_glass_casing", "count": 1}
+}

@@ -1,16 +1,15 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:enchantable/chest_armor
-# Entries: 44
+# Entries: 45
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.1708107+08:00
+# Generated: 2026-11-05T11:35:54.0902369+08:00
 
+alloyed:steel_chestplate
 create:cardboard_chestplate
 create:copper_backtank
 create:netherite_backtank
-create_sa:brass_chestplate
-create_sa:copper_chestplate
-create_sa:zinc_chestplate
+farmers_spell:gluttony_chef_apron
 irons_spellbooks:archevoker_chestplate
 irons_spellbooks:cryomancer_chestplate
 irons_spellbooks:cultist_chestplate
@@ -34,7 +33,9 @@ l2complements:poseidite_chestplate
 l2complements:sculkium_chestplate
 l2complements:shulkerate_chestplate
 l2complements:totemic_gold_chestplate
+majobroom:majo_cloth
 minecraft:chainmail_chestplate
+minecraft:copper_chestplate
 minecraft:diamond_chestplate
 minecraft:golden_chestplate
 minecraft:iron_chestplate

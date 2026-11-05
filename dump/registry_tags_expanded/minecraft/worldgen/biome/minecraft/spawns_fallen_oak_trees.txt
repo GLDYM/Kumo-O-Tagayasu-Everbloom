@@ -1,0 +1,21 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:spawns_fallen_oak_trees
+# Entries: 14
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:59.5133394+08:00
+
+minecraft:badlands
+minecraft:dark_forest
+minecraft:eroded_badlands
+minecraft:flower_forest
+minecraft:forest
+minecraft:plains
+minecraft:savanna
+minecraft:savanna_plateau
+minecraft:sunflower_plains
+minecraft:windswept_forest
+minecraft:windswept_gravelly_hills
+minecraft:windswept_hills
+minecraft:windswept_savanna
+minecraft:wooded_badlands

@@ -3,7 +3,7 @@
 # Tag: create_dragons_plus:fan_processing_catalysts/ending
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.0345167+08:00
+# Generated: 2026-11-05T11:35:47.5387538+08:00
 
 create_dragons_plus:dragon_breath
 create_dragons_plus:flowing_dragon_breath

@@ -3,9 +3,9 @@
 # Tag: c:buckets/entity_water
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.4222215+08:00
+# Generated: 2026-11-05T11:35:48.3193325+08:00
 
-atmospheric:tetra_bucket
+create_bic_bit:herring_bucket
 minecraft:axolotl_bucket
 minecraft:cod_bucket
 minecraft:pufferfish_bucket

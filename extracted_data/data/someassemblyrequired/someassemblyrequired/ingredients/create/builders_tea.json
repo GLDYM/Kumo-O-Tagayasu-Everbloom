@@ -1,0 +1,17 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "display_item": {
+    "components": {
+      "someassemblyrequired:spread_color": "#CCDF8367"
+    },
+    "count": 1,
+    "id": "someassemblyrequired:spread"
+  },
+  "item": "create:builders_tea",
+  "sound": "someassemblyrequired:block.sandwich.add_item.moist"
+}

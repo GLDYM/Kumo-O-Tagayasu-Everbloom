@@ -1,9 +1,8 @@
 # Expanded runtime tag dump
 # Registry: minecraft:worldgen/biome
 # Tag: c:is_mushroom
-# Entries: 2
+# Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.5683306+08:00
+# Generated: 2026-11-05T11:35:58.6784009+08:00
 
 minecraft:mushroom_fields
-quark:glimmering_weald

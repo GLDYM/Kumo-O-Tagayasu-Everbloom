@@ -1,11 +1,8 @@
 # Expanded runtime tag dump
 # Registry: minecraft:recipe_serializer
 # Tag: create:automation_ignore
-# Entries: 4
+# Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.4787019+08:00
+# Generated: 2026-11-05T11:35:58.2660092+08:00
 
-exposure:film_developing
-exposure:photograph_aging
-exposure:photograph_copying
 touhou_little_maid:altar_recipe_serializers

@@ -1,0 +1,16 @@
+{
+  "type": "irons_spellbooks:alchemist_cauldron_brew",
+  "base_fluid": {
+    "amount": 250,
+    "id": "irons_spellbooks:timeless_slurry"
+  },
+  "input": {
+    "item": "farmers_spell:foodgeist_seasoning"
+  },
+  "results": [
+    {
+      "amount": 250,
+      "id": "farmers_spell:original_nectar"
+    }
+  ]
+}

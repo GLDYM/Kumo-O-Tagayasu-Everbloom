@@ -3,7 +3,7 @@
 # Tag: vintagedelight:raw_fish
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.3316178+08:00
+# Generated: 2026-11-05T11:35:57.9846134+08:00
 
 minecraft:cod
 minecraft:salmon

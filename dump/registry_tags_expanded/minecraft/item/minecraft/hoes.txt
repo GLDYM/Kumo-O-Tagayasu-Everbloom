@@ -1,18 +1,17 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:hoes
-# Entries: 20
+# Entries: 19
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.2125001+08:00
+# Generated: 2026-11-05T11:35:54.2448424+08:00
 
-create_sa:brass_hoe
-create_sa:copper_hoe
-create_sa:zinc_hoe
+alloyed:steel_hoe
 l2complements:eternium_hoe
 l2complements:poseidite_hoe
 l2complements:sculkium_hoe
 l2complements:shulkerate_hoe
 l2complements:totemic_gold_hoe
+minecraft:copper_hoe
 minecraft:diamond_hoe
 minecraft:golden_hoe
 minecraft:iron_hoe

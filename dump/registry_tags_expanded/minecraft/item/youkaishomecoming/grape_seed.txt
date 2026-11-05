@@ -3,7 +3,7 @@
 # Tag: youkaishomecoming:grape_seed
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.3874402+08:00
+# Generated: 2026-11-05T11:35:58.0808632+08:00
 
 youkaishomecoming:black_grape_seeds
 youkaishomecoming:red_grape_seeds

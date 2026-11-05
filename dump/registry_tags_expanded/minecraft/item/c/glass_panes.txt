@@ -1,11 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:glass_panes
-# Entries: 55
+# Entries: 35
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.1875923+08:00
+# Generated: 2026-11-05T11:35:49.8295642+08:00
 
-atmospheric:arid_glass_pane
 create:acacia_window_pane
 create:bamboo_window_pane
 create:birch_window_pane
@@ -24,7 +23,6 @@ create:tiled_glass_pane
 create:vertical_framed_glass_pane
 create:warped_window_pane
 create:weathered_iron_window_pane
-dndecor:ornate_iron_glass_pane
 minecraft:black_stained_glass_pane
 minecraft:blue_stained_glass_pane
 minecraft:brown_stained_glass_pane
@@ -42,21 +40,3 @@ minecraft:purple_stained_glass_pane
 minecraft:red_stained_glass_pane
 minecraft:white_stained_glass_pane
 minecraft:yellow_stained_glass_pane
-quark:black_framed_glass_pane
-quark:blue_framed_glass_pane
-quark:brown_framed_glass_pane
-quark:cyan_framed_glass_pane
-quark:dirty_glass_pane
-quark:framed_glass_pane
-quark:gray_framed_glass_pane
-quark:green_framed_glass_pane
-quark:light_blue_framed_glass_pane
-quark:light_gray_framed_glass_pane
-quark:lime_framed_glass_pane
-quark:magenta_framed_glass_pane
-quark:orange_framed_glass_pane
-quark:pink_framed_glass_pane
-quark:purple_framed_glass_pane
-quark:red_framed_glass_pane
-quark:white_framed_glass_pane
-quark:yellow_framed_glass_pane

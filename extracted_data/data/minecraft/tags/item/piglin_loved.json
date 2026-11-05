@@ -1,0 +1,31 @@
+{
+  "values": [
+    "artifacts:golden_hook",
+    "artifacts:cross_necklace",
+    "artifacts:antidote_vessel",
+    "artifacts:universal_attractor",
+    "create:golden_sheet",
+    "create:crushed_raw_gold",
+    "farmersdelight:golden_knife",
+    "immortalers_delight:golden_himekaido",
+    "immortalers_delight:enchanted_golden_himekaido",
+    "immortalers_delight:golden_kwat_toast_slice",
+    "immortalers_delight:golden_kwat_toast",
+    "mynethersdelight:golden_egg",
+    "mynethersdelight:enchanted_golden_egg",
+    "mynethersdelight:golden_trophy",
+    "someassemblyrequired:golden_apple_slices",
+    "someassemblyrequired:enchanted_golden_apple_slices",
+    "someassemblyrequired:chopped_golden_carrot",
+    "supplementaries:hourglass",
+    "supplementaries:gold_bars",
+    "supplementaries:gold_door",
+    "supplementaries:gold_trapdoor",
+    "supplementaries:gold_gate",
+    "supplementaries:clock_block",
+    "supplementaries:key",
+    "touhou_little_maid:servant_bell",
+    "touhou_little_maid:trumpet"
+  ],
+  "replace": false
+}

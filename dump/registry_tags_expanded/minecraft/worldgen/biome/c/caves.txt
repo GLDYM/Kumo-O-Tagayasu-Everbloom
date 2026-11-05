@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: c:caves
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.4928221+08:00
+
+minecraft:sulfur_caves

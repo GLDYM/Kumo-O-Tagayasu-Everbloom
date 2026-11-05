@@ -1,8 +1,4 @@
 {
-  "values": [
-    "atmospheric:arid_sand",
-    "atmospheric:red_arid_sand",
-    "atmospheric:suspicious_arid_sand",
-    "atmospheric:suspicious_red_arid_sand"
-  ]
+  "replace": false,
+  "values": []
 }

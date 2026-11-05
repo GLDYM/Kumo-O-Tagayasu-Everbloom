@@ -1,0 +1,12 @@
+{
+  "values": [
+    "farmersdelight:cabbage",
+    "farmersdelight:cabbage_leaf",
+    "tsuki:cabbage",
+    {
+      "id": "farmersdelight:cabbage",
+      "required": false
+    },
+    "tsuki:sliced_cabbage"
+  ]
+}

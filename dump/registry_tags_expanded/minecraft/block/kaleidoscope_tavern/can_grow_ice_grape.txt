@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: kaleidoscope_tavern:can_grow_ice_grape
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:44.279186+08:00
+
+minecraft:blue_ice
+minecraft:frosted_ice
+minecraft:ice
+minecraft:packed_ice
+minecraft:snow_block

@@ -3,7 +3,7 @@
 # Tag: l2menustacker:quick_access_vanilla
 # Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.9992616+08:00
+# Generated: 2026-11-05T11:35:53.7400095+08:00
 
 l2complements:eternal_anvil
 minecraft:cartography_table

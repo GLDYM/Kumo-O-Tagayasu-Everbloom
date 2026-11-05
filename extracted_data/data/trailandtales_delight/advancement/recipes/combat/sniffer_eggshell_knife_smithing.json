@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_sniffer_eggshell": {
+      "conditions": {
+        "items": [
+          {
+            "items": "trailandtales_delight:sniffer_eggshell"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "trailandtales_delight:sniffer_eggshell_knife_smithing"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_sniffer_eggshell"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "trailandtales_delight:sniffer_eggshell_knife_smithing"
+    ]
+  }
+}

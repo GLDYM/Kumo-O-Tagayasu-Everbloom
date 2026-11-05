@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "modid": "create",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "tsuki:kaeshi"
+    },
+    {
+      "item": "tsuki:dashi"
+    },
+    {
+      "amount": 250,
+      "fluid": "minecraft:water",
+      "type": "neoforge:single"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "tsuki:noodle_soup"
+    }
+  ]
+}

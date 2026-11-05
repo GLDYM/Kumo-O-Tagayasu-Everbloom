@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: c:dyed/white
-# Entries: 21
+# Entries: 25
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.6356524+08:00
+# Generated: 2026-11-05T11:35:42.4528863+08:00
 
 handcrafted:white_cushion
 minecraft:white_banner
@@ -12,6 +12,8 @@ minecraft:white_candle
 minecraft:white_carpet
 minecraft:white_concrete
 minecraft:white_concrete_powder
+minecraft:white_concrete_slab
+minecraft:white_concrete_stairs
 minecraft:white_glazed_terracotta
 minecraft:white_shulker_box
 minecraft:white_stained_glass
@@ -19,6 +21,8 @@ minecraft:white_stained_glass_pane
 minecraft:white_terracotta
 minecraft:white_wall_banner
 minecraft:white_wool
+minecraft:white_wool_slab
+minecraft:white_wool_stairs
 supplementaries:awning_white
 supplementaries:bunting_wall_white
 supplementaries:bunting_white

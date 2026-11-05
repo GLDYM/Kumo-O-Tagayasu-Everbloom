@@ -1,15 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:dead_bush_may_place_on
-# Entries: 41
+# Entries: 38
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.7311097+08:00
+# Generated: 2026-11-05T11:35:44.7747415+08:00
 
-atmospheric:arid_sand
-atmospheric:crustose
-atmospheric:red_arid_sand
-atmospheric:suspicious_arid_sand
-atmospheric:suspicious_red_arid_sand
+crabbersdelight:wormy_dirt
 delighto_flight:weather_soil
 farmersdelight:rich_soil
 lootr:suspicious_sand
@@ -31,6 +27,7 @@ minecraft:mud
 minecraft:muddy_mangrove_roots
 minecraft:mycelium
 minecraft:orange_terracotta
+minecraft:pale_moss_block
 minecraft:pink_terracotta
 minecraft:podzol
 minecraft:purple_terracotta

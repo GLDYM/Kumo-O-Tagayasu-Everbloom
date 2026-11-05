@@ -1,0 +1,24 @@
+{
+  "type": "tofucraft:tofu_pot_shapeless",
+  "category": "misc",
+  "cook_time": 100,
+  "experience": 0.05,
+  "fluid": {
+    "amount": 200,
+    "ingredient": {
+      "fluid": "minecraft:water"
+    }
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "tofucraft:bottle_dashi"
+  }
+}

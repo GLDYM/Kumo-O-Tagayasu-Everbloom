@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "create_bic_bit:raw_herring",
+    "create_bic_bit:cooked_herring",
+    "kaleidoscope_chinesefood:yellow_croaker",
+    "youkaishomecoming:raw_lamprey"
+  ]
+}

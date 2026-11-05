@@ -3,6 +3,6 @@
 # Tag: minecraft:prevents_decorated_pot_shattering
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.564089+08:00
+# Generated: 2026-11-05T11:35:46.7542877+08:00
 
 minecraft:silk_touch

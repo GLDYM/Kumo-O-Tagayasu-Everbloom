@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:lava",
+    "#minecraft:campfires",
+    "#minecraft:fire",
+    {
+      "id": "#tsuki:tray_heat_sources",
+      "required": false
+    },
+    {
+      "id": "#farmersdelight:tray_heat_sources",
+      "required": false
+    }
+  ]
+}

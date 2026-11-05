@@ -1,42 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: immortalers_delight:boat_needs/ancient_boat_need_1
-# Entries: 103
+# Entries: 71
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.8255014+08:00
+# Generated: 2026-11-05T11:35:53.2106406+08:00
 
-atmospheric:aspen_log
-atmospheric:aspen_wood
-atmospheric:crustose_log
-atmospheric:crustose_wood
-atmospheric:grimwood
-atmospheric:grimwood_log
-atmospheric:kousa_log
-atmospheric:kousa_wood
-atmospheric:laurel_log
-atmospheric:laurel_wood
-atmospheric:morado_log
-atmospheric:morado_wood
-atmospheric:rosewood
-atmospheric:rosewood_log
-atmospheric:stripped_aspen_log
-atmospheric:stripped_aspen_wood
-atmospheric:stripped_grimwood
-atmospheric:stripped_grimwood_log
-atmospheric:stripped_kousa_log
-atmospheric:stripped_kousa_wood
-atmospheric:stripped_laurel_log
-atmospheric:stripped_laurel_wood
-atmospheric:stripped_morado_log
-atmospheric:stripped_morado_wood
-atmospheric:stripped_rosewood
-atmospheric:stripped_rosewood_log
-atmospheric:stripped_yucca_log
-atmospheric:stripped_yucca_wood
-atmospheric:watchful_aspen_log
-atmospheric:watchful_aspen_wood
-atmospheric:yucca_log
-atmospheric:yucca_wood
 crabbersdelight:palm_log
 crabbersdelight:palm_wood
 crabbersdelight:stripped_palm_log
@@ -69,6 +37,10 @@ minecraft:mangrove_log
 minecraft:mangrove_wood
 minecraft:oak_log
 minecraft:oak_wood
+minecraft:pale_oak_log
+minecraft:pale_oak_wood
+minecraft:poplar_log
+minecraft:poplar_wood
 minecraft:spruce_log
 minecraft:spruce_wood
 minecraft:stripped_acacia_log
@@ -87,24 +59,20 @@ minecraft:stripped_mangrove_log
 minecraft:stripped_mangrove_wood
 minecraft:stripped_oak_log
 minecraft:stripped_oak_wood
+minecraft:stripped_pale_oak_log
+minecraft:stripped_pale_oak_wood
+minecraft:stripped_poplar_log
+minecraft:stripped_poplar_wood
 minecraft:stripped_spruce_log
 minecraft:stripped_spruce_wood
 minecraft:stripped_warped_hyphae
 minecraft:stripped_warped_stem
 minecraft:warped_hyphae
 minecraft:warped_stem
-quark:ancient_log
-quark:ancient_wood
-quark:azalea_log
-quark:azalea_wood
-quark:blossom_log
-quark:blossom_wood
-quark:stripped_ancient_log
-quark:stripped_ancient_wood
-quark:stripped_azalea_log
-quark:stripped_azalea_wood
-quark:stripped_blossom_log
-quark:stripped_blossom_wood
 tofucraft:leek_green_stem
 tofucraft:leek_stem
 tofucraft:tofustem
+trailandtales_delight:crystal_wood
+trailandtales_delight:crystal_wood_log
+trailandtales_delight:stripped_crystal_wood
+trailandtales_delight:stripped_crystal_wood_log

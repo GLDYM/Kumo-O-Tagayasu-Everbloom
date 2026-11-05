@@ -1,13 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:sandstone/red_slabs
-# Entries: 6
+# Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.4574971+08:00
+# Generated: 2026-11-05T11:35:50.5934173+08:00
 
-atmospheric:cut_red_arid_sandstone_slab
-atmospheric:red_arid_sandstone_slab
-atmospheric:smooth_red_arid_sandstone_slab
 minecraft:cut_red_sandstone_slab
 minecraft:red_sandstone_slab
 minecraft:smooth_red_sandstone_slab

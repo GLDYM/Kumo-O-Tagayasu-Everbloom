@@ -1,0 +1,37 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "terra_curio"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "emiffect"
+      }
+    }
+  ],
+  "type": "jeed:effect_provider",
+  "effect": "terra_curio:honey",
+  "providers": [
+    {
+      "item": "terra_curio:bee_cloak"
+    },
+    {
+      "item": "terra_curio:honey_comb"
+    },
+    {
+      "item": "terra_curio:stinger_necklace"
+    },
+    {
+      "item": "terra_curio:sweetheart_necklace"
+    },
+    {
+      "item": "terra_curio:honey_balloon"
+    },
+    {
+      "item": "terra_curio:amber_horseshoe_balloon"
+    }
+  ]
+}

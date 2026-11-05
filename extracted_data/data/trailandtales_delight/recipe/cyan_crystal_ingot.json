@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "trailandtales_delight:unripe_crystal_crabapple"
+  },
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:cyan_crystal_ingot"
+  }
+}

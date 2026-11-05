@@ -3,6 +3,6 @@
 # Tag: c:foods/vegetable/chili_pepper
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.0490878+08:00
+# Generated: 2026-11-05T11:35:49.5588506+08:00
 
 vintagedelight:ghost_pepper

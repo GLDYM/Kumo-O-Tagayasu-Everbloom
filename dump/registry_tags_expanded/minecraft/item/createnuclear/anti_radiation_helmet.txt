@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: createnuclear:anti_radiation_helmet
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:51.8095723+08:00
+
+createnuclear:default_anti_radiation_helmet

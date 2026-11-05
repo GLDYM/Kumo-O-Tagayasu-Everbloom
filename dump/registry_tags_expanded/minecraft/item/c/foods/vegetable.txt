@@ -1,13 +1,14 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:foods/vegetable
-# Entries: 20
+# Entries: 22
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.0470862+08:00
+# Generated: 2026-11-05T11:35:49.5543333+08:00
 
-atmospheric:aloe_leaves
 bakeries:tomato
 corn_delight:corn
+farmersdelight:cabbage
+farmersdelight:cabbage_leaf
 farmersdelight:onion
 farmersdelight:tomato
 kaleidoscope_cookery:tomato
@@ -16,6 +17,7 @@ minecraft:carrot
 minecraft:golden_carrot
 minecraft:potato
 minecraft:pumpkin
+minecraft:sweet_berries
 tsuki:cabbage
 tsuki:eggplant
 tsuki:imogara

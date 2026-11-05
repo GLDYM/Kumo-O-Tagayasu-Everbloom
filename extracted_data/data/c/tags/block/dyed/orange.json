@@ -1,0 +1,17 @@
+{
+  "values": [
+    "handcrafted:orange_cushion",
+    "supplementaries:flag_orange",
+    "supplementaries:present_orange",
+    "supplementaries:trapped_present_orange",
+    "supplementaries:candle_holder_orange",
+    "supplementaries:awning_orange",
+    "supplementaries:bunting_orange",
+    "supplementaries:bunting_wall_orange",
+    "minecraft:orange_wool_stairs",
+    "minecraft:orange_wool_slab",
+    "minecraft:orange_concrete_stairs",
+    "minecraft:orange_concrete_slab"
+  ],
+  "replace": false
+}

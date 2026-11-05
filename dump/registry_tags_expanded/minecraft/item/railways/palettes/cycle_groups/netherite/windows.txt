@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/netherite/windows
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.5969079+08:00
+
+railways:four_pane_locometal_window
+railways:round_pane_locometal_window
+railways:single_pane_locometal_window
+railways:two_pane_locometal_window

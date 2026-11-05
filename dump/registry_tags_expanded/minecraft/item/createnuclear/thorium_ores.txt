@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: createnuclear:thorium_ores
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:51.8268184+08:00
+

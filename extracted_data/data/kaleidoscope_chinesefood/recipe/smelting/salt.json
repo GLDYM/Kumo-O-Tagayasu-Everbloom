@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": { 
+    "item": "minecraft:water_bucket"
+  },
+  "result": { 
+    "id": "kaleidoscope_chinesefood:salt_bucket",
+    "count": 1
+  }
+}

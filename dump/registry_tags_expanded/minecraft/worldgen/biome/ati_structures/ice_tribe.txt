@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: ati_structures:ice_tribe
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.3557731+08:00
+
+minecraft:deep_frozen_ocean
+minecraft:frozen_ocean

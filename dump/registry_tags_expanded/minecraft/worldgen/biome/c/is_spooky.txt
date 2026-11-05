@@ -1,9 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:worldgen/biome
 # Tag: c:is_spooky
-# Entries: 2
+# Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.597488+08:00
+# Generated: 2026-11-05T11:35:58.7565612+08:00
 
 minecraft:dark_forest
 minecraft:deep_dark
+minecraft:pale_garden

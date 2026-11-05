@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:non_flammable_wood
-# Entries: 22
+# Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.9097323+08:00
+# Generated: 2026-11-05T11:35:45.1025913+08:00
 
 another_furniture:crimson_bench
 another_furniture:crimson_chair
@@ -17,13 +17,3 @@ another_furniture:warped_drawer
 another_furniture:warped_shelf
 another_furniture:warped_shutter
 another_furniture:warped_table
-quark:crimson_bookshelf
-quark:crimson_chest
-quark:crimson_ladder
-quark:crimson_post
-quark:vertical_crimson_planks
-quark:vertical_warped_planks
-quark:warped_bookshelf
-quark:warped_chest
-quark:warped_ladder
-quark:warped_post

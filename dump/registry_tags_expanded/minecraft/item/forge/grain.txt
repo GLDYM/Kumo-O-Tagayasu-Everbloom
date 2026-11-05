@@ -1,11 +1,13 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: forge:grain
-# Entries: 4
+# Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.7340107+08:00
+# Generated: 2026-11-05T11:35:52.9100331+08:00
 
+farmersdelight:rice
 immortalers_delight:alfalfa
 immortalers_delight:evolutcorn
 immortalers_delight:evolutcorn_grains
 immortalers_delight:kwat_wheat
+minecraft:wheat

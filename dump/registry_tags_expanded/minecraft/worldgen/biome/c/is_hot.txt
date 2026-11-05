@@ -3,7 +3,7 @@
 # Tag: c:is_hot
 # Entries: 18
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.5492742+08:00
+# Generated: 2026-11-05T11:35:58.6368592+08:00
 
 minecraft:badlands
 minecraft:bamboo_jungle

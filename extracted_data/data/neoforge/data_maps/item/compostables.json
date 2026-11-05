@@ -1,0 +1,1051 @@
+{
+  "values": {
+    "trailandtales_delight:cherry_petal": {
+      "chance": 0.1
+    },
+    "trailandtales_delight:crystal_crabapple": {
+      "chance": 0.65
+    },
+    "trailandtales_delight:crystal_crabapple_seeds": {
+      "chance": 0.3
+    },
+    "trailandtales_delight:crystal_leaves": {
+      "chance": 0.3
+    },
+    "trailandtales_delight:crystal_sapling": {
+      "chance": 0.3
+    },
+    "trailandtales_delight:lantern_fruit": {
+      "chance": 0.65
+    },
+    "trailandtales_delight:lantern_fruit_seeds": {
+      "chance": 0.3
+    },
+    "trailandtales_delight:pitcher_plant": {
+      "chance": 1.0
+    },
+    "trailandtales_delight:pitcher_taro": {
+      "chance": 0.65
+    },
+    "trailandtales_delight:unripe_crystal_crabapple": {
+      "chance": 0.3
+    },
+    "corn_delight:boiled_corn": {
+      "chance": 0.65
+    },
+    "corn_delight:corn": {
+      "chance": 0.65
+    },
+    "corn_delight:corn_seeds": {
+      "chance": 0.35
+    },
+    "corn_delight:cornbread": {
+      "chance": 0.85
+    },
+    "corn_delight:cornbread_batter": {
+      "chance": 0.85
+    },
+    "corn_delight:corncob": {
+      "chance": 0.25
+    },
+    "corn_delight:grilled_corn": {
+      "chance": 0.65
+    },
+    "corn_delight:popcorn": {
+      "chance": 0.5
+    },
+    "corn_delight:taco": {
+      "chance": 1.0
+    },
+    "corn_delight:tortilla": {
+      "chance": 0.75
+    },
+    "corn_delight:tortilla_raw": {
+      "chance": 0.75
+    },
+    "corn_delight:wild_corn": {
+      "chance": 0.55
+    },
+    "farmers_spell:goodberry": {
+      "chance": 0.3
+    },
+    "farmers_spell:goodberry_crate": {
+      "chance": 1.0
+    },
+    "farmersdelight:apple_pie": {
+      "chance": 1.0
+    },
+    "farmersdelight:apple_pie_slice": {
+      "chance": 0.85
+    },
+    "farmersdelight:brown_mushroom_colony": {
+      "chance": 1.0
+    },
+    "farmersdelight:cabbage": {
+      "chance": 0.65
+    },
+    "farmersdelight:cabbage_leaf": {
+      "chance": 0.5
+    },
+    "farmersdelight:cabbage_seeds": {
+      "chance": 0.3
+    },
+    "farmersdelight:cake_slice": {
+      "chance": 0.85
+    },
+    "farmersdelight:chocolate_pie": {
+      "chance": 1.0
+    },
+    "farmersdelight:chocolate_pie_slice": {
+      "chance": 0.85
+    },
+    "farmersdelight:dumplings": {
+      "chance": 1.0
+    },
+    "farmersdelight:honey_cookie": {
+      "chance": 0.85
+    },
+    "farmersdelight:kelp_roll": {
+      "chance": 0.85
+    },
+    "farmersdelight:kelp_roll_slice": {
+      "chance": 0.5
+    },
+    "farmersdelight:onion": {
+      "chance": 0.65
+    },
+    "farmersdelight:pie_crust": {
+      "chance": 0.65
+    },
+    "farmersdelight:pumpkin_slice": {
+      "chance": 0.5
+    },
+    "farmersdelight:raw_pasta": {
+      "chance": 0.85
+    },
+    "farmersdelight:red_mushroom_colony": {
+      "chance": 1.0
+    },
+    "farmersdelight:rice": {
+      "chance": 0.3
+    },
+    "farmersdelight:rice_bale": {
+      "chance": 0.85
+    },
+    "farmersdelight:rice_panicle": {
+      "chance": 0.3
+    },
+    "farmersdelight:rotten_tomato": {
+      "chance": 0.85
+    },
+    "farmersdelight:sandy_shrub": {
+      "chance": 0.3
+    },
+    "farmersdelight:straw": {
+      "chance": 0.3
+    },
+    "farmersdelight:stuffed_pumpkin_block": {
+      "chance": 1.0
+    },
+    "farmersdelight:sweet_berry_cheesecake": {
+      "chance": 1.0
+    },
+    "farmersdelight:sweet_berry_cheesecake_slice": {
+      "chance": 0.85
+    },
+    "farmersdelight:sweet_berry_cookie": {
+      "chance": 0.85
+    },
+    "farmersdelight:tomato": {
+      "chance": 0.65
+    },
+    "farmersdelight:tomato_seeds": {
+      "chance": 0.3
+    },
+    "farmersdelight:tree_bark": {
+      "chance": 0.3
+    },
+    "farmersdelight:wild_beetroots": {
+      "chance": 0.65
+    },
+    "farmersdelight:wild_cabbages": {
+      "chance": 0.65
+    },
+    "farmersdelight:wild_carrots": {
+      "chance": 0.65
+    },
+    "farmersdelight:wild_onions": {
+      "chance": 0.65
+    },
+    "farmersdelight:wild_potatoes": {
+      "chance": 0.65
+    },
+    "farmersdelight:wild_rice": {
+      "chance": 0.65
+    },
+    "farmersdelight:wild_tomatoes": {
+      "chance": 0.65
+    },
+    "kaleidoscope_chinesefood:eggplant": {
+      "chance": 0.65
+    },
+    "kaleidoscope_chinesefood:eggplant_seed": {
+      "chance": 0.3
+    },
+    "kaleidoscope_chinesefood:straw_bed": {
+      "chance": 0.65
+    },
+    "kaleidoscope_nether:crimson_fruit": {
+      "can_villager_compost": true,
+      "chance": 0.65
+    },
+    "kaleidoscope_nether:warped_fruit": {
+      "can_villager_compost": true,
+      "chance": 0.65
+    },
+    "kaleidoscope_nether:poisonous_fruit": {
+      "can_villager_compost": true,
+      "chance": 0.65
+    },
+    "kaleidoscope_nether:soul_pepper": {
+      "can_villager_compost": true,
+      "chance": 0.65
+    },
+    "kaleidoscope_nether:warped_cake": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    },
+    "kaleidoscope_nether:nether_caterpillar": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    },
+    "kaleidoscope_cookery:caterpillar": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    },
+    "kaleidoscope_cookery:chili_seed": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "kaleidoscope_cookery:dried_tea_leaves": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "kaleidoscope_cookery:fresh_tea_leaves": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "kaleidoscope_cookery:green_chili": {
+      "can_villager_compost": true,
+      "chance": 0.65
+    },
+    "kaleidoscope_cookery:lettuce": {
+      "can_villager_compost": true,
+      "chance": 0.65
+    },
+    "kaleidoscope_cookery:lettuce_seed": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "kaleidoscope_cookery:red_chili": {
+      "can_villager_compost": true,
+      "chance": 0.65
+    },
+    "kaleidoscope_cookery:rice": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "kaleidoscope_cookery:rice_panicle": {
+      "can_villager_compost": true,
+      "chance": 0.65
+    },
+    "kaleidoscope_cookery:tea_seed": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "kaleidoscope_cookery:tomato": {
+      "can_villager_compost": true,
+      "chance": 0.65
+    },
+    "kaleidoscope_cookery:tomato_seed": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "kaleidoscope_cookery:wild_rice": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "kaleidoscope_tavern:gold_grape": {
+      "can_villager_compost": true,
+      "chance": 0.5
+    },
+    "kaleidoscope_tavern:grape": {
+      "can_villager_compost": true,
+      "chance": 0.5
+    },
+    "kaleidoscope_tavern:grapevine": {
+      "can_villager_compost": true,
+      "chance": 0.25
+    },
+    "kaleidoscope_tavern:green_grape": {
+      "can_villager_compost": true,
+      "chance": 0.5
+    },
+    "kaleidoscope_tavern:ice_grape": {
+      "can_villager_compost": true,
+      "chance": 0.5
+    },
+    "mynethersdelight:bullet_pepper": {
+      "chance": 0.3
+    },
+    "mynethersdelight:crimson_fungus_colony": {
+      "chance": 1.0
+    },
+    "mynethersdelight:ghasmati": {
+      "chance": 0.65
+    },
+    "mynethersdelight:ghasta": {
+      "chance": 1.0
+    },
+    "mynethersdelight:strider_egg": {
+      "chance": 0.3
+    },
+    "mynethersdelight:warped_fungus_colony": {
+      "chance": 1.0
+    },
+    "someassemblyrequired:apple_slices": {
+      "chance": 0.3
+    },
+    "someassemblyrequired:bread_slice": {
+      "chance": 0.3
+    },
+    "someassemblyrequired:burger_bun": {
+      "chance": 0.5
+    },
+    "someassemblyrequired:burger_bun_bottom": {
+      "chance": 0.3
+    },
+    "someassemblyrequired:burger_bun_top": {
+      "chance": 0.3
+    },
+    "someassemblyrequired:chopped_beetroot": {
+      "chance": 0.3
+    },
+    "someassemblyrequired:chopped_carrot": {
+      "chance": 0.3
+    },
+    "someassemblyrequired:sliced_onion": {
+      "chance": 0.3
+    },
+    "someassemblyrequired:toasted_bread_slice": {
+      "chance": 0.3
+    },
+    "someassemblyrequired:tomato_slices": {
+      "chance": 0.3
+    },
+    "supplementaries:flax_seeds": {
+      "chance": 0.3,
+      "can_villager_compost": true
+    },
+    "supplementaries:flax": {
+      "chance": 0.65,
+      "can_villager_compost": true
+    },
+    "supplementaries:wild_flax": {
+      "chance": 0.65,
+      "can_villager_compost": true
+    },
+    "supplementaries:flax_block": {
+      "chance": 0.85,
+      "can_villager_compost": true
+    },
+    "tofucraft:edamame": {
+      "chance": 0.1
+    },
+    "tofucraft:edamame_boild": {
+      "chance": 0.1
+    },
+    "tofucraft:leek": {
+      "chance": 0.5
+    },
+    "tofucraft:onigiri": {
+      "chance": 0.35
+    },
+    "tofucraft:onigiri_salt": {
+      "chance": 0.35
+    },
+    "tofucraft:rice": {
+      "chance": 0.5
+    },
+    "tofucraft:saltymelon": {
+      "chance": 0.3
+    },
+    "tofucraft:sapling_apricot": {
+      "chance": 0.3
+    },
+    "tofucraft:sapling_tofu": {
+      "chance": 0.3
+    },
+    "tofucraft:seeds_chili": {
+      "chance": 0.3
+    },
+    "tofucraft:seeds_rice": {
+      "chance": 0.3
+    },
+    "tofucraft:seeds_soybeans": {
+      "chance": 0.3
+    },
+    "tofucraft:seeds_soybeans_nether": {
+      "chance": 0.3
+    },
+    "tofucraft:seeds_soybeans_soul": {
+      "chance": 0.3
+    },
+    "tofucraft:tofuannin": {
+      "chance": 0.5
+    },
+    "tofucraft:tofucookie": {
+      "chance": 0.85
+    },
+    "tofucraft:tofudried": {
+      "chance": 0.3
+    },
+    "tofucraft:tofuegg": {
+      "chance": 0.5
+    },
+    "tofucraft:tofufried": {
+      "chance": 0.5
+    },
+    "tofucraft:tofufried_pouch": {
+      "chance": 0.5
+    },
+    "tofucraft:tofukinu": {
+      "chance": 0.3
+    },
+    "tofucraft:tofumiso": {
+      "chance": 0.5
+    },
+    "tofucraft:tofumomen": {
+      "chance": 0.3
+    },
+    "tofucraft:tofuzunda": {
+      "chance": 0.5
+    },
+    "tsuki:boiled_bonito": {
+      "chance": 0.3
+    },
+    "tsuki:bonito": {
+      "chance": 0.3
+    },
+    "tsuki:bonito_shaving": {
+      "chance": 0.3
+    },
+    "tsuki:breadcrumbs": {
+      "chance": 0.5
+    },
+    "tsuki:brown_rice_cooked": {
+      "chance": 0.5
+    },
+    "tsuki:buckwheat": {
+      "chance": 0.3
+    },
+    "tsuki:buckwheat_bread": {
+      "chance": 0.5
+    },
+    "tsuki:buggys_meat": {
+      "chance": 1.0
+    },
+    "tsuki:bun": {
+      "chance": 0.5
+    },
+    "tsuki:burger": {
+      "chance": 0.5
+    },
+    "tsuki:burger_dish": {
+      "chance": 1.0
+    },
+    "tsuki:burger_raw": {
+      "chance": 0.5
+    },
+    "tsuki:cabbage": {
+      "chance": 0.3
+    },
+    "tsuki:cabbage_roll": {
+      "chance": 1.0
+    },
+    "tsuki:cabbage_seeds": {
+      "chance": 0.3
+    },
+    "tsuki:cheese": {
+      "chance": 0.5
+    },
+    "tsuki:cheese_burger": {
+      "chance": 1.0
+    },
+    "tsuki:chestnut_toasted": {
+      "chance": 0.4
+    },
+    "tsuki:chicken_nanban": {
+      "chance": 1.0
+    },
+    "tsuki:chikuwa": {
+      "chance": 0.5
+    },
+    "tsuki:chikuwa_raw": {
+      "chance": 0.5
+    },
+    "tsuki:chikuzenni": {
+      "chance": 1.0
+    },
+    "tsuki:daifuku": {
+      "chance": 0.85
+    },
+    "tsuki:dananko": {
+      "chance": 0.85
+    },
+    "tsuki:dango": {
+      "chance": 0.5
+    },
+    "tsuki:danmitarashi": {
+      "chance": 0.85
+    },
+    "tsuki:dansansyoku": {
+      "chance": 0.85
+    },
+    "tsuki:dough": {
+      "chance": 0.5
+    },
+    "tsuki:dough_buckwheat": {
+      "chance": 0.5
+    },
+    "tsuki:dough_okinoyaki": {
+      "chance": 0.5
+    },
+    "tsuki:dough_rice": {
+      "chance": 0.5
+    },
+    "tsuki:dried_bonito": {
+      "chance": 0.3
+    },
+    "tsuki:edodes": {
+      "chance": 0.3
+    },
+    "tsuki:eggplant": {
+      "chance": 0.3
+    },
+    "tsuki:eggplant_baked": {
+      "chance": 0.5
+    },
+    "tsuki:eggplant_seeds": {
+      "chance": 0.3
+    },
+    "tsuki:fallen_leaves_green": {
+      "chance": 0.3
+    },
+    "tsuki:fallen_leaves_matsutake": {
+      "chance": 0.3
+    },
+    "tsuki:fallen_leaves_mushroom": {
+      "chance": 0.3
+    },
+    "tsuki:fallen_leaves_orange": {
+      "chance": 0.3
+    },
+    "tsuki:fallen_leaves_red": {
+      "chance": 0.3
+    },
+    "tsuki:fallen_leaves_yellow": {
+      "chance": 0.3
+    },
+    "tsuki:fish_bake": {
+      "chance": 1.0
+    },
+    "tsuki:fish_bake_salt": {
+      "chance": 1.0
+    },
+    "tsuki:fishcake": {
+      "chance": 0.5
+    },
+    "tsuki:furofuki_daikon": {
+      "chance": 1.0
+    },
+    "tsuki:hamburger": {
+      "chance": 1.0
+    },
+    "tsuki:hydra_ramen": {
+      "chance": 1.0
+    },
+    "tsuki:hyorogan": {
+      "chance": 1.0
+    },
+    "tsuki:imotaki": {
+      "chance": 1.0
+    },
+    "tsuki:inari_sushi": {
+      "chance": 0.85
+    },
+    "tsuki:kaeshi": {
+      "chance": 0.3
+    },
+    "tsuki:kamaboko": {
+      "chance": 0.5
+    },
+    "tsuki:kusa_daifuku": {
+      "chance": 0.85
+    },
+    "tsuki:machined_bonito": {
+      "chance": 0.25
+    },
+    "tsuki:machined_fish": {
+      "chance": 0.25
+    },
+    "tsuki:mapleleaves_green": {
+      "chance": 0.3
+    },
+    "tsuki:mapleleaves_orange": {
+      "chance": 0.3
+    },
+    "tsuki:mapleleaves_red": {
+      "chance": 0.3
+    },
+    "tsuki:mapleleaves_yellow": {
+      "chance": 0.3
+    },
+    "tsuki:mashed_potato": {
+      "chance": 0.5
+    },
+    "tsuki:matsutake": {
+      "chance": 0.3
+    },
+    "tsuki:mayo": {
+      "chance": 0.25
+    },
+    "tsuki:minced_meat": {
+      "chance": 0.25
+    },
+    "tsuki:mirin": {
+      "chance": 0.3
+    },
+    "tsuki:mochi": {
+      "chance": 0.5
+    },
+    "tsuki:mochi_sakura": {
+      "chance": 0.85
+    },
+    "tsuki:mochi_toasted": {
+      "chance": 0.75
+    },
+    "tsuki:natto": {
+      "chance": 0.5
+    },
+    "tsuki:nikujaga": {
+      "chance": 1.0
+    },
+    "tsuki:nimono_fish": {
+      "chance": 1.0
+    },
+    "tsuki:nimono_pumpkin": {
+      "chance": 1.0
+    },
+    "tsuki:nimono_radish": {
+      "chance": 1.0
+    },
+    "tsuki:noodle_soup": {
+      "chance": 0.3
+    },
+    "tsuki:noppei_jiru": {
+      "chance": 1.0
+    },
+    "tsuki:nuka": {
+      "chance": 0.3
+    },
+    "tsuki:ohagi": {
+      "chance": 0.85
+    },
+    "tsuki:okinoyaki": {
+      "chance": 1.0
+    },
+    "tsuki:okinoyaki_final": {
+      "chance": 1.0
+    },
+    "tsuki:okinoyaki_plus": {
+      "chance": 1.0
+    },
+    "tsuki:omurice": {
+      "chance": 1.0
+    },
+    "tsuki:onigiri": {
+      "chance": 0.85
+    },
+    "tsuki:onigiri_bamboo": {
+      "chance": 0.85
+    },
+    "tsuki:onigiri_fish": {
+      "chance": 1.0
+    },
+    "tsuki:onigiri_matsutake": {
+      "chance": 1.0
+    },
+    "tsuki:onigiri_mushroom": {
+      "chance": 1.0
+    },
+    "tsuki:onigiri_seaweed": {
+      "chance": 1.0
+    },
+    "tsuki:onigiri_tempura": {
+      "chance": 1.0
+    },
+    "tsuki:onion": {
+      "chance": 0.3
+    },
+    "tsuki:onion_seeds": {
+      "chance": 0.3
+    },
+    "tsuki:osuimono": {
+      "chance": 0.5
+    },
+    "tsuki:pasta_mushroom": {
+      "chance": 1.0
+    },
+    "tsuki:pasta_tomato": {
+      "chance": 1.0
+    },
+    "tsuki:pasta_whitesauce": {
+      "chance": 1.0
+    },
+    "tsuki:pickled_eggplant": {
+      "chance": 0.5
+    },
+    "tsuki:pickled_radish": {
+      "chance": 0.5
+    },
+    "tsuki:radish": {
+      "chance": 0.3
+    },
+    "tsuki:radish_seeds": {
+      "chance": 0.3
+    },
+    "tsuki:ramen": {
+      "chance": 1.0
+    },
+    "tsuki:ramen_beef": {
+      "chance": 1.0
+    },
+    "tsuki:ramen_chicken": {
+      "chance": 1.0
+    },
+    "tsuki:ramen_croquette": {
+      "chance": 1.0
+    },
+    "tsuki:ramen_curry": {
+      "chance": 1.0
+    },
+    "tsuki:ramen_egg": {
+      "chance": 1.0
+    },
+    "tsuki:ramen_friedtofu": {
+      "chance": 1.0
+    },
+    "tsuki:ramen_katsu": {
+      "chance": 1.0
+    },
+    "tsuki:ramen_large": {
+      "chance": 1.0
+    },
+    "tsuki:ramen_tempura": {
+      "chance": 1.0
+    },
+    "tsuki:red_bean": {
+      "chance": 0.3
+    },
+    "tsuki:red_bean_paste": {
+      "chance": 0.5
+    },
+    "tsuki:rice_bamboo": {
+      "chance": 0.85
+    },
+    "tsuki:rice_beef": {
+      "chance": 1.0
+    },
+    "tsuki:rice_beef_egg": {
+      "chance": 1.0
+    },
+    "tsuki:rice_bread": {
+      "chance": 0.5
+    },
+    "tsuki:rice_cooked": {
+      "chance": 0.5
+    },
+    "tsuki:rice_curry": {
+      "chance": 1.0
+    },
+    "tsuki:rice_curry_burger": {
+      "chance": 1.0
+    },
+    "tsuki:rice_curry_cheese": {
+      "chance": 1.0
+    },
+    "tsuki:rice_curry_cheese_burger": {
+      "chance": 1.0
+    },
+    "tsuki:rice_curry_cheese_katsu": {
+      "chance": 1.0
+    },
+    "tsuki:rice_curry_katsu": {
+      "chance": 1.0
+    },
+    "tsuki:rice_egg": {
+      "chance": 0.85
+    },
+    "tsuki:rice_fish": {
+      "chance": 1.0
+    },
+    "tsuki:rice_fried": {
+      "chance": 1.0
+    },
+    "tsuki:rice_matsutake": {
+      "chance": 1.0
+    },
+    "tsuki:rice_mushroom": {
+      "chance": 1.0
+    },
+    "tsuki:rice_natto": {
+      "chance": 0.85
+    },
+    "tsuki:rice_natto_egg": {
+      "chance": 1.0
+    },
+    "tsuki:rice_oyako": {
+      "chance": 1.0
+    },
+    "tsuki:rice_oyako_fish": {
+      "chance": 1.0
+    },
+    "tsuki:rice_pork": {
+      "chance": 1.0
+    },
+    "tsuki:rice_pork_egg": {
+      "chance": 1.0
+    },
+    "tsuki:rice_redbean": {
+      "chance": 0.85
+    },
+    "tsuki:rice_seeds": {
+      "chance": 0.3
+    },
+    "tsuki:roast_matsutake": {
+      "chance": 0.5
+    },
+    "tsuki:sakuraleaves": {
+      "chance": 0.3
+    },
+    "tsuki:sashimi": {
+      "chance": 1.0
+    },
+    "tsuki:satsumaage": {
+      "chance": 0.5
+    },
+    "tsuki:shimeji": {
+      "chance": 0.3
+    },
+    "tsuki:shrimp": {
+      "chance": 0.2
+    },
+    "tsuki:sliced_cabbage": {
+      "chance": 0.3
+    },
+    "tsuki:soba": {
+      "chance": 1.0
+    },
+    "tsuki:soba_beef": {
+      "chance": 1.0
+    },
+    "tsuki:soba_chicken": {
+      "chance": 1.0
+    },
+    "tsuki:soba_croquette": {
+      "chance": 1.0
+    },
+    "tsuki:soba_curry": {
+      "chance": 1.0
+    },
+    "tsuki:soba_egg": {
+      "chance": 1.0
+    },
+    "tsuki:soba_friedtofu": {
+      "chance": 1.0
+    },
+    "tsuki:soba_katsu": {
+      "chance": 1.0
+    },
+    "tsuki:soba_large": {
+      "chance": 1.0
+    },
+    "tsuki:soba_tempura": {
+      "chance": 1.0
+    },
+    "tsuki:soba_zaru": {
+      "chance": 1.0
+    },
+    "tsuki:soup_miso": {
+      "chance": 0.5
+    },
+    "tsuki:soup_red_bean": {
+      "chance": 0.5
+    },
+    "tsuki:soybean": {
+      "chance": 0.3
+    },
+    "tsuki:soysauce": {
+      "chance": 0.3
+    },
+    "tsuki:straw": {
+      "chance": 0.3
+    },
+    "tsuki:sunflower_seeds": {
+      "chance": 0.3
+    },
+    "tsuki:surimi": {
+      "chance": 0.25
+    },
+    "tsuki:sushi": {
+      "chance": 0.85
+    },
+    "tsuki:sushi_shrimp": {
+      "chance": 0.85
+    },
+    "tsuki:sushi_tamago": {
+      "chance": 0.85
+    },
+    "tsuki:tamagoyaki": {
+      "chance": 0.75
+    },
+    "tsuki:taro": {
+      "chance": 0.3
+    },
+    "tsuki:taro_baked": {
+      "chance": 0.5
+    },
+    "tsuki:tempura": {
+      "chance": 0.5
+    },
+    "tsuki:tofu": {
+      "chance": 0.5
+    },
+    "tsuki:tofu_fried": {
+      "chance": 0.5
+    },
+    "tsuki:tofu_nanban": {
+      "chance": 1.0
+    },
+    "tsuki:tomato": {
+      "chance": 0.3
+    },
+    "tsuki:tomato_sauce": {
+      "chance": 0.25
+    },
+    "tsuki:tomato_seeds": {
+      "chance": 0.3
+    },
+    "tsuki:udon": {
+      "chance": 1.0
+    },
+    "tsuki:udon_beef": {
+      "chance": 1.0
+    },
+    "tsuki:udon_chicken": {
+      "chance": 1.0
+    },
+    "tsuki:udon_croquette": {
+      "chance": 1.0
+    },
+    "tsuki:udon_curry": {
+      "chance": 1.0
+    },
+    "tsuki:udon_egg": {
+      "chance": 1.0
+    },
+    "tsuki:udon_friedtofu": {
+      "chance": 1.0
+    },
+    "tsuki:udon_katsu": {
+      "chance": 1.0
+    },
+    "tsuki:udon_large": {
+      "chance": 1.0
+    },
+    "tsuki:udon_tempura": {
+      "chance": 1.0
+    },
+    "tsuki:ume": {
+      "chance": 0.3
+    },
+    "tsuki:umeboshi": {
+      "chance": 0.3
+    },
+    "tsuki:vinegar_rice": {
+      "chance": 0.5
+    },
+    "tsuki:worcester_sauce": {
+      "chance": 0.3
+    },
+    "tsuki:yaki_pasta": {
+      "chance": 1.0
+    },
+    "tsuki:yaki_udon": {
+      "chance": 1.0
+    },
+    "tsuki:yakiniku": {
+      "chance": 1.0
+    },
+    "vintagedelight:century_egg": {
+      "chance": 0.9
+    },
+    "vintagedelight:cucumber": {
+      "chance": 0.3
+    },
+    "vintagedelight:cucumber_seeds": {
+      "chance": 0.3
+    },
+    "vintagedelight:gearo_berry": {
+      "chance": 0.4
+    },
+    "vintagedelight:ghost_pepper": {
+      "chance": 0.4
+    },
+    "vintagedelight:ghost_pepper_seeds": {
+      "chance": 0.3
+    },
+    "vintagedelight:magic_peanut": {
+      "chance": 0.85
+    },
+    "vintagedelight:oat": {
+      "chance": 0.3
+    },
+    "vintagedelight:oat_seeds": {
+      "chance": 0.3
+    },
+    "vintagedelight:peanut": {
+      "chance": 0.4
+    },
+    "vintagedelight:pickle": {
+      "chance": 0.4
+    },
+    "vintagedelight:pickled_beetroot": {
+      "chance": 0.6
+    },
+    "vintagedelight:pickled_egg": {
+      "chance": 0.6
+    },
+    "vintagedelight:pickled_onion": {
+      "chance": 0.6
+    },
+    "vintagedelight:pickled_pepper": {
+      "chance": 0.4
+    },
+    "vintagedelight:pickled_pitcher_pod": {
+      "chance": 0.6
+    }
+  },
+  "moonlight_parse_on_fabric": true
+}

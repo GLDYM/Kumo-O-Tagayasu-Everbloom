@@ -1,0 +1,46 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:plains",
+    "minecraft:savanna",
+    "minecraft:sunflower_plains",
+    "minecraft:forest",
+    "birch_forest",
+    "dark_forest",
+    "old_growth_birch_forest",
+    "old_growth_spruce_taiga",
+    "old_growth_pine_taiga",
+    {
+      "id": "terralith:brushland",
+      "required": false
+    },
+    {
+      "id": "terralith:savanna_badlands",
+      "required": false
+    },
+    {
+      "id": "terralith:savanna_slopes",
+      "required": false
+    },
+    {
+      "id": "terralith:shrubland",
+      "required": false
+    },
+    {
+      "id": "terralith:hot_shrubland",
+      "required": false
+    },
+    {
+      "id": "#c:is_savanna",
+      "required": false
+    },
+    {
+      "id": "#c:forest",
+      "required": false
+    },
+    {
+      "id": "#terralith:has_structure/fortified_village",
+      "required": false
+    }
+  ]
+}

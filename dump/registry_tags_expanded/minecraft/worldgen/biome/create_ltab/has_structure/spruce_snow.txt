@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: create_ltab:has_structure/spruce_snow
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.8854073+08:00
+
+minecraft:snowy_plains
+minecraft:taiga

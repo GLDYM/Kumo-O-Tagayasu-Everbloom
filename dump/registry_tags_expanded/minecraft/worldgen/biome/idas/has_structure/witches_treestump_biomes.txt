@@ -1,9 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:worldgen/biome
-# Tag: idas:has_structure/witches_treestump_biomes
-# Entries: 2
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.918469+08:00
-
-minecraft:dark_forest
-minecraft:forest

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "tatd_cherry_cake",
+  "key": {
+    "#": {
+      "item": "minecraft:wheat"
+    },
+    "a": {
+      "item": "trailandtales_delight:cheese_slice"
+    },
+    "c": {
+      "item": "trailandtales_delight:cherry_petal"
+    },
+    "x": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "###",
+    "aca",
+    "xcx"
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:cherry_cake"
+  }
+}

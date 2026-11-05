@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "create:crushed_raw_tin"
+  },
+  "result": {
+    "id": "simplemetals_tin:tin_ingot"
+  }
+}

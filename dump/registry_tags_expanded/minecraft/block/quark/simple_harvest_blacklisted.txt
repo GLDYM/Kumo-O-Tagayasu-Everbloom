@@ -1,7 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: quark:simple_harvest_blacklisted
-# Entries: 0
+# Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.1321817+08:00
+# Generated: 2026-11-05T11:35:45.5810094+08:00
 
+tsuki:grape_vine
+tsuki:hops_crop
+tsuki:pepper_crop
+tsuki:vanilla_crop

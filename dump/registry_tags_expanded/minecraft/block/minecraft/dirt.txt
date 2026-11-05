@@ -1,11 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:dirt
-# Entries: 15
+# Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.7431364+08:00
+# Generated: 2026-11-05T11:35:44.7837647+08:00
 
-atmospheric:crustose
+crabbersdelight:wormy_dirt
 delighto_flight:weather_soil
 farmersdelight:rich_soil
 minecraft:coarse_dirt
@@ -15,6 +15,7 @@ minecraft:moss_block
 minecraft:mud
 minecraft:muddy_mangrove_roots
 minecraft:mycelium
+minecraft:pale_moss_block
 minecraft:podzol
 minecraft:rooted_dirt
 mynethersdelight:resurgent_soil

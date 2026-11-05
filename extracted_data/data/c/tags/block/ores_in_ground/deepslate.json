@@ -1,0 +1,11 @@
+{
+  "values": [
+    "create:deepslate_zinc_ore",
+    "createnuclear:deepslate_uranium_ore",
+    "createnuclear:deepslate_lead_ore",
+    "createnuclear:deepslate_thorium_ore",
+    "createnuclear:deepslate_nitrate_ore",
+    "irons_spellbooks:deepslate_mithril_ore",
+    "iss_magicfromtheeast:deepslate_jade_ore"
+  ]
+}

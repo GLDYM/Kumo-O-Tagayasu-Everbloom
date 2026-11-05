@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:not_upright_on_belt
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:51.4158636+08:00
+
+fluidlogistics:fluid_package
+fluidlogistics:fluid_package_exposed
+fluidlogistics:fluid_package_oxidized
+fluidlogistics:fluid_package_weathered
+fluidlogistics:rare_fox_package
+fluidlogistics:rare_pig_package

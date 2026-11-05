@@ -1,0 +1,30 @@
+{
+  "values": [
+    "copycats:copycat_fence_gate",
+    "minecraft:cobweb",
+    "minecraft:powder_snow",
+    "minecraft:tripwire",
+    "minecraft:tripwire_hook",
+    "minecraft:bamboo_sapling",
+    "minecraft:vine",
+    "minecraft:twisting_vines_plant",
+    "minecraft:twisting_vines",
+    "minecraft:weeping_vines_plant",
+    "minecraft:weeping_vines",
+    "#create:corals",
+    "#minecraft:cave_vines",
+    "#minecraft:fence_gates",
+    "#minecraft:banners",
+    "create_connected:copycat_fence_gate",
+    "create_connected:wrapped_copycat_fence_gate",
+    "railways:buffer",
+    "railways:buffer_narrow",
+    "railways:buffer_mono",
+    "railways:buffer_wide",
+    {
+      "id": "#supplementaries:timber_frames",
+      "required": false
+    }
+  ],
+  "replace": false
+}

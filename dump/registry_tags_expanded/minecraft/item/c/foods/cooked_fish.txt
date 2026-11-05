@@ -1,13 +1,14 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:foods/cooked_fish
-# Entries: 7
+# Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.8842858+08:00
+# Generated: 2026-11-05T11:35:49.2981346+08:00
 
 crabbersdelight:cooked_pufferfish_slice
 crabbersdelight:cooked_tropical_fish
 crabbersdelight:cooked_tropical_fish_slice
+create_bic_bit:cooked_herring
 farmersdelight:cooked_cod_slice
 farmersdelight:cooked_salmon_slice
 minecraft:cooked_cod

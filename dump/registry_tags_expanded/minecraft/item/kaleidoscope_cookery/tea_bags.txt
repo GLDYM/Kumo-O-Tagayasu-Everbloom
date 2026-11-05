@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_cookery:tea_bags
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.5152271+08:00
+
+kaleidoscope_chinesefood:dianhong_tea_bag
+kaleidoscope_cookery:barley_tea_bag
+kaleidoscope_cookery:biluochun_tea_bag
+kaleidoscope_cookery:butter_tea_bag
+kaleidoscope_cookery:oolong_tea_bag
+kaleidoscope_cookery:sakura_fubuki_tea_bag
+kaleidoscope_cookery:tieguanyin_tea_bag

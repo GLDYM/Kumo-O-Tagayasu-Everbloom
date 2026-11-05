@@ -1,0 +1,158 @@
+{
+  "values": {
+    "alloyed:cut_bronze": {
+      "waxed": "alloyed:waxed_cut_bronze"
+    },
+    "alloyed:cut_bronze_slab": {
+      "waxed": "alloyed:waxed_cut_bronze_slab"
+    },
+    "alloyed:cut_bronze_stairs": {
+      "waxed": "alloyed:waxed_cut_bronze_stairs"
+    },
+    "alloyed:cut_exposed_bronze": {
+      "waxed": "alloyed:waxed_cut_exposed_bronze"
+    },
+    "alloyed:cut_exposed_bronze_slab": {
+      "waxed": "alloyed:waxed_cut_exposed_bronze_slab"
+    },
+    "alloyed:cut_exposed_bronze_stairs": {
+      "waxed": "alloyed:waxed_cut_exposed_bronze_stairs"
+    },
+    "alloyed:cut_weathered_bronze": {
+      "waxed": "alloyed:waxed_cut_weathered_bronze"
+    },
+    "alloyed:cut_weathered_bronze_slab": {
+      "waxed": "alloyed:waxed_cut_weathered_bronze_slab"
+    },
+    "alloyed:cut_weathered_bronze_stairs": {
+      "waxed": "alloyed:waxed_cut_weathered_bronze_stairs"
+    },
+    "alloyed:cut_oxidized_bronze": {
+      "waxed": "alloyed:waxed_cut_oxidized_bronze"
+    },
+    "alloyed:cut_oxidized_bronze_slab": {
+      "waxed": "alloyed:waxed_cut_oxidized_bronze_slab"
+    },
+    "alloyed:cut_oxidized_bronze_stairs": {
+      "waxed": "alloyed:waxed_cut_oxidized_bronze_stairs"
+    },
+    "alloyed:bronze_pillar": {
+      "waxed": "alloyed:waxed_bronze_pillar"
+    },
+    "alloyed:exposed_bronze_pillar": {
+      "waxed": "alloyed:waxed_exposed_bronze_pillar"
+    },
+    "alloyed:weathered_bronze_pillar": {
+      "waxed": "alloyed:waxed_weathered_bronze_pillar"
+    },
+    "alloyed:oxidized_bronze_pillar": {
+      "waxed": "alloyed:waxed_oxidized_bronze_pillar"
+    },
+    "create:copper_shingle_slab": {
+      "waxed": "create:waxed_copper_shingle_slab"
+    },
+    "create:copper_shingle_stairs": {
+      "waxed": "create:waxed_copper_shingle_stairs"
+    },
+    "create:copper_shingles": {
+      "waxed": "create:waxed_copper_shingles"
+    },
+    "create:copper_tile_slab": {
+      "waxed": "create:waxed_copper_tile_slab"
+    },
+    "create:copper_tile_stairs": {
+      "waxed": "create:waxed_copper_tile_stairs"
+    },
+    "create:copper_tiles": {
+      "waxed": "create:waxed_copper_tiles"
+    },
+    "create:exposed_copper_shingle_slab": {
+      "waxed": "create:waxed_exposed_copper_shingle_slab"
+    },
+    "create:exposed_copper_shingle_stairs": {
+      "waxed": "create:waxed_exposed_copper_shingle_stairs"
+    },
+    "create:exposed_copper_shingles": {
+      "waxed": "create:waxed_exposed_copper_shingles"
+    },
+    "create:exposed_copper_tile_slab": {
+      "waxed": "create:waxed_exposed_copper_tile_slab"
+    },
+    "create:exposed_copper_tile_stairs": {
+      "waxed": "create:waxed_exposed_copper_tile_stairs"
+    },
+    "create:exposed_copper_tiles": {
+      "waxed": "create:waxed_exposed_copper_tiles"
+    },
+    "create:oxidized_copper_shingle_slab": {
+      "waxed": "create:waxed_oxidized_copper_shingle_slab"
+    },
+    "create:oxidized_copper_shingle_stairs": {
+      "waxed": "create:waxed_oxidized_copper_shingle_stairs"
+    },
+    "create:oxidized_copper_shingles": {
+      "waxed": "create:waxed_oxidized_copper_shingles"
+    },
+    "create:oxidized_copper_tile_slab": {
+      "waxed": "create:waxed_oxidized_copper_tile_slab"
+    },
+    "create:oxidized_copper_tile_stairs": {
+      "waxed": "create:waxed_oxidized_copper_tile_stairs"
+    },
+    "create:oxidized_copper_tiles": {
+      "waxed": "create:waxed_oxidized_copper_tiles"
+    },
+    "create:weathered_copper_shingle_slab": {
+      "waxed": "create:waxed_weathered_copper_shingle_slab"
+    },
+    "create:weathered_copper_shingle_stairs": {
+      "waxed": "create:waxed_weathered_copper_shingle_stairs"
+    },
+    "create:weathered_copper_shingles": {
+      "waxed": "create:waxed_weathered_copper_shingles"
+    },
+    "create:weathered_copper_tile_slab": {
+      "waxed": "create:waxed_weathered_copper_tile_slab"
+    },
+    "create:weathered_copper_tile_stairs": {
+      "waxed": "create:waxed_weathered_copper_tile_stairs"
+    },
+    "create:weathered_copper_tiles": {
+      "waxed": "create:waxed_weathered_copper_tiles"
+    },
+    "dramaticdoors:short_copper_door": {
+      "waxed": "dramaticdoors:short_waxed_copper_door"
+    },
+    "dramaticdoors:short_exposed_copper_door": {
+      "waxed": "dramaticdoors:short_waxed_exposed_copper_door"
+    },
+    "dramaticdoors:short_weathered_copper_door": {
+      "waxed": "dramaticdoors:short_waxed_weathered_copper_door"
+    },
+    "dramaticdoors:short_oxidized_copper_door": {
+      "waxed": "dramaticdoors:short_waxed_oxidized_copper_door"
+    },
+    "dramaticdoors:tall_copper_door": {
+      "waxed": "dramaticdoors:tall_waxed_copper_door"
+    },
+    "dramaticdoors:tall_exposed_copper_door": {
+      "waxed": "dramaticdoors:tall_waxed_exposed_copper_door"
+    },
+    "dramaticdoors:tall_weathered_copper_door": {
+      "waxed": "dramaticdoors:tall_waxed_weathered_copper_door"
+    },
+    "dramaticdoors:tall_oxidized_copper_door": {
+      "waxed": "dramaticdoors:tall_waxed_oxidized_copper_door"
+    },
+    "tofucraft:blocktofuishi": {
+      "waxed": "tofucraft:waxed_tofu_ishi"
+    },
+    "tofucraft:blocktofukinu": {
+      "waxed": "tofucraft:waxed_tofu_kinu"
+    },
+    "tofucraft:blocktofumomen": {
+      "waxed": "tofucraft:waxed_tofu_momen"
+    }
+  },
+  "replace": false
+}

@@ -1,0 +1,43 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "soulsweapons"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "emiffect"
+      }
+    }
+  ],
+  "type": "jeed:effect_provider",
+  "effect": "minecraft:haste",
+  "providers": [
+    {
+      "item": "soulsweapons:supernova"
+    },
+    {
+      "item": "soulsweapons:darkin_blade"
+    },
+    {
+      "item": "soulsweapons:rageblade"
+    },
+    {
+      "item": "soulsweapons:guts_sword"
+    },
+    {
+      "item": "soulsweapons:nightfall"
+    },
+    {
+      "item": "soulsweapons:featherlight"
+    },
+    {
+      "item": "soulsweapons:kirkhammer"
+    },
+    {
+      "item": "soulsweapons:chungus_staff"
+    }
+  ]
+}

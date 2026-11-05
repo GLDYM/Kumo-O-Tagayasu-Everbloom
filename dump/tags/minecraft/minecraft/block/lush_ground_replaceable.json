@@ -1,7 +1,11 @@
 {
   "values": [
-    "dndecor:weathered_limestone",
-    "dndecor:gabbro",
-    "dndecor:dolomite"
+    "create:asurine",
+    "create:crimsite",
+    "create:limestone",
+    "create:ochrum",
+    "create:scoria",
+    "create:scorchia",
+    "create:veridium"
   ]
 }

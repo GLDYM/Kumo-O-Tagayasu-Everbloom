@@ -3,7 +3,7 @@
 # Tag: c:foods/shulker_meat
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.0219844+08:00
+# Generated: 2026-11-05T11:35:49.5230771+08:00
 
 ends_delight:shulker_meat
 ends_delight:shulker_meat_slice

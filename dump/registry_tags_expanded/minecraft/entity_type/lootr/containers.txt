@@ -1,8 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:entity_type
 # Tag: lootr:containers
-# Entries: 1
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.7276874+08:00
+# Generated: 2026-11-05T11:35:46.9732949+08:00
 
 lootr:item_frame
+lootr:lootr_minecart

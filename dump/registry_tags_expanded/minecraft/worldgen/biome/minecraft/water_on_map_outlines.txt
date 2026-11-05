@@ -1,12 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:worldgen/biome
 # Tag: minecraft:water_on_map_outlines
-# Entries: 15
+# Entries: 13
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.2559872+08:00
+# Generated: 2026-11-05T11:35:59.5879019+08:00
 
-atmospheric:rainforest_basin
-atmospheric:sparse_rainforest_basin
 minecraft:cold_ocean
 minecraft:deep_cold_ocean
 minecraft:deep_frozen_ocean

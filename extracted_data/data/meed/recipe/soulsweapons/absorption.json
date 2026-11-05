@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "soulsweapons"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "emiffect"
+      }
+    }
+  ],
+  "type": "jeed:effect_provider",
+  "effect": "minecraft:absorption",
+  "providers": [
+    {
+      "item": "soulsweapons:nightfall"
+    },
+    {
+      "item": "soulsweapons:glaive_of_hodir"
+    }
+  ]
+}

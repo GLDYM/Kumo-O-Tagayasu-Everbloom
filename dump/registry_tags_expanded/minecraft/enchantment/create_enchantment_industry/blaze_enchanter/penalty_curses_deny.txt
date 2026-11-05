@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:enchantment
+# Tag: create_enchantment_industry:blaze_enchanter/penalty_curses_deny
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:46.6027391+08:00
+

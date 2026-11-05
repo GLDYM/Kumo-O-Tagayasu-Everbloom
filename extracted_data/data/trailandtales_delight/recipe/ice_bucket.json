@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "trailandtales_delight:crystal_wood_planks"
+    },
+    "S": {
+      "item": "trailandtales_delight:crystal_wood_trapdoor"
+    },
+    "W": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "pattern": [
+    "PSP",
+    "PWP",
+    "PPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:ice_bucket"
+  }
+}

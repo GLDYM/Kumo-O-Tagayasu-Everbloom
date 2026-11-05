@@ -1,8 +1,41 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: forge:tools/knives
-# Entries: 1
+# Entries: 34
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.7632309+08:00
+# Generated: 2026-11-05T11:35:53.0166954+08:00
 
+alloyed:steel_knife
+bakeries:bread_knife
+ends_delight:dragon_egg_shell_knife
+ends_delight:dragon_tooth_knife
+ends_delight:end_stone_knife
+ends_delight:purpur_knife
+farmers_spell:boreal_knife
+farmers_spell:echoing_knife
+farmers_spell:gospel
+farmers_spell:grow_knife
+farmers_spell:hell_knife
+farmers_spell:mithril_knife
+farmers_spell:twilight_blade
+farmersdelight:diamond_knife
+farmersdelight:flint_knife
+farmersdelight:golden_knife
+farmersdelight:iron_knife
+farmersdelight:netherite_knife
 immortalers_delight:ancient_blade
+immortalers_delight:bone_knife
+immortalers_delight:pillager_knife
+immortalers_delight:rusty_ancient_blade
+kaleidoscope_cookery:diamond_kitchen_knife
+kaleidoscope_cookery:gold_kitchen_knife
+kaleidoscope_cookery:iron_kitchen_knife
+kaleidoscope_cookery:netherite_kitchen_knife
+trailandtales_delight:cherry_iron_knife
+trailandtales_delight:crimson_crystal_knife
+trailandtales_delight:cyan_crystal_knife
+trailandtales_delight:sniffer_eggshell_knife
+tsuki:knife_fish
+tsuki:knife_noodle
+tsuki:sakura_knife_fish
+tsuki:sakura_knife_noodle

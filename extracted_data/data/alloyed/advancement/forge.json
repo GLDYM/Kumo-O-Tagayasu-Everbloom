@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:story/iron_tools",
+  "criteria": {
+    "has_steel_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "alloyed:forge"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.alloyed.forge.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "id": "alloyed:forge"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.alloyed.forge.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_steel_ingot"
+    ]
+  ]
+}

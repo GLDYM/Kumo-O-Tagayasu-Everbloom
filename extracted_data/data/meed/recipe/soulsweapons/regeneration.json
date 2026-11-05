@@ -1,0 +1,31 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "soulsweapons"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "emiffect"
+      }
+    }
+  ],
+  "type": "jeed:effect_provider",
+  "effect": "minecraft:regeneration",
+  "providers": [
+    {
+      "item": "soulsweapons:chaos_crown"
+    },
+    {
+      "item": "soulsweapons:chaos_helmet"
+    },
+    {
+      "item": "soulsweapons:enhanced_withered_chest"
+    },
+    {
+      "item": "soulsweapons:warmth_entity_spawn_egg"
+    }
+  ]
+}

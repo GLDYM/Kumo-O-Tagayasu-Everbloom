@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: create_ltab:core
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:59.9111499+08:00
+
+create_ltab:dungeon_desert
+create_ltab:dungeon_jungle
+create_ltab:dungeon_plains
+create_ltab:dungeon_snow
+create_ltab:grot
+create_ltab:quarry

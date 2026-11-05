@@ -1,0 +1,24 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: ati_structures:storage_shack
+# Entries: 17
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.4473886+08:00
+
+minecraft:bamboo_jungle
+minecraft:birch_forest
+minecraft:dappled_forest
+minecraft:dark_forest
+minecraft:flower_forest
+minecraft:forest
+minecraft:grove
+minecraft:jungle
+minecraft:meadow
+minecraft:old_growth_birch_forest
+minecraft:pale_garden
+minecraft:plains
+minecraft:savanna
+minecraft:snowy_plains
+minecraft:sparse_jungle
+minecraft:taiga
+tsuki:maple_forest

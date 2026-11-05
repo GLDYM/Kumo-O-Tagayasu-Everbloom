@@ -3,7 +3,7 @@
 # Tag: handcrafted:dining_benches
 # Entries: 11
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.3411277+08:00
+# Generated: 2026-11-05T11:35:44.0174096+08:00
 
 handcrafted:acacia_dining_bench
 handcrafted:bamboo_dining_bench

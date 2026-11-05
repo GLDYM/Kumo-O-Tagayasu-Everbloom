@@ -1,11 +1,10 @@
 # Registry dump
 # Registry: minecraft:item_sub_predicate_type
 # Minecraft: 1.21.1
-# Entries: 20
-# Generated: 2026-06-18T20:40:59.2473849+08:00
+# Entries: 19
+# Generated: 2026-11-05T11:31:32.9613947+08:00
 
-bookshelf:namespace raw_id=17 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
-exposure:frame raw_id=16 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+bookshelf:namespace raw_id=16 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
 minecraft:attribute_modifiers raw_id=11 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
 minecraft:bundle_contents raw_id=6 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
 minecraft:container raw_id=5 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
@@ -22,5 +21,5 @@ minecraft:writable_book_content raw_id=9 class=net.minecraft.advancements.criter
 minecraft:written_book_content raw_id=10 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
 neoforge:item_ability raw_id=14 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
 neoforge:piglin_currency raw_id=15 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
-someassemblyrequired:is_double_decker raw_id=19 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
-someassemblyrequired:sandwich_contents raw_id=18 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+someassemblyrequired:is_double_decker raw_id=18 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type
+someassemblyrequired:sandwich_contents raw_id=17 class=net.minecraft.advancements.critereon.ItemSubPredicate$Type

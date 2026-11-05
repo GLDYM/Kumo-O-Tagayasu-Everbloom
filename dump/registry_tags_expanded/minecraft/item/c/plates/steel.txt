@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:plates/steel
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:50.354372+08:00
+
+alloyed:steel_sheet

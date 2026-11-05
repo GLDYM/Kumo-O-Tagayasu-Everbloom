@@ -1,12 +1,9 @@
 # Registry dump
 # Registry: minecraft:decorated_pot_pattern
 # Minecraft: 1.21.1
-# Entries: 31
-# Generated: 2026-06-18T20:43:28.3146371+08:00
+# Entries: 24
+# Generated: 2026-11-05T11:35:22.3540204+08:00
 
-atmospheric:scythe raw_id=28 class=net.minecraft.world.level.block.entity.DecoratedPotPattern
-atmospheric:succulent raw_id=29 class=net.minecraft.world.level.block.entity.DecoratedPotPattern
-atmospheric:sun raw_id=30 class=net.minecraft.world.level.block.entity.DecoratedPotPattern
 minecraft:angler raw_id=0 class=net.minecraft.world.level.block.entity.DecoratedPotPattern
 minecraft:archer raw_id=1 class=net.minecraft.world.level.block.entity.DecoratedPotPattern
 minecraft:arms_up raw_id=2 class=net.minecraft.world.level.block.entity.DecoratedPotPattern
@@ -31,7 +28,3 @@ minecraft:sheaf raw_id=19 class=net.minecraft.world.level.block.entity.Decorated
 minecraft:shelter raw_id=20 class=net.minecraft.world.level.block.entity.DecoratedPotPattern
 minecraft:skull raw_id=21 class=net.minecraft.world.level.block.entity.DecoratedPotPattern
 minecraft:snort raw_id=22 class=net.minecraft.world.level.block.entity.DecoratedPotPattern
-neapolitan:reflection raw_id=24 class=net.minecraft.world.level.block.entity.DecoratedPotPattern
-neapolitan:scream raw_id=25 class=net.minecraft.world.level.block.entity.DecoratedPotPattern
-neapolitan:snack raw_id=26 class=net.minecraft.world.level.block.entity.DecoratedPotPattern
-neapolitan:spider raw_id=27 class=net.minecraft.world.level.block.entity.DecoratedPotPattern

@@ -1,0 +1,27 @@
+{
+  "values": [
+    "trailandtales_delight:crystal_wood_stairs",
+    "crabbersdelight:palm_stairs",
+    "immortalers_delight:himekaido_stairs",
+    "immortalers_delight:leisamboo_stairs",
+    "immortalers_delight:pearlip_shell_stairs",
+    "immortalers_delight:ancient_wood_stairs",
+    "immortalers_delight:a_bush_stairs",
+    "mynethersdelight:powdery_stairs",
+    "tofucraft:tofustem_stair",
+    "tofucraft:leek_stair",
+    "tofucraft:leek_green_stair",
+    "tsuki:stairs_plank_sakura",
+    "tsuki:stairs_plank_maple",
+    "tsuki:stairs_plank_ume",
+    "tsuki:stairs_plank_bamboo",
+    "tsuki:stairs_bamboo_block",
+    "tsuki:stairs_bamboo_block_sunburnt",
+    "minecraft:pale_oak_stairs",
+    "minecraft:poplar_stairs",
+    "vintagedelight:vine_tile_stairs",
+    "youkaishomecoming:hay_stairs",
+    "youkaishomecoming:straw_stairs"
+  ],
+  "replace": false
+}

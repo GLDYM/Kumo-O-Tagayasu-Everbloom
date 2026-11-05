@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      {
+        "item": "trailandtales_delight:unripe_crystal_crabapple"
+      },
+      {
+        "item": "trailandtales_delight:unripe_crystal_crabapple_slice"
+      }
+    ],
+    [
+      {
+        "item": "trailandtales_delight:crystal_crabapple"
+      },
+      {
+        "item": "trailandtales_delight:crystal_crabapple_slice"
+      }
+    ],
+    [
+      {
+        "item": "trailandtales_delight:unripe_crystal_crabapple"
+      },
+      {
+        "item": "trailandtales_delight:unripe_crystal_crabapple_slice"
+      }
+    ],
+    [
+      {
+        "item": "trailandtales_delight:crystal_crabapple"
+      },
+      {
+        "item": "trailandtales_delight:crystal_crabapple_slice"
+      }
+    ],
+    {
+      "item": "trailandtales_delight:pottery_bowl"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:mixed_crystal_crabapple_salad"
+  }
+}

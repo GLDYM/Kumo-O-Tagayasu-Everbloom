@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/magenta/windows
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.5271665+08:00
+
+railways:magenta_four_pane_locometal_window
+railways:magenta_round_pane_locometal_window
+railways:magenta_single_pane_locometal_window
+railways:magenta_two_pane_locometal_window

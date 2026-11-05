@@ -1,7 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: dramaticdoors:categories/short_createalloyed_doors
-# Entries: 0
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.3465093+08:00
+# Generated: 2026-11-05T11:35:52.0823558+08:00
 
+dramaticdoors:short_locked_steel_door
+dramaticdoors:short_steel_door

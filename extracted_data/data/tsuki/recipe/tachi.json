@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "tag": "c:tools/hammers"
+    },
+    "L": {
+      "tag": "c:lumber"
+    },
+    "S": {
+      "tag": "c:ingots/steel"
+    }
+  },
+  "pattern": [
+    "  S",
+    "SS ",
+    "L H"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tsuki:tachi"
+  }
+}

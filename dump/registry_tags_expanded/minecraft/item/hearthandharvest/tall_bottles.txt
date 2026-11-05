@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: hearthandharvest:tall_bottles
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.1868223+08:00
+
+crabbersdelight:bottled_note
+crabbersdelight:message_bottle

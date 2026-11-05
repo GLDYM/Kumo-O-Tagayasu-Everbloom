@@ -3,6 +3,6 @@
 # Tag: touhou_little_maid:maid_vanishing_blocklist_item
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.2292585+08:00
+# Generated: 2026-11-05T11:35:57.7570322+08:00
 
 touhou_little_maid:ultramarine_orb_elixir

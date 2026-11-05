@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:nautilus_bucket_food
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:54.3290906+08:00
+
+minecraft:cod_bucket
+minecraft:pufferfish_bucket
+minecraft:salmon_bucket
+minecraft:tropical_fish_bucket

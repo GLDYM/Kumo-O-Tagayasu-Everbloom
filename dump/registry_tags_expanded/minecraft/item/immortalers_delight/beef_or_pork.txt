@@ -1,0 +1,20 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: immortalers_delight:beef_or_pork
+# Entries: 13
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.2055958+08:00
+
+farmersdelight:bacon
+farmersdelight:minced_beef
+immortalers_delight:raw_sniffer_slice
+immortalers_delight:raw_sniffer_steak
+kaleidoscope_cookery:raw_cow_offal
+kaleidoscope_cookery:raw_pork_belly
+kaleidoscope_nether:ham
+kaleidoscope_nether:ham_slice
+kaleidoscope_nether:raw_piglin_meat
+minecraft:beef
+minecraft:porkchop
+mynethersdelight:hoglin_loin
+mynethersdelight:hoglin_sausage

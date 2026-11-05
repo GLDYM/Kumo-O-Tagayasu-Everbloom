@@ -1,0 +1,17 @@
+{
+  "type": "tsuki:stone_mortar",
+  "experience": 0,
+  "ingredient": {
+    "count": 2,
+    "tag": "tsuki:rice/brown"
+  },
+  "recipeTime": 200,
+  "results": [
+    {
+      "id": "tsuki:rice"
+    },
+    {
+      "id": "tsuki:nuka"
+    }
+  ]
+}

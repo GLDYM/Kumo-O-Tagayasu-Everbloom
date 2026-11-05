@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "amendments:skull_candle_soul",
+      "required": false
+    },
+    {
+      "id": "amendments:skull_candle_soul_wall",
+      "required": false
+    },
+    "mynethersdelight:zoglin_trophy",
+    "mynethersdelight:bullet_pepper",
+    "supplementaries:sconce_soul",
+    "supplementaries:sconce_wall_soul",
+    {
+      "id": "supplementaries:candle_holder_soul",
+      "required": false
+    },
+    "tofucraft:soybean_soul"
+  ]
+}

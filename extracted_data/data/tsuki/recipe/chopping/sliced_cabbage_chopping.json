@@ -1,0 +1,23 @@
+{
+  "type": "tsuki:chopping",
+  "byproducts": [
+    {
+      "id": "tsuki:sliced_cabbage"
+    },
+    {
+      "chance": 0.5,
+      "id": "tsuki:sliced_cabbage"
+    }
+  ],
+  "experience": 1,
+  "ingredient": {
+    "item": "tsuki:cabbage"
+  },
+  "recipeTime": 1,
+  "result": {
+    "id": "tsuki:sliced_cabbage"
+  },
+  "tool": {
+    "tag": "tsuki:tools/knives/fish"
+  }
+}

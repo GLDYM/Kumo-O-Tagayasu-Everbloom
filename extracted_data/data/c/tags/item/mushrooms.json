@@ -1,0 +1,14 @@
+{
+  "values": [
+    "delighto_flight:clear_cloudshroom",
+    "delighto_flight:rainy_cloudshroom",
+    "delighto_flight:thunder_cloudshroom",
+    "#c:mushrooms/brownmushroom",
+    "#c:mushrooms/redmushroom",
+    "tsuki:matsutake",
+    "tsuki:edodes",
+    "tsuki:shimeji",
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom"
+  ]
+}

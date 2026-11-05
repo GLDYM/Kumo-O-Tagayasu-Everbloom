@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_tavern:cocktail_ingredient_green
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.6628694+08:00
+
+kaleidoscope_tavern:riesling_dry_white
+kaleidoscope_tavern:sauvignon_blanc_dry_white

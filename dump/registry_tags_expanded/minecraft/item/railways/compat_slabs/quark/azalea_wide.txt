@@ -1,8 +1,7 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: railways:compat_slabs/quark/azalea_wide
-# Entries: 1
+# Entries: 0
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.7662043+08:00
+# Generated: 2026-11-05T11:35:55.4835749+08:00
 
-quark:azalea_planks_slab

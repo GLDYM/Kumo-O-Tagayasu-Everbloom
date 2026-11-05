@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/maroon/wrapped_copper
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:56.5660425+08:00
+
+railways:maroon_copper_wrapped_locometal
+railways:maroon_copper_wrapped_locometal_smokebox

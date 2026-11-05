@@ -1,11 +1,5 @@
 {
   "values": [
-    "#c:vegetables/chilipepper",
-    "#c:vegetables/tomato",
-    "#c:vegetables/lettuce",
-    {
-      "id": "#c:crops/cabbage",
-      "required": false
-    }
+    "kaleidoscope_chinesefood:eggplant"
   ]
 }

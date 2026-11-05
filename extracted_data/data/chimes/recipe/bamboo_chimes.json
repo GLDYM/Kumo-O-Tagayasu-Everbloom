@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+
+    "pattern": [
+        "#",
+        "/",
+        "&"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:wooden_slabs"
+        },
+        "/": {
+            "item": "minecraft:string"
+        },
+        "&": {
+            "item": "minecraft:bamboo"
+        }
+    },
+    "result": {
+        "count": 1,
+        "id": "chimes:bamboo_chimes"
+	}
+}

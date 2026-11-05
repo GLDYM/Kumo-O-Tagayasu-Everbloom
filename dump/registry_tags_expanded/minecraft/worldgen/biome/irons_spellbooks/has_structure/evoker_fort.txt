@@ -1,26 +1,19 @@
 # Expanded runtime tag dump
 # Registry: minecraft:worldgen/biome
 # Tag: irons_spellbooks:has_structure/evoker_fort
-# Entries: 26
+# Entries: 18
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.1112258+08:00
+# Generated: 2026-11-05T11:35:59.0301484+08:00
 
-atmospheric:dunes
-atmospheric:flourishing_dunes
-atmospheric:grimwoods
-atmospheric:laurel_forest
-atmospheric:petrified_dunes
-atmospheric:rocky_dunes
-atmospheric:scrubland
-atmospheric:snowy_scrubland
-atmospheric:spiny_thicket
 minecraft:birch_forest
+minecraft:dappled_forest
 minecraft:dark_forest
 minecraft:desert
 minecraft:flower_forest
 minecraft:forest
 minecraft:grove
 minecraft:old_growth_birch_forest
+minecraft:pale_garden
 minecraft:plains
 minecraft:savanna
 minecraft:savanna_plateau
@@ -29,5 +22,4 @@ minecraft:windswept_forest
 minecraft:windswept_gravelly_hills
 minecraft:windswept_hills
 minecraft:windswept_savanna
-neapolitan:strawberry_fields
 tsuki:maple_forest

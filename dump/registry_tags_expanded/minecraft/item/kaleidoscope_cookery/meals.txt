@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: kaleidoscope_cookery:meals
-# Entries: 93
+# Entries: 94
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.958157+08:00
+# Generated: 2026-11-05T11:35:53.4980306+08:00
 
 kaleidoscope_cookery:bamboo_tube_rice
 kaleidoscope_cookery:baozi
@@ -92,6 +92,7 @@ kaleidoscope_cookery:suspicious_stir_fry
 kaleidoscope_cookery:sweet_and_sour_ender_pearls
 kaleidoscope_cookery:sweet_and_sour_pork
 kaleidoscope_cookery:sweet_and_sour_pork_rice_bowl
+kaleidoscope_cookery:tea_egg
 kaleidoscope_cookery:tomato
 kaleidoscope_cookery:tundra_style_sashimi
 kaleidoscope_cookery:udon_noodle

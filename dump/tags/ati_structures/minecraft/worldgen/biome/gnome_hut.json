@@ -1,0 +1,23 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:dark_forest",
+        "minecraft:jungle",
+        "minecraft:bamboo_jungle",
+        "minecraft:sparse_jungle",
+        "minecraft:mushroom_fields",
+        "minecraft:old_growth_spruce_taiga",
+        {
+            "id": "terralith:rocky_jungle",
+            "required": false
+        },
+        {
+            "id": "terralith:amethyst_rainforest",
+            "required": false
+        },
+        {
+            "id": "#c:is_jungle",
+            "required": false
+        }
+    ]
+}

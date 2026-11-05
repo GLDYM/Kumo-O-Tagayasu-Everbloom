@@ -1,9 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:fluid
 # Tag: minecraft:lava
-# Entries: 2
+# Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.0480644+08:00
+# Generated: 2026-11-05T11:35:47.5871836+08:00
 
+createnuclear:flowing_uranium
+createnuclear:uranium
 minecraft:flowing_lava
 minecraft:lava

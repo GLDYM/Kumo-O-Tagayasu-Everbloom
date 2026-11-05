@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_cookery:straw_hat
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.9616524+08:00
+# Generated: 2026-11-05T11:35:53.5119362+08:00
 
 artifacts:villager_hat
 kaleidoscope_cookery:straw_hat

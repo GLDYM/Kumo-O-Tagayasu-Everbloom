@@ -1,8 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:fluid
-# Tag: brewinandchewin:glittering_grenadine
-# Entries: 1
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.8716146+08:00
-
-brewinandchewin:glittering_grenadine

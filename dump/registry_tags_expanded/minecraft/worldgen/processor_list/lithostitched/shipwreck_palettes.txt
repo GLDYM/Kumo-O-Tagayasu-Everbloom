@@ -3,7 +3,7 @@
 # Tag: lithostitched:shipwreck_palettes
 # Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.4245859+08:00
+# Generated: 2026-11-05T11:35:59.8935907+08:00
 
 lithostitched:shipwreck_palette/dark_oak_and_jungle
 lithostitched:shipwreck_palette/dark_oak_and_spruce

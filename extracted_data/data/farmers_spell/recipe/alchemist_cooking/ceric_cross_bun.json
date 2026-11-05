@@ -1,0 +1,26 @@
+{
+    "type": "farmers_spell:alchemist_cooking",
+    "ingredients": [
+        {
+            "tag": "c:foods/dough"
+        },
+        {
+            "item": "farmers_spell:wsip_butter"
+        },
+        {
+            "item": "farmers_spell:amethyst_sugar"
+        },
+        {
+            "tag": "c:eggs"
+        },
+        {
+            "tag": "c:drinks/milk"
+        }
+    ],
+    "result": {
+        "count": 2,
+        "id": "farmers_spell:ceric_cross_bun"
+    },
+    "experience": 1.0,
+    "cookingtime": 200
+}

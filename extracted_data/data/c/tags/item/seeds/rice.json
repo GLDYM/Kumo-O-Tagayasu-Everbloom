@@ -1,0 +1,10 @@
+{
+  "values": [
+    "kaleidoscope_cookery:rice",
+    "tsuki:rice_seeds",
+    {
+      "id": "farmersdelight:rice_panicle",
+      "required": false
+    }
+  ]
+}

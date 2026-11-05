@@ -1,0 +1,24 @@
+{
+  "type": "tofucraft:tofu_pot_shapeless",
+  "category": "meal",
+  "cook_time": 400,
+  "experience": 0.6,
+  "ingredients": [
+    {
+      "item": "tofucraft:tofuhell"
+    },
+    {
+      "item": "tofucraft:doubanjiang"
+    },
+    {
+      "item": "tofucraft:chili"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "tofucraft:hell_mabou"
+  }
+}

@@ -1,13 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: create:stone_types/veridium
-# Entries: 18
+# Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.9145087+08:00
+# Generated: 2026-11-05T11:35:51.5158793+08:00
 
-bits_n_bobs:veridium_tile_stairs
-bits_n_bobs:veridium_tile_wall
-bits_n_bobs:veridium_tiles
 create:cut_veridium
 create:cut_veridium_brick_stairs
 create:cut_veridium_brick_wall

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: create:modded_stripped_logs
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:51.4103412+08:00
+
+minecraft:stripped_pale_oak_log
+minecraft:stripped_poplar_log

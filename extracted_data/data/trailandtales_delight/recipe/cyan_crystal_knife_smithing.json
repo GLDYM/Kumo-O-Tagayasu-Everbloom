@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "trailandtales_delight:cyan_crystal_ingot"
+  },
+  "base": {
+    "item": "farmersdelight:iron_knife"
+  },
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:cyan_crystal_knife"
+  },
+  "template": {
+    "item": "trailandtales_delight:cyan_crystal_ingot"
+  }
+}

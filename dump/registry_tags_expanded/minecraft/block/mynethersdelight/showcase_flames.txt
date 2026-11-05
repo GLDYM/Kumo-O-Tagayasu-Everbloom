@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: mynethersdelight:showcase_flames
-# Entries: 34
+# Entries: 35
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.0890476+08:00
+# Generated: 2026-11-05T11:35:45.5579118+08:00
 
 amendments:skull_candle
 createnuclear:enriching_campfire
@@ -39,3 +39,4 @@ mynethersdelight:magma_cake_block
 mynethersdelight:nether_stove
 mynethersdelight:powdery_torch
 supplementaries:fire_pit
+whimsy_deco:bamboo_candle

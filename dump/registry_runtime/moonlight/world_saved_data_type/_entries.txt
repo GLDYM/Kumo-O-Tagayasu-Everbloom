@@ -1,7 +1,8 @@
 # Registry dump
 # Registry: moonlight:world_saved_data_type
 # Minecraft: 1.21.1
-# Entries: 1
-# Generated: 2026-06-18T20:43:28.6512892+08:00
+# Entries: 2
+# Generated: 2026-11-05T11:35:22.989954+08:00
 
-supplementaries:globe_data raw_id=0 class=net.mehvahdjukaar.moonlight.api.misc.WorldSavedDataType
+supplementaries:cooperative_pulleys raw_id=0 class=net.mehvahdjukaar.moonlight.api.misc.WorldSavedDataType
+supplementaries:globe_data raw_id=1 class=net.mehvahdjukaar.moonlight.api.misc.WorldSavedDataType

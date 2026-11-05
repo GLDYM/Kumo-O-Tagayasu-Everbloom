@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tsuki:alkaline"
+    },
+    {
+      "item": "tsuki:vinegar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "tsuki:soda_water"
+  }
+}

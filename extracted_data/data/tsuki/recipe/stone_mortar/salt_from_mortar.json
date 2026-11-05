@@ -1,0 +1,17 @@
+{
+  "type": "tsuki:stone_mortar",
+  "experience": 0,
+  "ingredient": {
+    "tag": "c:cobblestones"
+  },
+  "recipeTime": 200,
+  "results": [
+    {
+      "id": "minecraft:gravel"
+    },
+    {
+      "count": 2,
+      "id": "tsuki:salt"
+    }
+  ]
+}

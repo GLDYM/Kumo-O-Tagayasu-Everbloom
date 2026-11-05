@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:support_override_cactus_flower
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:45.3331343+08:00
+
+minecraft:cactus
+minecraft:farmland

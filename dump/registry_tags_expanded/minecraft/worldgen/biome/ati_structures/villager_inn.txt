@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: ati_structures:villager_inn
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.4656833+08:00
+
+minecraft:bamboo_jungle
+minecraft:dark_forest
+minecraft:forest
+minecraft:jungle
+minecraft:mangrove_swamp
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:plains
+minecraft:sparse_jungle
+minecraft:sunflower_plains
+minecraft:swamp

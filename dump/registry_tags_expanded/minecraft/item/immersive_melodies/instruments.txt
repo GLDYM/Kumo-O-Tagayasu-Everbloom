@@ -1,0 +1,18 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: immersive_melodies:instruments
+# Entries: 11
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.1923343+08:00
+
+immersive_melodies:bagpipe
+immersive_melodies:didgeridoo
+immersive_melodies:ender_bass
+immersive_melodies:flute
+immersive_melodies:handpan
+immersive_melodies:lute
+immersive_melodies:piano
+immersive_melodies:tiny_drum
+immersive_melodies:triangle
+immersive_melodies:trumpet
+immersive_melodies:vielle

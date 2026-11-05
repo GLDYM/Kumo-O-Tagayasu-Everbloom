@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "cooked_sniffer_egg_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:sniffer_egg"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "trailandtales_delight:cooked_sniffer_egg_block_from_campfire_cooking"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "cooked_sniffer_egg_block"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "trailandtales_delight:cooked_sniffer_egg_block_from_campfire_cooking"
+    ]
+  }
+}

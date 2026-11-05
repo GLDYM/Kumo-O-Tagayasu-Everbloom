@@ -1,0 +1,27 @@
+{
+  "type": "tofucraft:tofu_pot_shapeless",
+  "category": "misc",
+  "cook_time": 300,
+  "experience": 0.5,
+  "ingredients": [
+    {
+      "tag": "c:milk/soy_milk"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:crops/wheat"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "tofucraft:steamed_bread_cocoa"
+  }
+}

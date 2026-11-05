@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "ftbquests:loot_crate_opener",
+    "immersive_furniture:artisans_workstation",
+    "#immersive_furniture:furniture"
+  ]
+}

@@ -3,6 +3,6 @@
 # Tag: c:crops/glow_berries
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.6096076+08:00
+# Generated: 2026-11-05T11:35:48.7003744+08:00
 
 minecraft:glow_berries

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "expores:experience_ore",
+    "expores:deepslate_experience_ore",
+    "expores:nether_experience_ore",
+    "expores:end_experience_ore"
+  ]
+}

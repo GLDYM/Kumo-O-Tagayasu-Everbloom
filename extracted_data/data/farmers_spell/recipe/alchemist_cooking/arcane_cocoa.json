@@ -1,0 +1,23 @@
+{
+    "type": "farmers_spell:alchemist_cooking",
+    "ingredients": [
+        {
+            "item": "minecraft:cocoa_beans"
+        },
+        {
+            "item": "irons_spellbooks:arcane_essence"
+        },
+        {
+            "item": "irons_spellbooks:arcane_essence"
+        }
+    ],
+    "result": {
+        "id": "farmers_spell:arcane_cocoa",
+        "count": 1
+    },
+    "container": {
+        "id": "minecraft:glass_bottle"
+    },
+    "experience": 1.0,
+    "cookingtime": 200
+}

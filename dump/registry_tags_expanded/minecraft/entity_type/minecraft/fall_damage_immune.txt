@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:entity_type
 # Tag: minecraft:fall_damage_immune
-# Entries: 23
+# Entries: 24
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.7648216+08:00
+# Generated: 2026-11-05T11:35:47.0379794+08:00
 
 createnuclear:irradiated_cat
 createnuclear:irradiated_chicken
@@ -16,6 +16,7 @@ minecraft:breeze
 minecraft:cat
 minecraft:chicken
 minecraft:ghast
+minecraft:happy_ghast
 minecraft:iron_golem
 minecraft:magma_cube
 minecraft:ocelot

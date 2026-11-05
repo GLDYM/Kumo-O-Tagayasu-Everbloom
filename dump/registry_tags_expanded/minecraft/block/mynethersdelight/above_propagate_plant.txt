@@ -1,20 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: mynethersdelight:above_propagate_plant
-# Entries: 99
+# Entries: 75
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.0718265+08:00
+# Generated: 2026-11-05T11:35:45.5141946+08:00
 
-atmospheric:aspen_sapling
-atmospheric:currant_seedling
-atmospheric:dry_laurel_sapling
-atmospheric:green_aspen_sapling
-atmospheric:grimwood_sapling
-atmospheric:kousa_sapling
-atmospheric:laurel_sapling
-atmospheric:morado_sapling
-atmospheric:rosewood_sapling
-atmospheric:yucca_sapling
 corn_delight:corn_crop
 crabbersdelight:palm_sapling
 farmersdelight:budding_tomatoes
@@ -23,25 +13,12 @@ farmersdelight:onions
 farmersdelight:rice_panicles
 farmersdelight:tomatoes
 farmersdelight:tomatoes_on_rope
-fruitsdelight:apple_sapling
-fruitsdelight:bayberry_sapling
-fruitsdelight:durian_sapling
-fruitsdelight:fig_sapling
-fruitsdelight:hawberry_sapling
-fruitsdelight:kiwi_sapling
-fruitsdelight:lychee_sapling
-fruitsdelight:mango_sapling
-fruitsdelight:mangosteen_sapling
-fruitsdelight:orange_sapling
-fruitsdelight:peach_sapling
-fruitsdelight:pear_sapling
-fruitsdelight:persimmon_sapling
 immortalers_delight:travastruggler_sapling
 kaleidoscope_cookery:chili_crop
 kaleidoscope_cookery:lettuce_crop
 kaleidoscope_cookery:rice_crop
+kaleidoscope_cookery:tea_tree
 kaleidoscope_cookery:tomato_crop
-kaleidoscope_dim_wine:hop_crop
 minecraft:acacia_sapling
 minecraft:azalea
 minecraft:beetroots
@@ -58,19 +35,17 @@ minecraft:lily_pad
 minecraft:mangrove_propagule
 minecraft:melon_stem
 minecraft:oak_sapling
+minecraft:pale_oak_sapling
 minecraft:pitcher_crop
+minecraft:poplar_sapling
 minecraft:potatoes
 minecraft:pumpkin_stem
 minecraft:spruce_sapling
 minecraft:torchflower_crop
 minecraft:wheat
-quark:ancient_sapling
-quark:blue_blossom_sapling
-quark:lavender_blossom_sapling
-quark:orange_blossom_sapling
-quark:red_blossom_sapling
-quark:yellow_blossom_sapling
 supplementaries:flax
+supplementaries:rope_tomatoes
+supplementaries:stick_tomatoes
 tofucraft:leek_crop
 tofucraft:rice
 tofucraft:sapling_apricot
@@ -78,6 +53,7 @@ tofucraft:sapling_tofu
 tofucraft:soybean
 tofucraft:soybean_nether
 tofucraft:soybean_soul
+trailandtales_delight:crystal_sapling
 tsuki:buckwheat_crop
 tsuki:cabbage_crop
 tsuki:eggplant_crop

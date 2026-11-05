@@ -1,11 +1,20 @@
 # Expanded runtime tag dump
 # Registry: minecraft:damage_type
 # Tag: minecraft:avoids_guardian_thorns
-# Entries: 12
+# Entries: 21
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.4390894+08:00
+# Generated: 2026-11-05T11:35:46.3945558+08:00
 
 create:cuckoo_surprise
+irons_spellbooks:blood_magic
+irons_spellbooks:eldritch_magic
+irons_spellbooks:ender_magic
+irons_spellbooks:evocation_magic
+irons_spellbooks:fire_magic
+irons_spellbooks:holy_magic
+irons_spellbooks:ice_magic
+irons_spellbooks:lightning_magic
+irons_spellbooks:nature_magic
 l2complements:emerald
 l2complements:soul_flame
 minecraft:bad_respawn_point

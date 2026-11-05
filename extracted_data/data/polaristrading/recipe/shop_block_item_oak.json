@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "shop",
+  "key": {
+    "m": {
+      "tag": "c:chests/wooden"
+    },
+    "s": {
+      "item": "minecraft:oak_log"
+    },
+    "x": {
+      "tag": "c:glass_panes"
+    }
+  },
+  "pattern": [
+    "xxx",
+    "xmx",
+    "sss"
+  ],
+  "result": {
+    "count": 1,
+    "id": "polaristrading:shop_block_item_oak"
+  }
+}

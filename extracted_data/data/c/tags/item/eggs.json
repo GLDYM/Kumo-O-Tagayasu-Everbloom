@@ -1,0 +1,15 @@
+{
+  "values": [
+    "bakeries:whole_egg",
+    "minecraft:egg",
+    {
+      "id": "#forge:eggs",
+      "required": false
+    },
+    "kaleidoscope_cookery:fried_egg",
+    "minecraft:turtle_egg",
+    "mynethersdelight:strider_egg",
+    "#minecraft:eggs"
+  ],
+  "replace": false
+}

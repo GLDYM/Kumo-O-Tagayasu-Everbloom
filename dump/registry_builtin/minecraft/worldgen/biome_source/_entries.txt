@@ -1,10 +1,9 @@
 # Registry dump
 # Registry: minecraft:worldgen/biome_source
 # Minecraft: 1.21.1
-# Entries: 6
-# Generated: 2026-06-18T20:40:59.2943797+08:00
+# Entries: 5
+# Generated: 2026-11-05T11:31:33.0592399+08:00
 
-blueprint:modded raw_id=5 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 lithostitched:injector raw_id=4 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 minecraft:checkerboard raw_id=2 class=com.mojang.serialization.codecs.RecordCodecBuilder$2
 minecraft:fixed raw_id=0 class=com.mojang.serialization.MapCodec$3

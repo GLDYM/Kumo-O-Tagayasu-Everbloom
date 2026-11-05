@@ -1,10 +1,14 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:enchantable/equippable
-# Entries: 188
+# Entries: 193
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.174332+08:00
+# Generated: 2026-11-05T11:35:54.1028044+08:00
 
+alloyed:steel_boots
+alloyed:steel_chestplate
+alloyed:steel_helmet
+alloyed:steel_leggings
 corn_delight:cob_pipe
 create:cardboard_boots
 create:cardboard_chestplate
@@ -16,18 +20,10 @@ create:copper_diving_helmet
 create:netherite_backtank
 create:netherite_diving_boots
 create:netherite_diving_helmet
-create_sa:brass_boots
-create_sa:brass_chestplate
-create_sa:brass_helmet
-create_sa:brass_leggings
-create_sa:copper_boots
-create_sa:copper_chestplate
-create_sa:copper_helmet
-create_sa:copper_leggings
-create_sa:zinc_boots
-create_sa:zinc_chestplate
-create_sa:zinc_helmet
-create_sa:zinc_leggings
+farmers_spell:gluttony_chef_apron
+farmers_spell:gluttony_chef_boots
+farmers_spell:gluttony_chef_hat
+farmers_spell:gluttony_chef_leggings
 irons_spellbooks:archevoker_boots
 irons_spellbooks:archevoker_chestplate
 irons_spellbooks:archevoker_helmet
@@ -116,11 +112,19 @@ l2complements:totemic_gold_boots
 l2complements:totemic_gold_chestplate
 l2complements:totemic_gold_helmet
 l2complements:totemic_gold_leggings
+majobroom:majo_boots
+majobroom:majo_cloth
+majobroom:majo_hat
+majobroom:majo_stocking
 minecraft:carved_pumpkin
 minecraft:chainmail_boots
 minecraft:chainmail_chestplate
 minecraft:chainmail_helmet
 minecraft:chainmail_leggings
+minecraft:copper_boots
+minecraft:copper_chestplate
+minecraft:copper_helmet
+minecraft:copper_leggings
 minecraft:creeper_head
 minecraft:diamond_boots
 minecraft:diamond_chestplate
@@ -168,6 +172,7 @@ tofucraft:tofu_momen_boots
 tofucraft:tofu_momen_chestplate
 tofucraft:tofu_momen_helmet
 tofucraft:tofu_momen_leggings
+touhou_little_maid_spell:star_witch_hat
 tsuki:samurai_boots_black
 tsuki:samurai_boots_green
 tsuki:samurai_boots_red

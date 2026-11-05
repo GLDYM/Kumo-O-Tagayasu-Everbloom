@@ -1,16 +1,15 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:head_armor
-# Entries: 50
+# Entries: 52
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.2112476+08:00
+# Generated: 2026-11-05T11:35:54.2398352+08:00
 
+alloyed:steel_helmet
 create:cardboard_helmet
 create:copper_diving_helmet
 create:netherite_diving_helmet
-create_sa:brass_helmet
-create_sa:copper_helmet
-create_sa:zinc_helmet
+farmers_spell:gluttony_chef_hat
 irons_spellbooks:archevoker_helmet
 irons_spellbooks:cryomancer_helmet
 irons_spellbooks:cultist_helmet
@@ -34,7 +33,9 @@ l2complements:poseidite_helmet
 l2complements:sculkium_helmet
 l2complements:shulkerate_helmet
 l2complements:totemic_gold_helmet
+majobroom:majo_hat
 minecraft:chainmail_helmet
+minecraft:copper_helmet
 minecraft:diamond_helmet
 minecraft:golden_helmet
 minecraft:iron_helmet
@@ -45,6 +46,7 @@ tofucraft:tofu_diamond_helmet
 tofucraft:tofu_kinu_helmet
 tofucraft:tofu_metal_helmet
 tofucraft:tofu_momen_helmet
+touhou_little_maid_spell:star_witch_hat
 tsuki:samurai_helmet_black
 tsuki:samurai_helmet_green
 tsuki:samurai_helmet_red

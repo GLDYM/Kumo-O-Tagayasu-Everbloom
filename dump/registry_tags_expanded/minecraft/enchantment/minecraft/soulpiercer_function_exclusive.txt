@@ -3,7 +3,7 @@
 # Tag: minecraft:soulpiercer_function_exclusive
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.5710974+08:00
+# Generated: 2026-11-05T11:35:46.7673293+08:00
 
 iss_magicfromtheeast:spiritual_focus
 iss_magicfromtheeast:wisely_will

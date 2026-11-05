@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_chair": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#interiors:chairs"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "interiors:crafting/chair/cyan_chair_from_other_chair"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_chair"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "interiors:crafting/chair/cyan_chair_from_other_chair"
+    ]
+  }
+}

@@ -1,46 +1,37 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:breaks_decorated_pots
-# Entries: 174
+# Entries: 160
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.1418489+08:00
+# Generated: 2026-11-05T11:35:53.8901218+08:00
 
-create_sa:blazing_axe
-create_sa:blazing_cleaver
-create_sa:blazing_pickaxe
-create_sa:blazing_shovel
-create_sa:brass_axe
-create_sa:brass_hoe
-create_sa:brass_pickaxe
-create_sa:brass_shovel
-create_sa:brass_sword
-create_sa:copper_axe
-create_sa:copper_hoe
-create_sa:copper_pickaxe
-create_sa:copper_shovel
-create_sa:copper_sword
-create_sa:experience_axe
-create_sa:experience_pickaxe
-create_sa:experience_shovel
-create_sa:experience_sword
-create_sa:rose_quartz_axe
-create_sa:rose_quartz_pickaxe
-create_sa:rose_quartz_shovel
-create_sa:rose_quartz_sword
-create_sa:zinc_axe
-create_sa:zinc_hoe
-create_sa:zinc_pickaxe
-create_sa:zinc_shovel
-create_sa:zinc_sword
+alloyed:steel_axe
+alloyed:steel_hoe
+alloyed:steel_knife
+alloyed:steel_pickaxe
+alloyed:steel_shovel
+alloyed:steel_sword
+bakeries:bread_knife
 ends_delight:dragon_egg_shell_knife
 ends_delight:dragon_tooth_knife
 ends_delight:end_stone_knife
 ends_delight:purpur_knife
+farmers_spell:boreal_knife
+farmers_spell:echoing_knife
+farmers_spell:gospel
+farmers_spell:grow_knife
+farmers_spell:hell_knife
+farmers_spell:mithril_knife
+farmers_spell:twilight_blade
 farmersdelight:diamond_knife
 farmersdelight:flint_knife
 farmersdelight:golden_knife
 farmersdelight:iron_knife
 farmersdelight:netherite_knife
+immortalers_delight:ancient_blade
+immortalers_delight:bone_knife
+immortalers_delight:pillager_knife
+immortalers_delight:rusty_ancient_blade
 irons_spellbooks:amethyst_rapier
 irons_spellbooks:boreal_blade
 irons_spellbooks:claymore
@@ -91,17 +82,11 @@ l2complements:totemic_gold_hoe
 l2complements:totemic_gold_pickaxe
 l2complements:totemic_gold_shovel
 l2complements:totemic_gold_sword
-l2weaponry:abyss_shock
-l2weaponry:diamond_dagger
-l2weaponry:eternium_dagger
-l2weaponry:gold_dagger
-l2weaponry:iron_dagger
-l2weaponry:netherite_dagger
-l2weaponry:poseidite_dagger
-l2weaponry:sculkium_dagger
-l2weaponry:shadow_hunter
-l2weaponry:shulkerate_dagger
-l2weaponry:totemic_gold_dagger
+minecraft:copper_axe
+minecraft:copper_hoe
+minecraft:copper_pickaxe
+minecraft:copper_shovel
+minecraft:copper_sword
 minecraft:diamond_axe
 minecraft:diamond_hoe
 minecraft:diamond_pickaxe
@@ -159,9 +144,10 @@ tofucraft:tofu_solid_hoe
 tofucraft:tofu_solid_pickaxe
 tofucraft:tofu_solid_shovel
 tofucraft:tofu_solid_sword
-tofudelight:tofu_diamond_knife
-tofudelight:tofu_metal_knife
+touhou_little_maid_spell:star_shadow_longsword
 trailandtales_delight:cherry_iron_knife
+trailandtales_delight:crimson_crystal_knife
+trailandtales_delight:cyan_crystal_knife
 trailandtales_delight:sniffer_eggshell_knife
 tsuki:broom
 tsuki:katana

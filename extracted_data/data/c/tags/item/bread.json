@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bread",
+    {
+      "id": "#forge:bread",
+      "required": false
+    },
+    {
+      "id": "#forge:bread_slices",
+      "required": false
+    },
+    "#c:bread/wheat",
+    "#c:bread/buckwheat",
+    "#c:bread/rice"
+  ]
+}

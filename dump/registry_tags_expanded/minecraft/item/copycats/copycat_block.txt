@@ -3,7 +3,7 @@
 # Tag: copycats:copycat_block
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.8089071+08:00
+# Generated: 2026-11-05T11:35:51.2692613+08:00
 
 copycats:copycat_block
 create_connected:copycat_block

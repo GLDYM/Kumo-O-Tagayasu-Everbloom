@@ -1,0 +1,14 @@
+{
+  "values": [
+    {
+      "id": "create_enchantment_industry:infused_dragon_breath",
+      "required": false
+    },
+    {
+      "id": "create_enchantment_industry:flowing_infused_dragon_breath",
+      "required": false
+    },
+    "create_dragons_plus:flowing_dragon_breath",
+    "create_dragons_plus:dragon_breath"
+  ]
+}

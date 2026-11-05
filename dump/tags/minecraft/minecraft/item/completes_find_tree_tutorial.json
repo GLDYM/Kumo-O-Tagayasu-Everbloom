@@ -1,8 +1,6 @@
 {
   "values": [
-    "immortalers_delight:himekaido_log",
-    "immortalers_delight:stripped_himekaido_log",
-    "immortalers_delight:himekaido_wood",
-    "immortalers_delight:stripped_himekaido_wood"
+    "#trailandtales_delight:crystal_wood_logs",
+    "trailandtales_delight:crystal_leaves"
   ]
 }

@@ -3,6 +3,6 @@
 # Tag: supplementaries:prevents_bubble_pop
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.6011788+08:00
+# Generated: 2026-11-05T11:35:46.7991378+08:00
 
 minecraft:feather_falling

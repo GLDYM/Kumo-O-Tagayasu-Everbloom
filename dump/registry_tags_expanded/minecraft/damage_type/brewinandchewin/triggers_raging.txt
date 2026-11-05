@@ -1,9 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:damage_type
-# Tag: brewinandchewin:triggers_raging
-# Entries: 2
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.3676841+08:00
-
-minecraft:mob_attack
-minecraft:player_attack

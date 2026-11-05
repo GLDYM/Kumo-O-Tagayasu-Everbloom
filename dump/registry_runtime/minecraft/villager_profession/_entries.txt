@@ -1,14 +1,13 @@
 # Registry dump
 # Registry: minecraft:villager_profession
 # Minecraft: 1.21.1
-# Entries: 24
-# Generated: 2026-06-18T20:43:28.5038923+08:00
+# Entries: 23
+# Generated: 2026-11-05T11:35:22.7060798+08:00
 
 bakeries:pistrinamaster raw_id=21 class=net.minecraft.world.entity.npc.VillagerProfession
-beautify:botanist raw_id=17 class=net.minecraft.world.entity.npc.VillagerProfession
-chefsdelight:chef raw_id=15 class=net.minecraft.world.entity.npc.VillagerProfession
-chefsdelight:cook raw_id=16 class=net.minecraft.world.entity.npc.VillagerProfession
-kaleidoscope_cookery:chef raw_id=22 class=net.minecraft.world.entity.npc.VillagerProfession
+chefsdelight:chef raw_id=16 class=net.minecraft.world.entity.npc.VillagerProfession
+chefsdelight:cook raw_id=17 class=net.minecraft.world.entity.npc.VillagerProfession
+kaleidoscope_cookery:chef raw_id=18 class=net.minecraft.world.entity.npc.VillagerProfession
 minecraft:armorer raw_id=1 class=net.minecraft.world.entity.npc.VillagerProfession
 minecraft:butcher raw_id=2 class=net.minecraft.world.entity.npc.VillagerProfession
 minecraft:cartographer raw_id=3 class=net.minecraft.world.entity.npc.VillagerProfession
@@ -24,7 +23,7 @@ minecraft:none raw_id=0 class=net.minecraft.world.entity.npc.VillagerProfession
 minecraft:shepherd raw_id=12 class=net.minecraft.world.entity.npc.VillagerProfession
 minecraft:toolsmith raw_id=13 class=net.minecraft.world.entity.npc.VillagerProfession
 minecraft:weaponsmith raw_id=14 class=net.minecraft.world.entity.npc.VillagerProfession
-tofucraft:tofu_craftsman raw_id=18 class=net.minecraft.world.entity.npc.VillagerProfession
+tofucraft:tofu_craftsman raw_id=15 class=net.minecraft.world.entity.npc.VillagerProfession
 tsuki:wa_farmer raw_id=19 class=net.minecraft.world.entity.npc.VillagerProfession
 tsuki:wa_trader raw_id=20 class=net.minecraft.world.entity.npc.VillagerProfession
-ultramarine:cook raw_id=23 class=net.minecraft.world.entity.npc.VillagerProfession
+ultramarine:cook raw_id=22 class=net.minecraft.world.entity.npc.VillagerProfession

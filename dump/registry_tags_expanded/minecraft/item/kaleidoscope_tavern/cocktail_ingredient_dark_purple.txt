@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_tavern:cocktail_ingredient_dark_purple
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.6501274+08:00
+

@@ -1,9 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:item
-# Tag: quark:big_harvesting_hoes
-# Entries: 2
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.4741774+08:00
-
-minecraft:diamond_hoe
-minecraft:netherite_hoe

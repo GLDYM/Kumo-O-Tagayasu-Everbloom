@@ -1,5 +1,10 @@
 {
+  "replace": false,
   "values": [
-    "minecraft:blaze_rod"
+    "minecraft:blaze_rod",
+    {
+      "id": "#forge:rods/blaze",
+      "required": false
+    }
   ]
 }

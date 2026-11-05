@@ -1,6 +1,8 @@
 {
   "values": [
-    "neapolitan:mint_chops",
-    "neapolitan:cooked_mint_chops"
+    "#c:foods/raw_hoglin",
+    "#c:foods/cooked_hoglin",
+    "mynethersdelight:minced_strider",
+    "mynethersdelight:roast_ear"
   ]
 }

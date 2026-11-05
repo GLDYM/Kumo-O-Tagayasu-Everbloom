@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_tavern:cellar_cabinet_blocklist
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.6107486+08:00
+
+kaleidoscope_tavern:brandy
+kaleidoscope_tavern:carignan
+kaleidoscope_tavern:madame_shexiang
+kaleidoscope_tavern:miners_star
+kaleidoscope_tavern:mother_snow
+kaleidoscope_tavern:riesling_dry_white
+kaleidoscope_tavern:rum
+kaleidoscope_tavern:sunset_glow
+kaleidoscope_tavern:sweet_berry_wine
+kaleidoscope_tavern:vodka

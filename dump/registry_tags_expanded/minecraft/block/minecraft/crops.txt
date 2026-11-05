@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:crops
-# Entries: 46
+# Entries: 48
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.7200882+08:00
+# Generated: 2026-11-05T11:35:44.7546936+08:00
 
 corn_delight:corn_crop
 farmersdelight:budding_tomatoes
@@ -15,8 +15,8 @@ farmersdelight:tomatoes_on_rope
 kaleidoscope_cookery:chili_crop
 kaleidoscope_cookery:lettuce_crop
 kaleidoscope_cookery:rice_crop
+kaleidoscope_cookery:tea_tree
 kaleidoscope_cookery:tomato_crop
-kaleidoscope_dim_wine:hop_crop
 minecraft:beetroots
 minecraft:carrots
 minecraft:melon_stem
@@ -26,6 +26,8 @@ minecraft:pumpkin_stem
 minecraft:torchflower_crop
 minecraft:wheat
 supplementaries:flax
+supplementaries:rope_tomatoes
+supplementaries:stick_tomatoes
 tofucraft:leek_crop
 tofucraft:rice
 tofucraft:soybean

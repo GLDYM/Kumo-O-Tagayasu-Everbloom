@@ -1,11 +1,9 @@
 {
-  "remove": [
-    "create:copper_diving_boots",
-    "create:copper_backtank",
-    "create:copper_diving_helmet",
-    "create:netherite_diving_boots",
-    "create:netherite_backtank",
-    "create:netherite_diving_helmet"
-  ],
-  "values": []
+  "replace": false,
+  "values": [
+    "alloyed:steel_helmet",
+    "alloyed:steel_chestplate",
+    "alloyed:steel_leggings",
+    "alloyed:steel_boots"
+  ]
 }

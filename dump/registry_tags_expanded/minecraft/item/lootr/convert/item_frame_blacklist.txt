@@ -3,7 +3,7 @@
 # Tag: lootr:convert/item_frame_blacklist
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.0842264+08:00
+# Generated: 2026-11-05T11:35:53.7550683+08:00
 
 minecraft:filled_map
 minecraft:map

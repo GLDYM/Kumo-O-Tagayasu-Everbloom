@@ -1,0 +1,17 @@
+{
+  "values": [
+    "handcrafted:red_cushion",
+    "supplementaries:flag_red",
+    "supplementaries:present_red",
+    "supplementaries:trapped_present_red",
+    "supplementaries:candle_holder_red",
+    "supplementaries:awning_red",
+    "supplementaries:bunting_red",
+    "supplementaries:bunting_wall_red",
+    "minecraft:red_wool_stairs",
+    "minecraft:red_wool_slab",
+    "minecraft:red_concrete_stairs",
+    "minecraft:red_concrete_slab"
+  ],
+  "replace": false
+}

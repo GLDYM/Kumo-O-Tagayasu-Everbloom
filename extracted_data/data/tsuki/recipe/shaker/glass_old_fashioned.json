@@ -1,0 +1,22 @@
+{
+  "type": "tsuki:shaker",
+  "experience": 0,
+  "ingredients": [
+    {
+      "item": "tsuki:glass_whiskey"
+    },
+    {
+      "item": "tsuki:bitters"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "item": "tsuki:ice_cube"
+    }
+  ],
+  "result": {
+    "id": "tsuki:glass_old_fashioned"
+  },
+  "shake_count": 12
+}

@@ -1,13 +1,6 @@
 {
   "replace": false,
   "values": [
-    {"id": "dramaticdoors:short_netherite_door", "required": false},
-    {"id": "dramaticdoors:short_morecraft_netherite_door", "required": false},
-    {"id": "dramaticdoors:short_bp_netherite_door", "required": false},
-    {"id": "dramaticdoors:short_blockus_obsidian_reinforced_door", "required": false},
-    {"id": "dramaticdoors:tall_netherite_door", "required": false},
-    {"id": "dramaticdoors:tall_morecraft_netherite_door", "required": false},
-    {"id": "dramaticdoors:tall_bp_netherite_door", "required": false},
-    {"id": "dramaticdoors:tall_blockus_obsidian_reinforced_door", "required": false}
+    "cagedmobs:star_infused_netherite_block"
   ]
 }

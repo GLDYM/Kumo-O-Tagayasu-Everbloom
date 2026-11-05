@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tsuki:glass_rum"
+    },
+    {
+      "item": "tsuki:cola"
+    },
+    {
+      "item": "tsuki:lime"
+    },
+    {
+      "item": "tsuki:ice_cube"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "tsuki:glass_cuba_libre"
+  }
+}

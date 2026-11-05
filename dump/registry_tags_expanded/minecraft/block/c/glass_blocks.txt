@@ -1,11 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: c:glass_blocks
-# Entries: 48
+# Entries: 29
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.7009583+08:00
+# Generated: 2026-11-05T11:35:42.6666676+08:00
 
-atmospheric:arid_glass
 create:framed_glass
 create:horizontal_framed_glass
 create:tiled_glass
@@ -35,21 +34,3 @@ minecraft:red_stained_glass
 minecraft:tinted_glass
 minecraft:white_stained_glass
 minecraft:yellow_stained_glass
-quark:black_framed_glass
-quark:blue_framed_glass
-quark:brown_framed_glass
-quark:cyan_framed_glass
-quark:dirty_glass
-quark:framed_glass
-quark:gray_framed_glass
-quark:green_framed_glass
-quark:light_blue_framed_glass
-quark:light_gray_framed_glass
-quark:lime_framed_glass
-quark:magenta_framed_glass
-quark:orange_framed_glass
-quark:pink_framed_glass
-quark:purple_framed_glass
-quark:red_framed_glass
-quark:white_framed_glass
-quark:yellow_framed_glass

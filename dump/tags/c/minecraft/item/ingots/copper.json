@@ -1,6 +1,5 @@
 {
-  "replace": false,
   "values": [
-  	"minecraft:copper_ingot"
+    "minecraft:copper_ingot"
   ]
 }

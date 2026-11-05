@@ -1,0 +1,22 @@
+{
+  "values": [
+    "create:zinc_ore",
+    "create:deepslate_zinc_ore",
+    "createnuclear:deepslate_uranium_ore",
+    "createnuclear:deepslate_lead_ore",
+    "createnuclear:deepslate_thorium_ore",
+    "createnuclear:uranium_ore",
+    "createnuclear:lead_ore",
+    "createnuclear:thorium_ore",
+    "createnuclear:nitrate_ore",
+    "createnuclear:deepslate_nitrate_ore",
+    "#c:ores/mithril",
+    "#c:ores/jade",
+    "simplemetals_tin:tin_ore",
+    "simplemetals_tin:deepslate_tin_ore",
+    "tsuki:sakura_diamond_ore",
+    "tsuki:deepslate_sakura_diamond_ore",
+    "tsuki:iron_sand"
+  ],
+  "replace": false
+}

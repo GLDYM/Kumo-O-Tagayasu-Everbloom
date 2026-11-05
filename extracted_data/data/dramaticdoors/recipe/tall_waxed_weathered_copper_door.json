@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tall_copper_door",
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:waxed_weathered_copper_door"
+    }
+  },
+  "result": {
+    "id": "dramaticdoors:tall_waxed_weathered_copper_door",
+    "count": 2
+  }
+}

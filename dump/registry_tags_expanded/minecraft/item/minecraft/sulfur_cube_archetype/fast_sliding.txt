@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:sulfur_cube_archetype/fast_sliding
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:54.4943317+08:00
+
+minecraft:blue_ice
+minecraft:packed_ice
+minecraft:snow_block

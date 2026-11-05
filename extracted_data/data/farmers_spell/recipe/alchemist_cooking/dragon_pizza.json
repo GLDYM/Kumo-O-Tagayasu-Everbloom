@@ -1,0 +1,23 @@
+{
+    "type": "farmers_spell:alchemist_cooking",
+    "ingredients": [
+        {
+            "item": "minecraft:dragon_breath"
+        },
+        {
+            "item": "farmers_spell:foodgeist_cheese"
+        },
+        {
+            "tag": "c:foods/dough"
+        }
+    ],
+    "result": {
+        "id": "farmers_spell:dragon_pizza",
+        "count": 1
+    },
+    "container": {
+        "id": "irons_spellbooks:dragonskin"
+    },
+    "experience": 1.0,
+    "cookingtime": 200
+}

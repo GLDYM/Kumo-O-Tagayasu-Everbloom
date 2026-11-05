@@ -1,8 +1,0 @@
-# Registry dump
-# Registry: integrated_api:json_conditions
-# Minecraft: 1.21.1
-# Entries: 2
-# Generated: 2026-06-18T20:43:28.2375215+08:00
-
-integrated_api:always_false raw_id=1 class=com.craisinlord.integrated_api.modinit.IAConditionsRegistry$$Lambda/0x000001c7051f73c8
-integrated_api:always_true raw_id=0 class=com.craisinlord.integrated_api.modinit.IAConditionsRegistry$$Lambda/0x000001c7051f71b0

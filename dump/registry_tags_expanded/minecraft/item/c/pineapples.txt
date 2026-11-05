@@ -3,7 +3,7 @@
 # Tag: c:pineapples
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.3541862+08:00
+# Generated: 2026-11-05T11:35:50.3121219+08:00
 
 pineapple_delight:golden_pineapple
 pineapple_delight:pineapple

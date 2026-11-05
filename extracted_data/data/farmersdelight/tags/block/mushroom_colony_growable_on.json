@@ -1,0 +1,12 @@
+{
+  "values": [
+    "farmersdelight:rich_soil",
+    "mynethersdelight:letios_compost",
+    "mynethersdelight:resurgent_soil",
+    {
+      "id": "supplementaries:planter_rich",
+      "required": false
+    }
+  ],
+  "replace": false
+}

@@ -1,10 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:ice_cubes
-# Entries: 3
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.2271482+08:00
+# Generated: 2026-11-05T11:35:49.9077247+08:00
 
-neapolitan:ice_cubes
 tsuki:ice_cube
 youkaishomecoming:ice_cube

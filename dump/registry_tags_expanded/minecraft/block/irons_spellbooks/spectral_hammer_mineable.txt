@@ -1,15 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: irons_spellbooks:spectral_hammer_mineable
-# Entries: 80
+# Entries: 71
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.4419468+08:00
+# Generated: 2026-11-05T11:35:44.1622663+08:00
 
-atmospheric:arid_sand
-atmospheric:crustose
-atmospheric:red_arid_sand
-atmospheric:suspicious_arid_sand
-atmospheric:suspicious_red_arid_sand
+crabbersdelight:wormy_dirt
 create:asurine
 create:crimsite
 create:limestone
@@ -19,9 +15,6 @@ create:scoria
 create:veridium
 createnuclear:autunite
 delighto_flight:weather_soil
-dndecor:dolomite
-dndecor:gabbro
-dndecor:weathered_limestone
 farmersdelight:rich_soil
 lootr:suspicious_sand
 minecraft:andesite
@@ -57,6 +50,7 @@ minecraft:nether_wart_block
 minecraft:netherrack
 minecraft:orange_terracotta
 minecraft:packed_ice
+minecraft:pale_moss_block
 minecraft:pink_terracotta
 minecraft:podzol
 minecraft:purple_terracotta
@@ -80,8 +74,5 @@ minecraft:yellow_terracotta
 mynethersdelight:letios_compost
 mynethersdelight:resurgent_soil
 mynethersdelight:resurgent_soil_farmland
-quark:jasper
-quark:limestone
-quark:shale
 supplementaries:ashen_basalt
 vintagedelight:lush_grass_block

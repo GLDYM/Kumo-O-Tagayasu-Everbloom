@@ -1,0 +1,16 @@
+{
+  "values": [
+    "trailandtales_delight:cherry_iron_knife",
+    "trailandtales_delight:sniffer_eggshell_knife",
+    "trailandtales_delight:crimson_crystal_knife",
+    "trailandtales_delight:cyan_crystal_knife",
+    {
+      "id": "alloyed:steel_knife",
+      "required": false
+    },
+    "kaleidoscope_cookery:iron_kitchen_knife",
+    "kaleidoscope_cookery:gold_kitchen_knife",
+    "kaleidoscope_cookery:diamond_kitchen_knife",
+    "kaleidoscope_cookery:netherite_kitchen_knife"
+  ]
+}

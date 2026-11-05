@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:fluid
+# Tag: c:thorium
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:47.5110914+08:00
+
+createnuclear:flowing_thorium
+createnuclear:thorium

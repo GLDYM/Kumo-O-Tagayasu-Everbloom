@@ -1,9 +1,11 @@
 # Registry dump
 # Registry: neoforge:synced_attachment_types
 # Minecraft: 1.21.1
-# Entries: 6
-# Generated: 2026-06-18T20:40:59.3573871+08:00
+# Entries: 8
+# Generated: 2026-11-05T11:31:33.1534462+08:00
 
+catburger:follower_render raw_id=7 class=net.neoforged.neoforge.attachment.AttachmentType
+createnuclear:radiation raw_id=6 class=net.neoforged.neoforge.attachment.AttachmentType
 maid_restaurant:block_selection raw_id=4 class=net.neoforged.neoforge.attachment.AttachmentType
 maid_restaurant:cook_request_handler raw_id=0 class=net.neoforged.neoforge.attachment.AttachmentType
 maid_restaurant:serve_request_handler raw_id=1 class=net.neoforged.neoforge.attachment.AttachmentType

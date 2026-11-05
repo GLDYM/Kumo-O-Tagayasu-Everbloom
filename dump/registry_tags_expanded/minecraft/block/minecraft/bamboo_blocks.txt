@@ -1,9 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:bamboo_blocks
-# Entries: 2
+# Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.6416123+08:00
+# Generated: 2026-11-05T11:35:44.5877996+08:00
 
+immortalers_delight:leisamboo_block
 minecraft:bamboo_block
 minecraft:stripped_bamboo_block

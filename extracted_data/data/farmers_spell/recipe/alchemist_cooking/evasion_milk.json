@@ -1,0 +1,23 @@
+{
+    "type": "farmers_spell:alchemist_cooking",
+    "ingredients": [
+        {
+            "item": "irons_spellbooks:evasion_elixir"
+        },
+        {
+            "item": "minecraft:chorus_fruit"
+        },
+        {
+            "item": "irons_spellbooks:arcane_essence"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "farmers_spell:evasion_milk"
+    },
+    "container": {
+        "id": "minecraft:glass_bottle"
+    },
+    "experience": 1.0,
+    "cookingtime": 200
+}

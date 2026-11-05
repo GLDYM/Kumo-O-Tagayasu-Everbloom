@@ -1,14 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:sand
-# Entries: 7
+# Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.2758457+08:00
+# Generated: 2026-11-05T11:35:54.4063507+08:00
 
-atmospheric:arid_sand
-atmospheric:red_arid_sand
-atmospheric:suspicious_arid_sand
-atmospheric:suspicious_red_arid_sand
 minecraft:red_sand
 minecraft:sand
 minecraft:suspicious_sand

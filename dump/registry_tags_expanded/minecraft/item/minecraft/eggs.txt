@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: minecraft:eggs
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:54.0770106+08:00
+
+minecraft:blue_egg
+minecraft:brown_egg
+minecraft:egg

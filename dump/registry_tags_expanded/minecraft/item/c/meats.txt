@@ -1,10 +1,15 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:meats
-# Entries: 37
+# Entries: 59
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.2958839+08:00
+# Generated: 2026-11-05T11:35:50.0414111+08:00
 
+crabbersdelight:raw_frog_leg
+create_bic_bit:raw_herring
+ends_delight:raw_dragon_meat
+ends_delight:raw_dragon_meat_cuts
+ends_delight:raw_ender_mite_meat
 farmersdelight:bacon
 farmersdelight:chicken_cuts
 farmersdelight:cod_slice
@@ -12,6 +17,7 @@ farmersdelight:minced_beef
 farmersdelight:mutton_chops
 farmersdelight:salmon_slice
 immortalers_delight:cooked_sniffer_steak
+immortalers_delight:raw_sniffer_slice
 immortalers_delight:raw_sniffer_steak
 kaleidoscope_cookery:cooked_cow_offal
 kaleidoscope_cookery:cooked_cut_small_meats
@@ -22,6 +28,8 @@ kaleidoscope_cookery:raw_cut_small_meats
 kaleidoscope_cookery:raw_lamb_chops
 kaleidoscope_cookery:raw_pork_belly
 kaleidoscope_cookery:sashimi
+kaleidoscope_end:raw_ender_dragon_meat
+kaleidoscope_end:raw_endermite_meat
 kaleidoscope_nether:cooked_piglin_meat
 kaleidoscope_nether:cooked_strider_meat
 kaleidoscope_nether:ham
@@ -34,11 +42,25 @@ minecraft:chicken
 minecraft:cod
 minecraft:mutton
 minecraft:porkchop
+minecraft:rabbit
 minecraft:salmon
 minecraft:tropical_fish
 mynethersdelight:cooked_loin
 mynethersdelight:hoglin_loin
 mynethersdelight:hoglin_sausage
-tofucraft:soymeat
+mynethersdelight:minced_strider
+tofucraft:raw_tofufish
+tsuki:bonito
+tsuki:chikuwa
+tsuki:fishcake
+tsuki:kamaboko
+tsuki:machined_bonito
+tsuki:machined_fish
+tsuki:satsumaage
+youkaishomecoming:raw_lamprey
 youkaishomecoming:raw_lamprey_fillet
+youkaishomecoming:raw_tuna
+youkaishomecoming:raw_tuna_slice
+youkaishomecoming:raw_venison
+youkaishomecoming:raw_venison_slice
 youkaishomecoming:roasted_lamprey_fillet

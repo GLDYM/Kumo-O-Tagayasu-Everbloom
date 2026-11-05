@@ -1,8 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:enchantable/fishing
-# Entries: 1
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.1763385+08:00
+# Generated: 2026-11-05T11:35:54.108834+08:00
 
+alloyed:steel_fishing_rod
 minecraft:fishing_rod

@@ -1,8 +1,6 @@
 {
   "replace": false,
   "values": [
-    "create_sa:zinc_axe",
-    "create_sa:copper_axe",
-    "create_sa:brass_axe"
+    "alloyed:steel_axe"
   ]
 }

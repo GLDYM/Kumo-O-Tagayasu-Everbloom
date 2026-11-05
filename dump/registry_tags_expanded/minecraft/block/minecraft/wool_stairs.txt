@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:wool_stairs
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:45.507584+08:00
+
+minecraft:black_wool_stairs
+minecraft:blue_wool_stairs
+minecraft:brown_wool_stairs
+minecraft:cyan_wool_stairs
+minecraft:gray_wool_stairs
+minecraft:green_wool_stairs
+minecraft:light_blue_wool_stairs
+minecraft:light_gray_wool_stairs
+minecraft:lime_wool_stairs
+minecraft:magenta_wool_stairs
+minecraft:orange_wool_stairs
+minecraft:pink_wool_stairs
+minecraft:purple_wool_stairs
+minecraft:red_wool_stairs
+minecraft:white_wool_stairs
+minecraft:yellow_wool_stairs

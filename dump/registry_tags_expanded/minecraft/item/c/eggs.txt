@@ -1,12 +1,14 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:eggs
-# Entries: 5
+# Entries: 7
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.7921295+08:00
+# Generated: 2026-11-05T11:35:49.1303276+08:00
 
 bakeries:whole_egg
 kaleidoscope_cookery:fried_egg
+minecraft:blue_egg
+minecraft:brown_egg
 minecraft:egg
 minecraft:turtle_egg
 mynethersdelight:strider_egg

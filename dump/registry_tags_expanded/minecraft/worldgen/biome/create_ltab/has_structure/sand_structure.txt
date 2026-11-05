@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: create_ltab:has_structure/sand_structure
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.8829001+08:00
+
+minecraft:badlands
+minecraft:desert
+minecraft:eroded_badlands
+minecraft:wooded_badlands

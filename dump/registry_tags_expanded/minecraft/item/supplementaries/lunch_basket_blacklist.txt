@@ -3,7 +3,7 @@
 # Tag: supplementaries:lunch_basket_blacklist
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.1689406+08:00
+# Generated: 2026-11-05T11:35:57.564466+08:00
 
 minecraft:lingering_potion
 minecraft:splash_potion

@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_table",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "irons_spellbooks:chests/citadel/citadel_vault"
+    }
+  ],
+  "table": "farmers_spell:chests/hell_knife_loot"
+}

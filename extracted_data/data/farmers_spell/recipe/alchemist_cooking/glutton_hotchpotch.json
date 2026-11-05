@@ -1,0 +1,33 @@
+{
+    "type": "farmers_spell:alchemist_cooking",
+    "ingredients": [
+        {
+            "tag": "c:raw_ham"
+        },
+        {
+            "item": "minecraft:beef"
+        },
+        {
+            "item": "minecraft:mutton"
+        },
+        {
+            "item": "minecraft:chicken"
+        },
+        {
+            "tag": "c:foods/raw_fish"
+        },
+        {
+            "item": "farmers_spell:foodgeist_seasoning"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "farmers_spell:glutton_hotchpotch"
+    },
+    "container": {
+        "id": "farmersdelight:cooking_pot"
+    },
+    "experience": 1.0,
+    "required_school": "farmers_spell:gluttony",
+    "cookingtime": 200
+}

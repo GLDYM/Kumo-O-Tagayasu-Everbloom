@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:trailandtales_delightmain/tat_delight",
+  "criteria": {
+    "seeds": {
+      "conditions": {
+        "items": [
+          {
+            "items": "trailandtales_delight:sniffer_eggshell_knife"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.sniffer_eggshell_knife.descr"
+    },
+    "frame": "goal",
+    "icon": {
+      "count": 1,
+      "id": "trailandtales_delight:sniffer_eggshell_knife"
+    },
+    "title": {
+      "translate": "advancements.sniffer_eggshell_knife.title"
+    }
+  },
+  "requirements": [
+    [
+      "seeds"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ingots/steel"
+      }
+    }
+  ],
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "tag": "c:glass_blocks"
+    },
+    {
+      "tag": "c:ingots/steel"
+    }
+  ],
+  "results": [
+    {
+      "id": "createprism:steel_glass_casing"
+    }
+  ]
+}

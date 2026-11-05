@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "modid": "farmersdelight",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "tsuki:cabbage"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 2,
+        "id": "tsuki:sliced_cabbage"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knives"
+  }
+}

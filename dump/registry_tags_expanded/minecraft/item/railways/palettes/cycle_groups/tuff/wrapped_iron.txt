@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: railways:palettes/cycle_groups/tuff/wrapped_iron
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:57.017589+08:00
+
+railways:tuff_iron_wrapped_locometal
+railways:tuff_iron_wrapped_locometal_smokebox

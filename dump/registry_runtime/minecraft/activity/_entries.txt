@@ -2,7 +2,7 @@
 # Registry: minecraft:activity
 # Minecraft: 1.21.1
 # Entries: 34
-# Generated: 2026-06-18T20:43:28.2634259+08:00
+# Generated: 2026-11-05T11:35:22.1805503+08:00
 
 minecraft:admire_item raw_id=12 class=net.minecraft.world.entity.schedule.Activity
 minecraft:avoid raw_id=13 class=net.minecraft.world.entity.schedule.Activity
@@ -31,10 +31,10 @@ minecraft:swim raw_id=19 class=net.minecraft.world.entity.schedule.Activity
 minecraft:tongue raw_id=18 class=net.minecraft.world.entity.schedule.Activity
 minecraft:work raw_id=2 class=net.minecraft.world.entity.schedule.Activity
 supplementaries:scared_by_noteblock raw_id=26 class=net.minecraft.world.entity.schedule.Activity
-touhou_little_maid:ride_idle raw_id=31 class=net.minecraft.world.entity.schedule.Activity
-touhou_little_maid:ride_rest raw_id=33 class=net.minecraft.world.entity.schedule.Activity
-touhou_little_maid:ride_work raw_id=32 class=net.minecraft.world.entity.schedule.Activity
-youkaishomecoming:at_home raw_id=27 class=net.minecraft.world.entity.schedule.Activity
-youkaishomecoming:down raw_id=29 class=net.minecraft.world.entity.schedule.Activity
-youkaishomecoming:hunt raw_id=28 class=net.minecraft.world.entity.schedule.Activity
-youkaishomecoming:talk raw_id=30 class=net.minecraft.world.entity.schedule.Activity
+touhou_little_maid:ride_idle raw_id=27 class=net.minecraft.world.entity.schedule.Activity
+touhou_little_maid:ride_rest raw_id=29 class=net.minecraft.world.entity.schedule.Activity
+touhou_little_maid:ride_work raw_id=28 class=net.minecraft.world.entity.schedule.Activity
+youkaishomecoming:at_home raw_id=30 class=net.minecraft.world.entity.schedule.Activity
+youkaishomecoming:down raw_id=32 class=net.minecraft.world.entity.schedule.Activity
+youkaishomecoming:hunt raw_id=31 class=net.minecraft.world.entity.schedule.Activity
+youkaishomecoming:talk raw_id=33 class=net.minecraft.world.entity.schedule.Activity

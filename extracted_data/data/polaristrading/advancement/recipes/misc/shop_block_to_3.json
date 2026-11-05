@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "polaristrading:shop_block_to_3"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_wood": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:oak_wood"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_wood"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "polaristrading:shop_block_to_3"
+    ]
+  }
+}

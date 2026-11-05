@@ -1,0 +1,28 @@
+{
+  "type": "tsuki:cooking",
+  "container": {
+    "count": 0,
+    "id": "minecraft:air"
+  },
+  "experience": 0,
+  "fluid": {
+    "amount": 100,
+    "fluidTag": "c:water/water"
+  },
+  "ingredients": [
+    {
+      "tag": "c:fruits/apple"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:fruits"
+    }
+  ],
+  "recipeTime": 200,
+  "result": {
+    "count": 2,
+    "id": "tsuki:fruitsalad"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:magenta_carpet"
+    }
+  },
+  "result": {
+    "id": "colorcush:magenta_cushion",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "tsuki:shaker",
+  "experience": 0,
+  "ingredients": [
+    {
+      "item": "tsuki:glass_red_wine"
+    },
+    {
+      "item": "tsuki:cola"
+    },
+    {
+      "item": "tsuki:ice_cube"
+    }
+  ],
+  "result": {
+    "id": "tsuki:glass_kalimotxo"
+  },
+  "shake_count": 12
+}

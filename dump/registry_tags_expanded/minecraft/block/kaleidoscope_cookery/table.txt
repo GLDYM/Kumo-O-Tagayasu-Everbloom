@@ -1,10 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: kaleidoscope_cookery:table
-# Entries: 11
+# Entries: 12
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.4665716+08:00
+# Generated: 2026-11-05T11:35:44.21338+08:00
 
+kaleidoscope_cookery:eight_immortals_table
 kaleidoscope_cookery:table_acacia
 kaleidoscope_cookery:table_bamboo
 kaleidoscope_cookery:table_birch

@@ -1,0 +1,29 @@
+# Expanded runtime tag dump
+# Registry: minecraft:damage_type
+# Tag: minecraft:sulfur_cube_with_block_immune_to
+# Entries: 22
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:46.4990695+08:00
+
+minecraft:arrow
+minecraft:cactus
+minecraft:dry_out
+minecraft:explosion
+minecraft:fall
+minecraft:falling_anvil
+minecraft:falling_block
+minecraft:falling_stalactite
+minecraft:freeze
+minecraft:hot_floor
+minecraft:mob_attack
+minecraft:mob_attack_no_aggro
+minecraft:mob_projectile
+minecraft:player_attack
+minecraft:player_explosion
+minecraft:stalagmite
+minecraft:sting
+minecraft:sulfur_cube_hot
+minecraft:sweet_berry_bush
+minecraft:thrown
+minecraft:trident
+minecraft:wind_charge

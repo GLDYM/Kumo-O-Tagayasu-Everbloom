@@ -1,0 +1,10 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_tavern:cocktail_ingredient_red
+# Entries: 3
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.6686747+08:00
+
+kaleidoscope_tavern:plum_wine
+kaleidoscope_tavern:red_queen
+kaleidoscope_tavern:sweet_berry_wine

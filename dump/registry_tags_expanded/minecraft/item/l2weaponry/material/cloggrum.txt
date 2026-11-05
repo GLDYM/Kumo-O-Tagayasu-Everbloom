@@ -1,7 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:item
-# Tag: l2weaponry:material/cloggrum
-# Entries: 0
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.0266482+08:00
-

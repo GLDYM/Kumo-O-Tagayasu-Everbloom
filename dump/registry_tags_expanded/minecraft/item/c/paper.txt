@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:paper
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:50.2950383+08:00
+
+create_bic_bit:dirty_paper

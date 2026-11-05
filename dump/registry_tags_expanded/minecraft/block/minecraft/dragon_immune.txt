@@ -1,10 +1,13 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:dragon_immune
-# Entries: 43
+# Entries: 24
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.7471476+08:00
+# Generated: 2026-11-05T11:35:44.8009497+08:00
 
+createendergateway:abandoned_gateway
+createendergateway:gateway_portal
+createendergateway:mechanical_gateway
 minecraft:barrier
 minecraft:bedrock
 minecraft:chain_command_block
@@ -23,28 +26,6 @@ minecraft:repeating_command_block
 minecraft:respawn_anchor
 minecraft:structure_block
 moonlight:spawn_box
-quark:chiseled_myalite_bricks
-quark:duskbound_block
-quark:duskbound_block_slab
-quark:duskbound_block_stairs
-quark:duskbound_block_vertical_slab
-quark:duskbound_lantern
-quark:myalite
-quark:myalite_bricks
-quark:myalite_bricks_slab
-quark:myalite_bricks_stairs
-quark:myalite_bricks_vertical_slab
-quark:myalite_bricks_wall
-quark:myalite_crystal
-quark:myalite_pillar
-quark:myalite_slab
-quark:myalite_stairs
-quark:myalite_vertical_slab
-quark:myalite_wall
-quark:polished_myalite
-quark:polished_myalite_slab
-quark:polished_myalite_stairs
-quark:polished_myalite_vertical_slab
 supplementaries:safe
 supplementaries:spring_launcher_arm
 tofucraft:tofu_bedrock

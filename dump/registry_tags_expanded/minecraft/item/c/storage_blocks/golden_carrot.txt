@@ -1,8 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:item
-# Tag: c:storage_blocks/golden_carrot
-# Entries: 1
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.6134509+08:00
-
-quark:golden_carrot_crate

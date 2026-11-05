@@ -1,13 +1,15 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:lectern_books
-# Entries: 28
+# Entries: 30
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.2189244+08:00
+# Generated: 2026-11-05T11:35:54.2909505+08:00
 
+abyss_sonata:sakura_spell_book
 createrailwaysnavigator:navigator
-exposure:album
-exposure:signed_album
+farmers_spell:lasagnowledge
+farmers_spell:tiramisu
+farmers_spell:wheat_book
 irons_spellbooks:archevoker_logbook_translated
 irons_spellbooks:archevoker_logbook_untranslated
 irons_spellbooks:blaze_spell_book

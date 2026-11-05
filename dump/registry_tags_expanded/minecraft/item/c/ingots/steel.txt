@@ -1,9 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:ingots/steel
-# Entries: 2
+# Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.2577445+08:00
+# Generated: 2026-11-05T11:35:49.9716119+08:00
 
+alloyed:steel_ingot
 createnuclear:steel_ingot
 tsuki:steel_ingot

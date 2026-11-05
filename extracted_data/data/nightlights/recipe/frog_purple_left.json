@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "I# ",
+        "GNG",
+        "RBR"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:buttons"
+        },
+        "I": {
+            "item": "minecraft:lily_pad"
+        },
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "N": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "B": {
+            "item": "minecraft:purple_dye"
+        }
+    },
+    "result": {
+        "id": "nightlights:frog_purple"
+    },
+    "group": "frog_purple"
+}

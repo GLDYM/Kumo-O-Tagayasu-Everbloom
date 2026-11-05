@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:stones
-# Entries: 11
+# Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.5552338+08:00
+# Generated: 2026-11-05T11:35:50.7731542+08:00
 
 minecraft:andesite
 minecraft:deepslate
@@ -11,8 +11,3 @@ minecraft:diorite
 minecraft:granite
 minecraft:stone
 minecraft:tuff
-quark:jasper
-quark:limestone
-quark:myalite
-quark:permafrost
-quark:shale

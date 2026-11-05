@@ -3,11 +3,11 @@
 # Tag: minecraft:bypasses_cooldown
 # Entries: 16
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.4476132+08:00
+# Generated: 2026-11-05T11:35:46.4037065+08:00
 
-brewinandchewin:cardiac_arrest
 danmaku_api:abyssal_danmaku
 danmaku_api:danmaku
+immortalers_delight:black_snake
 immortalers_delight:drunk
 immortalers_delight:gas
 iss_magicfromtheeast:soul_weapons_bonus

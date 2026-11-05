@@ -1,25 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:worldgen/biome
 # Tag: minecraft:has_structure/trial_chambers
-# Entries: 68
+# Entries: 54
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.2144156+08:00
+# Generated: 2026-11-05T11:35:59.3104329+08:00
 
-atmospheric:aspen_parkland
-atmospheric:dunes
-atmospheric:flourishing_dunes
-atmospheric:grimwoods
-atmospheric:kousa_jungle
-atmospheric:laurel_forest
-atmospheric:petrified_dunes
-atmospheric:rainforest
-atmospheric:rainforest_basin
-atmospheric:rocky_dunes
-atmospheric:scrubland
-atmospheric:snowy_scrubland
-atmospheric:sparse_rainforest
-atmospheric:sparse_rainforest_basin
-atmospheric:spiny_thicket
 minecraft:badlands
 minecraft:bamboo_jungle
 minecraft:beach
@@ -52,6 +37,7 @@ minecraft:ocean
 minecraft:old_growth_birch_forest
 minecraft:old_growth_pine_taiga
 minecraft:old_growth_spruce_taiga
+minecraft:pale_garden
 minecraft:plains
 minecraft:river
 minecraft:savanna
@@ -63,6 +49,7 @@ minecraft:snowy_taiga
 minecraft:sparse_jungle
 minecraft:stony_peaks
 minecraft:stony_shore
+minecraft:sulfur_caves
 minecraft:sunflower_plains
 minecraft:swamp
 minecraft:taiga
@@ -72,4 +59,3 @@ minecraft:windswept_gravelly_hills
 minecraft:windswept_hills
 minecraft:windswept_savanna
 minecraft:wooded_badlands
-neapolitan:strawberry_fields

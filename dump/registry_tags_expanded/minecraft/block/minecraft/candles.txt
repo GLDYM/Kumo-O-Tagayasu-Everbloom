@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:candles
-# Entries: 18
+# Entries: 19
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.6933012+08:00
+# Generated: 2026-11-05T11:35:44.6452896+08:00
 
 amendments:skull_candle
 minecraft:black_candle
@@ -23,3 +23,4 @@ minecraft:purple_candle
 minecraft:red_candle
 minecraft:white_candle
 minecraft:yellow_candle
+whimsy_deco:bamboo_candle

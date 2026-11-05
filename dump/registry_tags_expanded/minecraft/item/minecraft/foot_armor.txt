@@ -1,16 +1,15 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:foot_armor
-# Entries: 43
+# Entries: 44
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.2025521+08:00
+# Generated: 2026-11-05T11:35:54.1877333+08:00
 
+alloyed:steel_boots
 create:cardboard_boots
 create:copper_diving_boots
 create:netherite_diving_boots
-create_sa:brass_boots
-create_sa:copper_boots
-create_sa:zinc_boots
+farmers_spell:gluttony_chef_boots
 irons_spellbooks:archevoker_boots
 irons_spellbooks:cryomancer_boots
 irons_spellbooks:cultist_boots
@@ -33,7 +32,9 @@ l2complements:poseidite_boots
 l2complements:sculkium_boots
 l2complements:shulkerate_boots
 l2complements:totemic_gold_boots
+majobroom:majo_boots
 minecraft:chainmail_boots
+minecraft:copper_boots
 minecraft:diamond_boots
 minecraft:golden_boots
 minecraft:iron_boots

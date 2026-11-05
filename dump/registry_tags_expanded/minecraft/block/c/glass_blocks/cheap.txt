@@ -1,11 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: c:glass_blocks/cheap
-# Entries: 18
+# Entries: 17
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.7044752+08:00
+# Generated: 2026-11-05T11:35:42.6711904+08:00
 
-atmospheric:arid_glass
 minecraft:black_stained_glass
 minecraft:blue_stained_glass
 minecraft:brown_stained_glass

@@ -1,0 +1,14 @@
+{
+  "values": [
+    "createendergateway:mechanical_gateway",
+    "createendergateway:abandoned_gateway",
+    "createendergateway:gateway_portal",
+    "irons_spellbooks:voidstone",
+    "irons_spellbooks:pocket_dimension_portal_frame",
+    "moonlight:spawn_box",
+    "supplementaries:spring_launcher_arm",
+    "supplementaries:safe",
+    "tofucraft:tofu_bedrock"
+  ],
+  "replace": false
+}

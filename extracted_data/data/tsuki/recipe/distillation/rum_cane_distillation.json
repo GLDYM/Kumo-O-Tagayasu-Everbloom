@@ -1,0 +1,25 @@
+{
+  "type": "tsuki:distillation",
+  "experience": 0,
+  "fluid": {
+    "amount": 1000,
+    "fluidTag": "c:water/water"
+  },
+  "ingredients": [
+    {
+      "tag": "c:crops/sugar_cane"
+    },
+    {
+      "tag": "c:crops/sugar_cane"
+    },
+    {
+      "tag": "c:yeast"
+    }
+  ],
+  "recipeTime": 400,
+  "result_fluid": {
+    "amount": 500,
+    "fluid": "tsuki:rum"
+  },
+  "results": []
+}

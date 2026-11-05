@@ -1,17 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:standing_signs
-# Entries: 43
+# Entries: 36
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.9964109+08:00
+# Generated: 2026-11-05T11:35:45.3089956+08:00
 
-atmospheric:aspen_sign
-atmospheric:grimwood_sign
-atmospheric:kousa_sign
-atmospheric:laurel_sign
-atmospheric:morado_sign
-atmospheric:rosewood_sign
-atmospheric:yucca_sign
 crabbersdelight:palm_sign
 farmersdelight:black_canvas_sign
 farmersdelight:blue_canvas_sign
@@ -39,12 +32,12 @@ minecraft:dark_oak_sign
 minecraft:jungle_sign
 minecraft:mangrove_sign
 minecraft:oak_sign
+minecraft:pale_oak_sign
+minecraft:poplar_sign
 minecraft:spruce_sign
 minecraft:warped_sign
 mynethersdelight:powdery_sign
-quark:ancient_sign
-quark:azalea_sign
-quark:blossom_sign
 tofucraft:leek_green_sign
 tofucraft:leek_sign
 tofucraft:tofustem_sign
+trailandtales_delight:crystal_wood_sign

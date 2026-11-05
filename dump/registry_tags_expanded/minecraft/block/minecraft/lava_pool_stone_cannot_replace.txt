@@ -1,72 +1,15 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:lava_pool_stone_cannot_replace
-# Entries: 183
+# Entries: 125
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.8308724+08:00
+# Generated: 2026-11-05T11:35:44.9919651+08:00
 
-atmospheric:aspen_leaves
-atmospheric:aspen_log
-atmospheric:aspen_wood
-atmospheric:crustose_log
-atmospheric:crustose_wood
-atmospheric:currant_leaves
-atmospheric:currant_stalk
-atmospheric:dry_laurel_leaves
-atmospheric:flowering_morado_leaves
-atmospheric:green_aspen_leaves
-atmospheric:grimwood
-atmospheric:grimwood_leaves
-atmospheric:grimwood_log
-atmospheric:kousa_leaves
-atmospheric:kousa_log
-atmospheric:kousa_wood
-atmospheric:laurel_leaves
-atmospheric:laurel_log
-atmospheric:laurel_wood
-atmospheric:morado_leaves
-atmospheric:morado_log
-atmospheric:morado_wood
-atmospheric:rosewood
-atmospheric:rosewood_leaves
-atmospheric:rosewood_log
-atmospheric:stripped_aspen_log
-atmospheric:stripped_aspen_wood
-atmospheric:stripped_grimwood
-atmospheric:stripped_grimwood_log
-atmospheric:stripped_kousa_log
-atmospheric:stripped_kousa_wood
-atmospheric:stripped_laurel_log
-atmospheric:stripped_laurel_wood
-atmospheric:stripped_morado_log
-atmospheric:stripped_morado_wood
-atmospheric:stripped_rosewood
-atmospheric:stripped_rosewood_log
-atmospheric:stripped_yucca_log
-atmospheric:stripped_yucca_wood
-atmospheric:watchful_aspen_log
-atmospheric:watchful_aspen_wood
-atmospheric:yucca_leaves
-atmospheric:yucca_log
-atmospheric:yucca_wood
 crabbersdelight:palm_leaves
 crabbersdelight:palm_log
 crabbersdelight:palm_wood
 crabbersdelight:stripped_palm_log
 crabbersdelight:stripped_palm_wood
-fruitsdelight:apple_leaves
-fruitsdelight:bayberry_leaves
-fruitsdelight:durian_leaves
-fruitsdelight:fig_leaves
-fruitsdelight:hawberry_leaves
-fruitsdelight:kiwi_leaves
-fruitsdelight:lychee_leaves
-fruitsdelight:mango_leaves
-fruitsdelight:mangosteen_leaves
-fruitsdelight:orange_leaves
-fruitsdelight:peach_leaves
-fruitsdelight:pear_leaves
-fruitsdelight:persimmon_leaves
 immortalers_delight:a_bush_log
 immortalers_delight:ancient_wood
 immortalers_delight:ancient_wood_log
@@ -114,6 +57,13 @@ minecraft:mangrove_wood
 minecraft:oak_leaves
 minecraft:oak_log
 minecraft:oak_wood
+minecraft:orange_poplar_leaves
+minecraft:pale_oak_leaves
+minecraft:pale_oak_log
+minecraft:pale_oak_wood
+minecraft:poplar_log
+minecraft:poplar_wood
+minecraft:red_poplar_leaves
 minecraft:reinforced_deepslate
 minecraft:spawner
 minecraft:spruce_leaves
@@ -135,6 +85,10 @@ minecraft:stripped_mangrove_log
 minecraft:stripped_mangrove_wood
 minecraft:stripped_oak_log
 minecraft:stripped_oak_wood
+minecraft:stripped_pale_oak_log
+minecraft:stripped_pale_oak_wood
+minecraft:stripped_poplar_log
+minecraft:stripped_poplar_wood
 minecraft:stripped_spruce_log
 minecraft:stripped_spruce_wood
 minecraft:stripped_warped_hyphae
@@ -143,28 +97,16 @@ minecraft:trial_spawner
 minecraft:vault
 minecraft:warped_hyphae
 minecraft:warped_stem
-quark:ancient_leaves
-quark:ancient_log
-quark:ancient_wood
-quark:azalea_log
-quark:azalea_wood
-quark:blossom_log
-quark:blossom_wood
-quark:blue_blossom_leaves
-quark:lavender_blossom_leaves
-quark:orange_blossom_leaves
-quark:red_blossom_leaves
-quark:stripped_ancient_log
-quark:stripped_ancient_wood
-quark:stripped_azalea_log
-quark:stripped_azalea_wood
-quark:stripped_blossom_log
-quark:stripped_blossom_wood
-quark:yellow_blossom_leaves
+minecraft:yellow_poplar_leaves
 tofucraft:leaves_apricot
 tofucraft:leaves_tofu
 tofucraft:tofu_bedrock
 tofucraft:tofuchest
+trailandtales_delight:crystal_leaves
+trailandtales_delight:crystal_wood
+trailandtales_delight:crystal_wood_log
+trailandtales_delight:stripped_crystal_wood
+trailandtales_delight:stripped_crystal_wood_log
 tsuki:maple_log
 tsuki:maple_sap_log
 tsuki:maple_wood

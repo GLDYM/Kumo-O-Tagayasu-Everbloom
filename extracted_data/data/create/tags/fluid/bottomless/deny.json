@@ -1,0 +1,26 @@
+{
+  "values": [
+    "create_enchantment_industry:flowing_experience",
+    "create_enchantment_industry:experience",
+    {
+      "id": "create_enchantment_industry:apotheotic_essence",
+      "required": false
+    },
+    {
+      "id": "create_enchantment_industry:flowing_apotheotic_essence",
+      "required": false
+    },
+    {
+      "id": "create_enchantment_industry:crystal_essence",
+      "required": false
+    },
+    {
+      "id": "create_enchantment_industry:flowing_crystal_essence",
+      "required": false
+    },
+    "createendergateway:flowing_dormant_ender_solution",
+    "createendergateway:dormant_ender_solution",
+    "createendergateway:flowing_active_ender_solution",
+    "createendergateway:active_ender_solution"
+  ]
+}

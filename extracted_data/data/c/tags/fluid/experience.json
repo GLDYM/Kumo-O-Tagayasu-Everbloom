@@ -1,0 +1,10 @@
+{
+  "values": [
+    "beyonddimensions:xp_fluid",
+    "beyonddimensions:flowing_xp_fluid",
+    "riichi_mahjong:liquid_experience",
+    "riichi_mahjong:liquid_experience_flowing",
+    "sophisticatedcore:xp_still"
+  ],
+  "replace": false
+}

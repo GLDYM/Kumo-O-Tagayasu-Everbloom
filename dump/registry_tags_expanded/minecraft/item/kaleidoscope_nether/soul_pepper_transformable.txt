@@ -3,7 +3,7 @@
 # Tag: kaleidoscope_nether:soul_pepper_transformable
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.9832181+08:00
+# Generated: 2026-11-05T11:35:53.5901557+08:00
 
 kaleidoscope_cookery:green_chili
 kaleidoscope_cookery:red_chili

@@ -1,6 +1,5 @@
 {
-  "replace": true,
   "values": [
-    "integrated_stronghold:stronghold"
+    "minecraft:stronghold"
   ]
 }

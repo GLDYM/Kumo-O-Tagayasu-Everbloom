@@ -3,6 +3,6 @@
 # Tag: minecraft:camel_food
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.1443667+08:00
+# Generated: 2026-11-05T11:35:53.908184+08:00
 
 minecraft:cactus

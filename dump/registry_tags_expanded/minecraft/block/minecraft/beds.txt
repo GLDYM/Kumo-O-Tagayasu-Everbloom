@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:beds
-# Entries: 30
+# Entries: 31
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.6594265+08:00
+# Generated: 2026-11-05T11:35:44.6099073+08:00
 
 delighto_flight:cloud_silk_bed
 handcrafted:acacia_fancy_bed
@@ -17,6 +17,7 @@ handcrafted:mangrove_fancy_bed
 handcrafted:oak_fancy_bed
 handcrafted:spruce_fancy_bed
 handcrafted:warped_fancy_bed
+kaleidoscope_chinesefood:straw_bed
 minecraft:black_bed
 minecraft:blue_bed
 minecraft:brown_bed

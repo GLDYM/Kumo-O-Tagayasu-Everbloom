@@ -1,10 +1,20 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:salad_ingredients
-# Entries: 3
+# Entries: 13
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.4411044+08:00
+# Generated: 2026-11-05T11:35:50.5506127+08:00
 
+farmersdelight:cabbage
+farmersdelight:cabbage_leaf
+farmersdelight:onion
+farmersdelight:tomato
+minecraft:beetroot
+minecraft:brown_mushroom
+minecraft:carrot
+minecraft:glow_berries
+minecraft:red_mushroom
+minecraft:sweet_berries
 tsuki:cabbage
 tsuki:sliced_cabbage
 tsuki:tomato

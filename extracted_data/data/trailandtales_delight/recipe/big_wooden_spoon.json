@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:wooden_shovel"
+    },
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "C": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  B",
+    " A ",
+    "C  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:big_wooden_spoon"
+  }
+}

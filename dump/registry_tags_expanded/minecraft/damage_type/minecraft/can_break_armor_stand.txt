@@ -3,7 +3,7 @@
 # Tag: minecraft:can_break_armor_stand
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.4611182+08:00
+# Generated: 2026-11-05T11:35:46.4294577+08:00
 
 minecraft:player_attack
 minecraft:player_explosion

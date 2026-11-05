@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICC",
+    " IC",
+    "   "
+  ],
+  "key": {
+    "I": [
+      {
+        "item": "minecraft:iron_ingot"
+      }
+    ],
+    "C": [
+      {
+        "item": "minecraft:copper_ingot"
+      }
+    ]
+  },
+  "result": {
+    "id": "immersive_melodies:trumpet"
+  }
+}

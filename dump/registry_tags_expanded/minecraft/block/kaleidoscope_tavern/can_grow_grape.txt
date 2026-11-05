@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: kaleidoscope_tavern:can_grow_grape
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:44.2756574+08:00
+
+crabbersdelight:wormy_dirt
+delighto_flight:weather_soil
+farmersdelight:rich_soil
+minecraft:coarse_dirt
+minecraft:dirt
+minecraft:grass_block
+minecraft:moss_block
+minecraft:mud
+minecraft:muddy_mangrove_roots
+minecraft:mycelium
+minecraft:pale_moss_block
+minecraft:podzol
+minecraft:rooted_dirt
+mynethersdelight:resurgent_soil
+mynethersdelight:resurgent_soil_farmland
+vintagedelight:lush_grass_block

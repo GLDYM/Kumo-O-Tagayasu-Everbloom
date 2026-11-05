@@ -1,0 +1,8 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:raw_storage_blocks/thorium
+# Entries: 1
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:42.9415517+08:00
+
+createnuclear:raw_thorium_block

@@ -1,24 +1,31 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:dyed/blue
-# Entries: 20
+# Entries: 27
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.7566691+08:00
+# Generated: 2026-11-05T11:35:49.0005747+08:00
 
 handcrafted:blue_cushion
 handcrafted:blue_sheet
 minecraft:blue_banner
 minecraft:blue_bed
+minecraft:blue_bundle
 minecraft:blue_candle
 minecraft:blue_carpet
 minecraft:blue_concrete
 minecraft:blue_concrete_powder
+minecraft:blue_concrete_slab
+minecraft:blue_concrete_stairs
+minecraft:blue_cushion
 minecraft:blue_glazed_terracotta
+minecraft:blue_harness
 minecraft:blue_shulker_box
 minecraft:blue_stained_glass
 minecraft:blue_stained_glass_pane
 minecraft:blue_terracotta
 minecraft:blue_wool
+minecraft:blue_wool_slab
+minecraft:blue_wool_stairs
 supplementaries:awning_blue
 supplementaries:bunting_blue
 supplementaries:candle_holder_blue

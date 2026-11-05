@@ -1,0 +1,23 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: ati_structures:herobrine_stronghold
+# Entries: 16
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.3432001+08:00
+
+minecraft:bamboo_jungle
+minecraft:birch_forest
+minecraft:dappled_forest
+minecraft:dark_forest
+minecraft:flower_forest
+minecraft:forest
+minecraft:grove
+minecraft:jungle
+minecraft:old_growth_birch_forest
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:pale_garden
+minecraft:plains
+minecraft:sparse_jungle
+minecraft:sunflower_plains
+tsuki:maple_forest

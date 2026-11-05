@@ -1,0 +1,17 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: create_structures_arise:airborne_structure_avoid_biomes
+# Entries: 10
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:58.8899417+08:00
+
+minecraft:cherry_grove
+minecraft:frozen_peaks
+minecraft:grove
+minecraft:jagged_peaks
+minecraft:meadow
+minecraft:snowy_slopes
+minecraft:stony_peaks
+minecraft:windswept_forest
+minecraft:windswept_gravelly_hills
+minecraft:windswept_hills

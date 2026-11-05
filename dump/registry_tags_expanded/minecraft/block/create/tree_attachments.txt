@@ -3,7 +3,7 @@
 # Tag: create:tree_attachments
 # Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.0412131+08:00
+# Generated: 2026-11-05T11:35:43.3828254+08:00
 
 minecraft:bee_nest
 minecraft:cocoa

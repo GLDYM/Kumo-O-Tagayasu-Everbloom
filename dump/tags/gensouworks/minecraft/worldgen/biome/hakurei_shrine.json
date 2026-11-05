@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "cherry_grove",
+    "meadow",
+    {
+      "id": "youkaishomecoming:sakura_forest",
+      "required": false
+    },
+    {
+      "id": "youkaishomecoming:sakura_birch_forest",
+      "required": false
+    },
+    {
+      "id": "youkaishomecoming:sakura_taiga",
+      "required": false
+    },
+    {
+      "id": "youkaishomecoming:animal_path",
+      "required": false
+    }
+  ]
+}

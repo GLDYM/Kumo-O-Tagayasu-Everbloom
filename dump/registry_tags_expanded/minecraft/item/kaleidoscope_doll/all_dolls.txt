@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: kaleidoscope_doll:all_dolls
-# Entries: 704
+# Entries: 733
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.9661707+08:00
+# Generated: 2026-11-05T11:35:53.5208896+08:00
 
 kaleidoscope_doll:custom_doll
 kaleidoscope_doll:doll_0
@@ -667,10 +667,39 @@ kaleidoscope_doll:doll_690
 kaleidoscope_doll:doll_691
 kaleidoscope_doll:doll_692
 kaleidoscope_doll:doll_693
+kaleidoscope_doll:doll_694
+kaleidoscope_doll:doll_695
+kaleidoscope_doll:doll_696
+kaleidoscope_doll:doll_697
+kaleidoscope_doll:doll_698
+kaleidoscope_doll:doll_699
 kaleidoscope_doll:doll_7
 kaleidoscope_doll:doll_70
+kaleidoscope_doll:doll_700
+kaleidoscope_doll:doll_701
+kaleidoscope_doll:doll_702
+kaleidoscope_doll:doll_703
+kaleidoscope_doll:doll_704
+kaleidoscope_doll:doll_705
+kaleidoscope_doll:doll_706
+kaleidoscope_doll:doll_707
+kaleidoscope_doll:doll_708
+kaleidoscope_doll:doll_709
 kaleidoscope_doll:doll_71
+kaleidoscope_doll:doll_710
+kaleidoscope_doll:doll_711
+kaleidoscope_doll:doll_712
+kaleidoscope_doll:doll_713
+kaleidoscope_doll:doll_714
+kaleidoscope_doll:doll_715
+kaleidoscope_doll:doll_716
+kaleidoscope_doll:doll_717
+kaleidoscope_doll:doll_718
+kaleidoscope_doll:doll_719
 kaleidoscope_doll:doll_72
+kaleidoscope_doll:doll_720
+kaleidoscope_doll:doll_721
+kaleidoscope_doll:doll_722
 kaleidoscope_doll:doll_73
 kaleidoscope_doll:doll_74
 kaleidoscope_doll:doll_75

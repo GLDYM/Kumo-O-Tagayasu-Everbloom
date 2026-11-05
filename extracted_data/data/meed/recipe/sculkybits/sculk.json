@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "sculkybits"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "emiffect"
+      }
+    }
+  ],
+  "type": "jeed:effect_provider",
+  "effect": "sculkybits:sculk",
+  "providers": [
+    {
+      "item": "sculkybits:sculk_growth"
+    },
+    {
+      "item": "sculkybits:sculk_bucket"
+    }
+  ]
+}

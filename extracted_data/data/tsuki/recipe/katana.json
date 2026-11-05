@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "tag": "c:tools/hammers"
+    },
+    "L": {
+      "tag": "c:lumber"
+    },
+    "M": {
+      "tag": "c:ingots/steel"
+    }
+  },
+  "pattern": [
+    "  M",
+    " M ",
+    "L H"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tsuki:katana"
+  }
+}

@@ -3,15 +3,13 @@
 # Tag: minecraft:maintains_farmland
 # Entries: 33
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.8469463+08:00
+# Generated: 2026-11-05T11:35:45.0234326+08:00
 
 farmersdelight:budding_tomatoes
 farmersdelight:cabbages
 farmersdelight:onions
 farmersdelight:rice
 farmersdelight:tomatoes
-fruitsdelight:attached_hamimelon_stem
-fruitsdelight:hamimelon_stem
 immortalers_delight:alfalfa
 immortalers_delight:evolutcorn
 immortalers_delight:himekaido_shrub
@@ -31,6 +29,8 @@ minecraft:torchflower
 minecraft:torchflower_crop
 minecraft:wheat
 supplementaries:flax
+supplementaries:rope_tomatoes
+supplementaries:stick_tomatoes
 tofucraft:soybean
 tofucraft:soybean_nether
 tofucraft:soybean_soul

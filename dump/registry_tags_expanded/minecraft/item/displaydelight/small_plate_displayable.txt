@@ -1,11 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: displaydelight:small_plate_displayable
-# Entries: 15
+# Entries: 14
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.1606121+08:00
+# Generated: 2026-11-05T11:35:51.9576052+08:00
 
-brewinandchewin:quiche_slice
 ends_delight:chorus_fruit_pie_slice
 farmersdelight:apple_pie_slice
 farmersdelight:cabbage_rolls

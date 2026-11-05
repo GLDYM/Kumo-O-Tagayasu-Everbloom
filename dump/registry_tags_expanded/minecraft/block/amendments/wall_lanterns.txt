@@ -1,0 +1,21 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: amendments:wall_lanterns
+# Entries: 14
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:42.1806373+08:00
+
+amendments:immortalers_delight/wall_sextlotus_lantern
+amendments:tofucraft/wall_tofu_metal_lantern
+amendments:tofucraft/wall_tofu_metal_soul_lantern
+amendments:wall_copper_lantern
+amendments:wall_exposed_copper_lantern
+amendments:wall_lantern
+amendments:wall_oxidized_copper_lantern
+amendments:wall_soul_lantern
+amendments:wall_waxed_copper_lantern
+amendments:wall_waxed_exposed_copper_lantern
+amendments:wall_waxed_oxidized_copper_lantern
+amendments:wall_waxed_weathered_copper_lantern
+amendments:wall_weathered_copper_lantern
+amendments:youkaishomecoming/wall_moon_lantern

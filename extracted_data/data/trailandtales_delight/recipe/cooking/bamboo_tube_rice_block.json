@@ -1,0 +1,15 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 600,
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "item": "trailandtales_delight:raw_bamboo_tube_rice"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:bamboo_tube_rice_block"
+  }
+}

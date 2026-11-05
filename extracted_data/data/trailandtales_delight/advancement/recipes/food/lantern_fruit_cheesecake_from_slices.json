@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_lantern_fruit_cheesecake_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": "trailandtales_delight:lantern_fruit_cheesecake_slice"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "trailandtales_delight:lantern_fruit_cheesecake_from_slices"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_lantern_fruit_cheesecake_slice"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "trailandtales_delight:lantern_fruit_cheesecake_from_slices"
+    ]
+  }
+}

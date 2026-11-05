@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "modid": "create",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "tsuki:rice/rice"
+    },
+    {
+      "item": "tsuki:natto"
+    },
+    {
+      "amount": 125,
+      "fluid": "minecraft:water",
+      "type": "neoforge:single"
+    }
+  ],
+  "results": [
+    {
+      "id": "tsuki:rice_natto"
+    }
+  ]
+}

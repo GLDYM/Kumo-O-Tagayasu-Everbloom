@@ -1,9 +1,13 @@
 # Expanded runtime tag dump
 # Registry: minecraft:fluid
 # Tag: create:bottomless/deny
-# Entries: 2
+# Entries: 6
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.0320067+08:00
+# Generated: 2026-11-05T11:35:47.5296343+08:00
 
 create_enchantment_industry:experience
 create_enchantment_industry:flowing_experience
+createendergateway:active_ender_solution
+createendergateway:dormant_ender_solution
+createendergateway:flowing_active_ender_solution
+createendergateway:flowing_dormant_ender_solution

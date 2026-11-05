@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: c:armors/nautilus
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:47.9027399+08:00
+
+alloyed:steel_nautilus_armor
+minecraft:copper_nautilus_armor
+minecraft:diamond_nautilus_armor
+minecraft:golden_nautilus_armor
+minecraft:iron_nautilus_armor
+minecraft:netherite_nautilus_armor

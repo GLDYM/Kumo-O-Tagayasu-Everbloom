@@ -3,12 +3,34 @@
     "create:basin",
     "fluidlogistics:smart_hopper",
     "fluidlogistics:copper_basin",
-    "fluidlogistics:multi_fluid_access_port",
+    "fluidlogistics:copper_basket",
+    {
+      "id": "createmoremachines:brass_basin",
+      "required": false
+    },
+    {
+      "id": "createmoremachines:netherite_basin",
+      "required": false
+    },
+    {
+      "id": "createmoremachines:end_basin",
+      "required": false
+    },
+    {
+      "id": "createmoremachines:beyond_basin",
+      "required": false
+    },
+    {
+      "id": "createmoremachines:creative_basin",
+      "required": false
+    },
     "create:belt",
     "create:depot",
     "create:blaze_burner",
+    "fluidlogistics:snow_golem_freezer",
     "create:item_drain",
     "minecraft:cauldron",
+    "minecraft:water_cauldron",
     {
       "id": "createmetallurgy:casting_basin",
       "required": false
@@ -57,10 +79,6 @@
       "id": "northstar:combustion_engine",
       "required": false
     },
-    "fluidlogistics:fluid_hatch",
-    {
-      "id": "create_dragons_plus:fluid_hatch",
-      "required": false
-    }
+    "fluidlogistics:fluid_hatch"
   ]
 }

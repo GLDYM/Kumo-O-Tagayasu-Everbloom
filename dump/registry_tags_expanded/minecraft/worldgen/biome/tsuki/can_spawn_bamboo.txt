@@ -3,7 +3,7 @@
 # Tag: tsuki:can_spawn_bamboo
 # Entries: 14
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.36194+08:00
+# Generated: 2026-11-05T11:35:59.7366677+08:00
 
 minecraft:bamboo_jungle
 minecraft:birch_forest

@@ -1,0 +1,7 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: c:dyes/indigo
+# Entries: 0
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:42.5375154+08:00
+

@@ -1,0 +1,22 @@
+{
+  "values": [
+    "bakeries:dough_crafting_table_poi",
+    {
+      "id": "chefsdelight:chef_poi",
+      "required": false
+    },
+    {
+      "id": "chefsdelight:cook_poi",
+      "required": false
+    },
+    "kaleidoscope_cookery:stove",
+    "tofucraft:tofu_craftsman",
+    "tsuki:wa_farmer",
+    "tsuki:wa_trader",
+    {
+      "id": "ultramarine:cooking_poi",
+      "required": false
+    }
+  ],
+  "replace": false
+}

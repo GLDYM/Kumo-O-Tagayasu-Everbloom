@@ -1,0 +1,14 @@
+{
+  "values": [
+    "alloyed:steel_block",
+    "cagedmobs:star_infused_netherite_block",
+    "create:zinc_block",
+    "create:brass_block",
+    "create:experience_block",
+    "create_enchantment_industry:super_experience_block",
+    "createutilities:void_steel_block",
+    "tsuki:sakura_diamond_block",
+    "ultramarine:jade_block"
+  ],
+  "replace": false
+}

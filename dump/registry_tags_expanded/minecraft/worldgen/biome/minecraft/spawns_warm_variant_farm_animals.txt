@@ -1,0 +1,28 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:spawns_warm_variant_farm_animals
+# Entries: 21
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:59.5561197+08:00
+
+minecraft:badlands
+minecraft:bamboo_jungle
+minecraft:basalt_deltas
+minecraft:crimson_forest
+minecraft:deep_lukewarm_ocean
+minecraft:desert
+minecraft:eroded_badlands
+minecraft:jungle
+minecraft:lukewarm_ocean
+minecraft:mangrove_swamp
+minecraft:mushroom_fields
+minecraft:nether_wastes
+minecraft:savanna
+minecraft:savanna_plateau
+minecraft:soul_sand_valley
+minecraft:sparse_jungle
+minecraft:stony_peaks
+minecraft:warm_ocean
+minecraft:warped_forest
+minecraft:windswept_savanna
+minecraft:wooded_badlands

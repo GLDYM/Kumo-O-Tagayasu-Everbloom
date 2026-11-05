@@ -1,11 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:fluid
 # Tag: c:honey
-# Entries: 4
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.9978128+08:00
+# Generated: 2026-11-05T11:35:47.4806055+08:00
 
-brewinandchewin:flowing_honey
-brewinandchewin:honey
 create:flowing_honey
 create:honey

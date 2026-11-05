@@ -3,7 +3,7 @@
 # Tag: minecraft:enchantable/crossbow
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.1718103+08:00
+# Generated: 2026-11-05T11:35:54.0937583+08:00
 
 irons_spellbooks:autoloader_crossbow
 iss_magicfromtheeast:repeating_crossbow

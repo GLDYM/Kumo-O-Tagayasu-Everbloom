@@ -1,8 +1,8 @@
 # Registry dump
 # Registry: minecraft:loot_pool_entry_type
 # Minecraft: 1.21.1
-# Entries: 12
-# Generated: 2026-06-18T20:40:59.2543816+08:00
+# Entries: 13
+# Generated: 2026-11-05T11:31:32.9758515+08:00
 
 bookshelf:item_stack raw_id=8 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
 minecraft:alternatives raw_id=5 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
@@ -13,6 +13,7 @@ minecraft:item raw_id=1 class=net.minecraft.world.level.storage.loot.entries.Loo
 minecraft:loot_table raw_id=2 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
 minecraft:sequence raw_id=6 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
 minecraft:tag raw_id=4 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
-moonlight:config_item raw_id=10 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
-moonlight:optional_item raw_id=9 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
-someassemblyrequired:optional_item raw_id=11 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+moonlight:config_item raw_id=11 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+moonlight:optional_item raw_id=10 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+someassemblyrequired:optional_item raw_id=12 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType
+touhou_little_maid_spell:optional_mod_item raw_id=9 class=net.minecraft.world.level.storage.loot.entries.LootPoolEntryType

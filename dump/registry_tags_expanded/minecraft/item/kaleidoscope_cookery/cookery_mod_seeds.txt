@@ -1,11 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: kaleidoscope_cookery:cookery_mod_seeds
-# Entries: 4
+# Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.9430946+08:00
+# Generated: 2026-11-05T11:35:53.4597704+08:00
 
 kaleidoscope_cookery:chili_seed
 kaleidoscope_cookery:lettuce_seed
+kaleidoscope_cookery:tea_seed
 kaleidoscope_cookery:tomato_seed
 kaleidoscope_cookery:wild_rice

@@ -1,11 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: c:sandstone/uncolored_stairs
-# Entries: 4
+# Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:37.806464+08:00
+# Generated: 2026-11-05T11:35:43.0063811+08:00
 
-atmospheric:arid_sandstone_stairs
-atmospheric:smooth_arid_sandstone_stairs
 minecraft:sandstone_stairs
 minecraft:smooth_sandstone_stairs

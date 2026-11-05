@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    " b"
+  ],
+  "key": {
+    "a": {
+      "item": "farmersdelight:rope"
+    },
+    "b": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "immortalers_delight:climbing_rope"
+  }
+}

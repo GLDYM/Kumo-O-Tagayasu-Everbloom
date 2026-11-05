@@ -3,7 +3,7 @@
 # Tag: create:table_cloths
 # Entries: 77
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.9155159+08:00
+# Generated: 2026-11-05T11:35:51.5183915+08:00
 
 create:andesite_table_cloth
 create:black_table_cloth

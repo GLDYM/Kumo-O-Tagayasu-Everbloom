@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:allows_leaf_litter
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:44.5562651+08:00
+
+minecraft:birch_leaves
+minecraft:dark_oak_leaves
+minecraft:oak_leaves
+minecraft:orange_poplar_leaves
+minecraft:red_poplar_leaves
+minecraft:yellow_poplar_leaves

@@ -1,9 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:tools/shear
-# Entries: 2
+# Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.7220159+08:00
+# Generated: 2026-11-05T11:35:51.058776+08:00
 
+alloyed:steel_shears
 minecraft:shears
 tofucraft:tofu_metal_shears

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/world_preset
+# Tag: tectonic:incompatible
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:36:00.1955711+08:00
+
+minecraft:amplified
+minecraft:large_biomes

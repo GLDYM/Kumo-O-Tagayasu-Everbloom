@@ -1,11 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:damage_type
 # Tag: minecraft:bypasses_armor
-# Entries: 61
+# Entries: 58
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.4456152+08:00
+# Generated: 2026-11-05T11:35:46.4017102+08:00
 
-brewinandchewin:cardiac_arrest
 create:crush
 create:fan_fire
 create:fan_lava
@@ -14,9 +13,19 @@ create:mechanical_saw
 danmaku_api:abyssal_danmaku
 danmaku_api:danmaku
 delighto_flight:shock
+immortalers_delight:black_snake
 immortalers_delight:drunk
 immortalers_delight:gas
 immortalers_delight:moon_arrow
+irons_spellbooks:blood_magic
+irons_spellbooks:eldritch_magic
+irons_spellbooks:ender_magic
+irons_spellbooks:evocation_magic
+irons_spellbooks:fire_magic
+irons_spellbooks:holy_magic
+irons_spellbooks:ice_magic
+irons_spellbooks:lightning_magic
+irons_spellbooks:nature_magic
 iss_magicfromtheeast:soul_damage
 iss_magicfromtheeast:soul_weapons_bonus
 iss_magicfromtheeast:spirit_arrow
@@ -33,18 +42,6 @@ l2damagetracker:player_attack-bypass_armor
 l2damagetracker:player_attack-bypass_armor-bypass_cooldown
 l2damagetracker:player_attack-bypass_armor-bypass_cooldown-bypass_magic
 l2damagetracker:player_attack-bypass_armor-bypass_magic
-l2weaponry:mob_attack-bypass_armor-bypass_magic-no_anger
-l2weaponry:mob_attack-bypass_armor-no_anger
-l2weaponry:player_attack-bypass_armor-bypass_magic-no_anger
-l2weaponry:player_attack-bypass_armor-no_anger
-l2weaponry:trident-bypass_armor
-l2weaponry:trident-bypass_armor-bypass_magic
-l2weaponry:trident-bypass_armor-bypass_magic-no_anger
-l2weaponry:trident-bypass_armor-bypass_magic-no_anger-no_projectile
-l2weaponry:trident-bypass_armor-bypass_magic-no_projectile
-l2weaponry:trident-bypass_armor-no_anger
-l2weaponry:trident-bypass_armor-no_anger-no_projectile
-l2weaponry:trident-bypass_armor-no_projectile
 minecraft:cramming
 minecraft:dragon_breath
 minecraft:drown

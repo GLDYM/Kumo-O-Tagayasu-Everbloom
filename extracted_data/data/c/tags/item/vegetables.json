@@ -1,0 +1,29 @@
+{
+  "values": [
+    "kaleidoscope_chinesefood:eggplant",
+    "#c:vegetables/carrot",
+    "#c:vegetables/pepper",
+    "#c:vegetables/potato",
+    "#c:vegetables/chilipepper",
+    "#c:vegetables/tomato",
+    "#c:vegetables/lettuce",
+    {
+      "id": "#c:crops/cabbage",
+      "required": false
+    },
+    "#c:vegetables/cabbage",
+    "#c:vegetables/beetroot",
+    "#c:vegetables/eggplant",
+    "#c:vegetables/onion",
+    "#c:vegetables/radish",
+    "#c:vegetables/pumpkin",
+    "tsuki:imogara",
+    "vintagedelight:cucumber",
+    "vintagedelight:ghost_pepper",
+    "vintagedelight:peanut",
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:beetroot",
+    "youkaishomecoming:cucumber"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:bamboo_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "S S",
+    "PWP",
+    "PPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:bamboo_basket"
+  }
+}

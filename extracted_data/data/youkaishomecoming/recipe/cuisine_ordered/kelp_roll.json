@@ -1,0 +1,13 @@
+{
+  "type": "youkaishomecoming:cuisine_ordered",
+  "base": "youkaishomecoming:hosomaki",
+  "input": [
+    {
+      "tag": "c:vegetables/carrot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:kelp_roll"
+  }
+}

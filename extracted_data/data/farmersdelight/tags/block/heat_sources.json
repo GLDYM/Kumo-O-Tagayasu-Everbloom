@@ -1,0 +1,23 @@
+{
+  "values": [
+    "trailandtales_delight:mud_stove",
+    "ends_delight:end_stove",
+    "farmers_spell:cinderous_stove",
+    "minecraft:magma_block",
+    "minecraft:lava_cauldron",
+    "farmersdelight:stove",
+    "#farmersdelight:tray_heat_sources",
+    "immortalers_delight:ancient_stove",
+    "immortalers_delight:exposed_ancient_stove",
+    "immortalers_delight:weathered_ancient_stove",
+    "immortalers_delight:oxidized_ancient_stove",
+    "immortalers_delight:waxed_ancient_stove",
+    "immortalers_delight:waxed_exposed_ancient_stove",
+    "immortalers_delight:waxed_weathered_ancient_stove",
+    "immortalers_delight:waxed_oxidized_ancient_stove",
+    "kaleidoscope_cookery:stove",
+    "mynethersdelight:nether_stove",
+    "mynethersdelight:bullet_pepper_crate"
+  ],
+  "replace": false
+}

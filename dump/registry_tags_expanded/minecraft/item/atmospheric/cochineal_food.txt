@@ -1,9 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:item
-# Tag: atmospheric:cochineal_food
-# Entries: 2
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.1382164+08:00
-
-atmospheric:dragon_fruit
-atmospheric:golden_dragon_fruit

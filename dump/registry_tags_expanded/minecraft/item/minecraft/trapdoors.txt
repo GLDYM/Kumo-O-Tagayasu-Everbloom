@@ -1,17 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:trapdoors
-# Entries: 63
+# Entries: 89
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.3668583+08:00
+# Generated: 2026-11-05T11:35:54.5541656+08:00
 
-atmospheric:aspen_trapdoor
-atmospheric:grimwood_trapdoor
-atmospheric:kousa_trapdoor
-atmospheric:laurel_trapdoor
-atmospheric:morado_trapdoor
-atmospheric:rosewood_trapdoor
-atmospheric:yucca_trapdoor
+alloyed:steel_trapdoor
 crabbersdelight:palm_trapdoor_bottom
 create:framed_glass_trapdoor
 create:train_trapdoor
@@ -36,6 +30,8 @@ minecraft:jungle_trapdoor
 minecraft:mangrove_trapdoor
 minecraft:oak_trapdoor
 minecraft:oxidized_copper_trapdoor
+minecraft:pale_oak_trapdoor
+minecraft:poplar_trapdoor
 minecraft:spruce_trapdoor
 minecraft:warped_trapdoor
 minecraft:waxed_copper_trapdoor
@@ -44,13 +40,43 @@ minecraft:waxed_oxidized_copper_trapdoor
 minecraft:waxed_weathered_copper_trapdoor
 minecraft:weathered_copper_trapdoor
 mynethersdelight:powdery_trapdoor
-quark:ancient_trapdoor
-quark:azalea_trapdoor
-quark:blossom_trapdoor
+railways:black_locometal_trapdoor
+railways:blue_locometal_trapdoor
+railways:brown_locometal_trapdoor
+railways:chartreuse_locometal_trapdoor
+railways:cyan_locometal_trapdoor
+railways:diorite_locometal_trapdoor
+railways:dripstone_locometal_trapdoor
+railways:granite_locometal_trapdoor
+railways:gray_locometal_trapdoor
+railways:green_locometal_trapdoor
+railways:light_blue_locometal_trapdoor
+railways:light_gray_locometal_trapdoor
+railways:lime_locometal_trapdoor
+railways:limestone_locometal_trapdoor
+railways:locometal_trapdoor
+railways:magenta_locometal_trapdoor
+railways:maroon_locometal_trapdoor
+railways:ochrum_locometal_trapdoor
+railways:olive_green_locometal_trapdoor
+railways:orange_locometal_trapdoor
+railways:pine_green_locometal_trapdoor
+railways:pink_locometal_trapdoor
+railways:purple_locometal_trapdoor
+railways:red_locometal_trapdoor
+railways:royal_blue_locometal_trapdoor
+railways:scorchia_locometal_trapdoor
+railways:sea_green_locometal_trapdoor
+railways:tuff_locometal_trapdoor
+railways:turquoise_locometal_trapdoor
+railways:vermilion_locometal_trapdoor
+railways:white_locometal_trapdoor
+railways:yellow_locometal_trapdoor
 supplementaries:gold_trapdoor
 supplementaries:netherite_trapdoor
 tofucraft:leek_green_trapdoor
 tofucraft:tofustem_trapdoor
+trailandtales_delight:crystal_wood_trapdoor
 youkaishomecoming:brown_cross_framed_sikkui_trap_door
 youkaishomecoming:brown_fine_grid_framed_sikkui_trap_door
 youkaishomecoming:brown_framed_sikkui_trap_door

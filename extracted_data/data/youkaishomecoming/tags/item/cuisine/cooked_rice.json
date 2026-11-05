@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "farmersdelight:cooked_rice",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_cookery:cooked_rice",
+      "required": false
+    },
+    {
+      "id": "#c:foods/cooked_rice",
+      "required": false
+    }
+  ]
+}

@@ -1,9 +1,0 @@
-# Expanded runtime tag dump
-# Registry: minecraft:worldgen/biome
-# Tag: quark:has_serene_blossom_trees
-# Entries: 2
-# Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.2953089+08:00
-
-minecraft:mangrove_swamp
-minecraft:swamp

@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: mynethersdelight:powdery_blocks
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:54.7002008+08:00
+
+mynethersdelight:powdery_block
+mynethersdelight:stripped_powdery_block

@@ -1,0 +1,47 @@
+{
+  "pool": [
+    {
+      "count": 1,
+      "id": "minecraft:efficiency",
+      "max": 5,
+      "weight": 10
+    },
+    {
+      "count": 1,
+      "id": "minecraft:fortune",
+      "max": 10,
+      "weight": 10
+    },
+    {
+      "count": 1,
+      "id": "minecraft:silk_touch",
+      "max": 1,
+      "weight": 10
+    },
+    {
+      "count": 1,
+      "id": "tsuki:anti_fire",
+      "max": 1,
+      "weight": 1
+    },
+    {
+      "count": 1,
+      "id": "tsuki:smash",
+      "max": 1,
+      "weight": 1
+    },
+    {
+      "count": 1,
+      "id": "tsuki:omnitool",
+      "max": 1,
+      "weight": 1
+    },
+    {
+      "count": 1,
+      "id": "tsuki:fresh_food",
+      "max": 10,
+      "weight": 5
+    }
+  ],
+  "rolls": 1
+}

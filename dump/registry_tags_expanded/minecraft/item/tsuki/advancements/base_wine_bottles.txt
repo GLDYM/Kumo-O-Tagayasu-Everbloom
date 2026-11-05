@@ -3,7 +3,7 @@
 # Tag: tsuki:advancements/base_wine_bottles
 # Entries: 15
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.248128+08:00
+# Generated: 2026-11-05T11:35:57.8011219+08:00
 
 tsuki:beer_bottle
 tsuki:brandy_bottle

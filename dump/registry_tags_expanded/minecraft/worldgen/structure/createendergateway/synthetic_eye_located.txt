@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/structure
+# Tag: createendergateway:synthetic_eye_located
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:59.920261+08:00
+
+createendergateway:abandoned_station_end
+createendergateway:abandoned_station_overworld

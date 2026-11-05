@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ancient_seeds": {
+      "conditions": {
+        "items": [
+          {
+            "items": "trailandtales_delight:baked_torchflower_seeds"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "trailandtales_delight:cooking/ancient_popcorn"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ancient_seeds"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "trailandtales_delight:cooking/ancient_popcorn"
+    ]
+  }
+}

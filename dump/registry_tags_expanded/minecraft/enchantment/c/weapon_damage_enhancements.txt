@@ -3,7 +3,7 @@
 # Tag: c:weapon_damage_enhancements
 # Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.5218965+08:00
+# Generated: 2026-11-05T11:35:46.5821272+08:00
 
 minecraft:bane_of_arthropods
 minecraft:impaling

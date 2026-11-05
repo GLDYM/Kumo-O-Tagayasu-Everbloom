@@ -3,7 +3,7 @@
 # Tag: c:foods/raw_ghast
 # Entries: 3
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.9852946+08:00
+# Generated: 2026-11-05T11:35:49.4670204+08:00
 
 kaleidoscope_nether:ghast_tentacle
 mynethersdelight:ghasmati

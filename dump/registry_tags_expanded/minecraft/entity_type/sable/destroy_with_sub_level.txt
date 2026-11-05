@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: sable:destroy_with_sub_level
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:47.1364047+08:00
+
+interiors:big_seat
+kaleidoscope_cookery:sit

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "chest_boat",
+  "ingredients": [
+    {
+      "item": "minecraft:chest"
+    },
+    {
+      "item": "trailandtales_delight:crystal_wood_boat"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "trailandtales_delight:crystal_wood_chest_boat"
+  }
+}

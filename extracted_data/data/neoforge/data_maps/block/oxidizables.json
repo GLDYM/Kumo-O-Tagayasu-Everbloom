@@ -1,0 +1,113 @@
+{
+  "values": {
+    "alloyed:cut_bronze": {
+      "next_oxidation_stage": "alloyed:cut_exposed_bronze"
+    },
+    "alloyed:cut_bronze_slab": {
+      "next_oxidation_stage": "alloyed:cut_exposed_bronze_slab"
+    },
+    "alloyed:cut_bronze_stairs": {
+      "next_oxidation_stage": "alloyed:cut_exposed_bronze_stairs"
+    },
+    "alloyed:cut_exposed_bronze": {
+      "next_oxidation_stage": "alloyed:cut_weathered_bronze"
+    },
+    "alloyed:cut_exposed_bronze_slab": {
+      "next_oxidation_stage": "alloyed:cut_weathered_bronze_slab"
+    },
+    "alloyed:cut_exposed_bronze_stairs": {
+      "next_oxidation_stage": "alloyed:cut_weathered_bronze_stairs"
+    },
+    "alloyed:cut_weathered_bronze": {
+      "next_oxidation_stage": "alloyed:cut_oxidized_bronze"
+    },
+    "alloyed:cut_weathered_bronze_slab": {
+      "next_oxidation_stage": "alloyed:cut_oxidized_bronze_slab"
+    },
+    "alloyed:cut_weathered_bronze_stairs": {
+      "next_oxidation_stage": "alloyed:cut_oxidized_bronze_stairs"
+    },
+    "alloyed:bronze_pillar": {
+      "next_oxidation_stage": "alloyed:exposed_bronze_pillar"
+    },
+    "alloyed:exposed_bronze_pillar": {
+      "next_oxidation_stage": "alloyed:weathered_bronze_pillar"
+    },
+    "alloyed:weathered_bronze_pillar": {
+      "next_oxidation_stage": "alloyed:oxidized_bronze_pillar"
+    },
+    "create:copper_shingle_slab": {
+      "next_oxidation_stage": "create:exposed_copper_shingle_slab"
+    },
+    "create:copper_shingle_stairs": {
+      "next_oxidation_stage": "create:exposed_copper_shingle_stairs"
+    },
+    "create:copper_shingles": {
+      "next_oxidation_stage": "create:exposed_copper_shingles"
+    },
+    "create:copper_tile_slab": {
+      "next_oxidation_stage": "create:exposed_copper_tile_slab"
+    },
+    "create:copper_tile_stairs": {
+      "next_oxidation_stage": "create:exposed_copper_tile_stairs"
+    },
+    "create:copper_tiles": {
+      "next_oxidation_stage": "create:exposed_copper_tiles"
+    },
+    "create:exposed_copper_shingle_slab": {
+      "next_oxidation_stage": "create:weathered_copper_shingle_slab"
+    },
+    "create:exposed_copper_shingle_stairs": {
+      "next_oxidation_stage": "create:weathered_copper_shingle_stairs"
+    },
+    "create:exposed_copper_shingles": {
+      "next_oxidation_stage": "create:weathered_copper_shingles"
+    },
+    "create:exposed_copper_tile_slab": {
+      "next_oxidation_stage": "create:weathered_copper_tile_slab"
+    },
+    "create:exposed_copper_tile_stairs": {
+      "next_oxidation_stage": "create:weathered_copper_tile_stairs"
+    },
+    "create:exposed_copper_tiles": {
+      "next_oxidation_stage": "create:weathered_copper_tiles"
+    },
+    "create:weathered_copper_shingle_slab": {
+      "next_oxidation_stage": "create:oxidized_copper_shingle_slab"
+    },
+    "create:weathered_copper_shingle_stairs": {
+      "next_oxidation_stage": "create:oxidized_copper_shingle_stairs"
+    },
+    "create:weathered_copper_shingles": {
+      "next_oxidation_stage": "create:oxidized_copper_shingles"
+    },
+    "create:weathered_copper_tile_slab": {
+      "next_oxidation_stage": "create:oxidized_copper_tile_slab"
+    },
+    "create:weathered_copper_tile_stairs": {
+      "next_oxidation_stage": "create:oxidized_copper_tile_stairs"
+    },
+    "create:weathered_copper_tiles": {
+      "next_oxidation_stage": "create:oxidized_copper_tiles"
+    },
+    "dramaticdoors:short_copper_door": {
+      "next_oxidation_stage": "dramaticdoors:short_exposed_copper_door"
+    },
+    "dramaticdoors:short_exposed_copper_door": {
+      "next_oxidation_stage": "dramaticdoors:short_weathered_copper_door"
+    },
+    "dramaticdoors:short_weathered_copper_door": {
+      "next_oxidation_stage": "dramaticdoors:short_oxidized_copper_door"
+    },
+    "dramaticdoors:tall_copper_door": {
+      "next_oxidation_stage": "dramaticdoors:tall_exposed_copper_door"
+    },
+    "dramaticdoors:tall_exposed_copper_door": {
+      "next_oxidation_stage": "dramaticdoors:tall_weathered_copper_door"
+    },
+    "dramaticdoors:tall_weathered_copper_door": {
+      "next_oxidation_stage": "dramaticdoors:tall_oxidized_copper_door"
+    }
+  },
+  "replace": false
+}

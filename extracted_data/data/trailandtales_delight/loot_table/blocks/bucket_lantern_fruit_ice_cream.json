@@ -1,0 +1,82 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "trailandtales_delight:bucket_lantern_fruit_ice_cream",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "servings": "4"
+              }
+            }
+          ],
+          "name": "trailandtales_delight:bucket_lantern_fruit_ice_cream"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "trailandtales_delight:bucket_lantern_fruit_ice_cream",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "servings": "0"
+              }
+            }
+          ],
+          "name": "trailandtales_delight:ice_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "trailandtales_delight:bucket_lantern_fruit_ice_cream",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "servings": "1"
+              }
+            }
+          ],
+          "name": "trailandtales_delight:ice_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "trailandtales_delight:bucket_lantern_fruit_ice_cream",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "servings": "2"
+              }
+            }
+          ],
+          "name": "trailandtales_delight:ice_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "trailandtales_delight:bucket_lantern_fruit_ice_cream",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "servings": "3"
+              }
+            }
+          ],
+          "name": "trailandtales_delight:ice_bucket"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "trailandtales_delight:blocks/bucket_lantern_fruit_ice_cream"
+}

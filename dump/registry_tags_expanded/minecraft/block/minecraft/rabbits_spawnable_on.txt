@@ -1,12 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:block
 # Tag: minecraft:rabbits_spawnable_on
-# Entries: 6
+# Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:38.9481099+08:00
+# Generated: 2026-11-05T11:35:45.1674367+08:00
 
-atmospheric:arid_sand
-atmospheric:crustose
 minecraft:grass_block
 minecraft:sand
 minecraft:snow

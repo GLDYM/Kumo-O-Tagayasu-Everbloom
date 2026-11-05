@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "#alloyed:casing",
+    "create:andesite_casing",
+    "create:brass_casing",
+    "create:copper_casing",
+    "create:shadow_steel_casing",
+    "create:refined_radiance_casing",
+    "create:railway_casing",
+    "createprism:andesite_clear_glass_casing",
+    "createprism:brass_clear_glass_casing",
+    "createprism:copper_clear_glass_casing",
+    "createprism:train_clear_glass_casing",
+    "createprism:andesite_glass_casing",
+    "createprism:brass_glass_casing",
+    "createprism:copper_glass_casing",
+    "createprism:train_glass_casing",
+    "createprism:steel_glass_casing",
+    "createprism:steel_clear_glass_casing",
+    "createprism:steel_tinted_glass_casing",
+    "createprism:andesite_illumination_casing",
+    "createprism:brass_illumination_casing",
+    "createprism:copper_illumination_casing",
+    "createprism:train_illumination_casing"
+  ]
+}

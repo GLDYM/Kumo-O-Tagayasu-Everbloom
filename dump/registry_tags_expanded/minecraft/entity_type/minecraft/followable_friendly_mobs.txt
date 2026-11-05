@@ -1,0 +1,31 @@
+# Expanded runtime tag dump
+# Registry: minecraft:entity_type
+# Tag: minecraft:followable_friendly_mobs
+# Entries: 24
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:47.0405044+08:00
+
+minecraft:bee
+minecraft:camel
+minecraft:cat
+minecraft:chicken
+minecraft:cow
+minecraft:donkey
+minecraft:fox
+minecraft:goat
+minecraft:happy_ghast
+minecraft:horse
+minecraft:llama
+minecraft:mule
+minecraft:ocelot
+minecraft:panda
+minecraft:parrot
+minecraft:pig
+minecraft:polar_bear
+minecraft:rabbit
+minecraft:sheep
+minecraft:skeleton_horse
+minecraft:sniffer
+minecraft:strider
+minecraft:villager
+minecraft:wolf

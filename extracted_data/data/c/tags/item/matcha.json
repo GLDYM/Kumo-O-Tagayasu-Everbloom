@@ -1,0 +1,10 @@
+{
+  "values": [
+    "bakeries:matcha_powder",
+    "youkaishomecoming:matcha",
+    {
+      "id": "delightful:matcha",
+      "required": false
+    }
+  ]
+}

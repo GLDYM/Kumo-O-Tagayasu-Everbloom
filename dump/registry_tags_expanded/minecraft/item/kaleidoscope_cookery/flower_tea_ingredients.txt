@@ -1,0 +1,12 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_cookery:flower_tea_ingredients
+# Entries: 5
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.4797839+08:00
+
+minecraft:lilac
+minecraft:peony
+minecraft:pitcher_plant
+minecraft:rose_bush
+minecraft:sunflower

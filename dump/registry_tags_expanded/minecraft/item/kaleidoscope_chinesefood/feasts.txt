@@ -1,0 +1,15 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: kaleidoscope_chinesefood:feasts
+# Entries: 8
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:53.4415151+08:00
+
+kaleidoscope_chinesefood:four_joy_meatballs
+kaleidoscope_chinesefood:red_rice_roll
+kaleidoscope_chinesefood:sichuan_boiled_fish
+kaleidoscope_chinesefood:sichuan_boiled_pork_slices
+kaleidoscope_chinesefood:steamed_rice_rolls
+kaleidoscope_chinesefood:stuffed_eggplant
+kaleidoscope_chinesefood:yellow_croaker_soup
+kaleidoscope_chinesefood:yellow_croaker_tofu_soup

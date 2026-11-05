@@ -3,7 +3,7 @@
 # Tag: handcrafted:metal_benches
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.8106731+08:00
+# Generated: 2026-11-05T11:35:53.1347515+08:00
 
 handcrafted:bench
 handcrafted:frozen_bench

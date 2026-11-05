@@ -3,7 +3,7 @@
 # Tag: minecraft:mangrove_logs
 # Entries: 4
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.2295206+08:00
+# Generated: 2026-11-05T11:35:54.3215419+08:00
 
 minecraft:mangrove_log
 minecraft:mangrove_wood

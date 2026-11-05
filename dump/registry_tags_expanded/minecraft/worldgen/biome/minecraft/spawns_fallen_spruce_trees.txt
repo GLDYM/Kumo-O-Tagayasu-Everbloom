@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:worldgen/biome
+# Tag: minecraft:spawns_fallen_spruce_trees
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:59.5184138+08:00
+
+minecraft:old_growth_pine_taiga
+minecraft:old_growth_spruce_taiga
+minecraft:snowy_taiga
+minecraft:taiga

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "l2complements:eternium_ingot"
+  },
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "result": {
+    "count": 1,
+    "id": "l2complements:eternium_hoe"
+  },
+  "template": {
+    "item": "l2complements:eternal_upgrade_smithing_template"
+  }
+}

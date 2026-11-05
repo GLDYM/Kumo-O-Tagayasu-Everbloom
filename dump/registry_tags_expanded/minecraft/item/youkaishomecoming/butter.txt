@@ -3,6 +3,6 @@
 # Tag: youkaishomecoming:butter
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:44.358332+08:00
+# Generated: 2026-11-05T11:35:58.0287239+08:00
 
 youkaishomecoming:butter

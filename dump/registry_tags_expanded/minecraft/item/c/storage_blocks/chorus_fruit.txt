@@ -1,9 +1,8 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:storage_blocks/chorus_fruit
-# Entries: 2
+# Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.5968278+08:00
+# Generated: 2026-11-05T11:35:50.8153379+08:00
 
 ends_delight:chorus_fruit_crate
-quark:chorus_fruit_block

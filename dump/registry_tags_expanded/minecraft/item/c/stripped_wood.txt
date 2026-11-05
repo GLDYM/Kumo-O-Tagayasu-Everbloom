@@ -1,11 +1,12 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:stripped_wood
-# Entries: 4
+# Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:41.6816842+08:00
+# Generated: 2026-11-05T11:35:50.9499754+08:00
 
-atmospheric:stripped_laurel_wood
 immortalers_delight:stripped_ancient_wood
 immortalers_delight:stripped_himekaido_wood
+minecraft:stripped_pale_oak_wood
+minecraft:stripped_poplar_wood
 vintagedelight:stripped_magic_vine_block

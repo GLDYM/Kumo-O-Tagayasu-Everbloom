@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:dusts/coal"
+    }
+  ],
+  "results": [
+    {
+      "id": "createnuclear:graphene"
+    }
+  ]
+}

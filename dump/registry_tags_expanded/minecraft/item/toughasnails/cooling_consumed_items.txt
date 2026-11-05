@@ -1,0 +1,9 @@
+# Expanded runtime tag dump
+# Registry: minecraft:item
+# Tag: toughasnails:cooling_consumed_items
+# Entries: 2
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:57.7112133+08:00
+
+pineapple_delight:pineapple_ice_cream
+pineapple_delight:pineapple_milk_shake

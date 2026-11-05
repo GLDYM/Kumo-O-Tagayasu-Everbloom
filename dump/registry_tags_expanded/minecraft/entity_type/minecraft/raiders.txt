@@ -1,10 +1,11 @@
 # Expanded runtime tag dump
 # Registry: minecraft:entity_type
 # Tag: minecraft:raiders
-# Entries: 7
+# Entries: 8
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:39.7773784+08:00
+# Generated: 2026-11-05T11:35:47.1026895+08:00
 
+immortalers_delight:scavenger
 minecraft:evoker
 minecraft:illusioner
 minecraft:pillager

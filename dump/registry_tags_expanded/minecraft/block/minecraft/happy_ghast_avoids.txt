@@ -1,0 +1,14 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: minecraft:happy_ghast_avoids
+# Entries: 7
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:44.8938004+08:00
+
+minecraft:cactus
+minecraft:fire
+minecraft:magma_block
+minecraft:pointed_dripstone
+minecraft:sulfur_spike
+minecraft:sweet_berry_bush
+minecraft:wither_rose

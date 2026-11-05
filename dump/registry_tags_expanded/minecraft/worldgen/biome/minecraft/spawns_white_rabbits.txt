@@ -1,12 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:worldgen/biome
 # Tag: minecraft:spawns_white_rabbits
-# Entries: 12
+# Entries: 10
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.2534687+08:00
+# Generated: 2026-11-05T11:35:59.5661537+08:00
 
-atmospheric:kousa_jungle
-atmospheric:snowy_scrubland
 minecraft:frozen_ocean
 minecraft:frozen_peaks
 minecraft:frozen_river

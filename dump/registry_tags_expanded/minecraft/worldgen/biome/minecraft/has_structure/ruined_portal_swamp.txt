@@ -3,7 +3,7 @@
 # Tag: minecraft:has_structure/ruined_portal_swamp
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.1966789+08:00
+# Generated: 2026-11-05T11:35:59.2856978+08:00
 
 minecraft:mangrove_swamp
 minecraft:swamp

@@ -3,6 +3,6 @@
 # Tag: dummmmmmy:nether_mob_heads
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:42.5980467+08:00
+# Generated: 2026-11-05T11:35:52.7317041+08:00
 
 minecraft:piglin_head

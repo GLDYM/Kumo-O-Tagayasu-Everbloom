@@ -1,11 +1,10 @@
 # Expanded runtime tag dump
 # Registry: minecraft:worldgen/world_preset
 # Tag: minecraft:normal
-# Entries: 6
+# Entries: 5
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:45.5804184+08:00
+# Generated: 2026-11-05T11:36:00.1920582+08:00
 
-bits_n_bobs:ponderous_planes
 minecraft:amplified
 minecraft:flat
 minecraft:large_biomes

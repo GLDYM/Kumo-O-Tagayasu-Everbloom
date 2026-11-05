@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "#createdeco:catwalk_stairs",
+    "#createdeco:supports",
+    "create_dragons_plus:fluid_hatch",
+    "#farmersdelight:cabinets",
+    "farmersdelight:wooden_basket",
+    "farmersdelight:bamboo_basket",
+    "supplementaries:book_pile",
+    "supplementaries:book_pile_horizontal",
+    "supplementaries:flower_box",
+    "supplementaries:crank",
+    "supplementaries:pancake",
+    "supplementaries:clock_block",
+    "supplementaries:bellows",
+    "supplementaries:jar",
+    "supplementaries:lunch_basket",
+    "#supplementaries:fine_wood",
+    "supplementaries:speaker_block",
+    "supplementaries:timber_frame",
+    "supplementaries:timber_brace",
+    "supplementaries:timber_cross_brace"
+  ]
+}

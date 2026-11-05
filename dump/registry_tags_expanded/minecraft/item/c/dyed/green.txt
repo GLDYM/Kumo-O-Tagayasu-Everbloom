@@ -1,24 +1,31 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: c:dyed/green
-# Entries: 20
+# Entries: 27
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.761706+08:00
+# Generated: 2026-11-05T11:35:49.011658+08:00
 
 handcrafted:green_cushion
 handcrafted:green_sheet
+minecraft:gray_cushion
 minecraft:green_banner
 minecraft:green_bed
+minecraft:green_bundle
 minecraft:green_candle
 minecraft:green_carpet
 minecraft:green_concrete
 minecraft:green_concrete_powder
+minecraft:green_concrete_slab
+minecraft:green_concrete_stairs
 minecraft:green_glazed_terracotta
+minecraft:green_harness
 minecraft:green_shulker_box
 minecraft:green_stained_glass
 minecraft:green_stained_glass_pane
 minecraft:green_terracotta
 minecraft:green_wool
+minecraft:green_wool_slab
+minecraft:green_wool_stairs
 supplementaries:awning_green
 supplementaries:bunting_green
 supplementaries:candle_holder_green

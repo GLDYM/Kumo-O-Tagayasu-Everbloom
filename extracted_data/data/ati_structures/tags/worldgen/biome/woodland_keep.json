@@ -1,0 +1,46 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:jungle",
+        "minecraft:bamboo_jungle",
+        "minecraft:sparse_jungle",
+        "minecraft:old_growth_spruce_taiga",
+        "minecraft:old_growth_pine_taiga",
+        "minecraft:dark_forest",
+        "minecraft:swamp",
+        "minecraft:mangrove_swamp",
+        "minecraft:forest",
+        {
+            "id": "terralith:rocky_jungle",
+            "required": false
+        },
+        {
+            "id": "terralith:amethyst_rainforest",
+            "required": false
+        },
+        {
+            "id": "terralith:highlands",
+            "required": false
+        },
+        {
+            "id": "terralith:meadow",
+            "required": false
+        },
+        {
+            "id": "#c:is_jungle",
+            "required": false
+        },
+        {
+            "id": "#c:is_taiga",
+            "required": false
+        },
+        {
+            "id": "#minecraft:is_taiga",
+            "required": false
+        },
+        {
+            "id": "#c:forest",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+# Expanded runtime tag dump
+# Registry: minecraft:block
+# Tag: farmers_spell:ice_egg_bush_plantable
+# Entries: 6
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:43.6974745+08:00
+
+minecraft:coarse_dirt
+minecraft:dirt
+minecraft:farmland
+minecraft:grass_block
+minecraft:podzol
+minecraft:snow_block

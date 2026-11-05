@@ -1,11 +1,11 @@
 # Raw resource rule dump summary
 # Mod ID: registry_dumper_3000
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:46.2586159+08:00
+# Generated: 2026-11-05T11:36:00.7256263+08:00
 
 # Rule name: Predicates
 # Side: data/server
 # Source prefix: predicates
-# Files written: 0
+# Files written: 2
 # Stack files written (optional): 0
 # Path collisions observed: 0

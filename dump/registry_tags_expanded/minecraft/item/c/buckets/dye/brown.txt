@@ -3,6 +3,6 @@
 # Tag: c:buckets/dye/brown
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.3415448+08:00
+# Generated: 2026-11-05T11:35:48.0797729+08:00
 
 create_dragons_plus:brown_dye_bucket

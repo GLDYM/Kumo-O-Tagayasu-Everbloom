@@ -2,28 +2,36 @@
 
 ## Feature
 
-- 收集模组
+- 增补模组
   - 狸猫
   - 方块小镇
   - 织影落花
-  - 酒狐速递
   - 加 OEL 统一食用油
   - 原焰帝臻？
-- 等待：
+  - 考虑去掉 tofucraft ，bug太多了
+  - 老吴学
+  - 万象搜索
+- 等待更新：
   - 女仆餐厅
-- 统一：
-  - 玉
-  - 稻米稻谷
-- 改配方
-  - 深渊
+- 统一物品：
+  - 玉：群青的和MFTE的
+- 修改配方
+  - 深渊奏鸣
   - 风土记
   - 神话稿
   - 下届合金dna提取器
   - 突破工作台
   - 魔女4
   - 女仆召唤
-- 材质包：女仆餐厅，byd 网络切换，mezz gui，curios 脚，wisp的jei
-- 澄净花园挑战
+- 材质包：
+  - 女仆餐厅
+  - mezz gui
+  - curios 脚
+  - wisp的jei
+
+- 澄净花园挑战的验证：使用全虚空世界预设，保留所有结构，去除所有地形
+  - [GLDYM/All-Void: Make every dimension become void, inspired by Carpet Sky Addition](https://github.com/GLDYM/All-Void) 
+  - 特征：很多可以通过手搓源方块的材料都不可用，需要通过世界交互或合成获取
 - 日式煮锅的配方改一下，挪出丢失造物集放到后面去。
 - 不详受火者掉落物
 - 生活调味料：美食征途：玩家吃过的事物到达一定数量时候，触发 KubeJS 事件或给予物品。
@@ -36,15 +44,11 @@
 ## PROBLEMS
 
 - 清除已经移除的kubeJS提示
-  - ？怎么只能搜到提示怪
   - 柠檬、菠萝、椰子、橄榄、薄荷少tag
-- crn display 与 crn 不兼容
-- crn的导航仪是黑的
-- artifact的夜视仪会破坏周围其他玩家的gamma覆写
-- 服务端日式生菜卷无法合成
-- 补充依波恩之书翻译键&签到
+- crn display 与 crn 不兼容：考虑降级crn
+- crn的导航仪在特定设备上无法正确渲染：待 beta2测试，考虑降级crn
+- 服务端日式生菜卷无法合成：Tag 问题，待 beta2测试
 - 签到配置爆炸了
-- caged mobs 补充更多数据包兼容
 
 ## 任务
 

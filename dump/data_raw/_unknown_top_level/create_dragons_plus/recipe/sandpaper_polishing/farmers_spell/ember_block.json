@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "farmers_spell:ember_block"
+    }
+  ],
+  "results": [
+    {
+      "id": "farmers_spell:polished_ember_block"
+    }
+  ]
+}

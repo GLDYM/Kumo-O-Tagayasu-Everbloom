@@ -1,0 +1,11 @@
+# Expanded runtime tag dump
+# Registry: minecraft:fluid
+# Tag: mynethersdelight:leteos_booster
+# Entries: 4
+# Minecraft: 1.21.1
+# Generated: 2026-11-05T11:35:47.6028615+08:00
+
+createnuclear:flowing_uranium
+createnuclear:uranium
+minecraft:flowing_lava
+minecraft:lava

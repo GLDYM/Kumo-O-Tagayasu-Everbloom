@@ -3,6 +3,6 @@
 # Tag: c:foods/chocolate
 # Entries: 1
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.8642033+08:00
+# Generated: 2026-11-05T11:35:49.2738836+08:00
 
 create:bar_of_chocolate

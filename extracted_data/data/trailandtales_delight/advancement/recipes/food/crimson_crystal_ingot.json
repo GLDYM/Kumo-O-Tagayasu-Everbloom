@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "crimson_crystal": {
+      "conditions": {
+        "items": [
+          {
+            "items": "trailandtales_delight:crystal_crabapple"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "trailandtales_delight:crimson_crystal_ingot"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "crimson_crystal"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "trailandtales_delight:crimson_crystal_ingot"
+    ]
+  }
+}

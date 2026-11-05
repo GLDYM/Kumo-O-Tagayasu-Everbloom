@@ -3,7 +3,7 @@
 # Tag: c:lava
 # Entries: 2
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:40.0133748+08:00
+# Generated: 2026-11-05T11:35:47.4829813+08:00
 
 minecraft:flowing_lava
 minecraft:lava

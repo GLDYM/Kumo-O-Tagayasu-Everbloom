@@ -1,6 +1,5 @@
 {
-  "replace": false,
   "values": [
-    "quark:forgotten_hat"
+    "createnuclear:default_anti_radiation_helmet"
   ]
 }

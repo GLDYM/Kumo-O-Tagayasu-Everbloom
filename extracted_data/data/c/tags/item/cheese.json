@@ -1,0 +1,10 @@
+{
+  "values": [
+    "bakeries:cheese_cube",
+    "create_bic_bit:young_cheese_wedge",
+    "create_bic_bit:aged_cheese_wedge",
+    "#c:cheese/cheese",
+    "vintagedelight:cheese_slice"
+  ],
+  "replace": false
+}

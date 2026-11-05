@@ -1,9 +1,9 @@
 # Expanded runtime tag dump
 # Registry: minecraft:item
 # Tag: minecraft:non_flammable_wood
-# Entries: 98
+# Entries: 81
 # Minecraft: 1.21.1
-# Generated: 2026-06-18T20:43:43.2360239+08:00
+# Generated: 2026-11-05T11:35:54.3389177+08:00
 
 another_furniture:crimson_bench
 another_furniture:crimson_chair
@@ -69,37 +69,20 @@ mynethersdelight:powdery_slab
 mynethersdelight:powdery_stairs
 mynethersdelight:powdery_trapdoor
 mynethersdelight:stripped_powdery_block
-quark:crimson_bookshelf
-quark:crimson_chest
-quark:crimson_ladder
-quark:crimson_post
-quark:vertical_crimson_planks
-quark:vertical_warped_planks
-quark:warped_bookshelf
-quark:warped_chest
-quark:warped_ladder
-quark:warped_post
-supplementaries:atmospheric/cannon_boat_aspen
-supplementaries:atmospheric/cannon_boat_grimwood
-supplementaries:atmospheric/cannon_boat_kousa
-supplementaries:atmospheric/cannon_boat_laurel
-supplementaries:atmospheric/cannon_boat_morado
-supplementaries:atmospheric/cannon_boat_rosewood
-supplementaries:atmospheric/cannon_boat_yucca
 supplementaries:cannon_boat_acacia
-supplementaries:cannon_boat_bamboo
 supplementaries:cannon_boat_birch
 supplementaries:cannon_boat_cherry
 supplementaries:cannon_boat_dark_oak
 supplementaries:cannon_boat_jungle
 supplementaries:cannon_boat_mangrove
 supplementaries:cannon_boat_oak
+supplementaries:cannon_boat_pale_oak
+supplementaries:cannon_boat_poplar
 supplementaries:cannon_boat_spruce
+supplementaries:cannon_raft_bamboo
 supplementaries:crabbersdelight/cannon_boat_palm
 supplementaries:immortalers_delight/cannon_boat_ancient_wood
 supplementaries:immortalers_delight/cannon_boat_himekaido
-supplementaries:quark/cannon_boat_ancient
-supplementaries:quark/cannon_boat_azalea
-supplementaries:quark/cannon_boat_blossom
 supplementaries:tofucraft/cannon_boat_leek
 supplementaries:tofucraft/cannon_boat_leek_green
+supplementaries:trailandtales_delight/cannon_boat_crystal_wood

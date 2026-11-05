@@ -1,5 +1,7 @@
 {
+  "replace": false,
   "values": [
-    "create_dragons_plus:fluid_hatch"
+    "#createdeco:catwalk_stairs",
+    "#createdeco:supports"
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tsuki:maple_forest",
+    "minecraft:pale_garden",
+    "minecraft:sulfur_caves",
+    "minecraft:dappled_forest"
+  ]
+}
