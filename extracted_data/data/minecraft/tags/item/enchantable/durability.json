@@ -27,8 +27,6 @@
     "l2complements:winterstorm_wand",
     "supplementaries:wrench",
     "supplementaries:slingshot",
-    "tofucraft:zunda_bow",
-    "#tofucraft:fukumame_enchantable",
     {
       "id": "touhou_little_maid_spell:star_shadow_staff",
       "required": false

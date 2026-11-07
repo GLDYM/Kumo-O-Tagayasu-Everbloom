@@ -27,6 +27,14 @@
       "id": "#forge:vegetables",
       "required": false
     },
+    "shadowsandpetals:bean_pod",
+    "shadowsandpetals:cabbage",
+    "shadowsandpetals:chili_pepper",
+    "shadowsandpetals:chinese_cabbage",
+    "shadowsandpetals:corn",
+    "shadowsandpetals:onion",
+    "shadowsandpetals:spinach",
+    "shadowsandpetals:tomato",
     "vintagedelight:cucumber",
     "vintagedelight:ghost_pepper",
     "vintagedelight:peanut"

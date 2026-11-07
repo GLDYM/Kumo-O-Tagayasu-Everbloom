@@ -1,6 +1,0 @@
-{
-  "type": "bagus_lib:dialog",
-  "dialog": "test",
-  "dialog_render_time": 80,
-  "draw_per_tick": 2
-}

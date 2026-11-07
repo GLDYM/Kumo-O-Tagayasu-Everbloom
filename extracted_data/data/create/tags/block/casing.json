@@ -8,6 +8,10 @@
     "create:shadow_steel_casing",
     "create:refined_radiance_casing",
     "create:railway_casing",
+    {
+      "id": "laowu:cat_casing",
+      "required": false
+    },
     "createprism:andesite_clear_glass_casing",
     "createprism:brass_clear_glass_casing",
     "createprism:copper_clear_glass_casing",

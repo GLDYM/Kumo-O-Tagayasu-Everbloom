@@ -1,0 +1,26 @@
+{
+  "type": "laowu:infiltrating",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "type": "laowu:cat_pancake"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 1000,
+      "fluid": "laowu:hissing_gas"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "id": "laowu:cat_ball"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ]
+}

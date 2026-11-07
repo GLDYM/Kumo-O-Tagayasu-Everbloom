@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "alloyed:steel_sword",
+    "laowu:cat_sword",
     "irons_spellbooks:magehunter",
     "irons_spellbooks:keeper_flamberge",
     "irons_spellbooks:spellbreaker",
@@ -26,11 +27,6 @@
     "l2complements:shulkerate_sword",
     "l2complements:sculkium_sword",
     "l2complements:eternium_sword",
-    "tofucraft:tofu_kinu_sword",
-    "tofucraft:tofu_momen_sword",
-    "tofucraft:tofu_solid_sword",
-    "tofucraft:tofu_metal_sword",
-    "tofucraft:tofu_diamond_sword",
     {
       "id": "touhou_little_maid_spell:star_shadow_longsword",
       "required": false

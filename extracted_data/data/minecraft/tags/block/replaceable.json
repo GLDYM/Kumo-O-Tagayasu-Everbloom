@@ -2,8 +2,7 @@
   "values": [
     "farmersdelight:sandy_shrub",
     "supplementaries:ash",
-    "supplementaries:barnacles",
-    "tofucraft:blockleek"
+    "supplementaries:barnacles"
   ],
   "replace": false
 }

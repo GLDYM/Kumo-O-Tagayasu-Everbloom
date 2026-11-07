@@ -143,15 +143,6 @@
     },
     "dramaticdoors:tall_oxidized_copper_door": {
       "waxed": "dramaticdoors:tall_waxed_oxidized_copper_door"
-    },
-    "tofucraft:blocktofuishi": {
-      "waxed": "tofucraft:waxed_tofu_ishi"
-    },
-    "tofucraft:blocktofukinu": {
-      "waxed": "tofucraft:waxed_tofu_kinu"
-    },
-    "tofucraft:blocktofumomen": {
-      "waxed": "tofucraft:waxed_tofu_momen"
     }
   },
   "replace": false

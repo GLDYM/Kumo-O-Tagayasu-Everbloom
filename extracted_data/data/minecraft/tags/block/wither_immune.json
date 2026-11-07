@@ -7,8 +7,7 @@
     "irons_spellbooks:pocket_dimension_portal_frame",
     "moonlight:spawn_box",
     "supplementaries:spring_launcher_arm",
-    "supplementaries:safe",
-    "tofucraft:tofu_bedrock"
+    "supplementaries:safe"
   ],
   "replace": false
 }

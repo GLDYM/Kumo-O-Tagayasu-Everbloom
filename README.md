@@ -24,12 +24,6 @@
     <img src="https://cf.way2muchnoise.eu/title/kumo-o-tagayasu.svg" alt="Curseforge">
 </a>
 
-<br>
-
-![](https://count.getloli.com/@:KOTS?name=%3AKOTS&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
-
-<br>
-
 [简体中文](README.md) / [English](README_EN.md)
 
 </div>
@@ -96,27 +90,6 @@
 如果你在游玩时遇到了影响游戏体验的问题（如游戏内容不当、配方错误、卡顿等），请**务必**在 Github 提出 Issue。若你在 MCMOD 上报你遇到的问题，那么它们很有可能被遭到忽视！
 
 本整合包包含大量自制模组。如遇这些模组本身的 Bug，请至各个模组的 Github Repo 提出 Issue，不要在整合包的 Repo 或 Fork 的原项目提出 Issue！
-
-- 建筑手杖 - 耕云钓月版；
-- 笼中生物 - 耕云钓月版；
-- 魔女的扫帚 - 耕云钓月版；
-- 腌渍乐事 - 耕云钓月版；
-- 哔哩哔哩WaterMedia兼容模组 - 耕云钓月版；
-- Dimension Viewer KOTS；
-- Tofu Create - KOTS；
-- Simple Metals: Tin KOTS
-- 家用附魔图书馆 - 非官方版；
-- 布罗艾：简化；
-- Spyglass Astronomy Neoforge；
-- FTB Ultimine Indicator Unofficial；
-- 生活调味料：美食征程；
-- 更大更好更强的女仆雕像；
-- 超级源方块；
-- 探囊取物；
-- 魔法食事；
-- 深渊奏鸣；
-- 理想境；
-- 月；
 
 ### 📚借物表
 

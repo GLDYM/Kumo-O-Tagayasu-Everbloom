@@ -15,9 +15,6 @@
       "id": "supplementaries:stasis",
       "required": false
     },
-    "tofucraft:batch",
-    "tofucraft:drain",
-    "tofucraft:effect_protection",
     "touhou_little_maid:enders_ender",
     {
       "id": "tsuki:omnitool",

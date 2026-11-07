@@ -21,9 +21,6 @@
       "id": "supplementaries:stick_tomatoes",
       "required": false
     },
-    "tofucraft:soybean",
-    "tofucraft:soybean_nether",
-    "tofucraft:soybean_soul",
     "vintagedelight:oat_crop",
     "vintagedelight:ghost_pepper_crop",
     "vintagedelight:cucumber_crop",

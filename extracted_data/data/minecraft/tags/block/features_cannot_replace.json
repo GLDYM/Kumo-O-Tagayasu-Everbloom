@@ -2,8 +2,6 @@
   "replace": false,
   "values": [
     "minecraft:barrel",
-    "minecraft:ancient_debris",
-    "tofucraft:tofu_bedrock",
-    "tofucraft:tofuchest"
+    "minecraft:ancient_debris"
   ]
 }

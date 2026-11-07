@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "laowu:cat_can"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "results": [
+    {
+      "id": "laowu:intelligence_cat_can"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ]
+}

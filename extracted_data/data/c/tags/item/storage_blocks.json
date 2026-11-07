@@ -39,7 +39,6 @@
     "supplementaries:flint_block",
     "supplementaries:feather_block",
     "supplementaries:sugar_cube",
-    "supplementaries:soap_block",
-    "#c:storage_blocks/soybeans"
+    "supplementaries:soap_block"
   ]
 }

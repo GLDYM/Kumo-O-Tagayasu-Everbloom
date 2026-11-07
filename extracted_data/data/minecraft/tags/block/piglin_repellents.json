@@ -16,7 +16,6 @@
     {
       "id": "supplementaries:candle_holder_soul",
       "required": false
-    },
-    "tofucraft:soybean_soul"
+    }
   ]
 }

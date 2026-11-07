@@ -1,0 +1,22 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "laowu:basic_breeding_box"
+    },
+    {
+      "tag": "create:table_cloths"
+    }
+  ],
+  "results": [
+    {
+      "id": "laowu:intermediate_breeding_box"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ]
+}

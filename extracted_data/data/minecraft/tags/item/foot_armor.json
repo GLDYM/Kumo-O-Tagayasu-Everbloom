@@ -5,6 +5,7 @@
     "create:copper_diving_boots",
     "create:netherite_diving_boots",
     "create:cardboard_boots",
+    "laowu:cat_boots",
     "farmers_spell:gluttony_chef_boots",
     "#irons_spellbooks:armors/boots",
     "#iss_magicfromtheeast:armors/boots",
@@ -14,10 +15,6 @@
     "l2complements:sculkium_boots",
     "l2complements:eternium_boots",
     "majobroom:majo_boots",
-    "tofucraft:tofu_kinu_boots",
-    "tofucraft:tofu_momen_boots",
-    "tofucraft:tofu_metal_boots",
-    "tofucraft:tofu_diamond_boots",
     "#tsuki:samurai_boots",
     "#tsuki:soldier_boots",
     "minecraft:copper_boots"

@@ -5,6 +5,7 @@
     "create:copper_diving_helmet",
     "create:netherite_diving_helmet",
     "create:cardboard_helmet",
+    "laowu:cat_helmet",
     "farmers_spell:gluttony_chef_hat",
     "#irons_spellbooks:armors/helmets",
     "#iss_magicfromtheeast:armors/helmets",
@@ -14,10 +15,6 @@
     "l2complements:sculkium_helmet",
     "l2complements:eternium_helmet",
     "majobroom:majo_hat",
-    "tofucraft:tofu_kinu_helmet",
-    "tofucraft:tofu_momen_helmet",
-    "tofucraft:tofu_metal_helmet",
-    "tofucraft:tofu_diamond_helmet",
     {
       "id": "touhou_little_maid_spell:star_witch_hat",
       "required": false

@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "alloyed:steel_shears",
-    "tofucraft:tofu_metal_shears"
+    "alloyed:steel_shears"
   ]
 }

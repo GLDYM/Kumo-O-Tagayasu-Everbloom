@@ -22,11 +22,6 @@
       "id": "supplementaries:stick_tomatoes",
       "required": false
     },
-    "tofucraft:rice",
-    "tofucraft:soybean",
-    "tofucraft:soybean_nether",
-    "tofucraft:soybean_soul",
-    "tofucraft:leek_crop",
     "tsuki:rice_crop",
     "tsuki:buckwheat_crop",
     "tsuki:cabbage_crop",

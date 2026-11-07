@@ -6,11 +6,7 @@
     "immortalers_delight:gelpitaya_crop",
     "immortalers_delight:alfalfa",
     "immortalers_delight:warped_laurel_crop",
-    "immortalers_delight:oxygrape",
-    "tofucraft:soybean",
-    "tofucraft:soybean_nether",
-    "tofucraft:soybean_soul",
-    "tofucraft:rice"
+    "immortalers_delight:oxygrape"
   ],
   "remove": [
     "kaleidoscope_cookery:rice_crop"

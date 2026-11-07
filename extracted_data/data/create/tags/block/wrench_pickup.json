@@ -31,6 +31,10 @@
       "id": "farmersdelight:bamboo_basket",
       "required": false
     },
+    {
+      "id": "laowu:infiltration_tank",
+      "required": false
+    },
     "create_bb:l_020_rot",
     "create_bb:l_040_rot",
     "create_bb:l_060_rot",
@@ -865,5 +869,6 @@
     "railways:black_hazard_stripes_chevron_on_black",
     "railways:black_hazard_stripes_diagonal_on_white",
     "railways:black_hazard_stripes_chevron_on_white"
-  ]
+  ],
+  "replace": false
 }
