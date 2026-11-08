@@ -244,7 +244,6 @@
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
-				consume_items: true
 				count: 1024L
 				id: "13745C149D071DBF"
 				item: { count: 1, id: "super_source_block:empty_item_source_block" }
@@ -412,7 +411,6 @@
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
-				consume_items: true
 				count: 1024L
 				id: "56CCECA4278B3E82"
 				item: { count: 1, id: "idealland_shrine:skyland_dull_runestone" }

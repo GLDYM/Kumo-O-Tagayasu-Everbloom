@@ -5,7 +5,7 @@
 	group: "31669C96F582CF92"
 	id: "36388A6AEA2B477F"
 	images: [ ]
-	order_index: 3
+	order_index: 1
 	quest_enhance_decorative_lines: [ ]
 	quest_enhance_hidden_dependency_lines: [ ]
 	quest_links: [ ]
@@ -64,82 +64,6 @@
 			]
 			x: -2.5d
 			y: 0.0d
-		}
-		{
-			id: "1EB357E80C1DE3AD"
-			quest_enhance_disable_scroll_paging: false
-			rewards: [{
-				id: "33CE76C6F9A364F6"
-				type: "xp_levels"
-				xp_levels: 10
-			}]
-			size: 1.5d
-			tasks: [{
-				count: 512L
-				id: "3B29B27275A4215F"
-				item: { count: 1, id: "create:andesite_alloy" }
-				type: "item"
-			}]
-			x: -5.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["1EB357E80C1DE3AD"]
-			id: "6CE900F3B017230E"
-			quest_enhance_disable_scroll_paging: false
-			rewards: [{
-				id: "57381A0BD3C0E98D"
-				type: "xp_levels"
-				xp_levels: 10
-			}]
-			size: 1.5d
-			tasks: [
-				{
-					count: 256L
-					id: "2BF6EDE240533FDB"
-					item: { count: 1, id: "create:andesite_casing" }
-					type: "item"
-				}
-				{
-					count: 256L
-					id: "0125FBCC1D8813C4"
-					item: { count: 1, id: "create:shaft" }
-					type: "item"
-				}
-				{
-					count: 256L
-					id: "56796EC6262B1E07"
-					item: { count: 1, id: "create:cogwheel" }
-					type: "item"
-				}
-				{
-					count: 256L
-					id: "7296C72DDA3B307F"
-					item: { count: 1, id: "create:large_cogwheel" }
-					type: "item"
-				}
-			]
-			x: -5.0d
-			y: 2.5d
-		}
-		{
-			dependencies: ["4D99382DDE53E4C7"]
-			id: "2E085F6E8F36F6C5"
-			quest_enhance_disable_scroll_paging: false
-			rewards: [{
-				id: "6D980F23A027FDDD"
-				type: "xp_levels"
-				xp_levels: 10
-			}]
-			size: 1.5d
-			tasks: [{
-				count: 128L
-				id: "2789C57EE78A5EBF"
-				item: { count: 1, id: "create:brass_ingot" }
-				type: "item"
-			}]
-			x: -2.5d
-			y: 2.5d
 		}
 		{
 			dependencies: ["4D99382DDE53E4C7"]
@@ -205,20 +129,6 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["6CE900F3B017230E"]
-			id: "2C03FCA2B16B8B1C"
-			quest_enhance_disable_scroll_paging: false
-			size: 1.5d
-			tasks: [{
-				count: 64L
-				id: "380F775DA3A63749"
-				item: { count: 1, id: "create:precision_mechanism" }
-				type: "item"
-			}]
-			x: -5.0d
-			y: 5.0d
-		}
-		{
 			dependencies: ["3B335F2F37D87985"]
 			id: "619FE19299AC0E38"
 			quest_enhance_disable_scroll_paging: false
@@ -253,7 +163,6 @@
 			y: 2.5d
 		}
 		{
-			dependencies: ["2E085F6E8F36F6C5"]
 			id: "3839C2F3EEA2FC3D"
 			quest_enhance_disable_scroll_paging: false
 			rewards: [{
@@ -370,24 +279,6 @@
 			}]
 			x: 0.0d
 			y: 5.0d
-		}
-		{
-			id: "5092E0A0A84C2C00"
-			quest_enhance_disable_scroll_paging: false
-			rewards: [{
-				id: "7E3CDB9C5CB926D6"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			size: 1.5d
-			tasks: [{
-				count: 64L
-				id: "5A6CC3AF57AD473F"
-				item: { count: 1, id: "create:packager" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: -2.5d
 		}
 	]
 }

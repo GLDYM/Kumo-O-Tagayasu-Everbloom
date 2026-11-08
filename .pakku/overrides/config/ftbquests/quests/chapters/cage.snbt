@@ -2,7 +2,10 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "cage"
-	group: "31669C96F582CF92"
+	group: "05E80218BA2A4D9F"
+	icon: {
+		id: "idealland_shrine:skyland_runestone_13"
+	}
 	id: "6DB018F4F6E98490"
 	images: [ ]
 	order_index: 0
@@ -11,7 +14,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			hide_until_deps_complete: true
+			dependencies: ["15684F5FADFE8F6C"]
 			id: "2B2EF5CF2C51C4FC"
 			quest_enhance_disable_scroll_paging: false
 			rewards: [{
@@ -19,14 +22,14 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			size: 1.5d
+			size: 1.0d
 			tasks: [{
 				id: "71ADFAD6256D9307"
 				item: { count: 1, id: "cagedmobs:mob_cage" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.0d
+			x: -2.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["2B2EF5CF2C51C4FC"]
@@ -43,12 +46,11 @@
 				item: { count: 1, id: "cagedmobs:hopping_mob_cage" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 1.5d
+			x: -2.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["2B2EF5CF2C51C4FC"]
-			hide_until_deps_complete: true
 			id: "3055C4CD3D0320C5"
 			quest_enhance_disable_scroll_paging: false
 			tasks: [{
@@ -56,11 +58,10 @@
 				item: { count: 1, id: "cagedmobs:dna_sampler" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 0.0d
+			x: -5.0d
+			y: -3.0d
 		}
 		{
-			dependencies: ["3055C4CD3D0320C5"]
 			id: "7734888167E430A8"
 			quest_enhance_disable_scroll_paging: false
 			tasks: [{
@@ -68,11 +69,10 @@
 				item: { count: 1, id: "cagedmobs:diamond_dna_sampler" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: -1.5d
+			x: -7.5d
+			y: -4.5d
 		}
 		{
-			dependencies: ["7734888167E430A8"]
 			id: "4C9AC79E0ED97925"
 			quest_enhance_disable_scroll_paging: false
 			tasks: [{
@@ -80,11 +80,10 @@
 				item: { count: 1, id: "cagedmobs:netherite_dna_sampler" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: -3.0d
+			x: 4.5d
+			y: 0.0d
 		}
 		{
-			dependencies: ["2B2EF5CF2C51C4FC"]
 			hide_until_deps_complete: true
 			id: "421D9CF64D6A54B5"
 			quest_enhance_disable_scroll_paging: false
@@ -98,11 +97,10 @@
 				item: { count: 1, id: "cagedmobs:speed_i_upgrade" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: -1.5d
+			x: -5.0d
+			y: -6.0d
 		}
 		{
-			dependencies: ["421D9CF64D6A54B5"]
 			id: "71673A8F473A8C3E"
 			quest_enhance_disable_scroll_paging: false
 			rewards: [{
@@ -116,7 +114,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -3.0d
+			y: -8.5d
 		}
 		{
 			dependencies: ["71673A8F473A8C3E"]
@@ -127,11 +125,10 @@
 				item: { count: 1, id: "cagedmobs:speed_iii_upgrade" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: -3.0d
+			x: 2.5d
+			y: -7.5d
 		}
 		{
-			dependencies: ["2B2EF5CF2C51C4FC"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "57ADD902C93C0D93"
@@ -146,11 +143,10 @@
 				item: { count: 1, id: "cagedmobs:looting_upgrade" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: -1.5d
+			x: -6.0d
+			y: -8.0d
 		}
 		{
-			dependencies: ["2B2EF5CF2C51C4FC"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "4C79361EA6ACB01B"
@@ -165,11 +161,10 @@
 				item: { count: 1, id: "cagedmobs:arrow_upgrade" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 0.0d
+			x: -5.0d
+			y: -9.0d
 		}
 		{
-			dependencies: ["2B2EF5CF2C51C4FC"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "29F18DCE6B588E7F"
@@ -184,11 +179,10 @@
 				item: { count: 1, id: "cagedmobs:cooking_upgrade" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: -1.5d
+			x: -6.0d
+			y: -9.0d
 		}
 		{
-			dependencies: ["2B2EF5CF2C51C4FC"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "73F13137A6956D41"
@@ -203,11 +197,10 @@
 				item: { count: 1, id: "cagedmobs:lightning_upgrade" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: -3.0d
+			x: -7.0d
+			y: -9.0d
 		}
 		{
-			dependencies: ["2B2EF5CF2C51C4FC"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "092B2860A97504A4"
@@ -222,8 +215,175 @@
 				item: { count: 1, id: "cagedmobs:experience_upgrade" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: -5.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				id: "idealland_shrine:basic16rune_13"
+			}
+			id: "15684F5FADFE8F6C"
+			quest_enhance_disable_scroll_paging: false
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "7B5CC99FFE76335F"
+				type: "checkmark"
+			}]
+			x: 0.0d
 			y: 0.0d
+		}
+		{
+			id: "206823B9CAADCF4A"
+			quest_enhance_disable_scroll_paging: false
+			tasks: [{
+				id: "7D2725DCC8517310"
+				item: { count: 1, id: "irons_spellbooks:alchemist_cauldron" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			hide_until_deps_complete: true
+			id: "490F45791069550A"
+			quest_enhance_disable_scroll_paging: false
+			tasks: [{
+				id: "6B83A00C92799D3B"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["78AC1B1140320C11"]
+			hide_until_deps_visible: true
+			id: "3A4EE009A1E9A65F"
+			quest_enhance_disable_scroll_paging: false
+			tasks: [{
+				id: "17B3C2EA1DEC0218"
+				item: { count: 1, id: "l2complements:cursed_droplet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			id: "2192E690E9B72940"
+			quest_enhance_disable_scroll_paging: false
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "25FD501F647370D9"
+				item: { count: 1, id: "idealland_shrine:skyland_runestone_13" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["15684F5FADFE8F6C"]
+			id: "7CD9C8C31F74DBC7"
+			quest_enhance_disable_scroll_paging: false
+			tasks: [{
+				id: "30D5D9948EA9CE97"
+				item: { count: 1, id: "l2complements:soul_fire_charge" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7CD9C8C31F74DBC7"]
+			id: "7622A1658F32DC6A"
+			quest_enhance_disable_scroll_paging: false
+			tasks: [{
+				id: "738E487D5BCA43B8"
+				item: { count: 1, id: "l2complements:soul_flame" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"7622A1658F32DC6A"
+				"4B18CCBC6D30466F"
+			]
+			icon: {
+				id: "l2complements:soul_flame"
+			}
+			id: "326189FEE912943A"
+			quest_enhance_disable_scroll_paging: false
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				id: "69B2B363D5176FD2"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["04B170E38F2600DF"]
+			icon: {
+				id: "minecraft:ghast_spawn_egg"
+			}
+			id: "4B18CCBC6D30466F"
+			quest_enhance_disable_scroll_paging: false
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				id: "66B157F3839449DA"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7734888167E430A8"]
+			id: "04B170E38F2600DF"
+			quest_enhance_disable_scroll_paging: false
+			tasks: [{
+				id: "015D0696D66D8F31"
+				item: { count: 1, id: "cagedmobs:empty_spawn_egg" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			id: "3F554DA0F67068C2"
+			quest_enhance_disable_scroll_paging: false
+			tasks: [{
+				id: "25242C9421DB1ABB"
+				item: { count: 1, id: "minecraft:echo_shard" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "325E6F4ED5030AD2"
+			quest_enhance_disable_scroll_paging: false
+			tasks: [{
+				id: "247C001F2C8D9DA7"
+				item: { count: 1, id: "iss_magicfromtheeast:bottle_of_souls" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "030B81D68BB3E5CD"
+			quest_enhance_disable_scroll_paging: false
+			tasks: [{
+				id: "1CCE4139C27F8290"
+				item: { count: 1, id: "iss_magicfromtheeast:crystallized_soul" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.5d
 		}
 	]
 }

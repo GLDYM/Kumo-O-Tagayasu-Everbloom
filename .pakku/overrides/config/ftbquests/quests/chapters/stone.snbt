@@ -456,18 +456,11 @@
 			dependencies: ["647DF5E10307C2A3"]
 			id: "0E6F3FA0AFB93D0E"
 			quest_enhance_disable_scroll_paging: false
-			tasks: [
-				{
-					id: "62E238526320EC68"
-					item: { count: 1, id: "create:andesite_tunnel" }
-					type: "item"
-				}
-				{
-					id: "7F72CB6C6F0EE2ED"
-					item: { count: 1, id: "create:brass_tunnel" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "7F72CB6C6F0EE2ED"
+				item: { count: 1, id: "create:brass_tunnel" }
+				type: "item"
+			}]
 			x: -7.5d
 			y: 7.5d
 		}
@@ -759,6 +752,49 @@
 			]
 			x: 7.5d
 			y: 1.5d
+		}
+		{
+			dependencies: ["59CA698DEB710538"]
+			id: "2E62046A1BA91F44"
+			quest_enhance_disable_scroll_paging: false
+			tasks: [{
+				id: "11C34F2FB45A8593"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"6EAB5B409DCC7327"
+				"2E62046A1BA91F44"
+			]
+			dependency_requirement: "one_completed"
+			id: "3BD27B5B8FBA692D"
+			quest_enhance_disable_scroll_paging: false
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "3437004247F41DA0"
+				item: { count: 1, id: "idealland_shrine:skyland_runestone_8" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3BD27B5B8FBA692D"]
+			id: "0EE44218BB2EFC74"
+			quest_enhance_disable_scroll_paging: false
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "21DE641329B9C4A9"
+				item: { count: 1, id: "idealland_shrine:skyland_runestone_8" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -8.0d
 		}
 	]
 }

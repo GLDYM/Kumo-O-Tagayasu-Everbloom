@@ -1,17 +1,16 @@
 {
 	chapter.04C201630E99A57E.title: "&aSoymilk Star Visitor"
 	chapter.064BBA5351240699.title: "&eTown Pastry Chef"
-	chapter.094B51E793813ADB.title: "&aAdvanced Chapter Overview"
 	chapter.0D10279D33D8E73E.title: "&eOtherworldly Maids"
 	chapter.0D4186DB4D2C0B87.title: "&aRusty Spell Mage"
 	chapter.0E15DEDCD6B01133.title: "&eFacing the Soil"
-	chapter.1B290DA22A8E2132.title: "&5Gray-Haired Majo"
 	chapter.1FB48F9E7ACA1440.title: "&5Dimension Ripper"
 	chapter.3513B62C05496513.title: "&eStarter Chapter Overview"
 	chapter.36388A6AEA2B477F.title: "&5Veteran Engineer"
 	chapter.49998E6AB0C3764C.title: "&aVenerator of antiquity"
 	chapter.4D403121650ECA4F.title: "&aYokais from Gensokyo"
 	chapter.4E613FC27F99E31B.title: "&bZen of Kumo O Tagayasu"
+	chapter.5602A03FE97A151A.title: "Intro"
 	chapter.62D0845AFC5AA861.title: "&bArchitect's Design Book"
 	chapter.6DB018F4F6E98490.title: "&5Forbidden Knowledge Seeker"
 	chapter.7E134D75B3BBB797.title: "&5Forgemaster of Divine Arms"
@@ -55,8 +54,6 @@
 		"Adds train glass and premium seating."
 	]
 	quest.0AF4E293AC99133D.title: "Trains: Prismatic Shine \\& Create Interiors"
-	quest.0B1E06D6FE08AF46.quest_desc: ["&bGrants Haste II and Strength III."]
-	quest.0B1E06D6FE08AF46.title: "&5Majo's Stockings"
 	quest.0B404897891998BB.quest_desc: ["Udumbara only grow in swamps, but seem to need artificial cultivation to have enough medicinal effect."]
 	quest.0B404897891998BB.title: "Udumbara Leaves"
 	quest.0B601BCA41EB2F50.quest_desc: [
@@ -233,14 +230,6 @@
 		"Mine in the Tofu World or defeat the Tofu Warlord."
 	]
 	quest.1E9C914BA69B260E.title: "Diamond?"
-	quest.1EB357E80C1DE3AD.quest_desc: [
-		"One of the basic alloys used extensively."
-		""
-		"&aV5: Build two cobblestone generators. One → crush → gravel; another → crush → wash → flint + raw iron nuggets. Raw iron nuggets → smelt → iron nuggets. Gravel + flint → press with lava → andesite. Andesite + iron nuggets → mix → Andesite Alloy."
-		""
-		"&aV6: Cobblestone → crush → gravel; Tuff → crush → flint + iron nuggets; Lava shaping module → andesite; Andesite + iron nuggets → heated mixer module. Iron nuggets can be supplied via compression drawer when iron ingots are stored."
-	]
-	quest.1EB357E80C1DE3AD.title: "&6Basic: Andesite Alloy"
 	quest.1EBE8B106E163A71.quest_desc: ["Put tea leaves into a kettle, add water, and set it on the stove to brew."]
 	quest.1EBE8B106E163A71.title: "Brew Tea"
 	quest.207A5281077D33FA.quest_desc: [
@@ -264,8 +253,6 @@
 	quest.24F89412A0CB51C9.quest_desc: ["In semi‑yokai or full yokai form, you can trade with Cirno to obtain this—an inexpensive way to fly."]
 	quest.24F89412A0CB51C9.title: "Transform, become baka!"
 	quest.25367802991C24B4.title: "&6Baguette King"
-	quest.2756DACDBEDA2D65.quest_desc: ["&bGrants Swiftness III and Speed II."]
-	quest.2756DACDBEDA2D65.title: "&5Majo's Boots"
 	quest.27694D4475BD7343.quest_desc: [
 		"The territory mod used here is OPAC. You can claim chunks to protect them or keep them force-loaded."
 		""
@@ -358,7 +345,6 @@
 		""
 		"Normal Mob Cages are mainly used as DNA transfer stations to get spawn eggs, and then use natural spawners to produce entities."
 	]
-	quest.2B2EF5CF2C51C4FC.quest_subtitle: "Chapter Author: PL"
 	quest.2B2EF5CF2C51C4FC.title: "&6Bio Cage"
 	quest.2B791924FEC9F89C.quest_desc: [
 		"@createdeco"
@@ -373,14 +359,6 @@
 		""
 		"&aAnother possible approach: use magic to kill directly."
 	]
-	quest.2C03FCA2B16B8B1C.quest_desc: [
-		"Key components for building mechanical arms and speed controllers."
-		""
-		"&aV5: Void chest → outputs gold ingots, iron nuggets, large + small gears → loop assembly."
-		""
-		"&aV6: Gold ingots → press module; Gold sheets + iron nuggets + gears → precision assembly module, fed by mechanical arm."
-	]
-	quest.2C03FCA2B16B8B1C.title: "&6Basic: Precision Mechanism"
 	quest.2C8F1A99BFB3944B.quest_desc: ["Put miso and tofu together in a wooden barrel, weigh it down with stones, and after some time you'll get Miso Tofu. A distinct flavor."]
 	quest.2C8F1A99BFB3944B.title: "Miso Tofu"
 	quest.2D8639FB72C3D3EF.quest_desc: [
@@ -408,14 +386,6 @@
 	]
 	quest.2DFAB27D6F5F1E6F.quest_desc: ["Probably the best kitchen knife you can get."]
 	quest.2DFAB27D6F5F1E6F.title: "Eggshell Knife"
-	quest.2E085F6E8F36F6C5.quest_desc: [
-		"A more advanced metal ingot."
-		""
-		"&aV5: Void chest → outputs copper + zinc → mix → brass. Blaze Furnace powered by lava."
-		""
-		"&aV6: Copper + zinc → heated mixer. Be careful not to run recipes having iron ingots at the same time."
-	]
-	quest.2E085F6E8F36F6C5.title: "&6Basic: Brass"
 	quest.2F59D8BC41533F8F.quest_desc: [
 		"As a high-oil crop, soy can be pressed for oil."
 		""
@@ -492,6 +462,7 @@
 	quest.39AA9ECE37675256.quest_desc: ["Found in Ancient City loot chests."]
 	quest.39C2070939F19CD6.quest_desc: ["Unique spellbook!"]
 	quest.3A00B7132AF9AA43.quest_desc: ["Has 8 slots and some buffs."]
+	quest.3A4EE009A1E9A65F.quest_desc: ["Burning conversion: various ‘Soul' items (see JEI)."]
 	quest.3A4F161688C43FAC.quest_desc: [
 		"To make bread, you first need yeast. Place three portions of &3whole wheat flour&r and a bottle of water into a fermenting jar. After some time it becomes yeast, which can be collected with a glass bottle."
 		""
@@ -549,19 +520,6 @@
 	quest.3FE1E7E6127BA18A.quest_subtitle: "Chapter Author: PL"
 	quest.3FE1E7E6127BA18A.title: "&6Mixer"
 	quest.405DB820DFD68073.quest_desc: ["Any door!"]
-	quest.405DCF35DAB526A7.quest_desc: [
-		"The advanced chapter is prepared for players unfamiliar with certain mods, guiding their general progression."
-		""
-		"Because they involve hostile mobs or have &6very convoluted&r progression, these mods are somewhat difficult. Skillful use of mods from the basic chapter can reduce the frustration."
-		""
-		"If you find these chapters difficult to complete, try:"
-		"1. Eat more varieties of food to increase max health."
-		"2. Collect more Artifacts to boost special attributes."
-		"3. Try using Create machinery to skip progression."
-		"4. Let Touhou maids help you fight mobs."
-		"5. First complete the &aRusty Spell Mage&r chapter."
-	]
-	quest.405DCF35DAB526A7.title: "&6Advanced Chapter Overview"
 	quest.40D04551E0C26956.quest_desc: ["A better brush!"]
 	quest.40D04551E0C26956.title: "Sniffer Fur Brush"
 	quest.4111E0E454FBAFD4.quest_desc: ["Every mage dreams of close‑quarters combat."]
@@ -623,6 +581,11 @@
 		"Adds Japanese-style building blocks and furniture."
 	]
 	quest.48B5C9817AAB805E.title: "Blocks \\& Interiors: Youkai's Homecoming \\& Sakura"
+	quest.490F45791069550A.quest_desc: [
+		"As the name suggests, toss the raw material into fire or lava for a small chance to convert."
+		"Maybe you'll need automated production of the raw materials?"
+	]
+	quest.490F45791069550A.title: "Burning Conversion"
 	quest.4A182A18C1276104.quest_desc: ["Craft your scrolls at the Scroll Scribing Table. Place ink, paper, and the proper medium from left to right."]
 	quest.4A182A18C1276104.title: "Artificial Scrolls"
 	quest.4A1E7A8BA0DE309D.quest_desc: ["A bit better than the beginner's spellbook!"]
@@ -644,8 +607,6 @@
 	]
 	quest.4C9447A7A4986592.title: "Staff"
 	quest.4C9AC79E0ED97925.quest_desc: ["Overall, Poseidon blocks are time-consuming. It's recommended to build multiple cages and add upgrades."]
-	quest.4D6417BAD3850CC3.quest_desc: ["&bGrants Water Breathing IV and Regeneration IV."]
-	quest.4D6417BAD3850CC3.title: "&5Majo's Hat"
 	quest.4D918C3B0188F47D.quest_desc: [
 		"Place items on it, then use the specified tool to process them."
 		""
@@ -678,12 +639,6 @@
 		"&aWith research into the mysterious soybeans of the Soymilk Star, people realized they are essentially the same as Gensokyo soybeans. They are easier to plant and yield more, gradually replacing the wild variety."
 	]
 	quest.4F95CEB38DA8E48E.title: "Soybeans"
-	quest.5092E0A0A84C2C00.quest_desc: [
-		"A must‑have step in V6 modular automation. V5 can ignore this task."
-		""
-		"&aV6: Build a water‑fed mixer. Saplings + water → mix → paper → press → cardboard → press → cardboard block → mechanical crafting → packager."
-	]
-	quest.5092E0A0A84C2C00.title: "&6Basic: Packager"
 	quest.50BF4BFD465E2D22.quest_desc: ["50% chance to obtain after defeating the King of the Dead."]
 	quest.5164A50FADE97246.quest_desc: [
 		"Sniffers periodically dig up ancient seeds from mossy mud and other blocks. Different biomes yield different seeds."
@@ -850,8 +805,6 @@
 		"&aOne possible approach: use a Maid Altar to summon lightning."
 	]
 	quest.65CC45EBB57D9EDD.quest_desc: ["These spellbooks are very easy to craft. If you're eager to cast, make them for temporary use. &4(There's no order to crafting these four books!)"]
-	quest.66206D4EC6B05931.quest_desc: ["&bGrants Resistance IV and Fire Resistance."]
-	quest.66206D4EC6B05931.title: "&5Majo's Cloth"
 	quest.66ED77F022B4CB4F.quest_desc: ["In the wild you often find yokai houses, inhabited by a Rumia. Inside you can find mysterious meat of unknown origin. Eating it seems to cause strange changes…"]
 	quest.66ED77F022B4CB4F.title: "Strange Meat…"
 	quest.67F1C18AF5B77F6D.quest_desc: ["Similar to the Brewing Barrel, the Distilling Barrel increases alcohol concentration. Requires a heat source below."]
@@ -869,7 +822,6 @@
 		""
 		"Of course, you could really use a dagger for cooking too."
 	]
-	quest.6932BE3FBDD3A55D.quest_subtitle: "Chapter author: Cerasus"
 	quest.6932BE3FBDD3A55D.title: "&6First Knife"
 	quest.69444301F9A3BB33.quest_desc: [
 		"Feels like stripping the Wither's clothes off?"
@@ -904,14 +856,6 @@
 		"Place the blueprint interface next to the schematicannon to supply blocks from the network to the schematicannon."
 	]
 	quest.6C964C63C33879A2.quest_desc: ["Trade with wandering merchants."]
-	quest.6CE900F3B017230E.quest_desc: [
-		"As production lines expand, hand‑crafting transmission parts is no longer viable. Build a basic transmission line."
-		""
-		"&aV5: Tree farm + Andesite Alloy machine. Andesite Alloy → brass tunnel → split: one path → casing; other → cut → shafts → split again. Logs → stripped logs → brass tunnel → split: one path → casing; other → cut → planks → split three ways. Shafts + planks → small gears; shafts + two planks → large gears."
-		""
-		"&aV6: Mechanical crafting → small + large gears; casings via casing machine."
-	]
-	quest.6CE900F3B017230E.title: "&6Basic: Transmission Parts"
 	quest.6DD9A5CE192A43EE.quest_desc: [
 		"Ice spells"
 		""
@@ -1080,7 +1024,6 @@
 	task.3B9E02977C70193A.title: "Iron's Spellbook Overview"
 	task.40D015B483FFFCC8.title: "Eat All Foods"
 	task.41D6D62AC69E22B5.title: "&6Begin the Gensokyo journey"
-	task.49787755A644FF6D.title: "&6Advanced Chapter Overview"
 	task.4BD6914969A28FEA.title: "Visit the Tofu Planet"
 	task.52F20F4E96822FDD.title: "Prismatic Shine"
 	task.544B96EC3546CE12.title: "Immersive Furniture"
@@ -1092,6 +1035,7 @@
 	task.64629E46BD4FB87B.title: "Defeat Reimu"
 	task.670D8AD9096B18B2.title: "Mediums"
 	task.67C522EA11921C5A.title: "Spellbook"
+	task.6B83A00C92799D3B.title: "Burning Conversion"
 	task.6CF22C3C4FF2854B.title: "Touhou Little Maid"
 	task.6E4363EF82988D8A.title: "&4Did you really read it all?"
 	task.713B851932557282.title: "Equipment \\& Trinkets"

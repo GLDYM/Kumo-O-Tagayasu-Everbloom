@@ -45,6 +45,7 @@
 			tasks: [{
 				id: "324DAD27C7150DDD"
 				item: { count: 1, id: "minecraft:andesite" }
+				optional_task: true
 				type: "item"
 			}]
 			x: 2.5d
@@ -292,10 +293,10 @@
 				}
 				{
 					count: 64
-					id: "447E5D048A8B0CB4"
+					id: "3A73C784BC26D4E2"
 					item: {
 						count: 1
-						id: "create_enchantment_industry:blaze_forger"
+						id: "create:blaze_burner"
 					}
 					type: "item"
 				}
@@ -567,15 +568,22 @@
 			dependency_requirement: "one_completed"
 			id: "45A1AA80685FB8CE"
 			quest_enhance_disable_scroll_paging: false
-			rewards: [{
-				count: 4
-				id: "6D49481EA87F1F76"
-				item: {
-					count: 1
-					id: "idealland_shrine:skyland_runestone_10"
+			rewards: [
+				{
+					count: 4
+					id: "6D49481EA87F1F76"
+					item: {
+						count: 1
+						id: "idealland_shrine:skyland_runestone_10"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "09D8313B65BAF4B4"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
@@ -642,6 +650,11 @@
 			dependencies: ["5EB4E64F151E9754"]
 			id: "0C72F32997560798"
 			quest_enhance_disable_scroll_paging: false
+			rewards: [{
+				id: "3E0B32E54D3EB3C2"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [
 				{
 					id: "2F0136E8FCEAE34F"
@@ -665,7 +678,7 @@
 			id: "293EC57465F2CF03"
 			quest_enhance_disable_scroll_paging: false
 			rewards: [{
-				count: 72
+				count: 24
 				id: "21D60BAAA12FF7F4"
 				item: {
 					count: 1

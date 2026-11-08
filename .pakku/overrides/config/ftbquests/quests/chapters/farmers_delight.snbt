@@ -17,7 +17,7 @@
 			can_repeat: false
 			dependencies: ["1F407030BFEAAF17"]
 			icon: {
-				id: "kaleidoscope_end:dragon_tooth_knife"
+				id: "farmersdelight:diamond_knife"
 			}
 			id: "6932BE3FBDD3A55D"
 			quest_enhance_disable_scroll_paging: false
@@ -124,6 +124,9 @@
 		{
 			dependencies: ["3CB8557724F54D36"]
 			hide_until_deps_visible: false
+			icon: {
+				id: "farmersdelight:organic_compost"
+			}
 			id: "3F5D1EBC9926E424"
 			quest_enhance_disable_scroll_paging: false
 			rewards: [{
@@ -136,10 +139,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				count: 4L
-				id: "2D7AF62BD4358850"
-				item: { count: 1, id: "farmersdelight:organic_compost" }
-				type: "item"
+				id: "6FE73D6A7FF594CB"
+				type: "checkmark"
 			}]
 			x: 7.5d
 			y: -1.5d
@@ -148,6 +149,15 @@
 			dependencies: ["3F5D1EBC9926E424"]
 			id: "30D32B907A3C1F53"
 			quest_enhance_disable_scroll_paging: false
+			rewards: [{
+				count: 16
+				id: "04A08DA4B6E4207C"
+				item: {
+					count: 1
+					id: "farmersdelight:rich_soil"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				count: 16L
 				id: "251ADA9DAA5ECDBA"
@@ -183,6 +193,11 @@
 			dependencies: ["1F407030BFEAAF17"]
 			id: "14D663C458A5205E"
 			quest_enhance_disable_scroll_paging: false
+			rewards: [{
+				id: "0F4471CDD6017638"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
 			tasks: [
 				{
 					id: "741D5085A52CCBB5"
@@ -280,7 +295,7 @@
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
-				count: 4096L
+				count: 2049L
 				id: "156411A7B3127823"
 				item: { count: 1, id: "farmersdelight:rich_soil" }
 				type: "item"
@@ -320,6 +335,7 @@
 				"14D663C458A5205E"
 				"7A061E32EA64130C"
 				"4D918C3B0188F47D"
+				"03ABC6D4079671FA"
 			]
 			id: "00E76DAAF3D7575C"
 			quest_enhance_disable_scroll_paging: false
@@ -360,8 +376,8 @@
 					type: "item"
 				}
 			]
-			x: -2.5d
-			y: 4.5d
+			x: -5.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["14D663C458A5205E"]
@@ -396,13 +412,22 @@
 				item: { count: 1, id: "kaleidoscope_cookery:rice" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 7.5d
+			x: 5.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["14D663C458A5205E"]
 			id: "578F3AB34375C233"
 			quest_enhance_disable_scroll_paging: false
+			rewards: [{
+				count: 5
+				id: "74F58CF982EADE37"
+				item: {
+					count: 1
+					id: "vintagedelight:magic_peanut"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "14945D1D837E2043"
 				item: { count: 1, id: "vintagedelight:magic_peanut" }
@@ -461,19 +486,22 @@
 				item: { count: 1, id: "idealland_shrine:skyland_runestone_0" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 6.0d
+			x: 2.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["578F3AB34375C233"]
 			id: "474460D392A11E95"
 			quest_enhance_disable_scroll_paging: false
 			rewards: [{
-				id: "074F441A67E01361"
-				type: "xp_levels"
-				xp_levels: 30
+				id: "755EBD99E19FF822"
+				item: {
+					count: 1
+					id: "idealland_shrine:basic16rune_11"
+				}
+				type: "item"
 			}]
-			shape: "gear"
+			shape: "pentagon"
 			size: 1.5d
 			tasks: [{
 				count: 256L
@@ -483,6 +511,76 @@
 			}]
 			x: 10.0d
 			y: 6.0d
+		}
+		{
+			dependencies: ["77595EE88858AB3E"]
+			id: "6E643DC4A78EFEC9"
+			quest_enhance_disable_scroll_paging: false
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				count: 256L
+				id: "5A834D55D684C77B"
+				item: { count: 1, id: "idealland_shrine:skyland_runestone_0" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1F407030BFEAAF17"]
+			id: "03ABC6D4079671FA"
+			quest_enhance_disable_scroll_paging: false
+			tasks: [{
+				id: "12051A7DE4AA9EDD"
+				item: { count: 1, id: "vintagedelight:salt_dust" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["03ABC6D4079671FA"]
+			id: "6BEFCD5565F0DD61"
+			quest_enhance_disable_scroll_paging: false
+			tasks: [{
+				id: "391D771AA4045274"
+				item: { count: 1, id: "vintagedelight:evaporator" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"03ABC6D4079671FA"
+				"6BEFCD5565F0DD61"
+			]
+			dependency_requirement: "one_completed"
+			id: "4325D38035BB206B"
+			quest_enhance_disable_scroll_paging: false
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				count: 512L
+				id: "3B5CF1E6298C3035"
+				item: { count: 1, id: "vintagedelight:salt_dust" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["77595EE88858AB3E"]
+			id: "4823259093D7917F"
+			quest_enhance_disable_scroll_paging: false
+			tasks: [{
+				id: "28C5EE6FBCDD2ED8"
+				item: { count: 1, id: "idealland_shrine:basic16rune_0" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 11.0d
 		}
 	]
 }
