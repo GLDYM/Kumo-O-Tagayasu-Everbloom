@@ -10241,6 +10241,48 @@
             ]
         },
         {
+            "pakku_id": "Ke2qvIIkSElymGZp",
+            "pakku_links": [
+                "s3GGeq43z05ewZAu"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "jei-plus-plus"
+            },
+            "name": {
+                "curseforge": "JEI++(JEI Plus)"
+            },
+            "id": {
+                "curseforge": "1645653"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "jei_plus_plus-1.0.9-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9491/314/jei_plus_plus-1.0.9-1.21.1.jar",
+                    "id": "9491314",
+                    "parent_id": "1645653",
+                    "hashes": {
+                        "sha1": "a93dba402529532484f87cc38b7e8426cca420ca",
+                        "md5": "5cddda153fb77ed6b387332c03f8346d"
+                    },
+                    "required_dependencies": [
+                        "238222"
+                    ],
+                    "size": 382840,
+                    "date_published": "2026-11-07T11:51:40.250Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "1XrX38CAFcRbtZMN",
             "pakku_links": [
                 "v3BxVq0KSWFa8XNe"
@@ -14769,6 +14811,60 @@
                     "required_dependencies": [],
                     "size": 4009743,
                     "date_published": "2026-11-02T10:21:58.547Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "iGzGzjDh6DOZMMsA",
+            "pakku_links": [
+                "FC0RFinZh5aNtQo4",
+                "VOvevEyBnihiWBDS"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "opticores"
+            },
+            "name": {
+                "modrinth": "Opticores"
+            },
+            "id": {
+                "modrinth": "5zhn04Hy"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Opticores-1.1.1+1.21.x.jar",
+                    "mc_versions": [
+                        "1.21.1",
+                        "1.21.10",
+                        "1.21.11",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5zhn04Hy/versions/sdoLjZoP/Opticores-1.1.1+1.21.x.jar",
+                    "id": "sdoLjZoP",
+                    "parent_id": "5zhn04Hy",
+                    "hashes": {
+                        "sha512": "8bdaa7df0e9e6e12092677d759e553f26478967895d297ccf60c3159b241df7ff48fc0485e81bfbfd09fb52f4e02ddc7cfd34ea206325453c8473e648eb5b899",
+                        "sha1": "21971a7981c1950c67d5c08c7d80ec4fb2f200b9"
+                    },
+                    "required_dependencies": [
+                        "AANobbMI",
+                        "9s6osm5g"
+                    ],
+                    "size": 99490,
+                    "date_published": "2026-10-26T23:37:16.608273Z"
                 }
             ]
         },
