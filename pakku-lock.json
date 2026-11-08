@@ -4266,48 +4266,21 @@
             ]
         },
         {
-            "pakku_id": "zJSlrBRXPoSYNUdP",
+            "pakku_id": "cGCPcHbypI86jaPP",
             "pakku_links": [
                 "Vy12xXWcFO1oKyQL"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "copycats",
-                "modrinth": "copycats"
+                "curseforge": "copycats"
             },
             "name": {
-                "curseforge": "Create: Copycats+",
-                "modrinth": "Create: Copycats+"
+                "curseforge": "Create: Copycats+"
             },
             "id": {
-                "curseforge": "968398",
-                "modrinth": "UT2M39wf"
+                "curseforge": "968398"
             },
             "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "copycats-3.0.11+mc.1.21.1-neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/zLlVJXf0/copycats-3.0.11+mc.1.21.1-neoforge.jar",
-                    "id": "zLlVJXf0",
-                    "parent_id": "UT2M39wf",
-                    "hashes": {
-                        "sha512": "2487a341060483e670a9fe5f5b4994470c6a9b048c7be061451f859b1861eae4cd15dc75e693a4588942b7c07f56f67b689c8fc8a99de93cc8cf531536684c84",
-                        "sha1": "020a921b43794bb2172d48a5e6ec4a4f56a681b9"
-                    },
-                    "required_dependencies": [
-                        "LNytGWDc"
-                    ],
-                    "size": 1805121,
-                    "date_published": "2026-11-08T04:06:32.521717Z"
-                },
                 {
                     "type": "curseforge",
                     "file_name": "copycats-3.0.11-mc.1.21.1-neoforge.jar",
