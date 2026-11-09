@@ -785,6 +785,57 @@
             ]
         },
         {
+            "pakku_id": "7C1QbdoShQWwa2yV",
+            "pakku_links": [
+                "NgavdJOLJvrm1mFR",
+                "W5ub0QpYjoBhnwIn",
+                "zqcVv0YdLbJBS5LM",
+                "Vy12xXWcFO1oKyQL",
+                "fojr8FOlDBshRPou",
+                "GMKfnhLBwWjmy8Nr"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "arcane-kinetics"
+            },
+            "name": {
+                "curseforge": "Arcane Kinetics"
+            },
+            "id": {
+                "curseforge": "1773802"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create-spellbook-1.21.1-neoforge-0.3.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/9369/987/create-spellbook-1.21.1-neoforge-0.3.0.jar",
+                    "id": "9369987",
+                    "parent_id": "1773802",
+                    "hashes": {
+                        "sha1": "83b80eb2c1aa6c37c4b66fc39a044be4bfa4d90d",
+                        "md5": "aaca0233272471dbb154e0a98082ccb8"
+                    },
+                    "required_dependencies": [
+                        "388172",
+                        "309927",
+                        "658587",
+                        "328085",
+                        "1492763",
+                        "855414"
+                    ],
+                    "size": 775967,
+                    "date_published": "2026-10-30T08:24:06.920Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "CIPyh8404K79xcNY",
             "type": "MOD",
             "side": "BOTH",
