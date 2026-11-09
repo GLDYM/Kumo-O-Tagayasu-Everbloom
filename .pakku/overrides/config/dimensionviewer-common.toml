@@ -41,7 +41,7 @@
 		dimInChatName = false
 		#Add a hover effect in chat that will display the source of a dimension
 		#Requires `dimInChatName` to be set to true
-		chatDimHover = true
+		chatDimHover = false
 
 	#Modded Dimension Customization
 	[customization.modded]
