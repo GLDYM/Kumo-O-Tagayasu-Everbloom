@@ -503,7 +503,7 @@
             "side": "CLIENT"
         },
         "jei": {
-            "update_strategy": "LATEST"
+            "update_strategy": "NONE"
         },
         "asteorbar": {
             "side": "CLIENT"
